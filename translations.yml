@@ -1,0 +1,239 @@
+- en: "About this Translation"
+  de: "Zu dieser Übersetzung"
+  fr: "A propos de cette traduction" # machine translation for demonstration purposes
+  es: "Acerca de esta traducción" # machine translation for demonstration purposes
+  it: "A proposito di questa traduzione" # machine translation for demonstration purposes
+  nl: "Over deze vertaling" # machine translation for demonstration purposes
+  pl: "O tym tłumaczeniu" # machine translation for demonstration purposes
+- en: 'in English'
+  de: 'auf englisch'
+  fr: 'en anglais'
+  es: 'en inglés'
+  it: 'in inglese'
+  nl: 'in het Engels'
+  pl: 'w języku angielskim'
+  ar: 'اللغة الإنجليزية'
+  ja: '英語で'
+  ko: '영어에서'
+  ru: 'на английском языке'
+  zh-hans: '英文版本'
+- en: 'All Translations'
+  de: 'Alle Übersetzungen'
+  fr: 'Toutes les traductions'
+  es: 'Todas las traducciones'
+  it: 'Tutte le traduzioni'
+  nl: 'Alle vertalingen'
+  pl: 'Wszystkie tłumaczenia'
+  ar: 'كل الترجمات'
+  ja: 'すべての翻訳'
+  ko: '모든 번역'
+  ru: 'Все переводы'
+  zh-hans: '所有翻译'
+- en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
+  de: 'Diese freiwillige Übersetzung spiegelt möglicherweise nicht genau die Absichten des <a href="$1">englischen Originals</a> wider.'
+  fr: 'Cette traduction volontaire pourrait ne pas refléter fidèlement les intentions de <a href="$1">l’original anglais</a>.' # machine translation for demonstration purposes
+  es: 'Es posible que esta traducción voluntaria no refleje con exactitud las intenciones del <a href="$1">original en inglés</a>.' # machine translation for demonstration purposes
+  it: 'Questa traduzione volontaria potrebbe non riflettere accuratamente le intenzioni dell’<a href="$1">originale inglese</a>.' # machine translation for demonstration purposes
+  nl: 'Deze vrijwillige vertaling weerspiegelt mogelijk niet de bedoelingen van het <a href="$1">Engelse origineel</a>.' # machine translation for demonstration purposes
+  pl: 'To tłumaczenie wolontariusza może nie odzwierciedlać dokładnie intencji <a href="$1">angielskiego oryginału</a>.' # machine translation for demonstration purposes
+- en: 'English updated:'
+  de: 'Englisch aktualisiert:'
+  fr: 'Anglais mis à jour:' # machine translation for demonstration purposes
+  es: 'Inglés actualizado:' # machine translation for demonstration purposes
+  it: 'Inglese aggiornato:' # machine translation for demonstration purposes
+  nl: 'Engels bijgewerkt:' # machine translation for demonstration purposes
+  pl: 'Aktualizacja w języku angielskim:' # machine translation for demonstration purposes
+- en: 'Translation updated:'
+  de: 'Übersetzung aktualisiert:'
+  fr: 'Mise à jour de la traduction:' # machine translation for demonstration purposes
+  es: 'Traducción actualizada:' # machine translation for demonstration purposes
+  it: 'Traduzione aggiornata:' # machine translation for demonstration purposes
+  nl: 'Vertaling bijgewerkt:' # machine translation for demonstration purposes
+  pl: 'Tłumaczenie zaktualizowane:' # machine translation for demonstration purposes
+- en: 'Translation up-to-date with the English version.'
+  de: 'Übersetzung auf dem Stand der englischen Version.'
+  fr: 'Traduction mise à jour avec la version anglaise.' # machine translation for demonstration purposes
+  es: 'Traducción actualizada con la versión inglesa.' # machine translation for demonstration purposes
+  it: 'Traduzione aggiornata con la versione inglese.' # machine translation for demonstration purposes
+  nl: 'Vertaling up-to-date met de Engelse versie.' # machine translation for demonstration purposes
+  pl: 'Tłumaczenie na bieżąco z wersją angielską.' # machine translation for demonstration purposes
+- en: 'English version updated since this translation: <a href="$1">Change log</a>.'
+  de: 'Englische Version aktualisiert seit dieser Übersetzung: <a href="$1">Änderungsprotokoll</a>.'
+  fr: 'Version anglaise mise à jour depuis cette traduction : <a href="$1">Journal des modifications</a>.' # machine translation for demonstration purposes
+  es: 'Versión en inglés actualizada desde esta traducción: <a href="$1">Log de modificaciones</a>.' # machine translation for demonstration purposes
+  it: 'Versione inglese aggiornata dopo questa traduzione: <a href="$1">Cambia log</a>.' # machine translation for demonstration purposes
+  nl: 'Engelse versie bijgewerkt sinds deze vertaling: <a href="$1">Wijzig logboek</a>.' # machine translation for demonstration purposes
+  pl: 'Wersja angielska zaktualizowana od czasu tego tłumaczenia: <a href="$1">Zmień dziennik</a>.' # machine translation for demonstration purposes
+- en: 'Translator:' # The following translations have been done with “Translation” as a basis to avoid non gender-neutral language
+  de: 'Übersetzung:'
+  fr: 'Traduction :' # machine translation for demonstration purposes
+  es: 'Traducción:' # machine translation for demonstration purposes
+  it: 'Traduzione:' # machine translation for demonstration purposes
+  nl: 'Vertaling:' # machine translation for demonstration purposes
+  pl: 'Tłumaczenie:' # machine translation for demonstration purposes
+- en: 'Contributor:' # The following translations have been done with “Contributors” as a basis to avoid non gender-neutral language
+  de: 'Mitwirkende:'
+  fr: 'Collaborateurs :' # machine translation for demonstration purposes
+  es: 'Colaboradores:' # machine translation for demonstration purposes
+  it: 'Collaboratori:' # machine translation for demonstration purposes
+  nl: 'Bijdragers:' # machine translation for demonstration purposes
+  pl: 'Współpracownicy:' # machine translation for demonstration purposes
+- en: 'WAI thanks these translators, and welcomes other <a href="$1">translations</a>.'
+  de: 'WAI dankt diesen Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.'
+  fr: 'WAI remercie ces traducteurs et traductrices, et accueille d’autres <a href="$1">traductions</a>.' # machine translation for demonstration purposes
+  es: 'WAI agradece a estos traductores y traductoras, y da la bienvenida a otras <a href="$1">traducciones</a>.' # machine translation for demonstration purposes
+  it: 'WAI ringrazia questi traduttori e dà il benvenuto ad altre <a href="$1">traduzioni</a>.' # machine translation for demonstration purposes
+  nl: 'WAI dankt deze vertalers en verwelkomt andere <a href="$1">vertalingen</a>.' # machine translation for demonstration purposes
+  pl: 'WAI dziękuje tym tłumaczom i z zadowoleniem przyjmuje inne <a href="$1">tłumaczenia</a>.' # machine translation for demonstration purposes
+- en: 'Skip to Content'
+  de: 'Zum Inhalt springen'
+  fr: 'Passer au contenu'
+  es: 'Ir al contenido'
+  it: 'Vai al contenuto'
+  nl: 'Ga naar de inhoud'
+  pl: 'Przejdź do treści'
+- en: 'Change Text Size or Colors'
+  de: 'Textgröße ändern oder Farben'
+  fr: 'Modifier la taille de texte ou de couleurs'
+  es: 'Cambiar tamaño del texto o colores'
+  it: 'Modifica testo dimensioni o colori'
+  nl: 'Tekstgrootte wijzigen of kleuren'
+  pl: 'Zmień rozmiar tekstu lub kolory'
+- en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'
+  de: 'Strategien, Normen und Ressourcen um das Web für Menschen mit Behinderungen zugänglich zu machen'
+  fr: 'Stratégies, des normes, des ressources pour rendre le Web accessible aux personnes handicapées'
+  es: 'Estrategias, normas, recursos para hacer la Web accesible para personas con discapacidad'
+  it: 'Strategie, standard, risorse per rendere il Web accessibile alle persone con disabilità'
+  nl: 'Normen, strategieën, middelen het Web toegankelijk maken voor mensen met een handicap'
+  pl: 'Strategie, norm, zasoby sieci Web dostępne dla osób niepełnosprawnych'
+- en: 'Strategies, standards, and supporting resources to make the Web accessible to people with disabilities.'
+  de: 'Strategien, Standards und unterstützende Ressourcen um das Web für Menschen mit Behinderungen zugänglich zu machen.'
+  fr: 'Stratégies, normes et justificatifs de ressources pour rendre le Web accessible aux personnes handicapées.'
+  es: 'Estrategias, normas y recursos apoyo para hacer la Web accesible para personas con discapacidad.'
+  it: 'Strategie, standard e le risorse di supporto per rendere il Web accessibile alle persone con disabilità.'
+  nl: 'Strategieën, normen en ondersteunende middelen het Web toegankelijk maken voor mensen met een handicap.'
+  pl: 'Strategie, standardów i wspieranie zasobów, aby udostępnić w sieci Web do osób niepełnosprawnych.'
+- en: 'Menu'
+  de: 'Menü'
+  fr: 'Menu'
+  es: 'Menú'
+  it: 'Dal menu'
+  nl: 'Menu'
+  pl: 'Menu'
+- en: 'Get Involved'
+  de: 'Mitmachen'
+  fr: 'S’impliquer'
+  es: 'Involucrarse'
+  it: 'Essere coinvolti'
+  nl: 'Betrokken raken'
+  pl: 'Weź udział'
+- en: 'About W3C WAI'
+  de: 'Über W3C WAI'
+  fr: 'Sur W3C WAI'
+  es: 'Acerca de W3C WAI'
+  it: 'Circa W3C WAI'
+  nl: 'Over de W3C WAI'
+  pl: 'O W3C WAI'
+- en: 'Search'
+  de: 'Suche'
+  fr: 'Recherche'
+  es: 'Búsqueda de'
+  it: 'Ricerca'
+  nl: 'Zoek'
+  pl: 'Szukaj'
+- en: 'Submit Search'
+  de: 'Suche ausführen'
+  fr: 'Soumettre la recherche'
+  es: 'Enviar búsqueda'
+  it: 'Invia ricerca'
+  nl: 'Zoekopdracht uit voeren'
+  pl: 'Przedłożyć wyszukiwania'
+- en: 'Usage policies apply'
+  de: 'Nutzungsrichtlinien gelten'
+  fr: 'Stratégies d’utilisation s’appliquent'
+  es: 'Aplicarán las políticas de uso'
+  it: 'Applicano criteri di utilizzo'
+  nl: 'Gebruiksbeleid toepassen'
+  pl: 'Zastosować zasady użytkowania'
+- en: 'Copyright'
+  de: 'Copyright'
+  fr: 'Droit d’auteur'
+  es: 'Derechos de autor'
+  it: 'Copyright'
+  nl: 'Copyright'
+  pl: 'Prawa autorskie'
+- en: 'Other Resources in'
+  de: 'Andere Ressourcen in'
+  fr: 'Autres ressources en'
+  es: 'Otros recursos en'
+  it: 'Altre risorse in'
+  nl: 'Andere bronnen in'
+  pl: 'Inne zasoby w'
+  ar: 'موارد أخرى'
+  ja: 'その他のリソース'
+  ko: '다른 리소스에'
+  ru: 'Другие ресурсы'
+  zh-hans: '中的其他资源'
+- en: 'Translating WAI Resources'
+  de: 'WAI-Ressourcen übersetzen'
+  fr: 'Traduire les ressources WAI'
+  es: 'Traducción recursos WAI'
+  it: 'Traduzione delle risorse WAI'
+  nl: 'WAI middelen vertalen'
+  pl: 'Translacja zasobów WAI'
+  ar: 'ترجمة الموارد وأي'
+  ja: 'WAI リソースの翻訳'
+  ko: '와 리소스 번역'
+  ru: 'Перевод ресурсов вай'
+  zh-hans: '翻译 wai 资源'
+- en: 'This page in:'
+  de: 'Diese Seite auf:'
+  fr: 'Cette page en :'
+  es: 'Esta página en:'
+  it: 'Questa pagina in:'
+  nl: 'Deze pagina in:'
+  pl: 'Ta strona:'
+  ar: 'هذه الصفحة في:'
+  ja: 'このページに:'
+  ko: '이 페이지에서:'
+  ru: 'Эта страница на:'
+  zh-hans: '此页面在:'
+- en: 'Show Languages'
+  de: 'Sprachen anzeigen'
+  fr: 'Voir la langues'
+  es: 'Ver idiomas'
+  it: 'Vedi lingue'
+  nl: 'Talen weergeven'
+  pl: 'Pokaż języków'
+  ar: 'إظهار اللغات'
+  ja: '言語を表示します。'
+  ko: '표시 언어'
+  ru: 'Показать языки'
+  zh-hans: '显示语言'
+- en: 'Hide Languages'
+  de: 'Sprachen verstecken'
+  fr: 'Masquer les langues'
+  es: 'Ocultar idiomas'
+  it: 'Nascondere le lingue'
+  nl: 'Verbergen van talen'
+  pl: 'Ukryj Języki'
+  ar: 'إخفاء اللغات'
+  ja: '言語を非表示します。'
+  ko: '언어를 숨기기'
+  ru: 'Скрыть языки'
+  zh-hans: '隐藏语言'
+- en: 'Select Language, Translations'
+  de: 'Sprache auswählen, Übersetzungen'
+  fr: 'Sélectionnez la langue, traductions'
+  es: 'Seleccionar el idioma, las traducciones'
+  it: 'Selezionare lingua, traduzioni'
+  nl: 'Selecteer taal, vertalingen'
+  pl: 'Wybór języka, tłumaczenia'
+  ar: 'حدد اللغة والترجمات'
+  ja: '翻訳の言語を選択します。'
+  ko: '번역 언어 선택'
+  ru: 'Выберите язык, переводы'
+  zh-hans: '选择语言、翻译'
+- en: "Home"
+  de: "Startseite"
+  fr: "Page d'accueil"
