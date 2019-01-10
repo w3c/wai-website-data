@@ -3,9 +3,6 @@
 - en: 'About this Translation'
   de: "Zu dieser Übersetzung"
 
-- en: 'About W3C WAI'
-  de: 'Über W3C WAI'
-
 - en: 'All Translations'
   de: 'Alle Übersetzungen'
 
@@ -16,7 +13,10 @@
 - en: 'Change Text Size or Colors'
   de: 'Textgröße ändern oder Farben'
 
-- en: 'Contributor:'  # gender-neutral
+- en: 'Contributor:'  # gender-neutral, singular
+  de: 'Mitwirkende:'
+
+- en: 'Contributors:'  # gender-neutral, plural
   de: 'Mitwirkende:'
 
 - en: 'Copyright'
@@ -40,9 +40,6 @@
 
 - en: 'Fork &amp; Edit on GitHub'
 
-- en: 'Get Involved'
-  de: 'Mitmachen'
-
 - en: 'Help improve this page'
 
 - en: 'Hide Languages'
@@ -55,8 +52,6 @@
   de: 'auf englisch'
 
 - en: 'Languages/Translations'
-
-- en: 'Level'
 
 - en: 'Main'  # aria-label for main navigation
 
@@ -101,12 +96,6 @@
 - en: 'Submit Search'
   de: 'Suche ausführen'
 
-- en: 'Success Criteria'
-
-- en: 'Techniques'
-
-- en: 'These tutorials provide best-practice guidance on implementing accessibility in different situations. This page combined the following WCAG success criteria and techniques from different conformance levels:'  # will be used in tutorials
-
 - en: 'This is an unpublished draft preview that might include content that is not yet approved. The published website is at <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
 
 - en: 'This page in:'
@@ -126,7 +115,10 @@
 
 - en: 'Translations'
 
-- en: 'Translator:'  # gender-neutral
+- en: 'Translator:'  # gender-neutral, singular
+  de: 'Übersetzung:'
+
+- en: 'Translators:'  # gender-neutral, plural
   de: 'Übersetzung:'
 
 - en: 'WAI thanks these translators, and welcomes other <a href="$1">translations</a>.'
