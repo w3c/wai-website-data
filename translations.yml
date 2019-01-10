@@ -1,6 +1,6 @@
 # Text after the "#" is comments to help with translation. You do not need to translate the text after #.
 
-- en: "About this Translation"
+- en: 'About this Translation'
   de: "Zu dieser Übersetzung"
 
 - en: 'About W3C WAI'
@@ -11,16 +11,24 @@
 
 - en: 'Back to Top'
 
+- en: 'Breadcrumb'  # aria-label for breadcrumb navigation
+
 - en: 'Change Text Size or Colors'
   de: 'Textgröße ändern oder Farben'
 
-- en: 'Contributor:' # gender-neutral
+- en: 'Contributor:'  # gender-neutral
   de: 'Mitwirkende:'
 
 - en: 'Copyright'
   de: 'Copyright'
 
+- en: 'Different View'
+
+- en: 'Disable Audio Description'
+
 - en: 'E-mail'
+
+- en: 'Enable Audio Description'
 
 - en: 'English updated:'
   de: 'Englisch aktualisiert:'
@@ -28,7 +36,9 @@
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'
   de: 'Englische Version aktualisiert seit dieser Übersetzung: <a href="$1">Änderungsprotokoll</a>.'
 
-- en: 'Fork & Edit on GitHub'
+- en: 'External Site'
+
+- en: 'Fork &amp; Edit on GitHub'
 
 - en: 'Get Involved'
   de: 'Mitmachen'
@@ -38,34 +48,46 @@
 - en: 'Hide Languages'
   de: 'Sprachen verstecken'
 
-- en: "Home"
+- en: 'Home'
   de: "Startseite"
 
 - en: 'in English'
   de: 'auf englisch'
-  
-- en: 'Languages/Translations' 
+
+- en: 'Languages/Translations'
+
+- en: 'Level'
+
+- en: 'Main'  # aria-label for main navigation
 
 - en: 'Menu'
   de: 'Menü'
 
 - en: 'New GitHub Issue'
 
+- en: 'Other Pages in this Resource'  # aria-label for certain secondary navigations (might be deprecated eventually)
+
 - en: 'Other Resources in'
   de: 'Andere Ressourcen in'
 
-- en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list @@ or via GitHub.'
+- en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:{$1?subject=%s) or via GitHub.'  # $1 is replaced by the feedback email address. %s by the email subject.
+
+- en: 'Previous/Next Page'  # aria-label for prev/next page
 
 - en: 'Reviewer' #gender-neutral
 
 - en: 'Search'
   de: 'Suche'
 
+- en: 'Secondary'  # aria-label for secondary navigation
+
 - en: 'Select Language, Translations'
   de: 'Sprache auswählen, Übersetzungen'
 
 - en: 'Show Languages'
   de: 'Sprachen anzeigen'
+
+- en: 'Skip Link and Language Selector'  # aria-label for top navigation
 
 - en: 'Skip to Content'
   de: 'Zum Inhalt springen'
@@ -78,6 +100,14 @@
 
 - en: 'Submit Search'
   de: 'Suche ausführen'
+
+- en: 'Success Criteria'
+
+- en: 'Techniques'
+
+- en: 'These tutorials provide best-practice guidance on implementing accessibility in different situations. This page combined the following WCAG success criteria and techniques from different conformance levels:'  # will be used in tutorials
+
+- en: 'This is an unpublished draft preview that might include content that is not yet approved. The published website is at <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
 
 - en: 'This page in:'
   de: 'Diese Seite auf:'
@@ -94,8 +124,14 @@
 - en: 'Translation up-to-date with the English version.'
   de: 'Übersetzung auf dem Stand der englischen Version.'
 
-- en: 'Translator:' # gender-neutral
+- en: 'Translations'
+
+- en: 'Translator:'  # gender-neutral
   de: 'Übersetzung:'
 
 - en: 'WAI thanks these translators, and welcomes other <a href="$1">translations</a>.'
   de: 'WAI dankt diesen Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.'
+
+- en: '[put comment here...]'  # help improve this page email template for all email addresses
+
+- en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.'  # help improve this page email template when wai@w3.org is used as the feedback email address
