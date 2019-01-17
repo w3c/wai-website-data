@@ -1,28 +1,28 @@
-# Text after the "#" is comments to help with translation. You do not need to translate the text after #.
+# Text after the "#" is comments to help with translation. Please do not change any text after the #.
 
-- en: 'About this Translation'
+- en: 'About this Translation'   # heading
   de: 'Zu dieser Übersetzung'
 
-- en: 'All Translations'
+- en: 'All Translations'   # link
   de: 'Alle Übersetzungen'
 
 - en: 'Back to Top'
 
-- en: 'Breadcrumb'  # aria-label for breadcrumb navigation
+- en: 'Breadcrumb'   # aria-label for breadcrumb navigation
 
 - en: 'Change Text Size or Colors'
   de: 'Textgröße ändern oder Farben'
 
-- en: 'Contributor:'  # gender-neutral, singular
+- en: 'Contributor:'   # gender-neutral, singular
   de: 'Mitwirkende:'
 
-- en: 'Contributors:'  # gender-neutral, plural
+- en: 'Contributors:'   # gender-neutral, plural
   de: 'Mitwirkende:'
 
 - en: 'Copyright'
   de: 'Copyright'
 
-- en: 'Different View'
+- en: 'Different View'   # alt text for icon that indicates link goes to page without WAI site navigation
 
 - en: 'Disable Audio Description'
 
@@ -36,14 +36,18 @@
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'
   de: 'Englische Version aktualisiert seit dieser Übersetzung: <a href="$1">Änderungsprotokoll</a>.'
 
-- en: 'External Site'
+- en: 'External Site'   # alt text for icon that indicates link goes off WAI site
 
 - en: 'Fork &amp; Edit on GitHub'
 
-- en: 'Help improve this page'
+- en: 'Help improve this page'   # heading for box with links to e-mail and GitHub
 
-- en: 'Hide Languages'
+- en: 'Hide'   # for show/hide toggle
+
+- en: 'Hide Languages'     # for show/hide languages
   de: 'Sprachen verstecken'
+
+- en: 'Hide Options'     # for show/hide options
 
 - en: 'Home'
   de: 'Startseite'
@@ -51,38 +55,42 @@
 - en: 'in English'
   de: 'auf englisch'
 
-- en: 'Languages/Translations'
+- en: 'Languages/Translations'   # if "/" doesn't work well, could use a comma (,)
 
-- en: 'Main'  # aria-label for main navigation
+- en: 'Main'   # aria-label for main navigation
 
 - en: 'Menu'
   de: 'Menü'
 
 - en: 'New GitHub Issue'
 
-- en: 'Other Pages in this Resource'  # aria-label for certain secondary navigations (might be deprecated eventually)
+- en: 'Other Pages in this Resource'   # aria-label for certain secondary navigations
 
-- en: 'Other Resources in'
+- en: 'Other Resources in'   # for "Other Resource in [language], e.g,: "Other Resources in English"
   de: 'Andere Ressourcen in'
 
-- en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:{$1?subject=%s) or via GitHub.'  # $1 is replaced by the feedback email address. %s by the email subject.
+- en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:{$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:{$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
 
-- en: 'Previous/Next Page'  # aria-label for prev/next page
+- en: 'Previous/Next Page'   # aria-label for prev/next page
 
-- en: 'Reviewer' #gender-neutral
+- en: 'Reviewer' #gender-neutral, singular
+
+- en: 'Reviewers' #gender-neutral, plural
 
 - en: 'Search'
   de: 'Suche'
 
-- en: 'Secondary'  # aria-label for secondary navigation
+- en: 'Secondary'   # aria-label for secondary navigation
 
-- en: 'Select Language, Translations'
+- en: 'Select Language, Translations'   # for show/hide toggle
   de: 'Sprache auswählen, Übersetzungen'
 
-- en: 'Show Languages'
+- en: 'Show Customization, Languages, Translations'   # for show/hide toggle
+
+- en: 'Show Languages'   # for show/hide toggle
   de: 'Sprachen anzeigen'
 
-- en: 'Skip Link and Language Selector'  # aria-label for top navigation
+- en: 'Skip Link and Language Selector'   # aria-label for top navigation [@@ this will probably change…]
 
 - en: 'Skip to Content'
   de: 'Zum Inhalt springen'
@@ -90,21 +98,21 @@
 - en: 'Strategies, standards, and supporting resources to make the Web accessible to people with disabilities.'
   de: 'Strategien, Standards und unterstützende Ressourcen um das Web für Menschen mit Behinderungen zugänglich zu machen.'
 
-- en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'
-  de: 'Strategien, Normen und Ressourcen um das Web für Menschen mit Behinderungen zugänglich zu machen'
+- en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'   # tagline in header, shorter version of previous line, please make as short as feasible -- even if not grammatically correct (e.g., no "and" after "Strategies, standards,")
+  de: 'Strategien, Normen, Ressourcen um das Web für Menschen mit Behinderungen zugänglich zu machen'
 
 - en: 'Submit Search'
   de: 'Suche ausführen'
 
 - en: 'This is an unpublished draft preview that might include content that is not yet approved. The published website is at <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
 
-- en: 'This page in:'
+- en: 'This page in:'   # for "This page in [language], e.g,: "This page in English"
   de: 'Diese Seite auf:'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
   de: 'Diese freiwillige Übersetzung spiegelt möglicherweise nicht genau die Absichten des <a href="$1">englischen Originals</a> wider.'
 
-- en: 'Translating WAI Resources'
+- en: 'Translating WAI Resources'   # page title
   de: 'WAI-Ressourcen übersetzen'
 
 - en: 'Translation updated:'
@@ -115,15 +123,15 @@
 
 - en: 'Translations'
 
-- en: 'Translator:'  # gender-neutral, singular
+- en: 'Translator:'   # gender-neutral, singular
   de: 'Übersetzung:'
 
-- en: 'Translators:'  # gender-neutral, plural
+- en: 'Translators:'   # gender-neutral, plural
   de: 'Übersetzung:'
 
 - en: 'WAI thanks these translators, and welcomes other <a href="$1">translations</a>.'
   de: 'WAI dankt diesen Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.'
 
-- en: '[put comment here...]'  # help improve this page email template for all email addresses
+- en: '[put comment here...]'   # for e-mail template
 
-- en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.'  # help improve this page email template when wai@w3.org is used as the feedback email address
+- en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
