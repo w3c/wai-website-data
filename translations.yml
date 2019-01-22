@@ -2,136 +2,324 @@
 
 - en: 'About this Translation'   # heading
   de: 'Zu dieser Übersetzung'
+  nl: 'Over deze vertaling'
+  el: Σχετικά με αυτή τη Μετάφραση'
+  zh-hans: '关于该翻译'
 
 - en: 'All Translations'   # link
   de: 'Alle Übersetzungen'
+  nl: 'Alle vertalingen'
+  el: 'Όλες οι Μεταφράσεις'
+  zh-hans: '所有翻译'
 
 - en: 'Back to Top'
+  de: @@
+  nl: 'Terug naar het begin'
+  el: 'Επιστροφή στην Κορυφή'
+  zh-hans: '回到顶部'
 
 - en: 'Breadcrumb'   # aria-label for breadcrumb navigation
+  de: @@
+  nl: 'Kruimelpad'
+  el: 'Πλοήγηση'
+  zh-hans: '面包屑导航'
 
 - en: 'Change Text Size or Colors'
   de: 'Textgröße ändern oder Farben'
+  nl: 'Verander tekstgrootte of -kleur'
+  el: 'Αλλαγή Μεγέθους Κειμένου ή Χρωμάτων'
+  zh-hans: '更改文本大小或颜色'
 
 - en: 'Contributor:'   # gender-neutral, singular
   de: 'Mitwirkende:'
+  nl: 'Medewerk(st)er:'
+  el: 'Συνεισφέρων:'
+  zh-hans: '贡献者：'
 
 - en: 'Contributors:'   # gender-neutral, plural
   de: 'Mitwirkende:'
+  nl: 'Medewerk(st)ers:'
+  el: 'Συνεισφέροντες'
+  zh-hans: '贡献者们：'
 
 - en: 'Copyright'
   de: 'Copyright'
+  nl: 'Copyright'   # only in a copyright statement, before a © or a year
+  el: 'Πνευματική Ιδιοκτησία'
+  zh-hans: '版权'
 
 - en: 'Different View'   # alt text for icon that indicates link goes to page without WAI site navigation
+  de: @@
+  nl: 'Andere weergave'
+  el: 'Διαφορετική Προβολή'
+  zh-hans: '切换视图'
 
 - en: 'Disable Audio Description'
+  de: @@
+  nl: 'Audiobeschrijvingen uitzetten'
+  el: 'Απενεργοποιήστε την Περιγραφή Ήχου'
+  zh-hans: '禁用音频描述'
 
 - en: 'E-mail'
+  de: @@
+  nl: 'E-mail'
+  el: 'E-mail'
+  zh-hans: '邮件'
 
 - en: 'Enable Audio Description'
+  de: @@
+  nl: 'Audiobeschrijvingen aanzetten'
+  el: 'Ενεργοποιήστε την Περιγραφή Ήχου'
+  zh-hans: '启用音频描述'
 
 - en: 'English updated:'
   de: 'Englisch aktualisiert:'
+  nl: 'Engels bijgewerkt:'
+  el: 'Η αγγλική έκδοση ενημερώθηκε'
+  zh-hans: '英文版本更新：'
 
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'
   de: 'Englische Version aktualisiert seit dieser Übersetzung: <a href="$1">Änderungsprotokoll</a>.'
+  nl: 'Engelse versie bijgewerkt sinds deze vertaling: <a href="$1">changelog</a>.'
+  el: 'Η αγγλική έκδοση ενημερώθηκε από τη μετάφραση: <a href="$1">Change log</a>.'
+  zh-hans: '自该翻译版之后的英文版本更新：<a href="$1">修改日志</a>.'
 
 - en: 'External Site'   # alt text for icon that indicates link goes off WAI site
+  de: @@
+  nl: 'Externe site'
+  el: 'Εξωτερικός Ιστοχώρος'
+  zh-hans: '外部站点'
 
 - en: 'Fork &amp; Edit on GitHub'
+  de: @@
+  nl: 'Fork &amp; edit op GitHub'
+  el: 'Fork και Επεξεργασία στο Github'
+  zh-hans: '派生到本地，在Github上编辑'
 
 - en: 'Help improve this page'   # heading for box with links to e-mail and GitHub
+  de: @@
+  nl: 'Help deze pagina te verbeteren'
+  el: 'Βοήθεια για τη βελτίωση αυτού του ιστότοπου'
+  zh-hans: '帮助提升本页'
 
 - en: 'Hide'   # for show/hide toggle
+  de: @@
+  nl: 'Verbergen'
+  el: 'Απόκρυψη'
+  zh-hans: '隐藏'
 
 - en: 'Hide Languages'     # for show/hide languages
   de: 'Sprachen verstecken'
+  nl: 'Talen verbergen'
+  el: 'Απόκρυψη Γλωσσών'
+  zh-hans: '隐藏语言'
 
 - en: 'Hide Options'     # for show/hide options
+  de: @@
+  nl: 'Opties verbergen'
+  el: 'Απόκρυψη Επιλογών'
+  zh-hans: '隐藏选项'
 
 - en: 'Home'
   de: 'Startseite'
+  nl: 'Thuispagina'
+  el: 'Αρχική'
+  zh-hans: '首页'
 
 - en: 'in English'
   de: 'auf englisch'
+  nl: 'in het Engels'
+  el: 'στα Αγγλικά'
+  zh-hans: '英文'
 
 - en: 'Languages/Translations'   # if "/" doesn't work well, could use a comma (,)
+  de: @@
+  nl: 'Talen/vertalingen'
+  el: 'Γλώσσες / Μεταφράσεις'
+  zh-hans: '语言/翻译'
 
 - en: 'Main'   # aria-label for main navigation
+  de: @@
+  nl: 'Hoofdmenu'
+  el: 'Κύριες ενότητες'
+  zh-hans: '主导航'
 
 - en: 'Menu'
   de: 'Menü'
+  nl: 'Menu'
+  el: 'Μενού'
+  zh-hans: '菜单'
 
 - en: 'New GitHub Issue'
+  de: @@
+  nl: 'Nieuwe issue op GitHub'
+  el: 'Νέο θέμα GitHub' 
+  zh-hans: '创建新的Github问题'
 
 - en: 'Other Pages in this Resource'   # aria-label for certain secondary navigations
+  de: @@
+  nl: "Andere pagina's in deze bron"
+  el: 'Άλλες Ιστοσελίδες στον Πόρο αυτόν'
+  zh-hans: '此资源中的其他页面'
 
 - en: 'Other Resources in'   # for "Other Resource in [language], e.g,: "Other Resources in English"
   de: 'Andere Ressourcen in'
+  nl: 'Andere bronnen in het'   # "het" works for names of languages, not necessarily for other things
+  el: 'Άλλοι πόροι στη γλώσσα'
+  zh-hans: '其他语言资源：'
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:{$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:{$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
+  de: @@
+  nl: 'Deel alstublieft uw ideeën, suggesties of commentaar per e-mail aan de openbare, gearchiveerde mailinglijst [$1](mailto:{$1?subject=%s) of via GitHub.'
+  el: 'Παρακαλούμε, μοιραστείτε τις ιδέες, προτάσεις ή τα σχόλιά σας μέσω ηλεκτρονικού ταχυδρομείου στη δημόσια λίστα [$1](mailto:{$1?subject=%s) ή μέσω του Github.' 
+  zh-hans: '请通过电子邮件将您的想法、建议或意见分享到公共存档列表[$1](mailto:{$1?subject=%s)或通过GitHub提交意见'
 
 - en: 'Previous/Next Page'   # aria-label for prev/next page
+  de: @@
+  nl: 'Vorige/volgende pagina'
+  el: 'Προηγούμενη / Επόμενη Σελίδα'
+  zh-hans: '前一页/下一页'
 
 - en: 'Reviewer' #gender-neutral, singular
+  de: @@
+  nl: 'Recensent'
+  el: 'Αξιολογητής'
+  zh-hans: '审阅者'
 
 - en: 'Reviewers' #gender-neutral, plural
+  de: @@
+  nl: 'Recensenten'
+  el: 'Αξιολογητές'
+  zh-hans: '审阅者们'
 
 - en: 'Search'
   de: 'Suche'
+  nl: 'Zoeken'
+  el: 'Αναζήτηση'
+  zh-hans: '搜索'
 
 - en: 'Secondary'   # aria-label for secondary navigation
+  de: @@
+  nl: 'Secundair'
+  el: 'Δευτερεύον'
+  zh-hans: '二级导航'
 
 - en: 'Select Language, Translations'   # for show/hide toggle
   de: 'Sprache auswählen, Übersetzungen'
+  nl: 'Taal, vertalingen kiezen'
+  el: 'Επιλέξτε Γλώσσα, Μεταφράσεις'
+  zh-hans: '选择语言，翻译'
 
 - en: 'Show Customization, Languages, Translations'   # for show/hide toggle
+  de: @@
+  nl: 'Aanpassingen, talen, vertalingen tonen'
+  el: 'Εμφάνιση Παραμετροποίησης, Γλωσσών, Μεταφράσεων'
+  zh-hans: '显示定制，语言，翻译'
 
 - en: 'Show Languages'   # for show/hide toggle
   de: 'Sprachen anzeigen'
+  nl: 'Talen tonen'
+  el: 'Εμφάνιση Γλωσσών'
+  zh-hans: '显示语言'
 
 - en: 'Skip Link and Language Selector'   # aria-label for top navigation [@@ this will probably change…]
+  de: @@
+  nl: 'Spring-link en taalkeuze'
+  el: 'Παράλειψη Συνδέσμου και Επιλογής Γλώσσας'
+  zh-hans: '跳过链接和语言选择器'
 
 - en: 'Skip to Content'
   de: 'Zum Inhalt springen'
+  nl: 'Spring naar hoofdtekst'
+  el: 'Μετάβαση στο Κύριο Περιεχόμενο'
+  zh-hans: '跳到内容'
 
 - en: 'Strategies, standards, and supporting resources to make the Web accessible to people with disabilities.'
   de: 'Strategien, Standards und unterstützende Ressourcen um das Web für Menschen mit Behinderungen zugänglich zu machen.'
+  nl: 'Strategieën, standaarden en ondersteunende middelen om het Web toegankelijk te maken voor mensen met handicaps.'
+  el: 'Στρατηγικές, πρότυπα και υποστηρικτικό υλικό για να γίνει ο Παγκόσμιος Ιστός προσβάσιμος σε άτομα με ειδικές ανάγκες.'
+  zh-hans: '使残疾人能够访问Web的策略、标准和支持资源。'
 
 - en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'   # tagline in header, shorter version of previous line, please make as short as feasible -- even if not grammatically correct (e.g., no "and" after "Strategies, standards,")
   de: 'Strategien, Normen, Ressourcen um das Web für Menschen mit Behinderungen zugänglich zu machen'
+  nl: 'Strategieën, standaarden & hulpbronnen voor een toegankelijk Web'
+  el: 'Στρατηγικές, πρότυπα και υλικό για ένα Παγκόσμιο Ιστό προσβάσιμο σε άτομα με ειδικές ανάγκες'
+  zh-hans: '使残疾人能够访问Web的策略、标准和资源。'
 
 - en: 'Submit Search'
   de: 'Suche ausführen'
+  nl: 'Zoekterm verzenden'
+  el: 'Πραγματοποίηση Αναζήτησης'
+  zh-hans: '提交搜索'
 
 - en: 'This is an unpublished draft preview that might include content that is not yet approved. The published website is at <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
+  de: @@
+  nl: 'Dit is een ongepubliceerd conceptvoorbeeld dat tekst kan bevatten die nog niet is goedgekeurd. De gepubliceerde Website bevindt zich op <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
+  el: 'Ο ιστότοπος αυτός είναι μια αδημοσίευτη προεπισκόπηση που μπορεί να περιλαμβάνει περιεχόμενο, που δεν έχει ακόμη εγκριθεί. Ο δημοσιευμένος ιστότοπος βρίσκεται στο <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
+  zh-hans: '这是一个未发布的草案预览，可能包含尚未批准的内容。已发布的网站在<a href="https://www.w3.org/WAI/">w3.org/WAI/</a>。'
 
 - en: 'This page in:'   # for "This page in [language], e.g,: "This page in English"
   de: 'Diese Seite auf:'
+  nl: 'Deze pagina in:'
+  el: Ο ιστότοπος αυτός σε:'
+  zh-hans: '当前语言为：'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
   de: 'Diese freiwillige Übersetzung spiegelt möglicherweise nicht genau die Absichten des <a href="$1">englischen Originals</a> wider.'
+  nl: 'Het is mogelijk dat deze vrijwilligers-vertaling de bedoelingen van <a href="$1">het Engelse origineel</a> niet accuraat weergeeft.
+  el: 'Αυτή η εθελοντική μετάφραση μπορεί να μην αντικατοπτρίζει με ακρίβεια τις προθέσεις του <a href="$1">αγγλικού πρωτοτύπου</a>.'
+  zh-hans: '该志愿翻译可能不能准确地反映出<a href="$1">英文原版内容</a>。'
 
 - en: 'Translating WAI Resources'   # page title
   de: 'WAI-Ressourcen übersetzen'
+  nl: 'WAI-hulpbronnen vertalen'
+  el: 'Μετάφραση πόρων WAI'
+  zh-hans: '翻译WAI的资源'
 
 - en: 'Translation updated:'
   de: 'Übersetzung aktualisiert:'
+  nl: 'Vertaling bijgewerkt:'
+  el: 'Η μετάφραση ενημερώθηκε:'
+  zh-hans: '翻译更新'
 
 - en: 'Translation up-to-date with the English version.'
   de: 'Übersetzung auf dem Stand der englischen Version.'
+  nl: 'Vertaling bijgewerkt naar de Engelse versie.'
+  el: 'Η μετάφραση είναι ενημερωμένη σύμφωνα με την αγγλική έκδοση.'
+  zh-hans: '该翻译已与英文版本同步。'
 
 - en: 'Translations'
+  de: @@
+  nl: 'Vertalingen'
+  el: 'Μεταφράσεις'
+  zh-hans: '翻译'
 
 - en: 'Translator:'   # gender-neutral, singular
   de: 'Übersetzung:'
+  nl: 'Vertaler/vertaalster:'
+  el: 'Μεταφραστής:'
+  zh-hans: '翻译者：'
 
 - en: 'Translators:'   # gender-neutral, plural
   de: 'Übersetzung:'
+  nl: 'Vertalers/vertaalsters:'
+  el: 'Μεταφραστές:'
+  zh-hans: '翻译者们：'
 
 - en: 'WAI thanks these translators, and welcomes other <a href="$1">translations</a>.'
   de: 'WAI dankt diesen Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.'
+  nl: 'WAI bedankt deze vertalers en moedigt andere <a href="$1">vertalingen</a> aan.'
+  el: 'Το WAI ευχαριστεί αυτούς τους μεταφραστές και χαιρετίζει κι άλλες <a href="$1">μεταφράσεις</a>.'
+  zh-hans: 'WAI感谢这些翻译者们，并欢迎其他的<a href="$1">翻译</a>。'
 
 - en: '[put comment here...]'   # for e-mail template
+  de: @@
+  nl: '[opmerking hier invullen...]'
+  el: '[σχολιάστε εδώ...]'
+  zh-hans: '[把注释写在这里......]'
 
 - en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
+  de: @@
+  nl: '[opmerking hier invullen...]\n\nIk geef toestemming dit te delen op de publieke, gearchiveerde mailinglijst.'
+  el: '[σχολιάστε εδώ...]\n\nI δώστε άδεια, για να μοιραστεί αυτό σε μια δημόσια λίστα ηλεκτρονικού ταχυδρομείου.'
+  zh-hans: '[把注释写在这里......]\n\nI 允许将其共享到公开存档的电子邮件列表。'
