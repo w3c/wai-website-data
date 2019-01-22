@@ -40,7 +40,7 @@
   nl: 'Medewerk(st)er:'
   el: 'Συνεισφέρων:'
   zh-hans: '贡献者：'
-  fr: 'Contributeur&#8239;:'
+  fr: 'Contribution&#8239;:'
 
 - en: 'Contributors:'   # gender-neutral, plural
   de: 'Mitwirkende:'
@@ -215,7 +215,7 @@
   nl: 'Recensent'
   el: 'Αξιολογητής'
   zh-hans: '审阅者'
-  fr: 'Relecteur'
+  fr: 'Relecture'
 
 - en: 'Reviewers' #gender-neutral, plural
   de: @@
@@ -348,7 +348,7 @@
   nl: 'Vertaler/vertaalster:'
   el: 'Μεταφραστής:'
   zh-hans: '翻译者：'
-  fr: 'Traducteur&#8239;:'
+  fr: 'Traduction&#8239;:'
 
 - en: 'Translators:'   # gender-neutral, plural
   de: 'Übersetzung:'
