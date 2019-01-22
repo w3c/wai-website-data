@@ -224,7 +224,7 @@
   zh-hans: '审阅者们'
   fr: 'Relecteurs'
 
-- en: 'Search'
+- en: 'Search'   # Search box field label
   de: 'Suche'
   nl: 'Zoeken'
   el: 'Αναζήτηση'
