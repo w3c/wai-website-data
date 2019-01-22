@@ -35,7 +35,7 @@
   zh-hans: '更改文本大小或颜色'
   fr: 'Changer la taille ou la couleur du texte'
 
-- en: 'Contributor:'   # gender-neutral, singular
+- en: 'Contributor:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Contribution'
   de: 'Mitwirkende:'
   nl: 'Medewerk(st)er:'
   el: 'Συνεισφέρων:'
@@ -210,7 +210,7 @@
   zh-hans: '前一页/下一页'
   fr: 'Page précédente/page suivante'
 
-- en: 'Reviewer' #gender-neutral, singular
+- en: 'Reviewer' #gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural
   de: @@
   nl: 'Recensent'
   el: 'Αξιολογητής'
@@ -343,7 +343,7 @@
   zh-hans: '翻译'
   fr: 'Traductions'
 
-- en: 'Translator:'   # gender-neutral, singular
+- en: 'Translator:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Translation'
   de: 'Übersetzung:'
   nl: 'Vertaler/vertaalster:'
   el: 'Μεταφραστής:'
