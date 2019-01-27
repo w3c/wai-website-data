@@ -25,7 +25,8 @@
     },
     "ar":{
         "name":"Arabic",
-        "nativeName":"العربية"
+        "nativeName":"العربية",
+        "rtl": true
     },
     "an":{
         "name":"Aragonese",
@@ -233,7 +234,8 @@
     },
     "he":{
         "name":"Hebrew (modern)",
-        "nativeName":"עברית"
+        "nativeName":"עברית",
+        "rtl": true
     },
     "hz":{
         "name":"Herero",
