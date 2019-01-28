@@ -1,7 +1,7 @@
 # Text after the "#" is comments to help with translation. Please do not change any text after the #.
 
 - en: 'About this Translation'   # heading
-  de: 'Zu dieser Übersetzung'
+  de: 'Über diese Übersetzung'
   nl: 'Over deze vertaling'
   el: Σχετικά με αυτή τη Μετάφραση'
   zh-hans: '关于该翻译'
@@ -17,7 +17,7 @@
   es: 'Todas las Traducciones'
 
 - en: 'Back to Top'
-#  de: @@
+  de: 'Zum Seitenanfang'
   nl: 'Terug naar het begin'
   el: 'Επιστροφή στην Κορυφή'
   zh-hans: '回到顶部'
@@ -25,7 +25,7 @@
   es: 'Ir Arriba'
 
 - en: 'Breadcrumb'   # aria-label for breadcrumb navigation
-#  de: @@
+  de: 'Brotkrumen-Navigation'
   nl: 'Kruimelpad'
   el: 'Πλοήγηση'
   zh-hans: '面包屑导航'
@@ -33,7 +33,7 @@
   es: 'Miga de pan'
 
 - en: 'Change Text Size or Colors'
-  de: 'Textgröße ändern oder Farben'
+  de: 'Textgröße oder -farben ändern'
   nl: 'Verander tekstgrootte of -kleur'
   el: 'Αλλαγή Μεγέθους Κειμένου ή Χρωμάτων'
   zh-hans: '更改文本大小或颜色'
@@ -41,7 +41,7 @@
   es: 'Cambiar Tamaño del Texto o los Colores'
 
 - en: 'Contributor:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Contribution'
-  de: 'Mitwirkende:'
+  de: 'Mitwirkende(r):'
   nl: 'Medewerk(st)er:'
   el: 'Συνεισφέρων:'
   zh-hans: '贡献者：'
@@ -65,7 +65,7 @@
   es: 'Derechos de autor'
 
 - en: 'Different View'   # alt text for icon that indicates link goes to page without WAI site navigation
-#  de: @@
+  de: 'Anderes Layout'
   nl: 'Andere weergave'
   el: 'Διαφορετική Προβολή'
   zh-hans: '切换视图'
@@ -73,7 +73,7 @@
   es: 'Vista Diferente'
 
 - en: 'Disable Audio Description'
-#  de: @@
+  de: 'Audiodeskription aus'
   nl: 'Audiobeschrijvingen uitzetten'
   el: 'Απενεργοποιήστε την Περιγραφή Ήχου'
   zh-hans: '禁用音频描述'
@@ -81,7 +81,7 @@
   es: 'Deshabilitar Descripción de Audio'
 
 - en: 'E-mail'
-#  de: @@
+  de: 'E-Mail'
   nl: 'E-mail'
   el: 'E-mail'
   zh-hans: '邮件'
@@ -89,7 +89,7 @@
   es: 'Correo Electrónico'
 
 - en: 'Enable Audio Description'
-#  de: @@
+  de: 'Audiodeskription ein'
   nl: 'Audiobeschrijvingen aanzetten'
   el: 'Ενεργοποιήστε την Περιγραφή Ήχου'
   zh-hans: '启用音频描述'
@@ -113,7 +113,7 @@
   es: 'Versión en inglés actualizada posteriormente a esta traducción: <a href="$1">registro de cambios</a>.'
 
 - en: 'External Site'   # alt text for icon that indicates link goes off WAI site
-#  de: @@
+  de: 'Externe Seite'
   nl: 'Externe site'
   el: 'Εξωτερικός Ιστοχώρος'
   zh-hans: '外部站点'
@@ -121,7 +121,7 @@
   es: 'Sitio Externo'
 
 - en: 'Fork &amp; Edit on GitHub'
-#  de: @@
+  de: 'Forken &amp; editieren auf GitHub'
   nl: 'Fork &amp; edit op GitHub'
   el: 'Fork και Επεξεργασία στο Github'
   zh-hans: '派生到本地，在Github上编辑'
@@ -129,7 +129,7 @@
   es: 'Fork y Editar en GitHub'
 
 - en: 'Help improve this page'   # heading for box with links to e-mail and GitHub
-#  de: @@
+  de: 'Helfen Sie diese Seite zu verbessern'
   nl: 'Help deze pagina te verbeteren'
   el: 'Βοήθεια για τη βελτίωση αυτού του ιστότοπου'
   zh-hans: '帮助提升本页'
@@ -137,7 +137,7 @@
   es: 'Ayuda a mejorar esta página'
 
 - en: 'Hide'   # for show/hide toggle
-#  de: @@
+  nl: 'Verbergen'
   nl: 'Verbergen'
   el: 'Απόκρυψη'
   zh-hans: '隐藏'
@@ -145,7 +145,7 @@
   es: 'Ocultar'
 
 - en: 'Hide Languages'     # for show/hide languages
-  de: 'Sprachen verstecken'
+  de: 'Sprachen verbergen'
   nl: 'Talen verbergen'
   el: 'Απόκρυψη Γλωσσών'
   zh-hans: '隐藏语言'
@@ -153,7 +153,7 @@
   es: 'Ocultar Idiomas'
 
 - en: 'Hide Options'     # for show/hide options
-#  de: @@
+  de: 'Optionen verbergen'
   nl: 'Opties verbergen'
   el: 'Απόκρυψη Επιλογών'
   zh-hans: '隐藏选项'
@@ -169,7 +169,7 @@
   es: 'Portada'
 
 - en: 'in English'
-  de: 'auf englisch'
+  de: 'auf Englisch'
   nl: 'in het Engels'
   el: 'στα Αγγλικά'
   zh-hans: '英文'
@@ -177,7 +177,7 @@
   es: 'en Inglés'
 
 - en: 'Languages/Translations'   # if "/" doesn't work well, could use a comma (,)
-#  de: @@
+  de: 'Sprachen/Übersetzungen'
   nl: 'Talen/vertalingen'
   el: 'Γλώσσες / Μεταφράσεις'
   zh-hans: '语言/翻译'
@@ -185,7 +185,7 @@
   es: 'Idiomas/Traducciones'
 
 - en: 'Main'   # aria-label for main navigation
-#  de: @@
+  de: 'Hauptmenü'
   nl: 'Hoofdmenu'
   el: 'Κύριες ενότητες'
   zh-hans: '主导航'
@@ -201,7 +201,7 @@
   es: 'Menú'
 
 - en: 'New GitHub Issue'
-#  de: @@
+  de: 'Neues GitHub-Issue'
   nl: 'Nieuwe issue op GitHub'
   el: 'Νέο θέμα GitHub'
   zh-hans: '创建新的Github问题'
@@ -209,7 +209,7 @@
   es: 'Nueva Incidencia de GitHub'
 
 - en: 'Other Pages in this Resource'   # aria-label for certain secondary navigations
-#  de: @@
+  de: 'Weitere Seiten dieser Ressource'
   nl: "Andere pagina's in deze bron"
   el: 'Άλλες Ιστοσελίδες στον Πόρο αυτόν'
   zh-hans: '此资源中的其他页面'
@@ -217,7 +217,7 @@
   es: 'Otras Páginas en este Recurso'
 
 - en: 'Other Resources in'   # for "Other Resource in [language], e.g,: "Other Resources in English"
-  de: 'Andere Ressourcen in'
+  de: 'Weitere Ressourcen auf'
   nl: 'Andere bronnen in het'   # "het" works for names of languages, not necessarily for other things
   el: 'Άλλοι πόροι στη γλώσσα'
   zh-hans: '其他语言资源：'
@@ -225,7 +225,7 @@
   es: 'Otros Recursos en'
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:{$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:{$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
-#  de: @@
+  de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste[$1](mailto:{$1?subject=%s) oder via GitHub mit.'
   nl: 'Deel alstublieft uw ideeën, suggesties of commentaar per e-mail aan de openbare, gearchiveerde mailinglijst [$1](mailto:{$1?subject=%s) of via GitHub.'
   el: 'Παρακαλούμε, μοιραστείτε τις ιδέες, προτάσεις ή τα σχόλιά σας μέσω ηλεκτρονικού ταχυδρομείου στη δημόσια λίστα [$1](mailto:{$1?subject=%s) ή μέσω του Github.'
   zh-hans: '请通过电子邮件将您的想法、建议或意见分享到公共存档列表[$1](mailto:{$1?subject=%s)或通过GitHub提交意见'
@@ -233,7 +233,7 @@
   es: 'Comparte tus ideas, sugerencias o comentarios por correo electrónico a la lista pública [$1](mailto:{$1?subject=%s) o vía GitHub.'
 
 - en: 'Previous/Next Page'   # aria-label for prev/next page
-#  de: @@
+  de: 'Vorherige/Nächste Seite'
   nl: 'Vorige/volgende pagina'
   el: 'Προηγούμενη / Επόμενη Σελίδα'
   zh-hans: '前一页/下一页'
@@ -241,7 +241,7 @@
   es: 'Página Anterior/Siguiente'
 
 - en: 'Reviewer' #gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural
-#  de: @@
+  de: 'Korrekturen'
   nl: 'Recensent'
   el: 'Αξιολογητής'
   zh-hans: '审阅者'
@@ -249,7 +249,7 @@
   es: 'Página Anterior/Siguiente'
 
 - en: 'Reviewers' #gender-neutral, plural
-#  de: @@
+  de: 'Korrekturen'
   nl: 'Recensenten'
   el: 'Αξιολογητές'
   zh-hans: '审阅者们'
@@ -265,7 +265,7 @@
   es: 'Buscar'
 
 - en: 'Secondary'   # aria-label for secondary navigation
-#  de: @@
+  de: 'Sekundär'
   nl: 'Secundair'
   el: 'Δευτερεύον'
   zh-hans: '二级导航'
@@ -281,7 +281,7 @@
   es: 'Selecciona Idioma, Traducciones'
 
 - en: 'Show Customization, Languages, Translations'   # for show/hide toggle
-#  de: @@
+  de: 'Anpassungen, Sprachen, Übersetzungen anzeigen'
   nl: 'Aanpassingen, talen, vertalingen tonen'
   el: 'Εμφάνιση Παραμετροποίησης, Γλωσσών, Μεταφράσεων'
   zh-hans: '显示定制，语言，翻译'
@@ -297,7 +297,7 @@
   es: 'Mostrar Idiomas'
 
 - en: 'Skip Link and Language Selector'   # aria-label for top navigation [@@ this will probably change…]
-#  de: @@
+  de: 'Sprunglink und Sprachauswahl'
   nl: 'Spring-link en taalkeuze'
   el: 'Παράλειψη Συνδέσμου και Επιλογής Γλώσσας'
   zh-hans: '跳过链接和语言选择器'
@@ -313,7 +313,7 @@
   es: 'Saltar al Contenido'
 
 - en: 'Strategies, standards, and supporting resources to make the Web accessible to people with disabilities.'
-  de: 'Strategien, Standards und unterstützende Ressourcen um das Web für Menschen mit Behinderungen zugänglich zu machen.'
+  de: 'Strategien, Standards und unterstützende Ressourcen, um das Web für Menschen mit Behinderungen zugänglich zu machen.'
   nl: 'Strategieën, standaarden en ondersteunende middelen om het Web toegankelijk te maken voor mensen met handicaps.'
   el: 'Στρατηγικές, πρότυπα και υποστηρικτικό υλικό για να γίνει ο Παγκόσμιος Ιστός προσβάσιμος σε άτομα με ειδικές ανάγκες.'
   zh-hans: '使残疾人能够访问Web的策略、标准和支持资源。'
@@ -321,7 +321,7 @@
   es: 'Estrategias, estándares y materiales de apoyo para hacer la Web accesible para gente con discapacidades.'
 
 - en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'   # tagline in header, shorter version of previous line, please make as short as feasible -- even if not grammatically correct (e.g., no "and" after "Strategies, standards,")
-  de: 'Strategien, Normen, Ressourcen um das Web für Menschen mit Behinderungen zugänglich zu machen'
+  de: 'Strategien, Standards, Ressourcen, um das Web für Menschen mit Behinderungen zugänglich zu machen'
   nl: 'Strategieën, standaarden & hulpbronnen voor een toegankelijk Web'
   el: 'Στρατηγικές, πρότυπα και υλικό για ένα Παγκόσμιο Ιστό προσβάσιμο σε άτομα με ειδικές ανάγκες'
   zh-hans: '使残疾人能够访问Web的策略、标准和资源。'
@@ -337,7 +337,7 @@
   es: 'Enviar Búsqueda'
 
 - en: 'This is an unpublished draft preview that might include content that is not yet approved. The published website is at <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
-#  de: @@
+  de: 'Dies ist die Vorschau eines unveröffentlichten Entwurfs, der Inhalte enthalten könnte, die noch nicht genehmigt sind. Die veröffentlichte Website befindet sich unter <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
   nl: 'Dit is een ongepubliceerd conceptvoorbeeld dat tekst kan bevatten die nog niet is goedgekeurd. De gepubliceerde Website bevindt zich op <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
   el: 'Ο ιστότοπος αυτός είναι μια αδημοσίευτη προεπισκόπηση που μπορεί να περιλαμβάνει περιεχόμενο, που δεν έχει ακόμη εγκριθεί. Ο δημοσιευμένος ιστότοπος βρίσκεται στο <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
   zh-hans: '这是一个未发布的草案预览，可能包含尚未批准的内容。已发布的网站在<a href="https://www.w3.org/WAI/">w3.org/WAI/</a>。'
@@ -353,7 +353,7 @@
   es: 'Esta página en:'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
-  de: 'Diese freiwillige Übersetzung spiegelt möglicherweise nicht genau die Absichten des <a href="$1">englischen Originals</a> wider.'
+  de: 'Diese ehrenamtliche Übersetzung spiegelt möglicherweise nicht genau die Absichten des <a href="$1">englischen Originals</a> wider.'
   nl: 'Het is mogelijk dat deze vrijwilligers-vertaling de bedoelingen van <a href="$1">het Engelse origineel</a> niet accuraat weergeeft.'
   el: 'Αυτή η εθελοντική μετάφραση μπορεί να μην αντικατοπτρίζει με ακρίβεια τις προθέσεις του <a href="$1">αγγλικού πρωτοτύπου</a>.'
   zh-hans: '该志愿翻译可能不能准确地反映出<a href="$1">英文原版内容</a>。'
@@ -385,7 +385,7 @@
   es: 'Traducción actualizada a la última versión de la original en inglés.'
 
 - en: 'Translations'
-#  de: @@
+  de: 'Übersetzungen'
   nl: 'Vertalingen'
   el: 'Μεταφράσεις'
   zh-hans: '翻译'
@@ -417,7 +417,7 @@
   es: 'WAI les da las gracias a estos/as traductores/as y da la bienvenida a otras <a href="$1">traducciones</a>.'
 
 - en: '[put comment here...]'   # for e-mail template
-#  de: @@
+  de: '[Ihr Kommentar …]'
   nl: '[opmerking hier invullen...]'
   el: '[σχολιάστε εδώ...]'
   zh-hans: '[把注释写在这里......]'
@@ -425,7 +425,7 @@
   es: '[tu comentario aquí...]'
 
 - en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
-#  de: @@
+  de: '[Ihr Kommentar …]\n\nIch erteile die Erlaubnis, dies in einer öffentlich archivierten E-Mail-Liste zu übermitteln.'
   nl: '[opmerking hier invullen...]\n\nIk geef toestemming dit te delen op de publieke, gearchiveerde mailinglijst.'
   el: '[σχολιάστε εδώ...]\n\nI δώστε άδεια, για να μοιραστεί αυτό σε μια δημόσια λίστα ηλεκτρονικού ταχυδρομείου.'
   zh-hans: '[把注释写在这里......]\n\nI 允许将其共享到公开存档的电子邮件列表。'
