@@ -521,6 +521,10 @@
         "name":"Portuguese",
         "nativeName":"Português"
     },
+    "pt-BR":{
+        "name":"Portuguese (Brazil)",
+        "nativeName":"Português brasileiro"
+    },
     "qu":{
         "name":"Quechua",
         "nativeName":"Runa Simi, Kichwa"
