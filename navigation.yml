@@ -64,17 +64,17 @@
     url: "/fundamentals/accessibility-usability-inclusion/"
 - name:
     en: 'Planning & Policies'
-    de: 'Planung & Richtlinien'
-    fr: 'Planification & Politiques'
-    es: 'Planificación y Políticas'
-    it: 'Pianificazione & Politiche'
-    nl: 'Planning & Beleid'
-    pl: 'Planowanie & Zasady działalności'
-    ar: 'تخطيط آند السياسات'
-    ja: '計画・政策'
-    ko: '계획 및 정책'
-    ru: 'Планирование & политики'
-    zh-hans: '规划和政策'
+    # de: 'Planung & Richtlinien'
+    # fr: 'Planification & Politiques'
+    # es: 'Planificación y Políticas'
+    # it: 'Pianificazione & Politiche'
+    # nl: 'Planning & Beleid'
+    # pl: 'Planowanie & Zasady działalności'
+    # ar: 'تخطيط آند السياسات'
+    # ja: '計画・政策'
+    # ko: '계획 및 정책'
+    # ru: 'Планирование & политики'
+    # zh-hans: '规划和政策'
   pages:
   - name: Overview
     url: "/planning/"
