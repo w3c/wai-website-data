@@ -15,7 +15,12 @@
   - name: Introduction to Accessibility
     url: "/fundamentals/accessibility-intro/"
     pages:
-    - name: Video Introduction
+    - name:
+        en: 'Video Introduction'
+        de: 'Video-Einführung'
+        fr: 'Vidéo : introduction'
+        es: 'Vídeo de Introducción'
+        nl: 'Video-introductie'
       url: /videos/standards-and-benefits/
   - name: Components of Web Accessibility
     url: "/fundamentals/components/"
