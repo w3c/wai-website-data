@@ -431,3 +431,8 @@
   zh-hans: '[把注释写在这里......]\n\nI 允许将其共享到公开存档的电子邮件列表。'
   fr: '[votre commentaire ici...]\n\nJ’accepte que ceci soit partagé sur une liste de courriels archivée publiquement.'
   es: '[tu comentario aquí...]\n\nConsiento el compartirlo en una lista de correo pública con archivo.'   # for e-mail template
+
+# ADDED 2019-02-20
+
+- en: Previous # (For pager)
+- en: Next # (For pager)
