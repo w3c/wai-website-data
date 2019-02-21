@@ -22,6 +22,17 @@
         es: 'Vídeo de Introducción'
         nl: 'Video-introductie'
       url: /videos/standards-and-benefits/
+      pages:
+      - name:
+          en: Changelog
+          de: 'Änderungsprotokoll'
+          nl: 'Changelog.'
+          el: 'Change log'
+          zh-hans: '修改日志'
+          fr: 'Changements'
+          es: 'Registro de cambios'
+        url: /videos/standards-and-benefits/changelog/
+        hide: true
   - name: Components of Web Accessibility
     url: "/fundamentals/components/"
   - name: Accessibility Principles

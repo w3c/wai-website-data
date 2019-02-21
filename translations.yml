@@ -436,3 +436,13 @@
 
 - en: Previous # (For pager)
 - en: Next # (For pager)
+
+# ADDED 2019-02-21
+
+- en: Changelog
+  de: 'Änderungsprotokoll'
+  nl: 'Changelog.'
+  el: 'Change log'
+  zh-hans: '修改日志'
+  fr: 'Changements'
+  es: 'Registro de cambios'
