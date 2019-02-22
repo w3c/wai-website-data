@@ -434,8 +434,9 @@
 
 # ADDED 2019-02-20
 
-- en: Previous # (For pager)
-- en: Next # (For pager)
+- en: 'Next'  # used for: Next page/topic
+
+- en: 'Previous'  # used for: Previous page/topic
 
 # ADDED 2019-02-21
 
