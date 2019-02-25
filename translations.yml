@@ -435,8 +435,10 @@
 # ADDED 2019-02-20
 
 - en: 'Next'  # used for: Next page/topic
+  nl: 'Volgende'
 
 - en: 'Previous'  # used for: Previous page/topic
+  nl: 'Vorige'
 
 # ADDED 2019-02-21
 
