@@ -224,13 +224,13 @@
   fr: 'Autres ressources en'
   es: 'Otros Recursos en'
 
-- en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:{$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:{$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
-  de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste[$1](mailto:{$1?subject=%s) oder via GitHub mit.'
-  nl: 'Deel alstublieft uw ideeën, suggesties of commentaar per e-mail aan de openbare, gearchiveerde mailinglijst [$1](mailto:{$1?subject=%s) of via GitHub.'
-  el: 'Παρακαλούμε, μοιραστείτε τις ιδέες, προτάσεις ή τα σχόλιά σας μέσω ηλεκτρονικού ταχυδρομείου στη δημόσια λίστα [$1](mailto:{$1?subject=%s) ή μέσω του Github.'
-  zh-hans: '请通过电子邮件将您的想法、建议或意见分享到公共存档列表[$1](mailto:{$1?subject=%s)或通过GitHub提交意见'
-  fr: 'Merci de partager vos idées, vos suggestions ou vos commentaires par courriel à la liste archivée publiquement [$1](mailto:{$1?subject=%s) ou via GitHub.'
-  es: 'Comparte tus ideas, sugerencias o comentarios por correo electrónico a la lista pública [$1](mailto:{$1?subject=%s) o vía GitHub.'
+- en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
+  de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste[$1](mailto:$1?subject=%s) oder via GitHub mit.'
+  nl: 'Deel alstublieft uw ideeën, suggesties of commentaar per e-mail aan de openbare, gearchiveerde mailinglijst [$1](mailto:$1?subject=%s) of via GitHub.'
+  el: 'Παρακαλούμε, μοιραστείτε τις ιδέες, προτάσεις ή τα σχόλιά σας μέσω ηλεκτρονικού ταχυδρομείου στη δημόσια λίστα [$1](mailto:$1?subject=%s) ή μέσω του Github.'
+  zh-hans: '请通过电子邮件将您的想法、建议或意见分享到公共存档列表[$1](mailto:$1?subject=%s)或通过GitHub提交意见'
+  fr: 'Merci de partager vos idées, vos suggestions ou vos commentaires par courriel à la liste archivée publiquement [$1](mailto:$1?subject=%s) ou via GitHub.'
+  es: 'Comparte tus ideas, sugerencias o comentarios por correo electrónico a la lista pública [$1](mailto:$1?subject=%s) o vía GitHub.'
 
 - en: 'Previous/Next Page'   # aria-label for prev/next page
   de: 'Vorherige/Nächste Seite'
