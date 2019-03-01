@@ -1,7 +1,7 @@
 # Text after the "#" is comments to help with translation. Please do not change any text after the #.
 
 - en: 'About this Translation'   # heading
-  ja: ‘本翻訳について’
+  ja: '本翻訳について'
   ru: 'Об этом переводе'
   de: 'Über diese Übersetzung'
   nl: 'Over deze vertaling'
@@ -11,7 +11,7 @@
   es: 'Acerca de esta Traducción'
 
 - en: 'All Translations'   # link
-  ja: ‘全ての翻訳'
+  ja: '全ての翻訳'
   ru: 'Все переводы'
   de: 'Alle Übersetzungen'
   nl: 'Alle vertalingen'
@@ -21,7 +21,7 @@
   es: 'Todas las Traducciones'
 
 - en: 'Back to Top'
-  ja: ‘最初に戻る'
+  ja: '最初に戻る'
   ru: 'Вернуться к началу'
   de: 'Zum Seitenanfang'
   nl: 'Terug naar het begin'
@@ -31,7 +31,7 @@
   es: 'Ir Arriba'
 
 - en: 'Breadcrumb'   # aria-label for breadcrumb navigation
-  ja: ‘小リンク集'
+  ja: '小リンク集'
   ru: 'Хлебные крошки'
   de: 'Brotkrumen-Navigation'
   nl: 'Kruimelpad'
@@ -41,7 +41,7 @@
   es: 'Miga de pan'
 
 - en: 'Change Text Size or Colors'
-  ja: ‘テキストのサイズ・色を変更’
+  ja: 'テキストのサイズ・色を変更'
   ru: 'Изменить размер или цвет текста'
   de: 'Textgröße oder -farben ändern'
   nl: 'Verander tekstgrootte of -kleur'
@@ -51,7 +51,7 @@
   es: 'Cambiar Tamaño del Texto o los Colores'
 
 - en: 'Contributor:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Contribution'
-  ja: ‘寄稿者’
+  ja: '寄稿者'
   ru: 'Автор:'
   de: 'Mitwirkende(r):'
   nl: 'Medewerk(st)er:'
@@ -61,7 +61,7 @@
   es: 'Colaborador/a:'
 
 - en: 'Contributors:'   # gender-neutral, plural
-  ja: ‘寄稿者’
+  ja: '寄稿者'
   ru: 'Авторы:'
   de: 'Mitwirkende:'
   nl: 'Medewerk(st)ers:'
@@ -71,7 +71,7 @@
   es: 'Colaboradores/as:'
 
 - en: 'Copyright'
-  ja: ‘著作権’
+  ja: '著作権'
   ru: 'Авторское право'
   de: 'Copyright'
   nl: 'Copyright'   # only in a copyright statement, before a © or a year
@@ -81,7 +81,7 @@
   es: 'Derechos de autor'
 
 - en: 'Different View'   # alt text for icon that indicates link goes to page without WAI site navigation
-  ja: ‘別表示’
+  ja: '別表示'
   ru: 'Другой вид'
   de: 'Anderes Layout'
   nl: 'Andere weergave'
@@ -91,7 +91,7 @@
   es: 'Vista Diferente'
 
 - en: 'Disable Audio Description'
-  ja: ‘音声無効化’
+  ja: '音声無効化'
   ru: 'Отключить аудио описание'
   de: 'Audiodeskription aus'
   nl: 'Audiobeschrijvingen uitzetten'
@@ -101,7 +101,7 @@
   es: 'Deshabilitar Descripción de Audio'
 
 - en: 'E-mail'
-  ja: ‘E-mail’
+  ja: 'E-mail'
   ru: 'E-mail'
   de: 'E-Mail'
   nl: 'E-mail'
@@ -111,7 +111,7 @@
   es: 'Correo Electrónico'
 
 - en: 'Enable Audio Description'
-  ja: ‘音声有効化’
+  ja: '音声有効化'
   ru: 'Включить аудио описание '
   de: 'Audiodeskription ein'
   nl: 'Audiobeschrijvingen aanzetten'
@@ -121,7 +121,7 @@
   es: 'Habilitar Descripción de Audio'
 
 - en: 'English updated:'
-  ja: ‘英語版更新’
+  ja: '英語版更新'
   ru: 'Английская версия обновлена:'
   de: 'Englisch aktualisiert:'
   nl: 'Engels bijgewerkt:'
@@ -131,7 +131,7 @@
   es: 'Versión en inglés actualizada:'
 
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'
-  ja: ‘本翻訳後に英語版が更新されました’
+  ja: '本翻訳後に英語版が更新されました'
   ru: 'Английская версия обновлена с момента перевода: <a href="$1">Журнал изменений</a>.'
   de: 'Englische Version aktualisiert seit dieser Übersetzung: <a href="$1">Änderungsprotokoll</a>.'
   nl: 'Engelse versie bijgewerkt sinds deze vertaling: <a href="$1">changelog</a>.'
@@ -141,7 +141,7 @@
   es: 'Versión en inglés actualizada posteriormente a esta traducción: <a href="$1">registro de cambios</a>.'
 
 - en: 'External Site'   # alt text for icon that indicates link goes off WAI site
-  ja: ‘外部サイト’
+  ja: '外部サイト'
   ru: 'Ссылка на внешний сайт'
   de: 'Externe Seite'
   nl: 'Externe site'
@@ -151,7 +151,7 @@
   es: 'Sitio Externo'
 
 - en: 'Fork &amp; Edit on GitHub'
-  ja: ‘&ampをフォーク; GitHubを編集’
+  ja: '&ampをフォーク; GitHubを編集'
   ru: 'Отделить ветку &amp; Редактировать на GitHub'
   de: 'Forken &amp; editieren auf GitHub'
   nl: 'Fork &amp; edit op GitHub'
@@ -161,7 +161,7 @@
   es: 'Fork y Editar en GitHub'
 
 - en: 'Help improve this page'   # heading for box with links to e-mail and GitHub
-  ja: ‘本ページの改善にご協力ください’
+  ja: '本ページの改善にご協力ください'
   ru: 'Помогите улучшить эту страницу'
   de: 'Helfen Sie diese Seite zu verbessern'
   nl: 'Help deze pagina te verbeteren'
@@ -171,7 +171,7 @@
   es: 'Ayuda a mejorar esta página'
 
 - en: 'Hide'   # for show/hide toggle
-  ja: ‘隠す’
+  ja: '隠す'
   ru: 'Скрыть'
   nl: 'Verbergen'
   nl: 'Verbergen'
@@ -181,7 +181,7 @@
   es: 'Ocultar'
 
 - en: 'Hide Languages'     # for show/hide languages
-  ja: ‘’言語を隠す’
+  ja: '’言語を隠す'
   ru: 'Скрыть языки'
   de: 'Sprachen verbergen'
   nl: 'Talen verbergen'
@@ -191,7 +191,7 @@
   es: 'Ocultar Idiomas'
 
 - en: 'Hide Options'     # for show/hide options
-  ja: ‘オプションを隠す’
+  ja: 'オプションを隠す'
   ru: 'Скрыть параметры'
   de: 'Optionen verbergen'
   nl: 'Opties verbergen'
@@ -201,7 +201,7 @@
   es: 'Ocultar Opciones'
 
 - en: 'Home'
-  ja: ‘ホーム’
+  ja: 'ホーム'
   ru: 'Домой'
   de: 'Startseite'
   nl: 'Thuispagina'
@@ -211,7 +211,7 @@
   es: 'Portada'
 
 - en: 'in English'
-  ja: ‘英語版’
+  ja: '英語版'
   ru: 'на английском'
   de: 'auf Englisch'
   nl: 'in het Engels'
@@ -221,7 +221,7 @@
   es: 'en Inglés'
 
 - en: 'Languages/Translations'   # if "/" doesn't work well, could use a comma (,)
-  ja: ‘言語/翻訳’
+  ja: '言語/翻訳'
   ru: 'Языки/переводы'
   de: 'Sprachen/Übersetzungen'
   nl: 'Talen/vertalingen'
@@ -231,7 +231,7 @@
   es: 'Idiomas/Traducciones'
 
 - en: 'Main'   # aria-label for main navigation
-  ja: ‘メイン’
+  ja: 'メイン'
   ru: 'Главная'
   de: 'Hauptmenü'
   nl: 'Hoofdmenu'
@@ -241,7 +241,7 @@
   es: 'Principal'
 
 - en: 'Menu'
-  ja: ‘メニュー’
+  ja: 'メニュー'
   ru: 'Меню'
   de: 'Menü'
   nl: 'Menu'
@@ -251,7 +251,7 @@
   es: 'Menú'
 
 - en: 'New GitHub Issue'
-  ja: ‘新しいGitHubの課題’
+  ja: '新しいGitHubの課題'
   ru: 'Новая задача на GitHub'
   de: 'Neues GitHub-Issue'
   nl: 'Nieuwe issue op GitHub'
@@ -261,7 +261,7 @@
   es: 'Nueva Incidencia de GitHub'
 
 - en: 'Other Pages in this Resource'   # aria-label for certain secondary navigations
-  ja: ‘本リソースを記載する他ページ’
+  ja: '本リソースを記載する他ページ'
   ru: 'Другие страницы на этом ресурсе'
   de: 'Weitere Seiten dieser Ressource'
   nl: "Andere pagina's in deze bron"
@@ -271,7 +271,7 @@
   es: 'Otras Páginas en este Recurso'
 
 - en: 'Other Resources in'   # for "Other Resource in [language], e.g,: "Other Resources in English"
-  ja: ‘’他リソースの’
+  ja: '’他リソースの'
   ru: 'Другие ресурсы в'
   de: 'Weitere Ressourcen auf'
   nl: 'Andere bronnen in het'   # "het" works for names of languages, not necessarily for other things
@@ -281,7 +281,7 @@
   es: 'Otros Recursos en'
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
-  ja: ‘ご意見、ご提案、コメントをemail(mailto:{$1?subject=%s) かGitHubまでお寄せください。’
+  ja: 'ご意見、ご提案、コメントをemail(mailto:{$1?subject=%s) かGitHubまでお寄せください。'
   ru: 'Пожалуйста, поделитесь своими идеями, предложениями или комментариями в публичной электронной рассылке [$ 1] (mailto: {$ 1?subject =% s) или через GitHub. '
   de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste[$1](mailto:$1?subject=%s) oder via GitHub mit.'
   nl: 'Deel alstublieft uw ideeën, suggesties of commentaar per e-mail aan de openbare, gearchiveerde mailinglijst [$1](mailto:$1?subject=%s) of via GitHub.'
@@ -291,7 +291,7 @@
   es: 'Comparte tus ideas, sugerencias o comentarios por correo electrónico a la lista pública [$1](mailto:$1?subject=%s) o vía GitHub.'
 
 - en: 'Previous/Next Page'   # aria-label for prev/next page
-  ja: ‘前/次ページ’
+  ja: '前/次ページ'
   ru: 'Предыдущая/Следующая страница'
   de: 'Vorherige/Nächste Seite'
   nl: 'Vorige/volgende pagina'
@@ -301,7 +301,7 @@
   es: 'Página Anterior/Siguiente'
 
 - en: 'Reviewer' #gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural
-  ja: ‘レビュアー’
+  ja: 'レビュアー'
   ru: 'Рецензент'
   de: 'Korrekturen'
   nl: 'Recensent'
@@ -311,7 +311,7 @@
   es: 'Página Anterior/Siguiente'
 
 - en: 'Reviewers' #gender-neutral, plural
-  ja: ‘レビュアー’
+  ja: 'レビュアー'
   ru: 'Рецензенты'
   de: 'Korrekturen'
   nl: 'Recensenten'
@@ -321,7 +321,7 @@
   es: 'Revisores/as'
 
 - en: 'Search'   # Search box field label
-  ja: ‘サーチ’
+  ja: 'サーチ'
   ru: 'Поиск'
   de: 'Suche'
   nl: 'Zoeken'
@@ -331,7 +331,7 @@
   es: 'Buscar'
 
 - en: 'Secondary'   # aria-label for secondary navigation
-  ja: ‘二次’
+  ja: '二次'
   ru: 'Дополнительная'
   de: 'Sekundär'
   nl: 'Secundair'
@@ -341,7 +341,7 @@
   es: 'Secundario'
 
 - en: 'Select Language, Translations'   # for show/hide toggle
-  ja: ‘言語の選択’
+  ja: '言語の選択'
   ru: 'Выбрать язык, переводы'
   de: 'Sprache auswählen, Übersetzungen'
   nl: 'Taal, vertalingen kiezen'
@@ -351,7 +351,7 @@
   es: 'Selecciona Idioma, Traducciones'
 
 - en: 'Show Customization, Languages, Translations'   # for show/hide toggle
-  ja: ‘カスタマイズ、言語、翻訳’
+  ja: 'カスタマイズ、言語、翻訳'
   ru: 'Показать настройки, языки, переводы'
   de: 'Anpassungen, Sprachen, Übersetzungen anzeigen'
   nl: 'Aanpassingen, talen, vertalingen tonen'
@@ -361,7 +361,7 @@
   es: 'Mostrar Personalización, Idiomas, Traducciones'
 
 - en: 'Show Languages'   # for show/hide toggle
-  ja: ‘翻訳’
+  ja: '翻訳'
   ru: 'Показать языки'
   de: 'Sprachen anzeigen'
   nl: 'Talen tonen'
@@ -371,7 +371,7 @@
   es: 'Mostrar Idiomas'
 
 - en: 'Skip Link and Language Selector'   # aria-label for top navigation [@@ this will probably change…]
-  ja: ‘リンクと言語選択をスキップ’
+  ja: 'リンクと言語選択をスキップ'
   ru: 'Пропустить ссылку и выбор языка'
   de: 'Sprunglink und Sprachauswahl'
   nl: 'Spring-link en taalkeuze'
@@ -381,7 +381,7 @@
   es: 'Saltar Enlace y Selector de Idioma'
 
 - en: 'Skip to Content'
-  ja: ‘コンテンツにスキップ’
+  ja: 'コンテンツにスキップ'
   ru: 'Перейти к контенту'
   de: 'Zum Inhalt springen'
   nl: 'Spring naar hoofdtekst'
@@ -391,7 +391,7 @@
   es: 'Saltar al Contenido'
 
 - en: 'Strategies, standards, and supporting resources to make the Web accessible to people with disabilities.'
-  ja: ‘戦略、標準化、リソースの各サポートは、障害を持つ人々がウェブにアクセスできるようになる’
+  ja: '戦略、標準化、リソースの各サポートは、障害を持つ人々がウェブにアクセスできるようになる'
   ru: 'Стратегии, стандарты и дополнительные ресурсы по мерам обеспечения Интернет доступности для людей с ограниченными возможностями.'
   de: 'Strategien, Standards und unterstützende Ressourcen, um das Web für Menschen mit Behinderungen zugänglich zu machen.'
   nl: 'Strategieën, standaarden en ondersteunende middelen om het Web toegankelijk te maken voor mensen met handicaps.'
@@ -401,7 +401,7 @@
   es: 'Estrategias, estándares y materiales de apoyo para hacer la Web accesible para gente con discapacidades.'
 
 - en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'   # tagline in header, shorter version of previous line, please make as short as feasible -- even if not grammatically correct (e.g., no "and" after "Strategies, standards,")
-  ja: ‘障害を持つ人々へのサポート - 戦略・標準化・リソース'
+  ja: '障害を持つ人々へのサポート - 戦略・標準化・リソース'
   ru: 'Стратегии, стандарты, ресурсы по веб-доступности для инвалидов'
   de: 'Strategien, Standards, Ressourcen, um das Web für Menschen mit Behinderungen zugänglich zu machen'
   nl: 'Strategieën, standaarden & hulpbronnen voor een toegankelijk Web'
@@ -411,7 +411,7 @@
   es: 'Estrategias, estándares y materiales para hacer la Web accesible para gente con discapacidades.'
 
 - en: 'Submit Search'
-  ja: ‘サーチ’
+  ja: 'サーチ'
   ru: 'Послать запрос'
   de: 'Suche ausführen'
   nl: 'Zoekterm verzenden'
@@ -421,7 +421,7 @@
   es: 'Enviar Búsqueda'
 
 - en: 'This is an unpublished draft preview that might include content that is not yet approved. The published website is at <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
-  ja: ‘本ドラフトは未承認のコンテンツを含む場合があります’
+  ja: '本ドラフトは未承認のコンテンツを含む場合があります'
   ru: 'Этот неопубликованный предварительный черновик может содержать неутвержденный контент. Опубликованный веб-сайт находится по адресу <a href="https://www.w3.org/WAI/"> w3.org/WAI/ </a>.'
   de: 'Dies ist die Vorschau eines unveröffentlichten Entwurfs, der Inhalte enthalten könnte, die noch nicht genehmigt sind. Die veröffentlichte Website befindet sich unter <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
   nl: 'Dit is een ongepubliceerd conceptvoorbeeld dat tekst kan bevatten die nog niet is goedgekeurd. De gepubliceerde Website bevindt zich op <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
@@ -431,7 +431,7 @@
   es: 'Esta es una previsualización en borrador que no está publicada que puede incluir contenido que aún no se han aprobado. El sitio web publicado está en <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
 
 - en: 'This page in:'   # for "This page in [language], e.g,: "This page in English"
-  ja: ‘本ページは日本語表記です’
+  ja: '本ページは日本語表記です'
   ru: 'Эта страница на:'
   de: 'Diese Seite auf:'
   nl: 'Deze pagina in:'
@@ -441,7 +441,7 @@
   es: 'Esta página en:'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
-  ja: ‘ボランタリーの本翻訳は、英語原文の<a href="$1">を正確に反映していない場合があります('
+  ja: 'ボランタリーの本翻訳は、英語原文の<a href="$1">を正確に反映していない場合があります('
   ru: 'Этот волонтерский перевод может быть неточным и отличаться от<a href="$1"> английского оригинала</a>.'
   de: 'Diese ehrenamtliche Übersetzung spiegelt möglicherweise nicht genau die Absichten des <a href="$1">englischen Originals</a> wider.'
   nl: 'Het is mogelijk dat deze vrijwilligers-vertaling de bedoelingen van <a href="$1">het Engelse origineel</a> niet accuraat weergeeft.'
@@ -451,7 +451,7 @@
   es: 'Esta traducción voluntaria puede que no refleje de forma adecuada las intenciones de la <a href="$1">versión original en inglés</a>.'
 
 - en: 'Translating WAI Resources'   # page title
-  ja: ‘WAIリソース翻訳’
+  ja: 'WAIリソース翻訳'
   ru: 'Перевод ресурсов WAI'
   de: 'WAI-Ressourcen übersetzen'
   nl: 'WAI-hulpbronnen vertalen'
@@ -461,7 +461,7 @@
   es: 'Recursos de traducción de WAI'
 
 - en: 'Translation updated:'
-  ja: ‘翻訳更新済’
+  ja: '翻訳更新済'
   ru: 'Перевод обновлен:'
   de: 'Übersetzung aktualisiert:'
   nl: 'Vertaling bijgewerkt:'
@@ -471,7 +471,7 @@
   es: 'Traducción actualizada:'
 
 - en: 'Translation up-to-date with the English version.'
-  ja: ‘最新英語文書の翻訳’
+  ja: '最新英語文書の翻訳'
   ru: 'Перевод соответствует английской версиии.'
   de: 'Übersetzung auf dem Stand der englischen Version.'
   nl: 'Vertaling bijgewerkt naar de Engelse versie.'
@@ -481,7 +481,7 @@
   es: 'Traducción actualizada a la última versión de la original en inglés.'
 
 - en: 'Translations'
-  ja: ‘翻訳’
+  ja: '翻訳'
   ru: 'Переводы'
   de: 'Übersetzungen'
   nl: 'Vertalingen'
@@ -491,7 +491,7 @@
   es: 'Traducciones'
 
 - en: 'Translator:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Translation'
-  ja: ‘翻訳者’
+  ja: '翻訳者'
   ru: 'Переводчик:'
   de: 'Übersetzung:'
   nl: 'Vertaler/vertaalster:'
@@ -501,7 +501,7 @@
   es: 'Traductor/a:'
 
 - en: 'Translators:'   # gender-neutral, plural
-  ja: ‘翻訳者’
+  ja: '翻訳者'
   ru: 'Переводчики:'
   de: 'Übersetzung:'
   nl: 'Vertalers/vertaalsters:'
@@ -511,7 +511,7 @@
   es: 'Traductores/as:'
 
 - en: 'WAI thanks these translators, and welcomes other <a href="$1">translations</a>.'
-  ja: ‘WAIは全ての翻訳者に感謝し、また他の<a href="$1">translations</a>も歓迎します’
+  ja: 'WAIは全ての翻訳者に感謝し、また他の<a href="$1">translations</a>も歓迎します'
   ru: 'WAI благодарит переводчиков и приглашает к участию волонтеров<a href="$1"> переводы </a>.'
   de: 'WAI dankt diesen Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.'
   nl: 'WAI bedankt deze vertalers en moedigt andere <a href="$1">vertalingen</a> aan.'
@@ -521,7 +521,7 @@
   es: 'WAI les da las gracias a estos/as traductores/as y da la bienvenida a otras <a href="$1">traducciones</a>.'
 
 - en: '[put comment here...]'   # for e-mail template
-  ja: ‘[コメント欄]’
+  ja: '[コメント欄]'
   ru: '[оставьте комментарий здесь ...]'
   de: '[Ihr Kommentar …]'
   nl: '[opmerking hier invullen...]'
@@ -531,7 +531,7 @@
   es: '[tu comentario aquí...]'
 
 - en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
-  ja: ‘[コメント欄]\n\nI 一般に公開されているemailリストへの共有'
+  ja: '[コメント欄]\n\nI 一般に公開されているemailリストへの共有'
   ru: '[оставьте комментарий здесь ...] \ n \ nЯ даю разрешение на публикацию этого текста в публичной рассылке.'
   de: '[Ihr Kommentar …]\n\nIch erteile die Erlaubnis, dies in einer öffentlich archivierten E-Mail-Liste zu übermitteln.'
   nl: '[opmerking hier invullen...]\n\nIk geef toestemming dit te delen op de publieke, gearchiveerde mailinglijst.'
@@ -562,4 +562,4 @@
   el: 'Change log'
   zh-hans: '修改日志'
   fr: 'Changements'
-  es: 'Registro de cambios'  
+  es: 'Registro de cambios'
