@@ -281,7 +281,7 @@
   es: 'Otros Recursos en'
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
-  ja: 'ご意見、ご提案、コメントをemail(mailto:{$1?subject=%s) かGitHubまでお寄せください。'
+  ja: 'ご意見、ご提案、コメントをemail [$1](mailto:{$1?subject=%s) かGitHubまでお寄せください。'
   ru: 'Пожалуйста, поделитесь своими идеями, предложениями или комментариями в публичной электронной рассылке [$ 1] (mailto: {$ 1?subject =% s) или через GitHub. '
   de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste[$1](mailto:$1?subject=%s) oder via GitHub mit.'
   nl: 'Deel alstublieft uw ideeën, suggesties of commentaar per e-mail aan de openbare, gearchiveerde mailinglijst [$1](mailto:$1?subject=%s) of via GitHub.'
@@ -532,7 +532,7 @@
 
 - en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
   ja: '[コメント欄]\n\nI 一般に公開されているemailリストへの共有'
-  ru: '[оставьте комментарий здесь ...] \ n \ nЯ даю разрешение на публикацию этого текста в публичной рассылке.'
+  ru: '[оставьте комментарий здесь ...]\n\nЯ даю разрешение на публикацию этого текста в публичной рассылке.'
   de: '[Ihr Kommentar …]\n\nIch erteile die Erlaubnis, dies in einer öffentlich archivierten E-Mail-Liste zu übermitteln.'
   nl: '[opmerking hier invullen...]\n\nIk geef toestemming dit te delen op de publieke, gearchiveerde mailinglijst.'
   el: '[σχολιάστε εδώ...]\n\nI δώστε άδεια, για να μοιραστεί αυτό σε μια δημόσια λίστα ηλεκτρονικού ταχυδρομείου.'
