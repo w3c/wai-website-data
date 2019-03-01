@@ -35,7 +35,9 @@
         hide: true
   - name: Components of Web Accessibility
     url: "/fundamentals/components/"
-  - name: Accessibility Principles
+  - name:
+      en: "Accessibility Principles"
+      fr: "Principes d’accessibilité"
     url: "/fundamentals/accessibility-principles/"
   - name: Perspectives Videos
     url: "/perspective-videos/"
