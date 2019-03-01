@@ -282,8 +282,8 @@
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
   ja: 'ご意見、ご提案、コメントをemail [$1](mailto:{$1?subject=%s) かGitHubまでお寄せください。'
-  ru: 'Пожалуйста, поделитесь своими идеями, предложениями или комментариями в публичной электронной рассылке [$ 1] (mailto: {$ 1?subject =% s) или через GitHub. '
-  de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste[$1](mailto:$1?subject=%s) oder via GitHub mit.'
+  ru: 'Пожалуйста, поделитесь своими идеями, предложениями или комментариями в публичной электронной рассылке [$1](mailto:$1?subject=%s) или через GitHub. '
+  de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste [$1](mailto:$1?subject=%s) oder via GitHub mit.'
   nl: 'Deel alstublieft uw ideeën, suggesties of commentaar per e-mail aan de openbare, gearchiveerde mailinglijst [$1](mailto:$1?subject=%s) of via GitHub.'
   el: 'Παρακαλούμε, μοιραστείτε τις ιδέες, προτάσεις ή τα σχόλιά σας μέσω ηλεκτρονικού ταχυδρομείου στη δημόσια λίστα [$1](mailto:$1?subject=%s) ή μέσω του Github.'
   zh-hans: '请通过电子邮件将您的想法、建议或意见分享到公共存档列表[$1](mailto:$1?subject=%s)或通过GitHub提交意见'
