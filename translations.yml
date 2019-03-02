@@ -10,15 +10,15 @@
   fr: 'À propos de cette traduction'
   es: 'Acerca de esta Traducción'
 
-- en: 'All Translations'   # link
+- en: 'All&nbsp;Translations'   # link – Add &nbsp; to avoid line breaks
   ja: '全ての翻訳'
-  ru: 'Все переводы'
-  de: 'Alle Übersetzungen'
-  nl: 'Alle vertalingen'
-  el: 'Όλες οι Μεταφράσεις'
+  ru: 'Все&nbsp;переводы'
+  de: 'Alle&nbsp;Übersetzungen'
+  nl: 'Alle&nbsp;vertalingen'
+  el: 'Όλες&nbsp;οι&nbsp;Μεταφράσεις'
   zh-hans: '所有翻译'
-  fr: 'Toutes les traductions'
-  es: 'Todas las Traducciones'
+  fr: 'Toutes&nbsp;les&nbsp;traductions'
+  es: 'Todas&nbsp;las&nbsp;Traducciones'
 
 - en: 'Back to Top'
   ja: '最初に戻る'
@@ -430,15 +430,15 @@
   fr: 'Ceci est une ébauche non officielle pouvant inclure du contenu en cours de validation. Le site publié se trouve à l’adresse <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
   es: 'Esta es una previsualización en borrador que no está publicada que puede incluir contenido que aún no se han aprobado. El sitio web publicado está en <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
 
-- en: 'This page in:'   # for "This page in [language], e.g,: "This page in English"
+- en: 'This&nbsp;page&nbsp;in:'   # for "This page in: [language], e.g,: "This page in: English" – Add &nbsp; to avoid line breaks
   ja: '本ページは日本語表記です'
-  ru: 'Эта страница на:'
-  de: 'Diese Seite auf:'
-  nl: 'Deze pagina in:'
-  el: 'Ο ιστότοπος αυτός σε:'
+  ru: 'Эта&nbsp;страница&nbsp;на:'
+  de: 'Diese&nbsp;Seite&nbsp;auf:'
+  nl: 'Deze&nbsp;pagina&nbsp;in:'
+  el: 'Ο&nbsp;ιστότοπος&nbsp;αυτός&nbsp;σε:'
   zh-hans: '当前语言为：'
-  fr: 'Cette page en&#8239;:'
-  es: 'Esta página en:'
+  fr: 'Cette&nbsp;page&nbsp;en&#8239;:'
+  es: 'Esta&nbsp;página&nbsp;en:'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
   ja: 'ボランタリーの本翻訳は、英語原文の<a href="$1">を正確に反映していない場合があります('
