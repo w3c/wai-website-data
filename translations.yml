@@ -547,12 +547,14 @@
   ru: Предыдущая
   nl: 'Volgende'
   zh-hans: '下一'
+  el: 'Επόμενο'
 
 - en: 'Previous'  # used for: Previous page/topic
   ja: '前ページ'
   ru: Следующая
   nl: 'Vorige'
   zh-hans: '上一'
+  el: 'Προηγούμενο'
 
 # ADDED 2019-02-21
 
@@ -561,7 +563,7 @@
   ru: Перечень изменений
   de: 'Änderungsprotokoll'
   nl: 'Changelog.'
-  el: 'Change log'
+  el: 'καταγραφή αλλαγών'
   zh-hans: '修改日志'
   fr: 'Changements'
   es: 'Registro de cambios'
