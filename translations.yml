@@ -544,14 +544,16 @@
 
 - en: 'Next'  # used for: Next page/topic
   ja: '次ページ'
-  ru: Предыдущая
+  ru: 'Предыдущая'
+  de: 'Als nächstes'
   nl: 'Volgende'
   zh-hans: '下一'
   el: 'Επόμενο'
 
 - en: 'Previous'  # used for: Previous page/topic
   ja: '前ページ'
-  ru: Следующая
+  ru: 'Следующая'
+  de: 'Zuvor'
   nl: 'Vorige'
   zh-hans: '上一'
   el: 'Προηγούμενο'
