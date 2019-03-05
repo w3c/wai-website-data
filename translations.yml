@@ -549,6 +549,7 @@
   nl: 'Volgende'
   zh-hans: '下一'
   el: 'Επόμενο'
+  fr: 'Suivant'
 
 - en: 'Previous'  # used for: Previous page/topic
   ja: '前ページ'
@@ -557,6 +558,7 @@
   nl: 'Vorige'
   zh-hans: '上一'
   el: 'Προηγούμενο'
+  fr: 'Précédent'
 
 # ADDED 2019-02-21
 
@@ -567,5 +569,5 @@
   nl: 'Changelog.'
   el: 'καταγραφή αλλαγών'
   zh-hans: '修改日志'
-  fr: 'Changements'
+  fr: 'changements'
   es: 'Registro de cambios'
