@@ -18,9 +18,13 @@
     - name:
         en: 'Video Introduction'
         de: 'Video-Einführung'
-        fr: 'Vidéo : introduction'
+        el: 'Εισαγωγή Βίντεο'
         es: 'Vídeo de Introducción'
+        fr: 'Vidéo : introduction'
+        ja: '紹介'
         nl: 'Video-introductie'
+        ru: 'Введение'
+        zh-hans: '视频介绍'
       url: /videos/standards-and-benefits/
       pages:
       - name:
