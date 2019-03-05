@@ -441,7 +441,7 @@
   es: 'Esta&nbsp;página&nbsp;en:'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
-  ja: 'ボランタリーの本翻訳は、英語原文の<a href="$1">を正確に反映していない場合があります('
+  ja: 'ボランタリーの本翻訳は、英語原文の<a href="$1">を正確に反映していない場合があります</a>'
   ru: 'Этот волонтерский перевод может быть неточным и отличаться от<a href="$1"> английского оригинала</a>.'
   de: 'Diese ehrenamtliche Übersetzung spiegelt möglicherweise nicht genau die Absichten des <a href="$1">englischen Originals</a> wider.'
   nl: 'Het is mogelijk dat deze vrijwilligers-vertaling de bedoelingen van <a href="$1">het Engelse origineel</a> niet accuraat weergeeft.'
