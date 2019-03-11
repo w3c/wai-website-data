@@ -123,6 +123,15 @@
         url: "/planning-and-managing/sustain/"
   - name: Developing an Organizational Policy
     url: "/planning/org-policies/"
+  - name: Developing an Accessibility Statement
+    url: "/planning/statements/"
+    pages:
+    - name: Generator Tool
+      url: "/planning/statements/generator/"
+    - name: Minimal Example
+      url: "/planning/statements/minimal-example/"
+    - name: Complete Example
+      url: "/planning/statements/complete-example/"
   - name: Involving Users for Better Accessibility
     url: "/planning/involving-users/"
   - name: International Laws & Policies
@@ -304,6 +313,9 @@
       url: "/standards-guidelines/wcag/faq/"
   - name: Authoring Tools – ATAG
     url: "/standards-guidelines/atag/"
+    pages:
+    - name: "At a Glance"
+      url: "/standards-guidelines/atag/glance/"
   - name: User Agents – UAAG
     url: "/standards-guidelines/uaag/"
   - name: WAI-ARIA
@@ -323,6 +335,15 @@
     url: "/standards-guidelines/linking/"
   - name: Mobile Accessibility at W3C
     url: "/standards-guidelines/mobile/"
+
+- name: News
+  mainnav: false
+  pages:
+  - name: "News"
+    url: "/news/"
+    pages:
+    - name: "Subscribe"
+      url: "/news/subscribe/"
 
 - name: "About W3C WAI"
   mainnav: false
@@ -352,6 +373,9 @@
           url: "/about/projects/wai-tools/symposium/record/"
       - name: First Open Meeting
         url: "/about/projects/wai-tools/first-open-meeting/"
+    - name: WAI Expanding Access
+      url: "https://www.w3.org/WAI/expand-access/"
+      different: true
     - name: WAI-Core 2015
       url: "https://www.w3.org/WAI/CORE2015/"
       different: true
@@ -369,7 +393,16 @@
       url: "https://www.w3.org/WAI/ARIA/"
     - name: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
       url: "/about/groups/eowg/"
+      pages:
+      - name: Participate
+        url: "/about/groups/eowg/participate/"
+      - name: Current Participants
+        url: "/about/groups/eowg/participants/"
     - name: 'WAI IG: WAI Interest Group'
       url: "/about/groups/waiig/"
     - name: 'Group Task Forces'
       url: "/about/groups/taskforces/"
+  - name: Using WAI Material
+    url: "/about/using-wai-material/"
+  - name: Accessibility Statement
+    url: "/about/accessibility-statement/"
