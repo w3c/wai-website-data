@@ -257,10 +257,10 @@
   - name: Contacting Inaccessible Websites
     url: "/teach-advocate/contact-inaccessible-websites/"
   - name: Business Case
-    url: "/teach-advocate/business-case/"
+    url: "/business-case/"
     pages:
     - name: Bibliography
-      url: "/teach-advocate/business-case/bibliography/"
+      url: "/business-case/bibliography/"
   # pages:
   #   - name: Social Factors
   #     url: "/business-case/social-factors/"
