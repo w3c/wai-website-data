@@ -336,7 +336,8 @@
   - name: Mobile Accessibility at W3C
     url: "/standards-guidelines/mobile/"
 
-- name: News
+- name:
+    en: News
   mainnav: false
   pages:
   - name: "News"
@@ -345,7 +346,8 @@
     - name: "Subscribe"
       url: "/news/subscribe/"
 
-- name: "About W3C WAI"
+- name:
+    en: "About W3C WAI"
   mainnav: false
   pages:
   - name: About WAI
