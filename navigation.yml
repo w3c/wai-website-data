@@ -327,12 +327,16 @@
       url: "/standards-guidelines/act/"
     - name: Evaluation and Report Language – EARL
       url: "/standards-guidelines/earl/"
+  - name: Personalization
+    url: "/personalization/"
   - name: Standards Harmonization is Essential
     url: "/standards-guidelines/harmonization/"
   - name: W3C Process for Developing Standards
     url: "/standards-guidelines/w3c-process/"
   - name: Referencing and Linking to Standards
     url: "/standards-guidelines/linking/"
+  - name: Cognitive
+    url: "/cognitive/"
   - name: Mobile Accessibility at W3C
     url: "/standards-guidelines/mobile/"
 
