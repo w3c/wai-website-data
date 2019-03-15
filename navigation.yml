@@ -274,7 +274,7 @@
   #     url: "/business-case/resources/"
 
 - name:
-    en: 'Standards/Guidelines'
+    en: 'Standards/<wbr>Guidelines'
     # de: 'Normen/Richtlinien'
     # fr: 'Normes/lignes directrices'
     # es: 'Normas/directrices'
