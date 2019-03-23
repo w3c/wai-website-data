@@ -12,7 +12,7 @@
   es: 'Acerca de esta Traducción'
 
 - en: 'All&nbsp;Translations'   # link = 'All Translations' with &nbsp; between words to avoid line breaks
-  ar: 'كل الترجمات'
+  ar: 'كل&nbsp;الترجمات'
   ja: '全ての翻訳'
   ru: 'Все&nbsp;переводы'
   de: 'Alle&nbsp;Übersetzungen'
@@ -474,7 +474,7 @@
   es: 'Esta es una previsualización en borrador que no está publicada que puede incluir contenido que aún no se han aprobado. El sitio web publicado está en <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
 
 - en: 'This&nbsp;page&nbsp;in:'   # "This page in:" with &nbsp; between words to avoid line breaks (for top "This page in: English...")
-  ar: 'هذه الصفحة بـ:'
+  ar: 'هذه&nbsp;الصفحة&nbsp;بـ:'
   ja: '本ページは日本語表記です'
   ru: 'Эта&nbsp;страница&nbsp;на:'
   de: 'Diese&nbsp;Seite&nbsp;auf:'
