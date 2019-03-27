@@ -372,6 +372,8 @@
     - name: WAI-Tools
       url: "/about/projects/wai-tools/"
       pages:
+      - name: Second Open Meeting
+        url: "/about/projects/wai-tools/second-open-meeting/"
       - name: Online Symposium
         url: "/about/projects/wai-tools/symposium/"
         pages:
