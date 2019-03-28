@@ -561,7 +561,7 @@
   fr: 'Traducteurs&#8239;:'
   es: 'Traductores/as:'
 
-- en: 'WAI thanks these translators, and welcomes other <a href="$1">translations</a>.'
+- en: 'WAI thanks translators, and welcomes other <a href="$1">translations</a>.'   # UPDATED 18-Mar-2019 "WAI thanks these translators" -> "WAI thanks translators"
   ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
   ja: 'WAIは全ての翻訳者に感謝し、また他の<a href="$1">translations</a>も歓迎します'
   ru: 'WAI благодарит переводчиков и приглашает к участию волонтеров<a href="$1"> переводы </a>.'
