@@ -166,7 +166,7 @@
   es: 'Sitio Externo'
 
 - en: 'Fork &amp; Edit on GitHub'   # "&amp;" is code for the "&" character. If you don't use & in your language, do not include &amp; in your translation.
-  ar: 'تفرع &amp; وتحرير على GitHub'
+  ar: 'تفرع وتحرير على GitHub'
   ja: '&ampをフォーク; GitHubを編集'
   ru: 'Отделить ветку &amp; Редактировать на GitHub'
   de: 'Forken &amp; editieren auf GitHub'
