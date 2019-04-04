@@ -565,7 +565,7 @@
   ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
   ja: 'WAIは全ての翻訳者に感謝し、また他の<a href="$1">translations</a>も歓迎します'
   ru: 'WAI благодарит переводчиков и приглашает к участию волонтеров<a href="$1"> переводы </a>.'
-  de: 'WAI dankt diesen Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.'
+  de: 'WAI dankt Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.' # UPDATED 2019-04-04
   nl: 'WAI bedankt deze vertalers en moedigt andere <a href="$1">vertalingen</a> aan.'
   el: 'Το WAI ευχαριστεί αυτούς τους μεταφραστές και χαιρετίζει κι άλλες <a href="$1">μεταφράσεις</a>.'
   zh-hans: 'WAI感谢这些翻译者们，并欢迎其他的<a href="$1">翻译</a>。'
