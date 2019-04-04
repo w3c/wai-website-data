@@ -17,6 +17,7 @@
     pages:
     - name:
         en: 'Video Introduction'
+        ar: 'مقدمة فيديو'
         de: 'Video-Einführung'
         el: 'Εισαγωγή Βίντεο'
         es: 'Vídeo de Introducción'
