@@ -22,7 +22,7 @@
   zh-hans: '所有翻译'
   fr: 'Toutes&nbsp;les&nbsp;traductions'
   es: 'Todas&nbsp;las&nbsp;Traducciones'
-  ko: '모든 번역'
+  ko: '모든&nbsp;번역'
 
 - en: 'Back to Top'
   ar: 'العودة إلى الأعلى'
@@ -130,7 +130,7 @@
   zh-hans: '邮件'
   fr: 'Courriel'
   es: 'Correo Electrónico'
-  ko: '이메일'
+  ko: 'E-mail'
 
 - en: 'Enable Audio Description'
   ar: 'تفعيل الوصف الصوتي'
@@ -526,7 +526,7 @@
   zh-hans: '当前语言为：'
   fr: 'Cette&nbsp;page&nbsp;en&#8239;:'
   es: 'Esta&nbsp;página&nbsp;en:'
-  ko: '현재 번역 언어:' 
+  ko: '현재&nbsp;번역&nbsp;언어:' 
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
   ar: 'قد لا تعكس هذه الترجمة التطوعية بدقة قصد <a href="$1">الإنجليزية الأصلية</a>.'
