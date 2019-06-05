@@ -40,6 +40,11 @@
         hide: true
   - name: Components of Web Accessibility
     url: "/fundamentals/components/"
+    pages:
+    - name:
+        en: Illustration Descriptions
+      url: "/fundamentals/components/examples/"
+      hide: true
   - name:
       en: "Accessibility Principles"
       fr: "Principes d’accessibilité"
