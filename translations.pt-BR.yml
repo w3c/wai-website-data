@@ -37,7 +37,7 @@
   fr: 'Retour en haut de page'
   es: 'Ir Arriba'
   ko: '위로 가기'
-  pt-BR: 'Sobre essa tradução'
+  pt-BR: 'Voltar para o topo'
 
 - en: 'Breadcrumb'   # aria-label for breadcrumb navigation
   ar: 'علامات التتبع'
@@ -622,7 +622,7 @@
   fr: 'Traduction à jour par rapport à la version anglaise.'
   es: 'Traducción actualizada a la última versión de la original en inglés.'
   ko: '최근 영어 버전과 함께 업데이트되었습니다.'
-  pt-BR: 'Tradução atualizada com a última versão inglesa.' 
+  pt-BR: 'Tradução atualizada com a última versão em inglês.' 
 
 - en: 'Translations'
   ar: 'ترجمات'
@@ -700,7 +700,7 @@
   fr: '[votre commentaire ici...]\n\nJ’accepte que ceci soit partagé sur une liste de courriels archivée publiquement.'
   es: '[tu comentario aquí...]\n\nConsiento el compartirlo en una lista de correo pública con archivo.'   # for e-mail template
   ko: '[여기에 코멘트를 남기세요...]\n\n이 메일이 공개적으로 보관되는 이메일 목록에 공유되는 것을 동의합니다.'
-  pt-BR: '[seu comentário aqui...]\n\nConcedo permissão de compartilhar isso para uma lista de email pública com arquivo.' 
+  pt-BR: '[seu comentário aqui...]\n\nConcedo permissão de compartilhar isto para uma lista de email pública com arquivo.' 
 
 # ADDED 2019-02-20
 
@@ -726,7 +726,7 @@
   el: 'Προηγούμενο'
   fr: 'Précédent'
   ko: '이전'
-  pt-BR: 'Precedente' 
+  pt-BR: 'Anterior' 
 
 # ADDED 2019-02-21
 
