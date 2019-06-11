@@ -11,6 +11,7 @@
   fr: 'À propos de cette traduction'
   es: 'Acerca de esta Traducción'
   ko: '번역 정보'
+  pt-br: 'Sobre essa tradução'
 
 - en: 'All&nbsp;Translations'   # link = 'All Translations' with &nbsp; between words to avoid line breaks
   ar: 'كل&nbsp;الترجمات'
@@ -23,6 +24,7 @@
   fr: 'Toutes&nbsp;les&nbsp;traductions'
   es: 'Todas&nbsp;las&nbsp;Traducciones'
   ko: '모든&nbsp;번역'
+  pt-br: 'Todas&nbsp;as&nbsp;traduções'
 
 - en: 'Back to Top'
   ar: 'العودة إلى الأعلى'
@@ -35,6 +37,7 @@
   fr: 'Retour en haut de page'
   es: 'Ir Arriba'
   ko: '위로 가기'
+  pt-br: 'Sobre essa tradução'
 
 - en: 'Breadcrumb'   # aria-label for breadcrumb navigation
   ar: 'علامات التتبع'
@@ -47,6 +50,7 @@
   fr: 'Chemin de fer'
   es: 'Miga de pan'
   ko: '페이지 경로'
+  pt-br: 'Migalha de Pão'
   
 - en: 'Change Text Size or Colors'
   ar: 'تغيير حجم النص أو الألوان'
@@ -59,6 +63,7 @@
   fr: 'Changer la taille ou la couleur du texte'
   es: 'Cambiar Tamaño del Texto o los Colores'
   ko: '글자크기와 색상 바꾸기'
+  pt-br: 'Mudar o Tamanho do Texto ou as Cores'
 
 - en: 'Contributor:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Contribution'
   ar: 'المساهمة:'
@@ -71,6 +76,7 @@
   fr: 'Contribution&#8239;:'
   es: 'Colaborador/a:'
   ko: '기여한 사람'
+  pt-br: 'Colaborador/a:'
 
 - en: 'Contributors:'   # gender-neutral, plural
   ar: 'المساهمات:'
@@ -83,6 +89,7 @@
   fr: 'Contributeurs&#8239;:'
   es: 'Colaboradores/as:'
   ko: '기여한 사람들'
+  pt-br: 'Colaboradores/as:'
 
 - en: 'Copyright'
   ar: 'حق النشر'
@@ -95,6 +102,7 @@
   fr: 'Copyright'
   es: 'Derechos de autor'
   ko: '저작권'
+  pt-br: 'Direitos do Autor'
 
 - en: 'Different View'   # alt text for icon that indicates link goes to page without WAI site navigation
   ar: 'عرض مختلف'
@@ -107,6 +115,7 @@
   fr: 'Présentation différente'
   es: 'Vista Diferente'
   ko: '다른 화면'
+  pt-br: 'Visualização Diferente'
 
 - en: 'Disable Audio Description'
   ar: 'تعطيل الوصف الصوتي'
@@ -119,6 +128,7 @@
   fr: 'Désactiver l’audio-description'
   es: 'Deshabilitar Descripción de Audio'
   ko: '오디오 설명 사용하지 않기'
+  pt-br: 'Desativar Descrição do Audio'
 
 - en: 'E-mail'
   ar: 'البريد الإلكتروني'
@@ -131,6 +141,7 @@
   fr: 'Courriel'
   es: 'Correo Electrónico'
   ko: 'E-mail'
+  pt-br: 'E-mail'
 
 - en: 'Enable Audio Description'
   ar: 'تفعيل الوصف الصوتي'
@@ -143,6 +154,7 @@
   fr: 'Activer l’audio-description'
   es: 'Habilitar Descripción de Audio'
   ko: '오디오 설명 사용하기'
+  pt-br: 'Ativar a Descrição do Audio'
 
 - en: 'English updated:'
   ar: 'إنجليزية المحدثة:'
@@ -155,6 +167,7 @@
   fr: 'Version anglaise mise à jour le&#8239;:'
   es: 'Versión en inglés actualizada:'
   ko: '영문 업데이트:'
+  pt-br: 'Versão em inglês atualizada:'
 
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'
   ar: 'تم تحديث النسخة الإنجليزية منذ هذه الترجمة:<a href="$1">سجل التغيير</a>'
@@ -167,6 +180,7 @@
   fr: 'Version anglaise mise à jour depuis cette traduction&#8239;: <a href="$1">changements</a>.'
   es: 'Versión en inglés actualizada posteriormente a esta traducción: <a href="$1">registro de cambios</a>.'
   ko: '영문 버전이 다음 번역 이후로 업데이트되었습니다.: <a href="$1">변경 기록</a>'
+  pt-br: 'Versão em inglês atualizada posteriormente a esta tradução: <a href="$1">registro de mudanças</a>.'
 
 - en: 'External Site'   # alt text for icon that indicates link goes off WAI site
   ar: 'الموقع الخارجي'
@@ -178,7 +192,8 @@
   zh-hans: '外部站点'
   fr: 'Site externe'
   es: 'Sitio Externo'
-  ko: '외부 사이트'  
+  ko: '외부 사이트'
+  pt-br: 'Site Externo'
 
 - en: 'Fork &amp; Edit on GitHub'   # "&amp;" is code for the "&" character. If you don't use & in your language, do not include &amp; in your translation.
   ar: 'تفرع وتحرير على GitHub'
@@ -191,6 +206,7 @@
   fr: 'Cloner et modifier sur GitHub'
   es: 'Fork y Editar en GitHub'
   ko: 'GitHub에서 Fork 및 수정하기'
+  pt-br: 'Fork e Editar no Github'
 
 - en: 'Help improve this page'   # heading for box with links to e-mail and GitHub
   ar: 'لمساعدة تحسين هذه الصفحة'
@@ -202,7 +218,8 @@
   zh-hans: '帮助提升本页'
   fr: 'Aider à améliorer cette page'
   es: 'Ayuda a mejorar esta página'
-  ko: '이 페이지 개선에 참여하기'  
+  ko: '이 페이지 개선에 참여하기'
+  pt-br: 'Ajude a melhorar esta página'
 
 - en: 'Hide'   # for show/hide toggle
   ar: 'إخفاء'
@@ -215,6 +232,7 @@
   fr: 'Cacher'
   es: 'Ocultar'
   ko: '숨기기'
+  pt-br: 'Ocultar'
 
 - en: 'Hide Languages'     # for show/hide languages
   ar: 'إخفاء اللغات'
@@ -227,6 +245,7 @@
   fr: 'Cacher les langues'
   es: 'Ocultar Idiomas'
   ko: '언어 숨기기'
+  pt-br: 'Ocultar Idiomas'
 
 - en: 'Hide Options'     # for show/hide options
   ar: 'إخفاء الخيارات'
@@ -239,6 +258,7 @@
   fr: 'Cacher les options'
   es: 'Ocultar Opciones'
   ko: '옵션 숨기기'
+  pt-br: 'Ocultar Opções'
 
 - en: 'Home'
   ar: 'الصفحة الرئيسية'
@@ -251,6 +271,7 @@
   fr: 'Page d’accueil'
   es: 'Portada'
   ko: '메인'
+  pt-br: 'Pagina Inicial'
 
 - en: 'in English'
   ar: 'باللغة الإنجليزية'
@@ -263,6 +284,7 @@
   fr: 'en anglais'
   es: 'en Inglés'
   ko: '영어'
+  pt-br: 'em Inglês'
 
 - en: 'Languages/Translations'   # if "/" doesn't work well, could use a comma (,)
   ar: 'لغات وترجمات'
@@ -274,7 +296,8 @@
   zh-hans: '语言/翻译'
   fr: 'Langues/Traductions'
   es: 'Idiomas/Traducciones'
-  ko: '언어/번역'  
+  ko: '언어/번역'
+  pt-br: 'Idiomas/Traduções'
 
 - en: 'Main'   # aria-label for main navigation
   ar: 'الرئيسي'
@@ -287,6 +310,7 @@
   fr: 'Navigation principale'
   es: 'Principal'
   ko: '주메뉴'
+  pt-br: ''
 
 - en: 'Menu'
   ar: 'قائمة'
