@@ -11,6 +11,7 @@
   fr: 'À propos de cette traduction'
   es: 'Acerca de esta Traducción'
   ko: '번역 정보'
+  pt-BR: 'Sobre esta tradução'
 
 - en: 'All&nbsp;Translations'   # link = 'All Translations' with &nbsp; between words to avoid line breaks
   ar: 'كل&nbsp;الترجمات'
@@ -23,6 +24,7 @@
   fr: 'Toutes&nbsp;les&nbsp;traductions'
   es: 'Todas&nbsp;las&nbsp;Traducciones'
   ko: '모든&nbsp;번역'
+  pt-BR: 'Todas&nbsp;as&nbsp;traduções'
 
 - en: 'Back to Top'
   ar: 'العودة إلى الأعلى'
@@ -35,6 +37,7 @@
   fr: 'Retour en haut de page'
   es: 'Ir Arriba'
   ko: '위로 가기'
+  pt-BR: 'Voltar para o topo'
 
 - en: 'Breadcrumb'   # aria-label for breadcrumb navigation
   ar: 'علامات التتبع'
@@ -47,6 +50,7 @@
   fr: 'Chemin de fer'
   es: 'Miga de pan'
   ko: '페이지 경로'
+  pt-BR: 'Migalha de Pão'
   
 - en: 'Change Text Size or Colors'
   ar: 'تغيير حجم النص أو الألوان'
@@ -59,6 +63,7 @@
   fr: 'Changer la taille ou la couleur du texte'
   es: 'Cambiar Tamaño del Texto o los Colores'
   ko: '글자크기와 색상 바꾸기'
+  pt-BR: 'Mudar o Tamanho do Texto ou as Cores'
 
 - en: 'Contributor:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Contribution'
   ar: 'المساهمة:'
@@ -71,6 +76,7 @@
   fr: 'Contribution&#8239;:'
   es: 'Colaborador/a:'
   ko: '기여한 사람'
+  pt-BR: 'Colaborador/a:'
 
 - en: 'Contributors:'   # gender-neutral, plural
   ar: 'المساهمات:'
@@ -83,6 +89,7 @@
   fr: 'Contributeurs&#8239;:'
   es: 'Colaboradores/as:'
   ko: '기여한 사람들'
+  pt-BR: 'Colaboradores/as:'
 
 - en: 'Copyright'
   ar: 'حق النشر'
@@ -95,6 +102,7 @@
   fr: 'Copyright'
   es: 'Derechos de autor'
   ko: '저작권'
+  pt-BR: 'Direitos do Autor'
 
 - en: 'Different View'   # alt text for icon that indicates link goes to page without WAI site navigation
   ar: 'عرض مختلف'
@@ -107,6 +115,7 @@
   fr: 'Présentation différente'
   es: 'Vista Diferente'
   ko: '다른 화면'
+  pt-BR: 'Visualização Diferente'
 
 - en: 'Disable Audio Description'
   ar: 'تعطيل الوصف الصوتي'
@@ -119,6 +128,7 @@
   fr: 'Désactiver l’audio-description'
   es: 'Deshabilitar Descripción de Audio'
   ko: '오디오 설명 사용하지 않기'
+  pt-BR: 'Desativar Descrição do Audio'
 
 - en: 'E-mail'
   ar: 'البريد الإلكتروني'
@@ -131,6 +141,7 @@
   fr: 'Courriel'
   es: 'Correo Electrónico'
   ko: 'E-mail'
+  pt-BR: 'E-mail'
 
 - en: 'Enable Audio Description'
   ar: 'تفعيل الوصف الصوتي'
@@ -143,6 +154,7 @@
   fr: 'Activer l’audio-description'
   es: 'Habilitar Descripción de Audio'
   ko: '오디오 설명 사용하기'
+  pt-BR: 'Ativar a Descrição do Audio'
 
 - en: 'English updated:'
   ar: 'إنجليزية المحدثة:'
@@ -155,6 +167,7 @@
   fr: 'Version anglaise mise à jour le&#8239;:'
   es: 'Versión en inglés actualizada:'
   ko: '영문 업데이트:'
+  pt-BR: 'Versão em inglês atualizada:'
 
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'
   ar: 'تم تحديث النسخة الإنجليزية منذ هذه الترجمة:<a href="$1">سجل التغيير</a>'
@@ -167,6 +180,7 @@
   fr: 'Version anglaise mise à jour depuis cette traduction&#8239;: <a href="$1">changements</a>.'
   es: 'Versión en inglés actualizada posteriormente a esta traducción: <a href="$1">registro de cambios</a>.'
   ko: '영문 버전이 다음 번역 이후로 업데이트되었습니다.: <a href="$1">변경 기록</a>'
+  pt-BR: 'Versão em inglês atualizada posteriormente a esta tradução: <a href="$1">registro de mudanças</a>.'
 
 - en: 'External Site'   # alt text for icon that indicates link goes off WAI site
   ar: 'الموقع الخارجي'
@@ -178,7 +192,8 @@
   zh-hans: '外部站点'
   fr: 'Site externe'
   es: 'Sitio Externo'
-  ko: '외부 사이트'  
+  ko: '외부 사이트'
+  pt-BR: 'Site Externo'
 
 - en: 'Fork &amp; Edit on GitHub'   # "&amp;" is code for the "&" character. If you don't use & in your language, do not include &amp; in your translation.
   ar: 'تفرع وتحرير على GitHub'
@@ -191,6 +206,7 @@
   fr: 'Cloner et modifier sur GitHub'
   es: 'Fork y Editar en GitHub'
   ko: 'GitHub에서 Fork 및 수정하기'
+  pt-BR: 'Fork e Editar no Github'
 
 - en: 'Help improve this page'   # heading for box with links to e-mail and GitHub
   ar: 'لمساعدة تحسين هذه الصفحة'
@@ -202,7 +218,8 @@
   zh-hans: '帮助提升本页'
   fr: 'Aider à améliorer cette page'
   es: 'Ayuda a mejorar esta página'
-  ko: '이 페이지 개선에 참여하기'  
+  ko: '이 페이지 개선에 참여하기'
+  pt-BR: 'Ajude a melhorar esta página'
 
 - en: 'Hide'   # for show/hide toggle
   ar: 'إخفاء'
@@ -215,6 +232,7 @@
   fr: 'Cacher'
   es: 'Ocultar'
   ko: '숨기기'
+  pt-BR: 'Ocultar'
 
 - en: 'Hide Languages'     # for show/hide languages
   ar: 'إخفاء اللغات'
@@ -227,6 +245,7 @@
   fr: 'Cacher les langues'
   es: 'Ocultar Idiomas'
   ko: '언어 숨기기'
+  pt-BR: 'Ocultar Idiomas'
 
 - en: 'Hide Options'     # for show/hide options
   ar: 'إخفاء الخيارات'
@@ -239,6 +258,7 @@
   fr: 'Cacher les options'
   es: 'Ocultar Opciones'
   ko: '옵션 숨기기'
+  pt-BR: 'Ocultar Opções'
 
 - en: 'Home'
   ar: 'الصفحة الرئيسية'
@@ -251,6 +271,7 @@
   fr: 'Page d’accueil'
   es: 'Portada'
   ko: '메인'
+  pt-BR: 'Pagina Inicial'
 
 - en: 'in English'
   ar: 'باللغة الإنجليزية'
@@ -263,6 +284,7 @@
   fr: 'en anglais'
   es: 'en Inglés'
   ko: '영어'
+  pt-BR: 'em Inglês'
 
 - en: 'Languages/Translations'   # if "/" doesn't work well, could use a comma (,)
   ar: 'لغات وترجمات'
@@ -274,7 +296,8 @@
   zh-hans: '语言/翻译'
   fr: 'Langues/Traductions'
   es: 'Idiomas/Traducciones'
-  ko: '언어/번역'  
+  ko: '언어/번역'
+  pt-BR: 'Idiomas/Traduções'
 
 - en: 'Main'   # aria-label for main navigation
   ar: 'الرئيسي'
@@ -287,6 +310,7 @@
   fr: 'Navigation principale'
   es: 'Principal'
   ko: '주메뉴'
+  pt-BR: 'Principal'
 
 - en: 'Menu'
   ar: 'قائمة'
@@ -299,6 +323,7 @@
   fr: 'Menu'
   es: 'Menú'
   ko: '메뉴'
+  pt-BR: 'Menu'
 
 - en: 'New GitHub Issue'
   ar: 'قضية جديدة على Github'
@@ -311,6 +336,7 @@
   fr: 'Nouveau ticket sur GitHub'
   es: 'Nueva Incidencia de GitHub'
   ko: '새로운 GitHub 이슈'
+  pt-BR: 'Novo incidente no GitHub'
 
 - en: 'Other Pages in this Resource'   # aria-label for certain secondary navigations
   ar: 'صفحات أخرى في هذا الموقع'
@@ -323,6 +349,7 @@
   fr: 'Autres pages dans cette ressource'
   es: 'Otras Páginas en este Recurso'
   ko: '이 자료의 다른 페이지'
+  pt-BR: 'Outras Páginas em esse Recurso'
 
 - en: 'Other Resources in'   # for "Other Resource in [language], e.g,: "Other Resources in English"
   ar: 'الموارد الأخرى بـ'
@@ -335,6 +362,7 @@
   fr: 'Autres ressources en'
   es: 'Otros Recursos en'
   ko: '다음 언어로 번역된 다른 자료 :'
+  pt-BR: 'Outros Recursos em' 
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
   ar: ' المرجو المشاركة بأفكار أو اقتراحات أو تعليقات عبر البريد الإلكتروني إلى القائمة بالأرشيف العام [$1](mailto:{$1?subject=%s) أو عبر GitHub'
@@ -347,6 +375,7 @@
   fr: 'Merci de partager vos idées, vos suggestions ou vos commentaires par courriel à la liste archivée publiquement [$1](mailto:$1?subject=%s) ou via GitHub.'
   es: 'Comparte tus ideas, sugerencias o comentarios por correo electrónico a la lista pública [$1](mailto:$1?subject=%s) o vía GitHub.'
   ko: '당신의 아이디어와 제안, 의견 등을 공개적으로 보관되는 [$1](mailto:$1?subject=%s)나 GitHub을 통해 공유해주세요.'
+  pt-BR: 'Compartilhe suas ideias, sugestões ou comentários por e-mail para a lista pública [$1](mailto:$1?subject=%s) ou via GitHub.'
 
 - en: 'Previous/Next Page'   # aria-label for prev/next page
   ar: 'الصفحة السالفة / التالية'
@@ -358,7 +387,8 @@
   zh-hans: '前一页/下一页'
   fr: 'Page précédente/page suivante'
   es: 'Página Anterior/Siguiente'
-  ko: '이전/다음 페이지'  
+  ko: '이전/다음 페이지'
+  pt-BR: 'Pagina Anterior/Seguinte'  
 
 - en: 'Reviewer' #gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural
   ar: 'المراجعة'
@@ -371,6 +401,7 @@
   fr: 'Relecture'
   es: 'Página Anterior/Siguiente'
   ko: '검토한 사람'
+  pt-BR: 'Revisor/a'
 
 - en: 'Reviewers' #gender-neutral, plural
   ar: 'المراجعات'
@@ -383,6 +414,7 @@
   fr: 'Relecteurs'
   es: 'Revisores/as'
   ko: '검토한 사람들'
+  pt-BR: 'Revisores/as'
 
 - en: 'Search'   # Search box field label
   ar: 'بحث'
@@ -395,6 +427,7 @@
   fr: 'Recherche'
   es: 'Buscar'
   ko: '찾기'
+  pt-BR: 'Buscar'
 
 - en: 'Secondary'   # aria-label for secondary navigation
   ar: 'الثانوي'
@@ -407,6 +440,7 @@
   fr: 'Navigation secondaire'
   es: 'Secundario'
   ko: '두번째'
+  pt-BR: 'Secundário'
 
 - en: 'Select Language, Translations'   # for show/hide toggle
   ar: 'اختيار اللغة والترجمات'
@@ -419,6 +453,7 @@
   fr: 'Choisir la langue, les traductions'
   es: 'Selecciona Idioma, Traducciones'
   ko: '언어, 번역을 선택하세요.'
+  pt-BR: 'Selecione Idioma, Traduções'
 
 - en: 'Show Customization, Languages, Translations'   # for show/hide toggle
   ar: 'إظهار التخصيص واللغات والترجمات'
@@ -431,6 +466,7 @@
   fr: 'Afficher la personnalisation, les langues et les traductions'
   es: 'Mostrar Personalización, Idiomas, Traducciones'
   ko: '사용자정의, 언어, 번역 보기'
+  pt-BR: 'Mostrar Customizações, Idiomas, Traduções'
 
 - en: 'Show Languages'   # for show/hide toggle
   ar: 'إظهار اللغات'
@@ -443,6 +479,7 @@
   fr: 'Afficher les langues'
   es: 'Mostrar Idiomas'
   ko: '언어 보기'
+  pt-BR: 'Mostrar Idiomas'
 
 - en: 'Skip Link and Language Selector'   # aria-label for top navigation [this will probably change…]
   ar: 'تخطي الرابط ومحدد اللغة'
@@ -455,6 +492,7 @@
   fr: 'Liens d’évitement et sélecteur de langue'
   es: 'Saltar Enlace y Selector de Idioma'
   ko: '링크 건너뛰기와 언어 선택'
+  pt-BR: 'Pular Link e Seletor de Idioma'
 
 - en: 'Skip to Content'
   ar: 'انتقال إلى المضمون'
@@ -467,6 +505,7 @@
   fr: 'Aller directement au contenu'
   es: 'Saltar al Contenido'
   ko: '콘텐츠로 넘어가기'
+  pt-BR: 'Pular para o conteúdo'
 
 - en: 'Strategies, standards, and supporting resources to make the Web accessible to people with disabilities.'
   ar: 'ستراتيجيات ومعايير وموارد داعمة لجعل الويب في متناول الأشخاص ذوي الإعاقات.'
@@ -478,7 +517,8 @@
   zh-hans: '使残疾人能够访问Web的策略、标准和支持资源。'
   fr: 'Stratégies, standards et ressources pour rendre le Web accessible aux personnes en situation de handicap.'
   es: 'Estrategias, estándares y materiales de apoyo para hacer la Web accesible para gente con discapacidades.'
-  ko: '장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원 지원'  
+  ko: '장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원 지원'
+  pt-BR: 'Estratégias, padrões, e materiais de apoio para fazer a Web accessivel para pessoas com deficiência.'
 
 - en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'   # tagline in header, shorter version of previous line, please make as short as feasible -- even if not grammatically correct (e.g., no "and" after "Strategies, standards,")
   ar: 'ستراتيجيات ومعايير وموارد لجعل الويب في متناول الأشخاص ذوي الإعاقات'
@@ -491,6 +531,7 @@
   fr: 'Stratégies, standards, ressources pour un Web accessible aux personnes en situation de handicap.'
   es: 'Estrategias, estándares y materiales para hacer la Web accesible para gente con discapacidades.'
   ko: 장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원'
+  pt-BR: 'Estratégias, padrões, e materiais para fazer a Web accessivel para pessoas com deficiência.'
 
 - en: 'Submit Search'
   ar: 'إرسال البحث'
@@ -502,7 +543,8 @@
   zh-hans: '提交搜索'
   fr: 'Lancer la recherche'
   es: 'Enviar Búsqueda'
-  ko: '찾기'  
+  ko: '찾기'
+  pt-BR: 'Realizar Busca'
 
 - en: 'This is an unpublished draft preview that might include content that is not yet approved. The published website is at <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
   ar: 'هذا عرض مسبق لمسودة غير منشورة قد تتضمن محتوى لم تتم الموافقة عليه بعد. الموقع المنشور موجود على'
@@ -515,6 +557,7 @@
   fr: 'Ceci est une ébauche non officielle pouvant inclure du contenu en cours de validation. Le site publié se trouve à l’adresse <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
   es: 'Esta es una previsualización en borrador que no está publicada que puede incluir contenido que aún no se han aprobado. El sitio web publicado está en <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
   ko: '공식적으로 배포되지 않은 초안으로 아직 승인되지 않은 콘텐츠를 담고 있을 수 있습니다. 공식 사이트는 <a href="https://www.w3.org/WAI/">w3.org/WAI/</a> 입니다.'
+  pt-BR: 'Este é uma pre-visualização de um rascunho que pode incluir conteudo que ainda não foi aprovado. O site publicado está em <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
 
 - en: 'This&nbsp;page&nbsp;in:'   # "This page in:" with &nbsp; between words to avoid line breaks (for top "This page in: English...")
   ar: 'هذه&nbsp;الصفحة&nbsp;بـ:'
@@ -526,7 +569,8 @@
   zh-hans: '当前语言为：'
   fr: 'Cette&nbsp;page&nbsp;en&#8239;:'
   es: 'Esta&nbsp;página&nbsp;en:'
-  ko: '현재&nbsp;번역&nbsp;언어:' 
+  ko: '현재&nbsp;번역&nbsp;언어:'
+  pt-BR: 'Essa&nbsp;pagina&nbsp;em:' 
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
   ar: 'قد لا تعكس هذه الترجمة التطوعية بدقة قصد <a href="$1">الإنجليزية الأصلية</a>.'
@@ -538,7 +582,8 @@
   zh-hans: '该志愿翻译可能不能准确地反映出<a href="$1">英文原版内容</a>。'
   fr: 'Cette traduction faite par des volontaires peut ne pas refléter les intentions de <a href="$1">l’original en anglais</a>.'
   es: 'Esta traducción voluntaria puede que no refleje de forma adecuada las intenciones de la <a href="$1">versión original en inglés</a>.'
-  ko: '이 자원 번역자는 <a href="$1">영어 원문</a>의 의도를 정확하게 나타내지 않았을 수 있습니다.' 
+  ko: '이 자원 번역자는 <a href="$1">영어 원문</a>의 의도를 정확하게 나타내지 않았을 수 있습니다.'
+  pt-BR: 'Esta tradução voluntária pode não refletir de forma adequada as intenções da <a href="$1">versão original em ingles.</a>' 
 
 - en: 'Translating WAI Resources'   # page title
   ar: 'ترجمة موارد WAI'
@@ -550,7 +595,8 @@
   zh-hans: '翻译WAI的资源'
   fr: 'Traduire les ressources de WAI'
   es: 'Recursos de traducción de WAI'
-  ko: 'WAI 자료 번역하기'   
+  ko: 'WAI 자료 번역하기'
+  pt-BR: 'Recursos de tradução de WAI'   
 
 - en: 'Translation updated:'
   ar: 'ترجمة محدثة:'
@@ -562,7 +608,8 @@
   zh-hans: '翻译更新'
   fr: 'Traduction mise à jour&#8239;:'
   es: 'Traducción actualizada:'
-  ko: '번역 업데이트:' 
+  ko: '번역 업데이트:'
+  pt-BR: 'Tradução atualizada:' 
 
 - en: 'Translation up-to-date with the English version.'
   ar: 'ترجمة محدثة مع النسخة الإنجليزية.'
@@ -574,7 +621,8 @@
   zh-hans: '该翻译已与英文版本同步。'
   fr: 'Traduction à jour par rapport à la version anglaise.'
   es: 'Traducción actualizada a la última versión de la original en inglés.'
-  ko: '최근 영어 버전과 함께 업데이트되었습니다.' 
+  ko: '최근 영어 버전과 함께 업데이트되었습니다.'
+  pt-BR: 'Tradução atualizada com a última versão em inglês.' 
 
 - en: 'Translations'
   ar: 'ترجمات'
@@ -586,7 +634,8 @@
   zh-hans: '翻译'
   fr: 'Traductions'
   es: 'Traducciones'
-  ko: '번역' 
+  ko: '번역'
+  pt-BR: 'Traduções' 
 
 - en: 'Translator:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Translation'
   ar: 'الترجمة:'
@@ -598,7 +647,8 @@
   zh-hans: '翻译者：'
   fr: 'Traduction&#8239;:'
   es: 'Traductor/a:'
-  ko: '번역한 사람' 
+  ko: '번역한 사람'
+  pt-BR: 'Tradutor' 
 
 - en: 'Translators:'   # gender-neutral, plural
   ar: 'ال ترجمات:'
@@ -610,7 +660,8 @@
   zh-hans: '翻译者们：'
   fr: 'Traducteurs&#8239;:'
   es: 'Traductores/as:'
-  ko: '번역한 사람들' 
+  ko: '번역한 사람들'
+  pt-BR: 'Tradutores' 
 
 - en: 'WAI thanks translators, and welcomes other <a href="$1">translations</a>.'   # UPDATED 18-Mar-2019 "WAI thanks these translators" -> "WAI thanks translators"
   ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
@@ -622,7 +673,8 @@
   zh-hans: 'WAI感谢这些翻译者们，并欢迎其他的<a href="$1">翻译</a>。'
   fr: 'WAI remercie ces traducteurs, et accueille volontiers d’autres <a href="$1">traductions</a>.'
   es: 'WAI les da las gracias a estos/as traductores/as y da la bienvenida a otras <a href="$1">traducciones</a>.'
-  ko: 'WAI는 번역자에게 감사의 마음을 전하고, 다른 <a href="$1">번역</a>에도 참여하는 것을 환영합니다.' 
+  ko: 'WAI는 번역자에게 감사의 마음을 전하고, 다른 <a href="$1">번역</a>에도 참여하는 것을 환영합니다.'
+  pt-BR: 'WAI agradeçe os/as tradutores/as, e dá as boas-vindas a outras <a href="$1">traduções.</a>' 
 
 - en: '[put comment here...]'   # for e-mail template
   ar: '[ضع تعليق هنا ...]'
@@ -634,7 +686,8 @@
   zh-hans: '[把注释写在这里......]'
   fr: '[votre commentaire ici...]'
   es: '[tu comentario aquí...]'
-  ko: '[여기에 코멘트를 남기세요...]' 
+  ko: '[여기에 코멘트를 남기세요...]'
+  pt-BR: '[seu comentário aqui...]' 
 
 - en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
   ar: '[ضع تعليق هنا ...] \n \n أوافق على مشاركة هذا في قائمة البريد إلكتروني بالأرشيف العام.'
@@ -646,7 +699,8 @@
   zh-hans: '[把注释写在这里......]\n\nI 允许将其共享到公开存档的电子邮件列表。'
   fr: '[votre commentaire ici...]\n\nJ’accepte que ceci soit partagé sur une liste de courriels archivée publiquement.'
   es: '[tu comentario aquí...]\n\nConsiento el compartirlo en una lista de correo pública con archivo.'   # for e-mail template
-  ko: '[여기에 코멘트를 남기세요...]\n\n이 메일이 공개적으로 보관되는 이메일 목록에 공유되는 것을 동의합니다.' 
+  ko: '[여기에 코멘트를 남기세요...]\n\n이 메일이 공개적으로 보관되는 이메일 목록에 공유되는 것을 동의합니다.'
+  pt-BR: '[seu comentário aqui...]\n\nConcedo permissão de compartilhar isto para uma lista de email pública com arquivo.' 
 
 # ADDED 2019-02-20
 
@@ -659,7 +713,8 @@
   zh-hans: '下一'
   el: 'Επόμενο'
   fr: 'Suivant'
-  ko: '다음' 
+  ko: '다음'
+  pt-BR: 'Próxima' 
 
 - en: 'Previous'  # used for: Previous page/topic
   ar: 'السالف'
@@ -670,7 +725,8 @@
   zh-hans: '上一'
   el: 'Προηγούμενο'
   fr: 'Précédent'
-  ko: '이전' 
+  ko: '이전'
+  pt-BR: 'Anterior' 
 
 # ADDED 2019-02-21
 
@@ -684,4 +740,5 @@
   zh-hans: '修改日志'
   fr: 'changements'
   es: 'Registro de cambios'
-  ko: '변경 기록' 
+  ko: '변경 기록'
+  pt-BR: 'Registro de Mudanças'
