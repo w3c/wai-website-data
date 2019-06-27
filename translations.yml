@@ -648,7 +648,7 @@
   fr: 'Traduction&#8239;:'
   es: 'Traductor/a:'
   ko: '번역한 사람'
-  pt-BR: 'Tradutor' 
+  pt-BR: 'Tradutor:' 
 
 - en: 'Translators:'   # gender-neutral, plural
   ar: 'ال ترجمات:'
@@ -661,7 +661,7 @@
   fr: 'Traducteurs&#8239;:'
   es: 'Traductores/as:'
   ko: '번역한 사람들'
-  pt-BR: 'Tradutores' 
+  pt-BR: 'Tradutores:' 
 
 - en: 'WAI thanks translators, and welcomes other <a href="$1">translations</a>.'   # UPDATED 18-Mar-2019 "WAI thanks these translators" -> "WAI thanks translators"
   ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
