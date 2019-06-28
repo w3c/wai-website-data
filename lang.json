@@ -523,11 +523,11 @@
     },
     "pt":{
         "name":"European Portuguese",
-        "nativeName":"Português"
+        "nativeName":"Português Europeu"
     },
     "pt-BR":{
         "name":"Brazilian Portuguese",
-        "nativeName":"Português brasileiro"
+        "nativeName":"Português do Brasil"
     },
     "qu":{
         "name":"Quechua",
