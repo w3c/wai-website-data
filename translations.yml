@@ -742,3 +742,18 @@
   es: 'Registro de cambios'
   ko: '변경 기록'
   pt-BR: 'Registro de Mudanças'
+  
+  # ADDED 2019-June-28 main navigation links
+
+- en: Accessibility Fundamentals
+
+- en: Planning & Policies
+
+- en: Design & Develop
+
+- en: Test & Evaluate
+
+- en: Teach & Advocate
+
+- en: Standards/Guidelines
+
