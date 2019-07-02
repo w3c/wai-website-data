@@ -48,6 +48,7 @@
   - name:
       en: "Accessibility Principles"
       fr: "Principes d’accessibilité"
+      es: "Principios de accesibilidad"
     url: "/fundamentals/accessibility-principles/"
   - name: Perspectives Videos
     url: "/perspective-videos/"
@@ -293,7 +294,11 @@
     # ru: 'Стандарты и руководящие принципы'
     # zh-hans: '标准/准则'
   pages:
-  - name: Standards Overview
+  - name:
+      en: "Standards Overview"
+      fr: "Standards/Règles"
+      es: "Estándares/Pautas"
+      ko: "표준/지침"
     url: "/standards-guidelines/"
   - name: Web Content – WCAG
     url: "/standards-guidelines/wcag/"
@@ -343,7 +348,9 @@
     url: "/standards-guidelines/linking/"
   - name: Cognitive Accessibility at W3C
     url: "/cognitive/"
-  - name: Mobile Accessibility at W3C
+  - name:
+      en: Mobile Accessibility at W3C
+      es: Accesibilidad Móvil en el W3C
     url: "/standards-guidelines/mobile/"
 
 - name:
