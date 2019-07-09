@@ -51,7 +51,7 @@
   es: 'Miga de pan'
   ko: '페이지 경로'
   pt-BR: 'Migalha de Pão'
-  
+
 - en: 'Change Text Size or Colors'
   ar: 'تغيير حجم النص أو الألوان'
   ja: 'テキストのサイズ・色を変更'
@@ -362,7 +362,7 @@
   fr: 'Autres ressources en'
   es: 'Otros Recursos en'
   ko: '다음 언어로 번역된 다른 자료 :'
-  pt-BR: 'Outros Recursos em' 
+  pt-BR: 'Outros Recursos em'
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
   ar: ' المرجو المشاركة بأفكار أو اقتراحات أو تعليقات عبر البريد الإلكتروني إلى القائمة بالأرشيف العام [$1](mailto:{$1?subject=%s) أو عبر GitHub'
@@ -388,7 +388,7 @@
   fr: 'Page précédente/page suivante'
   es: 'Página Anterior/Siguiente'
   ko: '이전/다음 페이지'
-  pt-BR: 'Pagina Anterior/Seguinte'  
+  pt-BR: 'Pagina Anterior/Seguinte'
 
 - en: 'Reviewer' #gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural
   ar: 'المراجعة'
@@ -570,7 +570,7 @@
   fr: 'Cette&nbsp;page&nbsp;en&#8239;:'
   es: 'Esta&nbsp;página&nbsp;en:'
   ko: '현재&nbsp;번역&nbsp;언어:'
-  pt-BR: 'Essa&nbsp;pagina&nbsp;em:' 
+  pt-BR: 'Essa&nbsp;pagina&nbsp;em:'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
   ar: 'قد لا تعكس هذه الترجمة التطوعية بدقة قصد <a href="$1">الإنجليزية الأصلية</a>.'
@@ -583,7 +583,7 @@
   fr: 'Cette traduction faite par des volontaires peut ne pas refléter les intentions de <a href="$1">l’original en anglais</a>.'
   es: 'Esta traducción voluntaria puede que no refleje de forma adecuada las intenciones de la <a href="$1">versión original en inglés</a>.'
   ko: '이 자원 번역자는 <a href="$1">영어 원문</a>의 의도를 정확하게 나타내지 않았을 수 있습니다.'
-  pt-BR: 'Esta tradução voluntária pode não refletir de forma adequada as intenções da <a href="$1">versão original em ingles.</a>' 
+  pt-BR: 'Esta tradução voluntária pode não refletir de forma adequada as intenções da <a href="$1">versão original em ingles.</a>'
 
 - en: 'Translating WAI Resources'   # page title
   ar: 'ترجمة موارد WAI'
@@ -596,7 +596,7 @@
   fr: 'Traduire les ressources de WAI'
   es: 'Recursos de traducción de WAI'
   ko: 'WAI 자료 번역하기'
-  pt-BR: 'Recursos de tradução de WAI'   
+  pt-BR: 'Recursos de tradução de WAI'
 
 - en: 'Translation updated:'
   ar: 'ترجمة محدثة:'
@@ -609,7 +609,7 @@
   fr: 'Traduction mise à jour&#8239;:'
   es: 'Traducción actualizada:'
   ko: '번역 업데이트:'
-  pt-BR: 'Tradução atualizada:' 
+  pt-BR: 'Tradução atualizada:'
 
 - en: 'Translation up-to-date with the English version.'
   ar: 'ترجمة محدثة مع النسخة الإنجليزية.'
@@ -622,7 +622,7 @@
   fr: 'Traduction à jour par rapport à la version anglaise.'
   es: 'Traducción actualizada a la última versión de la original en inglés.'
   ko: '최근 영어 버전과 함께 업데이트되었습니다.'
-  pt-BR: 'Tradução atualizada com a última versão em inglês.' 
+  pt-BR: 'Tradução atualizada com a última versão em inglês.'
 
 - en: 'Translations'
   ar: 'ترجمات'
@@ -635,7 +635,7 @@
   fr: 'Traductions'
   es: 'Traducciones'
   ko: '번역'
-  pt-BR: 'Traduções' 
+  pt-BR: 'Traduções'
 
 - en: 'Translator:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Translation'
   ar: 'الترجمة:'
@@ -648,7 +648,7 @@
   fr: 'Traduction&#8239;:'
   es: 'Traductor/a:'
   ko: '번역한 사람'
-  pt-BR: 'Tradutor:' 
+  pt-BR: 'Tradutor:'
 
 - en: 'Translators:'   # gender-neutral, plural
   ar: 'ال ترجمات:'
@@ -661,7 +661,7 @@
   fr: 'Traducteurs&#8239;:'
   es: 'Traductores/as:'
   ko: '번역한 사람들'
-  pt-BR: 'Tradutores:' 
+  pt-BR: 'Tradutores:'
 
 - en: 'WAI thanks translators, and welcomes other <a href="$1">translations</a>.'   # UPDATED 18-Mar-2019 "WAI thanks these translators" -> "WAI thanks translators"
   ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
@@ -674,7 +674,7 @@
   fr: 'WAI remercie ces traducteurs, et accueille volontiers d’autres <a href="$1">traductions</a>.'
   es: 'WAI les da las gracias a estos/as traductores/as y da la bienvenida a otras <a href="$1">traducciones</a>.'
   ko: 'WAI는 번역자에게 감사의 마음을 전하고, 다른 <a href="$1">번역</a>에도 참여하는 것을 환영합니다.'
-  pt-BR: 'WAI agradeçe os/as tradutores/as, e dá as boas-vindas a outras <a href="$1">traduções.</a>' 
+  pt-BR: 'WAI agradeçe os/as tradutores/as, e dá as boas-vindas a outras <a href="$1">traduções.</a>'
 
 - en: '[put comment here...]'   # for e-mail template
   ar: '[ضع تعليق هنا ...]'
@@ -687,7 +687,7 @@
   fr: '[votre commentaire ici...]'
   es: '[tu comentario aquí...]'
   ko: '[여기에 코멘트를 남기세요...]'
-  pt-BR: '[seu comentário aqui...]' 
+  pt-BR: '[seu comentário aqui...]'
 
 - en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
   ar: '[ضع تعليق هنا ...] \n \n أوافق على مشاركة هذا في قائمة البريد إلكتروني بالأرشيف العام.'
@@ -700,7 +700,7 @@
   fr: '[votre commentaire ici...]\n\nJ’accepte que ceci soit partagé sur une liste de courriels archivée publiquement.'
   es: '[tu comentario aquí...]\n\nConsiento el compartirlo en una lista de correo pública con archivo.'   # for e-mail template
   ko: '[여기에 코멘트를 남기세요...]\n\n이 메일이 공개적으로 보관되는 이메일 목록에 공유되는 것을 동의합니다.'
-  pt-BR: '[seu comentário aqui...]\n\nConcedo permissão de compartilhar isto para uma lista de email pública com arquivo.' 
+  pt-BR: '[seu comentário aqui...]\n\nConcedo permissão de compartilhar isto para uma lista de email pública com arquivo.'
 
 # ADDED 2019-02-20
 
@@ -714,7 +714,7 @@
   el: 'Επόμενο'
   fr: 'Suivant'
   ko: '다음'
-  pt-BR: 'Próxima' 
+  pt-BR: 'Próxima'
 
 - en: 'Previous'  # used for: Previous page/topic
   ar: 'السالف'
@@ -726,7 +726,7 @@
   el: 'Προηγούμενο'
   fr: 'Précédent'
   ko: '이전'
-  pt-BR: 'Anterior' 
+  pt-BR: 'Anterior'
 
 # ADDED 2019-02-21
 
@@ -742,3 +742,10 @@
   es: 'Registro de cambios'
   ko: '변경 기록'
   pt-BR: 'Registro de Mudanças'
+
+# ADDED 2019-07-09
+
+- en: 'in' # in Resource XY
+  de: 'in'
+  fr: 'dans'
+
