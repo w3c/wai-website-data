@@ -50,6 +50,16 @@
       fr: "Principes d’accessibilité"
       es: "Principios de accesibilidad"
     url: "/fundamentals/accessibility-principles/"
+    pages:
+      - name:
+          en: Changelog
+          de: 'Änderungsprotokoll'
+          nl: 'Changelog.'
+          el: 'Change log'
+          zh-hans: '修改日志'
+          fr: 'Changements'
+          es: 'Registro de cambios'
+        url: "/fundamentals/accessibility-principles/changelog/"
   - name: Perspectives Videos
     url: "/perspective-videos/"
     pages:
