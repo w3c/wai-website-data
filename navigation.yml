@@ -60,6 +60,7 @@
           fr: 'Changements'
           es: 'Registro de cambios'
         url: "/fundamentals/accessibility-principles/changelog/"
+        hide: true
   - name: Perspectives Videos
     url: "/perspective-videos/"
     pages:
