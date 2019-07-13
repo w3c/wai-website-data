@@ -65,7 +65,7 @@
   ko: '글자크기와 색상 바꾸기'
   pt-BR: 'Mudar o Tamanho do Texto ou as Cores'
 
-- en: 'Contributor:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Contribution'
+- en: 'Contributor:'   # for listing people who helped with a translation. gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Contribution'
   ar: 'المساهمة:'
   ja: '寄稿者'
   ru: 'Автор:'
@@ -78,7 +78,7 @@
   ko: '기여한 사람'
   pt-BR: 'Colaborador/a:'
 
-- en: 'Contributors:'   # gender-neutral, plural
+- en: 'Contributors:'   #  for listing people who helped with a translation. gender-neutral, plural
   ar: 'المساهمات:'
   ja: '寄稿者'
   ru: 'Авторы:'
