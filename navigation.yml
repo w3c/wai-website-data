@@ -38,7 +38,9 @@
           es: 'Registro de cambios'
         url: /videos/standards-and-benefits/changelog/
         hide: true
-  - name: Components of Web Accessibility
+  - name:
+      en: Components of Web Accessibility
+      ko: "웹 접근성 요소"
     url: "/fundamentals/components/"
     pages:
     - name:
