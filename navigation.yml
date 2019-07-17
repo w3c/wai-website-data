@@ -314,9 +314,11 @@
   pages:
   - name:
       en: "Standards Overview"
-      fr: "Standards/Règles"
       es: "Estándares/Pautas"
+      fr: "Standards/Règles"
       ko: "표준/지침"
+      ru: "Стандарты/Рекомендации"
+      zh-hans: "标准/指南"
     url: "/standards-guidelines/"
   - name: Web Content – WCAG
     url: "/standards-guidelines/wcag/"
