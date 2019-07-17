@@ -12,7 +12,12 @@
     # ru: 'Доступность основы'
     # zh-hans: '辅助功能基础知识'
   pages:
-  - name: Introduction to Accessibility
+  - name:
+      en: "Introduction to Accessibility"
+      es: "Introducción a la Accesibilidad Web"
+      fr: "Introduction à l'accessibilité du web"
+      ru: "ВВЕДЕНИЕ В ВЕБ-ДОСТУПНОСТЬ"
+      zh-hans: "Web无障碍简介"
     url: "/fundamentals/accessibility-intro/"
     pages:
     - name:
