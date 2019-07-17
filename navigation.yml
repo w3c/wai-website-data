@@ -320,17 +320,23 @@
       ru: "Стандарты/Рекомендации"
       zh-hans: "标准/指南"
     url: "/standards-guidelines/"
-  - name: Web Content – WCAG
+  - name:
+      en: "Web Content – WCAG"
+      es: "Contenido Web – WCAG"
     url: "/standards-guidelines/wcag/"
     pages:
     - name: "How to Meet WCAG 2 (Quick Reference)"
       url: "https://www.w3.org/WAI/WCAG21/quickref/"
       different: true
-    - name: "At a Glance"
+    - name:
+        en: "At a Glance"
+        es: "De un vistazo"
       url: "/standards-guidelines/wcag/glance/"
     - name: The Documents
       url: "/standards-guidelines/wcag/docs/"
-    - name: New in 2.1
+    - name:
+        en: "New in 2.1"
+        es: "Novedades en 2.1"
       url: "/standards-guidelines/wcag/new-in-21/"
     - name: Translations
       url: "/standards-guidelines/wcag/translations/"
