@@ -176,7 +176,9 @@
     # ru: 'Дизайн & Pазвивать'
     # zh-hans: '设计与开发'
   pages:
-  - name: Overview
+  - name:
+      en: "Overview"
+      es: "Introducción"
     url: "/design-develop/"
   - name: Tips for Writing
     url: "/tips/writing/"
