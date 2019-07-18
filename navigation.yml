@@ -116,6 +116,9 @@
       url: "/older-users/developing/"
     - name: Literature Review
       url: "/older-users/literature/"
+    - name: Changelog
+      url: "/older-users/changelog/"
+      hide: true
   - name: Accessibility, Usability, Inclusion
     url: "/fundamentals/accessibility-usability-inclusion/"
 - name:
