@@ -1,16 +1,6 @@
 - name:
     en: 'Accessibility Fundamentals'
-    # de: 'Grundlagen der Barrierefreiheit'
-    # fr: 'Principes fondamentaux de l’accessibilité'
-    # es: 'Fundamentos de accesibilidad'
-    # it: 'Fondamenti di accessibilità'
-    # nl: 'Toegankelijkheid-Fundamentals'
-    # pl: 'Podstawy ułatwień dostępu'
-    # ar: 'أساسيات التشغيل'
-    # ja: 'アクセシビリティの基礎'
-    # ko: '내게 필요한 옵션 기본'
-    # ru: 'Доступность основы'
-    # zh-hans: '辅助功能基础知识'
+    es: 'Fundamentos de accesibilidad'
   pages:
   - name:
       en: "Introduction to Accessibility"
@@ -123,17 +113,7 @@
     url: "/fundamentals/accessibility-usability-inclusion/"
 - name:
     en: 'Planning & Policies'
-    # de: 'Planung & Richtlinien'
-    # fr: 'Planification & Politiques'
-    # es: 'Planificación y Políticas'
-    # it: 'Pianificazione & Politiche'
-    # nl: 'Planning & Beleid'
-    # pl: 'Planowanie & Zasady działalności'
-    # ar: 'تخطيط آند السياسات'
-    # ja: '計画・政策'
-    # ko: '계획 및 정책'
-    # ru: 'Планирование & политики'
-    # zh-hans: '规划和政策'
+    es: 'Planificación y Políticas'
   pages:
   - name: Overview
     url: "/planning/"
@@ -167,17 +147,7 @@
     url: "/policies/"
 - name:
     en: 'Design & Develop'
-    # de: 'Designen & Entwickeln'
-    # fr: 'Concevoir & Développer'
-    # es: 'Diseñar y Desarrollar'
-    # it: 'Progettare e Sviluppare'
-    # nl: 'Ontwerp & Ontwikkelen'
-    # pl: 'Projektowanie & Rozwijać'
-    # ar: 'تصميم & تطوير'
-    # ja: '設計・開発'
-    # ko: '디자인 및 개발'
-    # ru: 'Дизайн & Pазвивать'
-    # zh-hans: '设计与开发'
+    es: 'Diseñar y Desarrollar'
   pages:
   - name:
       en: "Overview"
@@ -214,17 +184,7 @@
 
 - name:
     en: 'Test & Evaluate'
-    # de: 'Testen & Bewerten'
-    # fr: 'Test & Évaluer'
-    # es: 'Probar y Evaluar'
-    # it: 'Prova & Valutare'
-    # nl: 'Test & Evalueren'
-    # pl: 'Przetestować & Oceny'
-    # ar: 'اختبار & تقييم'
-    # ja: 'テスト ・評価'
-    # ko: '테스트 및 평가'
-    # ru: 'Протестировать & оценить'
-    # zh-hans: '测试和评估'
+    es: 'Probar y Evaluar'
   pages:
   - name: Evaluation Overview
     url: "/test-evaluate/"
@@ -255,17 +215,7 @@
 
 - name:
     en: 'Teach & Advocate'
-    # de: 'Lehren & Befürworten'
-    # fr: 'Enseigner & Promouvoir'
-    # es: 'Enseñar y Promover'
-    # it: 'Insegnare & Avvocato'
-    # nl: 'Leren & Advocaat'
-    # pl: 'Uczyć & Rzecznika'
-    # ar: 'تعليم & الدعوة'
-    # ja: '教える・提唱'
-    # ko: '가르치는 & 옹호'
-    # ru: 'Научить & адвокат'
-    # zh-hans: '教学和倡导'
+    es: 'Enseñar y Promover'
   pages:
   - name: Overview
     url: "/teach-advocate/"
@@ -306,17 +256,7 @@
 
 - name:
     en: 'Standards/<wbr>Guidelines'
-    # de: 'Normen/Richtlinien'
-    # fr: 'Normes/lignes directrices'
-    # es: 'Normas/directrices'
-    # it: 'Norme/linee guida'
-    # nl: 'Normen/Guidelines/nl'
-    # pl: 'Standardy/wytyczne'
-    # ar: 'المعايير/المبادئ التوجيهية'
-    # ja: '規格/ガイドライン'
-    # ko: '표준/지침'
-    # ru: 'Стандарты и руководящие принципы'
-    # zh-hans: '标准/准则'
+    es: 'Estándares/<wbr>Pautas'
   pages:
   - name:
       en: "Standards Overview"
