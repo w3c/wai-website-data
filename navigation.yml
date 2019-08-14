@@ -237,7 +237,9 @@
     different: true
   - name: Contacting Inaccessible Websites
     url: "/teach-advocate/contact-inaccessible-websites/"
-  - name: Business Case
+  - name: 
+      en: Business Case
+      es: Caso de negocios
     url: "/business-case/"
     pages:
     - name: Bibliography
