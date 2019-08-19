@@ -745,7 +745,13 @@
 
 # ADDED 2019-07-09
 
-- en: 'in' # in Resource XY
+- en: 'in' # for "in [resource name]" such as under the h1 of https://www.w3.org/WAI/people-use-web/user-stories/
   de: 'in'
   fr: 'dans'
+  
+# ADDED 2019-08-19
+
+- en: 'Expand All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at https://www.w3.org/WAI/people-use-web/user-stories/
+
+- en: 'Collapse All Sections'  # for expand-collapse toggle buttons
 
