@@ -160,6 +160,29 @@
     url: "/tips/designing/"
   - name: Tips for Developing
     url: "/tips/developing/"
+  - name: Audio & Video Media
+      url: "/media/av/"
+      pages:
+        - name: Planning
+          url: "/media/av/planning/"
+        - name: Audio Content & Video Content
+          url: "/media/av/av-content/"
+        - name: Media Player
+          url: "/media/av/player/"
+        - name: Description
+          url: "/media/av/description/"
+        - name: Captions/Subtitles
+          url: "/media/av/captions/"
+        - name: Transcripts
+          url: "/media/av/transcripts/"
+        - name: Sign Languages
+          url: "/media/av/sign-languages/"
+        - name: Transcribing Audio to Text
+          url: "/media/av/transcribing/"
+        - name:
+            en: Achnowledgements
+          url: /media/av/acknowledgements/
+          hide: true
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
     different: true
@@ -238,7 +261,7 @@
     different: true
   - name: Contacting Inaccessible Websites
     url: "/teach-advocate/contact-inaccessible-websites/"
-  - name: 
+  - name:
       en: Business Case
       es: Caso de negocios
     url: "/business-case/"
