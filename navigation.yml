@@ -338,6 +338,8 @@
       url: "/standards-guidelines/earl/"
   - name: Personalization
     url: "/personalization/"
+  - name: Pronunciation
+    url: "/pronunciation/"
   - name: Standards Harmonization is Essential
     url: "/standards-guidelines/harmonization/"
   - name: W3C Process for Developing Standards
