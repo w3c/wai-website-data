@@ -397,8 +397,7 @@
     - name: WAI Expanding Access
       url: "/expand-access/"
     - name: WAI-Core 2015
-      url: "https://www.w3.org/WAI/CORE2015/"
-      different: true
+      url: "/about/projects/wai-core-2015/"
   - name: Groups
     url: "/about/groups/"
     pages:
