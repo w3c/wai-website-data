@@ -135,6 +135,10 @@
         url: "/planning-and-managing/sustain/"
   - name: Developing an Organizational Policy
     url: "/planning/org-policies/"
+    pages:
+      - name: Example
+        url: "/planning/org-policies/example/"
+        hide: true
   - name: Developing an Accessibility Statement
     url: "/planning/statements/"
     pages:
