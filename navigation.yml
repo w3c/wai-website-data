@@ -343,6 +343,7 @@
       pages:
       - name: "Rule: HTML page has title"
         url: "/standards-guidelines/act/rules/html-page-has-title-2779a5/"
+        hide: true
     - name: Evaluation and Report Language – EARL
       url: "/standards-guidelines/earl/"
   - name: Personalization
