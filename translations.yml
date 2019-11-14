@@ -748,15 +748,18 @@
 - en: 'in' # for "in [resource name]" such as under the h1 of https://www.w3.org/WAI/people-use-web/user-stories/
   de: 'in'
   fr: 'dans'
+  nl: 'in'
 
 # ADDED 2019-08-19
 
 - en: 'Expand All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at https://www.w3.org/WAI/people-use-web/user-stories/
   de: 'Alle Abschnitte aufklappen'
+  nl: 'Alle secties uitklappen'
   javascript: true
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons
   de: 'Alle Abschnitte zuklappen'
+  nl: 'Alle secties inklappen'
   javascript: true
 
 # Added 2019-11-08
@@ -764,10 +767,13 @@
 # Links to footnotes and back from footnotes to the text
 
 - en: 'to footnote'
+  nl: 'naar voetnoot'
   javascript: true
 
 - en: 'back to footnote'
+  nl: 'terug naar voetnoot'
   javascript: true
 
 - en: 'in text'
+  nl: 'in tekst'
   javascript: true
