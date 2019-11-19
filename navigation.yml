@@ -189,6 +189,10 @@
           en: Achnowledgements
         url: /media/av/acknowledgements/
         hide: true
+      - name:
+          en: Changelog
+        url: /media/av/changelog/
+        hide: true
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
     different: true
