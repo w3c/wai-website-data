@@ -160,6 +160,9 @@
       en: "Overview"
       es: "Introducción"
     url: "/design-develop/"
+  - name: Tips for Getting Started
+    url: "/tips/"
+    hide: true
   - name: Tips for Writing
     url: "/tips/writing/"
   - name: Tips for Designing
