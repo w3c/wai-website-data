@@ -252,6 +252,9 @@
     url: "/test-evaluate/combined-expertise/"
   - name: Involving Users
     url: "/test-evaluate/involving-users/"
+  - name: Acknowledgements
+    url: "/test-evaluate/acknowledgements/"
+    hide: true    
 
 - name:
     en: 'Teach & Advocate'
