@@ -3,6 +3,10 @@
     es: 'Fundamentos de accesibilidad'
   pages:
   - name:
+      en: 'Accessibility Fundamentals'
+      es: 'Fundamentos de accesibilidad'
+    url: "/fundamentals/"
+  - name:
       en: "Introduction to Accessibility"
       ar: "مقدمة لولوجية الويب"
       es: "Introducción a la Accesibilidad Web"
@@ -121,7 +125,9 @@
     en: 'Planning & Policies'
     es: 'Planificación y Políticas'
   pages:
-  - name: Overview
+  - name:
+      en: 'Planning & Policies'
+      es: 'Planificación y Políticas'
     url: "/planning/"
   - name: Approaches for Interim Repairs
     url: "/planning/interim-repairs/"
@@ -160,8 +166,8 @@
     es: 'Diseñar y Desarrollar'
   pages:
   - name:
-      en: "Overview"
-      es: "Introducción"
+      en: 'Design & Develop'
+      es: 'Diseñar y Desarrollar'
     url: "/design-develop/"
   - name: Tips for Getting Started
     url: "/tips/"
@@ -226,7 +232,9 @@
     en: 'Test & Evaluate'
     es: 'Probar y Evaluar'
   pages:
-  - name: Evaluation Overview
+  - name:
+      en: 'Test & Evaluate'
+      es: 'Probar y Evaluar'
     url: "/test-evaluate/"
   - name: Easy Checks – A First Review
     url: "/test-evaluate/preliminary/"
@@ -257,7 +265,9 @@
     en: 'Teach & Advocate'
     es: 'Enseñar y Promover'
   pages:
-  - name: Overview
+  - name:
+      en: 'Teach & Advocate'
+      es: 'Enseñar y Promover'
     url: "/teach-advocate/"
   - name: "Curricula on Web Accessibility"
     url: "/curricula/"
@@ -317,11 +327,11 @@
     es: 'Estándares/<wbr>Pautas'
   pages:
   - name:
-      en: "Standards Overview"
-      es: "Estándares/Pautas"
-      fr: "Standards/Règles"
+      en: 'Standards/<wbr>Guidelines'
+      es: 'Estándares/<wbr>Pautas'
+      fr: "Standards/<wbr>Règles"
       ko: "표준/지침"
-      ru: "Стандарты/Рекомендации"
+      ru: "Стандарты/<wbr>Рекомендации"
       zh-hans: "标准/指南"
     url: "/standards-guidelines/"
   - name:
