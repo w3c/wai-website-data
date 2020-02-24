@@ -207,26 +207,19 @@
         hide: true
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
-    different: true
     pages:
       - name: Page Structure
         url: "https://www.w3.org/WAI/tutorials/page-structure/"
-        different: true
       - name: Menus
         url: "https://www.w3.org/WAI/tutorials/menus/"
-        different: true
       - name: Images
         url: "https://www.w3.org/WAI/tutorials/images/"
-        different: true
       - name: Tables
         url: "https://www.w3.org/WAI/tutorials/tables/"
-        different: true
       - name: Forms
         url: "https://www.w3.org/WAI/tutorials/forms/"
-        different: true
       - name: Carousels
         url: "https://www.w3.org/WAI/tutorials/carousels/"
-        different: true
 
 - name:
     en: 'Test & Evaluate'
@@ -245,7 +238,6 @@
         url: "/test-evaluate/tools/selecting/"
       - name: List of Evaluation Tools
         url: "https://www.w3.org/WAI/ER/tools/"
-        different: true
   - name: Conformance Evaluation
     url: "/test-evaluate/conformance/"
     pages:
@@ -253,7 +245,6 @@
         url: "/test-evaluate/conformance/wcag-em/"
       - name: WCAG-EM Report Tool
         url: "https://www.w3.org/WAI/eval/report-tool/#/"
-        different: true
   - name: Report Template
     url: "/test-evaluate/report-template/"
   - name: Using Combined Expertise
@@ -300,7 +291,6 @@
 #   url: "/teach-advocate/presentations-to-use/"
   - name: Before and After Demo (BAD)
     url: "https://www.w3.org/WAI/demos/bad/"
-    different: true
   - name: Contacting Inaccessible Websites
     url: "/teach-advocate/contact-inaccessible-websites/"
   - name:
@@ -341,7 +331,6 @@
     pages:
     - name: "How to Meet WCAG 2 (Quick Reference)"
       url: "https://www.w3.org/WAI/WCAG21/quickref/"
-      different: true
     - name:
         en: "At a Glance"
         es: "De un vistazo"
