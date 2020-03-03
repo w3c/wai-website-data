@@ -75,7 +75,7 @@
   slug: navigation-mechanisms-focus-order
 - key: "2.4.5"
   title: "Multiple Ways"
-  desc: "2.4.5 More than one way is available to locate a Web page within a set of Web pages except where the Web Page is the result of, or a step in, a process."
+  desc: "More than one way is available to locate a Web page within a set of Web pages except where the Web Page is the result of, or a step in, a process."
   level: AA
   slug: navigation-mechanisms-mult-loc
 - key: "2.4.6"
