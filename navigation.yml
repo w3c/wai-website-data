@@ -122,11 +122,11 @@
   - name: Accessibility, Usability, Inclusion
     url: "/fundamentals/accessibility-usability-inclusion/"
 - name:
-    en: 'Planning & Policies'
+    en: 'Planning & Policies'
     es: 'Planificación y Políticas'
   pages:
   - name:
-      en: 'Planning & Policies'
+      en: 'Planning & Policies'
       es: 'Planificación y Políticas'
     url: "/planning/"
   - name: Approaches for Interim Repairs
@@ -449,6 +449,8 @@
     - name: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
       url: "/about/groups/eowg/"
       pages:
+      - name: Charter
+        url: "/EO/charter-current"
       - name: Participate
         url: "/about/groups/eowg/participate/"
       - name: Current Participants
