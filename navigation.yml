@@ -122,11 +122,11 @@
   - name: Accessibility, Usability, Inclusion
     url: "/fundamentals/accessibility-usability-inclusion/"
 - name:
-    en: 'Planning & Policies'
+    en: 'Planning & Policies'
     es: 'Planificación y Políticas'
   pages:
   - name:
-      en: 'Planning & Policies'
+      en: 'Planning & Policies'
       es: 'Planificación y Políticas'
     url: "/planning/"
   - name: Approaches for Interim Repairs
@@ -238,15 +238,15 @@
         url: "/test-evaluate/tools/selecting/"
       - name: List of Evaluation Tools
         url: "https://www.w3.org/WAI/ER/tools/"
-  - name: Conformance Evaluation
+  - name: Conformance Evaluation, Reports
     url: "/test-evaluate/conformance/"
     pages:
       - name: WCAG-EM Conformance Methodology
         url: "/test-evaluate/conformance/wcag-em/"
       - name: WCAG-EM Report Tool
         url: "https://www.w3.org/WAI/eval/report-tool/#/"
-  - name: Report Template
-    url: "/test-evaluate/report-template/"
+      - name: Report Template
+        url: "/test-evaluate/report-template/"
   - name: Using Combined Expertise
     url: "/test-evaluate/combined-expertise/"
   - name: Involving Users
