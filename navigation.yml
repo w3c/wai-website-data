@@ -452,6 +452,8 @@
     - name: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
       url: "/about/groups/eowg/"
       pages:
+      - name: Charter
+        url: "/EO/charter-current"
       - name: Participate
         url: "/about/groups/eowg/participate/"
       - name: Current Participants
