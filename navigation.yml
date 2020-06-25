@@ -466,10 +466,10 @@
       pages:
       - name: Charter
         url: "/EO/charter-current"
-      - name: Participate
+      - name: Participate (Join)
         url: "/about/groups/eowg/participate/"
       - name: Current Participants
-        url: "/about/groups/eowg/participants/"
+        url: "https://www.w3.org/groups/wg/eowg/participants"
     - name: 'WAI IG: WAI Interest Group'
       url: "/about/groups/waiig/"
     - name: 'Group Task Forces'
