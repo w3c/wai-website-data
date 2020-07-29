@@ -437,6 +437,8 @@
     - name: WAI-Tools
       url: "/about/projects/wai-tools/"
       pages:
+      - name: Third Open Meeting
+        url: "/about/projects/wai-tools/third-open-meeting/"
       - name: Second Open Meeting
         url: "/about/projects/wai-tools/second-open-meeting/"
       - name: Online Symposium
