@@ -368,6 +368,9 @@
     pages:
     - name: Accessibility Conformance Testing – ACT
       url: "/standards-guidelines/act/"
+    - name: WCAG ACT Rules
+      url: "/standards-guidelines/act/rules/"
+      hide: true
       pages:
       - name: "Rule: HTML page has title"
         url: "/standards-guidelines/act/rules/html-page-has-title-2779a5/"
