@@ -340,8 +340,7 @@
       url: "/standards-guidelines/wcag/glance/"
     - name: The Documents
       url: "/standards-guidelines/wcag/docs/"
-    - name:
-        en: "New in 2.2 Draft"
+    - name: New in 2.2 Draft
       url: "/standards-guidelines/wcag/new-in-22/"
     - name:
         en: "New in 2.1"
