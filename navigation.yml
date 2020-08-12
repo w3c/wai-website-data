@@ -341,6 +341,9 @@
     - name: The Documents
       url: "/standards-guidelines/wcag/docs/"
     - name:
+        en: "New in 2.2 Draft"
+      url: "/standards-guidelines/wcag/new-in-22/"
+    - name:
         en: "New in 2.1"
         es: "Novedades en 2.1"
       url: "/standards-guidelines/wcag/new-in-21/"
