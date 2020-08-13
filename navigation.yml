@@ -485,3 +485,6 @@
     url: "/about/using-wai-material/"
   - name: Accessibility Statement
     url: "/about/accessibility-statement/"
+- name: Resources
+  url: "/resources/"
+  mainnav: false
