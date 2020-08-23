@@ -2,6 +2,7 @@
 
 - en: 'About this Translation'   # heading
   ar: 'عن هذه الترجمة'
+  cs: 'O tomto překladu'
   ja: '本翻訳について'
   ru: 'Об этом переводе'
   de: 'Über diese Übersetzung'
@@ -15,6 +16,7 @@
 
 - en: 'All&nbsp;Translations'   # link = 'All Translations' with &nbsp; between words to avoid line breaks
   ar: 'كل&nbsp;الترجمات'
+  cs: 'Všechny&nbsp;překlady'
   ja: '全ての翻訳'
   ru: 'Все&nbsp;переводы'
   de: 'Alle&nbsp;Übersetzungen'
@@ -28,6 +30,7 @@
 
 - en: 'Back to Top'
   ar: 'العودة إلى الأعلى'
+  cs: 'Nahoru'
   ja: '最初に戻る'
   ru: 'Вернуться к началу'
   de: 'Zum Seitenanfang'
@@ -41,6 +44,7 @@
 
 - en: 'Breadcrumb'   # aria-label for breadcrumb navigation
   ar: 'علامات التتبع'
+  cs: 'Struktura'
   ja: '小リンク集'
   ru: 'Хлебные крошки'
   de: 'Brotkrumen-Navigation'
@@ -54,6 +58,7 @@
 
 - en: 'Change Text Size or Colors'
   ar: 'تغيير حجم النص أو الألوان'
+  cs: 'Změnit velikost textu nebo barvy'
   ja: 'テキストのサイズ・色を変更'
   ru: 'Изменить размер или цвет текста'
   de: 'Textgröße oder -farben ändern'
@@ -67,6 +72,7 @@
 
 - en: 'Contributor:'   # for listing people who helped with a translation. gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Contribution'
   ar: 'المساهمة:'
+  cs: 'Přispěvatel:'
   ja: '寄稿者'
   ru: 'Автор:'
   de: 'Mitwirkende(r):'
@@ -80,6 +86,7 @@
 
 - en: 'Contributors:'   #  for listing people who helped with a translation. gender-neutral, plural
   ar: 'المساهمات:'
+  cs: 'Přispěvatelé'
   ja: '寄稿者'
   ru: 'Авторы:'
   de: 'Mitwirkende:'
@@ -93,6 +100,7 @@
 
 - en: 'Copyright'
   ar: 'حق النشر'
+  cs: 'Autorská práva'
   ja: '著作権'
   ru: 'Авторское право'
   de: 'Copyright'
@@ -106,6 +114,7 @@
 
 - en: 'Different View'   # alt text for icon that indicates link goes to page without WAI site navigation
   ar: 'عرض مختلف'
+  cs: 'Jiné zobrazení'
   ja: '別表示'
   ru: 'Другой вид'
   de: 'Anderes Layout'
@@ -119,6 +128,7 @@
 
 - en: 'Disable Audio Description'
   ar: 'تعطيل الوصف الصوتي'
+  cs: 'Vypnout audio popisky'
   ja: '音声無効化'
   ru: 'Отключить аудио описание'
   de: 'Audiodeskription aus'
@@ -132,6 +142,7 @@
 
 - en: 'E-mail'
   ar: 'البريد الإلكتروني'
+  cs: 'E-mail'
   ja: 'E-mail'
   ru: 'E-mail'
   de: 'E-Mail'
@@ -145,6 +156,7 @@
 
 - en: 'Enable Audio Description'
   ar: 'تفعيل الوصف الصوتي'
+  cs: 'Zapnout audio popisky'
   ja: '音声有効化'
   ru: 'Включить аудио описание '
   de: 'Audiodeskription ein'
@@ -158,6 +170,7 @@
 
 - en: 'English updated:'
   ar: 'إنجليزية المحدثة:'
+  cs: 'Angličtina aktualizována:'
   ja: '英語版更新'
   ru: 'Английская версия обновлена:'
   de: 'Englisch aktualisiert:'
@@ -171,6 +184,7 @@
 
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'
   ar: 'تم تحديث النسخة الإنجليزية منذ هذه الترجمة:<a href="$1">سجل التغيير</a>'
+  cs: 'Anglická verze aktualizována od tohoto překladu: <a href="$1">Záznam změn</a>.'
   ja: '本翻訳後に英語版が更新されました'
   ru: 'Английская версия обновлена с момента перевода: <a href="$1">Журнал изменений</a>.'
   de: 'Englische Version aktualisiert seit dieser Übersetzung: <a href="$1">Änderungsprotokoll</a>.'
@@ -184,6 +198,7 @@
 
 - en: 'External Site'   # alt text for icon that indicates link goes off WAI site
   ar: 'الموقع الخارجي'
+  cs: 'Externí odkaz'
   ja: '外部サイト'
   ru: 'Ссылка на внешний сайт'
   de: 'Externe Seite'
@@ -197,6 +212,7 @@
 
 - en: 'Fork &amp; Edit on GitHub'   # "&amp;" is code for the "&" character. If you don't use & in your language, do not include &amp; in your translation.
   ar: 'تفرع وتحرير على GitHub'
+  cs: 'Vytvořit fork &amp; upravit na GitHubu'
   ja: '&ampをフォーク; GitHubを編集'
   ru: 'Отделить ветку &amp; Редактировать на GitHub'
   de: 'Forken &amp; editieren auf GitHub'
@@ -210,6 +226,7 @@
 
 - en: 'Help improve this page'   # heading for box with links to e-mail and GitHub
   ar: 'لمساعدة تحسين هذه الصفحة'
+  cs: 'Pomozte vylepšit tuto stránku'
   ja: '本ページの改善にご協力ください'
   ru: 'Помогите улучшить эту страницу'
   de: 'Helfen Sie diese Seite zu verbessern'
@@ -223,6 +240,7 @@
 
 - en: 'Hide'   # for show/hide toggle
   ar: 'إخفاء'
+  cs: 'Skrýt'
   ja: '隠す'
   ru: 'Скрыть'
   nl: 'Verbergen'
@@ -236,6 +254,7 @@
 
 - en: 'Hide Languages'     # for show/hide languages
   ar: 'إخفاء اللغات'
+  cs: 'Skrýt jazyky'
   ja: '’言語を隠す'
   ru: 'Скрыть языки'
   de: 'Sprachen verbergen'
@@ -249,6 +268,7 @@
 
 - en: 'Hide Options'     # for show/hide options
   ar: 'إخفاء الخيارات'
+  cs: 'Skrýt možnosti'
   ja: 'オプションを隠す'
   ru: 'Скрыть параметры'
   de: 'Optionen verbergen'
@@ -262,6 +282,7 @@
 
 - en: 'Home'
   ar: 'الصفحة الرئيسية'
+  cs: 'Domů'
   ja: 'ホーム'
   ru: 'Домой'
   de: 'Startseite'
@@ -275,6 +296,7 @@
 
 - en: 'in English'
   ar: 'باللغة الإنجليزية'
+  cs: 'anglicky'
   ja: '英語版'
   ru: 'на английском'
   de: 'auf Englisch'
@@ -288,6 +310,7 @@
 
 - en: 'Languages/Translations'   # if "/" doesn't work well, could use a comma (,)
   ar: 'لغات وترجمات'
+  cs: 'Jazyky/překlady'
   ja: '言語/翻訳'
   ru: 'Языки/переводы'
   de: 'Sprachen/Übersetzungen'
@@ -301,6 +324,7 @@
 
 - en: 'Main'   # aria-label for main navigation
   ar: 'الرئيسي'
+  cs: 'Hlavní menu'
   ja: 'メイン'
   ru: 'Главная'
   de: 'Hauptmenü'
@@ -314,6 +338,7 @@
 
 - en: 'Menu'
   ar: 'قائمة'
+  cs: 'Menu'
   ja: 'メニュー'
   ru: 'Меню'
   de: 'Menü'
@@ -327,6 +352,7 @@
 
 - en: 'New GitHub Issue'
   ar: 'قضية جديدة على Github'
+  cs: 'Nová GitHub Issue'
   ja: '新しいGitHubの課題'
   ru: 'Новая задача на GitHub'
   de: 'Neues GitHub-Issue'
@@ -340,6 +366,7 @@
 
 - en: 'Other Pages in this Resource'   # aria-label for certain secondary navigations
   ar: 'صفحات أخرى في هذا الموقع'
+  cs: 'Další stránky v tomto zdroji'
   ja: '本リソースを記載する他ページ'
   ru: 'Другие страницы на этом ресурсе'
   de: 'Weitere Seiten dieser Ressource'
@@ -353,6 +380,7 @@
 
 - en: 'Other Resources in'   # for "Other Resource in [language], e.g,: "Other Resources in English"
   ar: 'الموارد الأخرى بـ'
+  cs: 'Další zdroje v'
   ja: '’他リソースの'
   ru: 'Другие ресурсы в'
   de: 'Weitere Ressourcen auf'
@@ -366,6 +394,7 @@
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
   ar: ' المرجو المشاركة بأفكار أو اقتراحات أو تعليقات عبر البريد الإلكتروني إلى القائمة بالأرشيف العام [$1](mailto:{$1?subject=%s) أو عبر GitHub'
+  cs: 'Prosíme, sdílejte své nápady, připomínky nebo komentáře emailem do veřejně archivovaného seznamu [$1](mailto:$1?subject=%s) nebo na GitHubu.'
   ja: 'ご意見、ご提案、コメントをemail [$1](mailto:$1?subject=%s) かGitHubまでお寄せください。'
   ru: 'Пожалуйста, поделитесь своими идеями, предложениями или комментариями в публичной электронной рассылке [$1](mailto:$1?subject=%s) или через GitHub. '
   de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste [$1](mailto:$1?subject=%s) oder via GitHub mit.'
@@ -379,6 +408,7 @@
 
 - en: 'Previous/Next Page'   # aria-label for prev/next page
   ar: 'الصفحة السالفة / التالية'
+  cs: 'Předchozí/další stránka'
   ja: '前/次ページ'
   ru: 'Предыдущая/Следующая страница'
   de: 'Vorherige/Nächste Seite'
@@ -392,6 +422,7 @@
 
 - en: 'Reviewer' #gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural
   ar: 'المراجعة'
+  cs: 'Recenzent'
   ja: 'レビュアー'
   ru: 'Рецензент'
   de: 'Korrekturen'
@@ -405,6 +436,7 @@
 
 - en: 'Reviewers' #gender-neutral, plural
   ar: 'المراجعات'
+  cs: 'Recenzenti'
   ja: 'レビュアー'
   ru: 'Рецензенты'
   de: 'Korrekturen'
@@ -418,6 +450,7 @@
 
 - en: 'Search'   # Search box field label
   ar: 'بحث'
+  cs: 'Hledat'
   ja: 'サーチ'
   ru: 'Поиск'
   de: 'Suche'
@@ -431,6 +464,7 @@
 
 - en: 'Secondary'   # aria-label for secondary navigation
   ar: 'الثانوي'
+  cs: 'Sekundární'
   ja: '二次'
   ru: 'Дополнительная'
   de: 'Sekundär'
@@ -444,6 +478,7 @@
 
 - en: 'Select Language, Translations'   # for show/hide toggle
   ar: 'اختيار اللغة والترجمات'
+  cs: 'Vybrat jazyk, překlady'
   ja: '言語の選択'
   ru: 'Выбрать язык, переводы'
   de: 'Sprache auswählen, Übersetzungen'
@@ -457,6 +492,7 @@
 
 - en: 'Show Customization, Languages, Translations'   # for show/hide toggle
   ar: 'إظهار التخصيص واللغات والترجمات'
+  cs: 'Ukázat přizpůsobení, jazyky, překlady'
   ja: 'カスタマイズ、言語、翻訳'
   ru: 'Показать настройки, языки, переводы'
   de: 'Anpassungen, Sprachen, Übersetzungen anzeigen'
@@ -470,6 +506,7 @@
 
 - en: 'Show Languages'   # for show/hide toggle
   ar: 'إظهار اللغات'
+  cs: 'Ukázat jazyky'
   ja: '翻訳'
   ru: 'Показать языки'
   de: 'Sprachen anzeigen'
@@ -483,6 +520,7 @@
 
 - en: 'Skip Link and Language Selector'   # aria-label for top navigation [this will probably change…]
   ar: 'تخطي الرابط ومحدد اللغة'
+  cs: 'Přeskočit link a selektor jazyků'
   ja: 'リンクと言語選択をスキップ'
   ru: 'Пропустить ссылку и выбор языка'
   de: 'Sprunglink und Sprachauswahl'
@@ -496,6 +534,7 @@
 
 - en: 'Skip to Content'
   ar: 'انتقال إلى المضمون'
+  cs: 'Přeskočit na obsah'
   ja: 'コンテンツにスキップ'
   ru: 'Перейти к контенту'
   de: 'Zum Inhalt springen'
@@ -509,6 +548,7 @@
 
 - en: 'Strategies, standards, and supporting resources to make the Web accessible to people with disabilities.'
   ar: 'ستراتيجيات ومعايير وموارد داعمة لجعل الويب في متناول الأشخاص ذوي الإعاقات.'
+  cs: 'Strategie, standardy a další zdroje pro tvorbu webu přístupného pro lidi s postižením.'
   ja: '戦略、標準化、リソースの各サポートは、障害を持つ人々がウェブにアクセスできるようになる'
   ru: 'Стратегии, стандарты, и дополнительные ресурсы по мерам обеспечения Интернет доступности для людей с ограниченными возможностями.'
   de: 'Strategien, Standards und unterstützende Ressourcen, um das Web für Menschen mit Behinderungen zugänglich zu machen.'
@@ -522,6 +562,7 @@
 
 - en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'   # tagline in header, shorter version of previous line, please make as short as feasible -- even if not grammatically correct (e.g., no "and" after "Strategies, standards,")
   ar: 'ستراتيجيات ومعايير وموارد لجعل الويب في متناول الأشخاص ذوي الإعاقات'
+  cs: 'Strategie, standardy, zdroje pro tvorbu webu přístupného pro lidi s postižením'
   ja: '障害を持つ人々へのサポート - 戦略・標準化・リソース'
   ru: 'Стратегии, стандарты, ресурсы по веб-доступности для инвалидов'
   de: 'Strategien, Standards, Ressourcen, um das Web für Menschen mit Behinderungen zugänglich zu machen'
@@ -535,6 +576,7 @@
 
 - en: 'Submit Search'
   ar: 'إرسال البحث'
+  cs: 'Vyhledat'
   ja: 'サーチ'
   ru: 'Послать запрос'
   de: 'Suche ausführen'
@@ -548,6 +590,7 @@
 
 - en: 'This is an unpublished draft preview that might include content that is not yet approved. The published website is at <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
   ar: 'هذا عرض مسبق لمسودة غير منشورة قد تتضمن محتوى لم تتم الموافقة عليه بعد. الموقع المنشور موجود على'
+  cs: 'Toto je nepublikovaný náhled, který může zahrnovat obsah, který ještě není schválený. Publikovaná stránka je na <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
   ja: '本ドラフトは未承認のコンテンツを含む場合があります'
   ru: 'Этот неопубликованный предварительный черновик может содержать неутвержденный контент. Опубликованный веб-сайт находится по адресу <a href="https://www.w3.org/WAI/"> w3.org/WAI/ </a>.'
   de: 'Dies ist die Vorschau eines unveröffentlichten Entwurfs, der Inhalte enthalten könnte, die noch nicht genehmigt sind. Die veröffentlichte Website befindet sich unter <a href="https://www.w3.org/WAI/">w3.org/WAI/</a>.'
@@ -561,6 +604,7 @@
 
 - en: 'This&nbsp;page&nbsp;in:'   # "This page in:" with &nbsp; between words to avoid line breaks (for top "This page in: English...")
   ar: 'هذه&nbsp;الصفحة&nbsp;بـ:'
+  cs: 'Tato&nbsp;stránka&nbsp;v:'
   ja: '本ページは日本語表記です'
   ru: 'Эта&nbsp;страница&nbsp;на:'
   de: 'Diese&nbsp;Seite&nbsp;auf:'
@@ -574,6 +618,7 @@
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
   ar: 'قد لا تعكس هذه الترجمة التطوعية بدقة قصد <a href="$1">الإنجليزية الأصلية</a>.'
+  cs: 'Tento dobrovolnický překlad nemusí přesně vystihovat záměry <a href="$1">anglického originálu</a>.'
   ja: 'ボランタリーの本翻訳は、英語原文 <a href="$1">を正確に反映していない場合があります</a>'
   ru: 'Этот волонтерский перевод может быть неточным и отличаться от<a href="$1"> английского оригинала</a>.'
   de: 'Diese ehrenamtliche Übersetzung spiegelt möglicherweise nicht genau die Absichten des <a href="$1">englischen Originals</a> wider.'
@@ -587,6 +632,7 @@
 
 - en: 'Translating WAI Resources'   # page title
   ar: 'ترجمة موارد WAI'
+  cs: 'Překlady WAI zdrojů'
   ja: 'WAIリソース翻訳'
   ru: 'Перевод ресурсов WAI'
   de: 'WAI-Ressourcen übersetzen'
@@ -600,6 +646,7 @@
 
 - en: 'Translation updated:'
   ar: 'ترجمة محدثة:'
+  cs: 'Překlad aktualizován:'
   ja: '翻訳更新済'
   ru: 'Перевод обновлен:'
   de: 'Übersetzung aktualisiert:'
@@ -613,6 +660,7 @@
 
 - en: 'Translation up-to-date with the English version.'
   ar: 'ترجمة محدثة مع النسخة الإنجليزية.'
+  cs: 'Překlad v souladu s anglickou verzí.'
   ja: '最新英語文書の翻訳'
   ru: 'Перевод соответствует английской версиии.'
   de: 'Übersetzung auf dem Stand der englischen Version.'
@@ -626,6 +674,7 @@
 
 - en: 'Translations'
   ar: 'ترجمات'
+  cs: 'Překlady'
   ja: '翻訳'
   ru: 'Переводы'
   de: 'Übersetzungen'
@@ -639,6 +688,7 @@
 
 - en: 'Translator:'   # gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Translation'
   ar: 'الترجمة:'
+  cs: 'Překladatel:'
   ja: '翻訳者'
   ru: 'Переводчик:'
   de: 'Übersetzung:'
@@ -652,6 +702,7 @@
 
 - en: 'Translators:'   # gender-neutral, plural
   ar: 'ال ترجمات:'
+  cs: 'Překladatelé:'
   ja: '翻訳者'
   ru: 'Переводчики:'
   de: 'Übersetzung:'
@@ -665,6 +716,7 @@
 
 - en: 'WAI thanks translators, and welcomes other <a href="$1">translations</a>.'   # UPDATED 18-Mar-2019 "WAI thanks these translators" -> "WAI thanks translators"
   ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
+  cs: 'WAI děkuje překladatelům a vítá další <a href="$1">překlady</a>.'
   ja: 'WAIは全ての翻訳者に感謝し、また他の<a href="$1">translations</a>も歓迎します'
   ru: 'WAI благодарит переводчиков и приглашает к участию волонтеров<a href="$1"> переводы </a>.'
   de: 'WAI dankt Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.' # UPDATED 2019-04-04
@@ -678,6 +730,7 @@
 
 - en: '[put comment here...]'   # for e-mail template
   ar: '[ضع تعليق هنا ...]'
+  cs: '[vložit komentář zde...]'
   ja: '[コメント欄]'
   ru: '[оставьте комментарий здесь ...]'
   de: '[Ihr Kommentar …]'
@@ -691,6 +744,7 @@
 
 - en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
   ar: '[ضع تعليق هنا ...] \n \n أوافق على مشاركة هذا في قائمة البريد إلكتروني بالأرشيف العام.'
+  cs: '[vložit komentář zde...]\n\nDávám souhlas se sdílením do veřejně archivovaného e-mailového seznamu'
   ja: '[コメント欄]\n\nI 一般に公開されているemailリストへの共有'
   ru: '[оставьте комментарий здесь ...]\n\nЯ даю разрешение на публикацию этого текста в публичной рассылке.'
   de: '[Ihr Kommentar …]\n\nIch erteile die Erlaubnis, dies in einer öffentlich archivierten E-Mail-Liste zu übermitteln.'
@@ -706,6 +760,7 @@
 
 - en: 'Next'  # used for: Next page/topic
   ar: 'التالي'
+  cs: 'Další'
   ja: '次ページ'
   ru: 'Предыдущая'
   de: 'Als nächstes'
@@ -718,6 +773,7 @@
 
 - en: 'Previous'  # used for: Previous page/topic
   ar: 'السالف'
+  cs: 'Předchozí'
   ja: '前ページ'
   ru: 'Следующая'
   de: 'Zuvor'
@@ -732,6 +788,7 @@
 
 - en: Changelog
   ar: 'سجل التغيير'
+  cs: 'Záznamy změn'
   ja: 'Change log'
   ru: Перечень изменений
   de: 'Änderungsprotokoll'
@@ -746,6 +803,7 @@
 # ADDED 2019-07-09
 
 - en: 'in' # for "in [resource name]" such as under the h1 of https://www.w3.org/WAI/people-use-web/user-stories/
+  cs: 'v'
   de: 'in'
   fr: 'dans'
   nl: 'in'
@@ -753,11 +811,13 @@
 # ADDED 2019-08-19
 
 - en: 'Expand All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at https://www.w3.org/WAI/people-use-web/user-stories/
+  cs: 'Expandovat všechny sekce'
   de: 'Alle Abschnitte aufklappen'
   nl: 'Alle secties uitklappen'
   javascript: true
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons
+  cs: 'Zavřít všechny sekce'
   de: 'Alle Abschnitte zuklappen'
   nl: 'Alle secties inklappen'
   javascript: true
@@ -767,13 +827,16 @@
 # Links to footnotes and back from footnotes to the text
 
 - en: 'to footnote'
+  cs: 'k poznámce pod čarou'
   nl: 'naar voetnoot'
   javascript: true
 
 - en: 'back to footnote'
+  cs: 'zpět k poznámce pod čarou'
   nl: 'terug naar voetnoot'
   javascript: true
 
 - en: 'in text'
+  cs: 'v textu'
   nl: 'in tekst'
   javascript: true
