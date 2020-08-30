@@ -394,7 +394,7 @@
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
   ar: ' المرجو المشاركة بأفكار أو اقتراحات أو تعليقات عبر البريد الإلكتروني إلى القائمة بالأرشيف العام [$1](mailto:{$1?subject=%s) أو عبر GitHub'
-  cs: 'Prosíme, sdílejte své nápady, připomínky nebo komentáře emailem do veřejně archivovaného seznamu [$1](mailto:$1?subject=%s) nebo na GitHubu.'
+  cs: 'Prosíme, sdílejte své nápady, připomínky nebo komentáře e-mailem do veřejně archivovaného seznamu [$1](mailto:$1?subject=%s) nebo na GitHubu.'
   ja: 'ご意見、ご提案、コメントをemail [$1](mailto:$1?subject=%s) かGitHubまでお寄せください。'
   ru: 'Пожалуйста, поделитесь своими идеями, предложениями или комментариями в публичной электронной рассылке [$1](mailto:$1?subject=%s) или через GitHub. '
   de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste [$1](mailto:$1?subject=%s) oder via GitHub mit.'
@@ -492,7 +492,7 @@
 
 - en: 'Show Customization, Languages, Translations'   # for show/hide toggle
   ar: 'إظهار التخصيص واللغات والترجمات'
-  cs: 'Ukázat přizpůsobení, jazyky, překlady'
+  cs: 'Zobrazit přizpůsobení, jazyky, překlady'
   ja: 'カスタマイズ、言語、翻訳'
   ru: 'Показать настройки, языки, переводы'
   de: 'Anpassungen, Sprachen, Übersetzungen anzeigen'
@@ -506,7 +506,7 @@
 
 - en: 'Show Languages'   # for show/hide toggle
   ar: 'إظهار اللغات'
-  cs: 'Ukázat jazyky'
+  cs: 'Zobrazit jazyky'
   ja: '翻訳'
   ru: 'Показать языки'
   de: 'Sprachen anzeigen'
@@ -520,7 +520,7 @@
 
 - en: 'Skip Link and Language Selector'   # aria-label for top navigation [this will probably change…]
   ar: 'تخطي الرابط ومحدد اللغة'
-  cs: 'Přeskočit link a selektor jazyků'
+  cs: 'Přeskočit na hlavní obsah a výběr jazyka'
   ja: 'リンクと言語選択をスキップ'
   ru: 'Пропустить ссылку и выбор языка'
   de: 'Sprunglink und Sprachauswahl'
@@ -788,7 +788,7 @@
 
 - en: Changelog
   ar: 'سجل التغيير'
-  cs: 'Záznamy změn'
+  cs: 'Seznam změn'
   ja: 'Change log'
   ru: Перечень изменений
   de: 'Änderungsprotokoll'
@@ -811,13 +811,13 @@
 # ADDED 2019-08-19
 
 - en: 'Expand All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at https://www.w3.org/WAI/people-use-web/user-stories/
-  cs: 'Expandovat všechny sekce'
+  cs: 'Rozbalit všechny sekce'
   de: 'Alle Abschnitte aufklappen'
   nl: 'Alle secties uitklappen'
   javascript: true
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons
-  cs: 'Zavřít všechny sekce'
+  cs: 'Sbalit všechny sekce'
   de: 'Alle Abschnitte zuklappen'
   nl: 'Alle secties inklappen'
   javascript: true
