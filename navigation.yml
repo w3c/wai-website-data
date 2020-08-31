@@ -1,10 +1,12 @@
 - name:
     en: 'Accessibility Fundamentals'
     es: 'Fundamentos de accesibilidad'
+    id: 'Fundamental Aksesibilitas'
   pages:
   - name:
       en: 'Accessibility Fundamentals'
       es: 'Fundamentos de accesibilidad'
+      id: 'Fundamental Aksesibilitas'
     url: "/fundamentals/"
   - name:
       en: "Introduction to Accessibility"
@@ -13,6 +15,7 @@
       fr: "Introduction à l'accessibilité du web"
       ru: "ВВЕДЕНИЕ В ВЕБ-ДОСТУПНОСТЬ"
       zh-hans: "Web无障碍简介"
+      id: 'Pengantar Aksesibilitas'
     url: "/fundamentals/accessibility-intro/"
     pages:
     - name:
@@ -27,6 +30,7 @@
         nl: 'Video-introductie'
         ru: 'Введение'
         zh-hans: '视频介绍'
+        id: 'Video Pengantar'
       url: /videos/standards-and-benefits/
       pages:
       - name:
@@ -37,21 +41,25 @@
           zh-hans: '修改日志'
           fr: 'Changements'
           es: 'Registro de cambios'
+          id: 'Catatan Perubahan'
         url: /videos/standards-and-benefits/changelog/
         hide: true
   - name:
       en: Components of Web Accessibility
       ko: "웹 접근성 요소"
+      id: 'Komponen Aksesibilitas Web'
     url: "/fundamentals/components/"
     pages:
     - name:
         en: Illustration Descriptions
+        id: 'Deskripsi Gambar'
       url: "/fundamentals/components/examples/"
       hide: true
   - name:
       en: "Accessibility Principles"
       fr: "Principes d’accessibilité"
       es: "Principios de accesibilidad"
+      id: 'Prinsip-Prinsip Aksesibilitas'
       zh-hans: "无障碍原则"
     url: "/fundamentals/accessibility-principles/"
     pages:
@@ -63,262 +71,442 @@
           zh-hans: '修改日志'
           fr: 'Changements'
           es: 'Registro de cambios'
+          id: 'Catatan Perubahan'
         url: "/fundamentals/accessibility-principles/changelog/"
         hide: true
   - name: Perspectives Videos
     url: "/perspective-videos/"
     pages:
-    - name: Keyboard Compatibility
+    - name: 
+        en: 'Keyboard Compatibility'
+        id: 'Kompatibilitas Kibor'
       url: "/perspective-videos/keyboard/"
-    - name: Colors with Good Contrast
+    - name: 
+        en: 'Colors with Good Contrast'
+        id: 'Warna dengan Kontras yang Baik'
       url: "/perspective-videos/contrast/"
-    - name: Clear Layout and Design
+    - name: 
+        en: 'Clear Layout and Design'
+        id: 'Desain dan Tata Letak yang Jelas'
       url: "/perspective-videos/layout/"
-    - name: Text to Speech
+    - name: 
+        en: 'Text to Speech'
+        id: 'Teks ke Suara'
       url: "/perspective-videos/speech/"
-    - name: Large Links, Buttons, and Controls
+    - name: 
+        en: 'Large Links, Buttons, and Controls'
+        id: 'Tautan, Tombol, dan Kontrol yang Besar'
       url: "/perspective-videos/controls/"
-    - name: Video Captions
+    - name:
+        en: 'Video Captions'
+        id: 'Teks untuk Video'
       url: "/perspective-videos/captions/"
-    - name: Customizable Text
+    - name:
+        en: 'Customizable Text'
+        id: 'Teks yang Bisa Dikustomisasi'
       url: "/perspective-videos/customizable/"
-    - name: Voice Recognition
+    - name:
+        en: 'Voice Recognition'
+        id: 'Pengenalan Suara'
       url: "/perspective-videos/voice/"
-    - name: Understandable Content
+    - name:
+        en: 'Understandable Content'
+        id: 'Konten yang mudah dimengerti'
       url: "/perspective-videos/understandable/"
-    - name: Notifications and Feedback
+    - name:
+        en: 'Notifications and Feedback'
+        id: 'Notifikasi dan Umpan Balik'
       url: "/perspective-videos/notifications/"
-    - name: Acknowledgements
+    - name:
+        en: 'Acknowledgements'
+        id: 'Ucapan Terima Kasih'
       url: "/perspective-videos/acknowledgements/"
       hide: true
   - name:
       en: "How People with Disabilities Use the Web"
       fr: "Comment les personnes handicapées utilisent le web"
       es: "Cómo usan la web las personas con discapacidad"
+      id: 'Bagaimana Penyangdang Disabilitas Menggunakan Web'
     url: "/people-use-web/"
     pages:
     - name:
         en: "Stories of Web Users"
         fr: "Quelques utilisateurs du Web"
         es: "Historias de usuarios de la web"
+        id: 'Kisah Pengguna Web'
       url: "/people-use-web/user-stories/"
     - name:
         en: "Diverse Abilities and Barriers"
         fr: "Des capacités et des points bloquants variés"
+        id: 'Kemampuan dan Hambatan yang Beragam'
       url: "/people-use-web/abilities-barriers/"
     - name:
         en: "Tools and Techniques"
         fr: "Outils et techniques"
+        id: 'Sarana dan Teknik'
       url: "/people-use-web/tools-techniques/"
-  - name: Older Users and Accessibility
+  - name: 
+        en: 'Older Users and Accessibility'
+        id: 'Pengguna Berusia Lanjut dan Aksesibilitas'
     url: "/older-users/"
     pages:
-    - name: How WCAG 2 Applies
+    - name: 
+        en: 'How WCAG 2 Applies'
+        id: 'Cara Penerapan WCAG 2'
       url: "/older-users/developing/"
-    - name: Literature Review
+    - name:
+        en: 'Literature Review'
+        id: 'Tinjauan Literatur'
       url: "/older-users/literature/"
-    - name: Changelog
+    - name: 
+        en: 'Changelog'
+        id: 'Catatan Perubahan'
       url: "/older-users/changelog/"
       hide: true
-  - name: Accessibility, Usability, Inclusion
+  - name:
+        en: 'Accessibility, Usability, Inclusion'
+        id: 'Aksesibilitas, Usabilitas, Inklusi'
     url: "/fundamentals/accessibility-usability-inclusion/"
 - name:
     en: 'Planning & Policies'
     es: 'Planificación y Políticas'
+    id: 'Perencanaan & Kebijakan'
   pages:
   - name:
       en: 'Planning & Policies'
       es: 'Planificación y Políticas'
+      id: 'Perencanaan & Kebijakan'
     url: "/planning/"
-  - name: Approaches for Interim Repairs
+  - name:
+      en: 'Approaches for Interim Repairs'
+      id: 'Pendekatan untuk Perbaikan Sementara'
     url: "/planning/interim-repairs/"
-  - name: Planning and Managing Accessibility
+  - name:
+      en: 'Planning and Managing Accessibility'
+      id: 'Perencanaan dan Mengelola Aksesibilitas'
     url: "/planning-and-managing/"
     pages:
-      - name: Initiate
+      - name: 
+          en: 'Initiate'
+          id: 'Inisiasi'
         url: "/planning-and-managing/initiate/"
-      - name: Plan
+      - name:
+          en: 'Plan'
+          id: 'Perencanaan'
         url: "/planning-and-managing/plan/"
-      - name: Implement
+      - name:
+          en: 'Implement'
+          id: 'Implementasi'
         url: "/planning-and-managing/implement/"
-      - name: Sustain
+      - name:
+          en: 'Sustain'
+          id: 'Melanjutkan'
         url: "/planning-and-managing/sustain/"
-  - name: Developing an Organizational Policy
+  - name:
+      en: 'Developing an Organizational Policy'
+      id: 'Mengembangkan Kebijakan Oganisasi'
     url: "/planning/org-policies/"
     pages:
-      - name: Example
+      - name:
+          en: 'Example'
+          id: 'Contoh'
         url: "/planning/org-policies/example/"
         hide: true
-  - name: Developing an Accessibility Statement
+  - name:
+        en: 'Developing an Accessibility Statement'
+        id: 'Mengembangkan Pernyataan Aksesibilitas'
     url: "/planning/statements/"
     pages:
-    - name: Generator Tool
+    - name:
+        en: 'Generator Tool'
+        id: 'Alat Pembuat Pernyataan'
       url: "/planning/statements/generator/"
-    - name: Minimal Example
+    - name: 
+        en: Minimal Example
+        id: Contoh Minimal
       url: "/planning/statements/minimal-example/"
-    - name: Complete Example
+    - name: 
+        en: Complete Example
+        id: Contoh Lengkap
       url: "/planning/statements/complete-example/"
-  - name: Involving Users for Better Accessibility
+  - name: 
+        en: Involving Users for Better Accessibility
+        id: Melibatkan Pengguna untuk Aksesibilitas yang Lebih Baik
     url: "/planning/involving-users/"
-  - name: International Laws & Policies
+  - name: 
+        en: International Laws & Policies
+        id: Hukum dan Kebijakan Internasional
     url: "/policies/"
 - name:
     en: 'Design & Develop'
     es: 'Diseñar y Desarrollar'
+    id: 'Desain & Pengembangan'
   pages:
   - name:
       en: 'Design & Develop'
       es: 'Diseñar y Desarrollar'
     url: "/design-develop/"
-  - name: Tips for Getting Started
+  - name: 
+      en: Tips for Getting Started
+      id: Tips Memulai
     url: "/tips/"
     hide: true
-  - name: Tips for Writing
+  - name: 
+      en: Tips for Writing
+      id: Tips Menulis
     url: "/tips/writing/"
-  - name: Tips for Designing
+  - name: 
+      en: Tips for Designing
+      id: Tips Mendesain
     url: "/tips/designing/"
-  - name: Tips for Developing
+  - name: 
+      en: Tips for Developing
+      id: Tips Mengembangkan
     url: "/tips/developing/"
-  - name: Audio & Video Media
+  - name: 
+      en: Audio & Video Media
+      id: Media Audio & Video
     url: "/media/av/"
     pages:
-      - name: Planning
+      - name: 
+          en: Planning
+          id: Perencanaan
         url: "/media/av/planning/"
-      - name: Audio Content & Video Content
+      - name: 
+          en: Audio Content & Video Content
+          id: Konten Audio & Konten Video
         url: "/media/av/av-content/"
-      - name: Media Player
+      - name: 
+          en: Media Player
+          id: Pemutar Media
         url: "/media/av/player/"
-      - name: Description
+      - name:
+          en: Description
+          id: Deskripsi
         url: "/media/av/description/"
-      - name: Captions/Subtitles
+      - name: 
+          en: Captions/Subtitles
+          id: Keterangan/Teks
         url: "/media/av/captions/"
-      - name: Transcripts
+      - name: 
+          en: Transcripts
+          id: Transkripsi
         url: "/media/av/transcripts/"
-      - name: Sign Languages
+      - name: 
+          en: Sign Languages
+          id: Bahasa Isyarat
         url: "/media/av/sign-languages/"
-      - name: Transcribing Audio to Text
+      - name: 
+          en: Transcribing Audio to Text
+          id: Mentranskripsikan Audio ke Teks
         url: "/media/av/transcribing/"
       - name:
           en: Achnowledgements
+          id: Ucapan Terima Kasih
         url: /media/av/acknowledgements/
         hide: true
       - name:
           en: Changelog
+          id: Catatan Perubahan
         url: /media/av/changelog/
         hide: true
-  - name: Tutorials
+  - name:
+      en: Tutorials
+      id: Tutorial
     url: "https://www.w3.org/WAI/tutorials/"
     pages:
-      - name: Page Structure
+      - name: 
+          en: Page Structure
+          id: Struktur Halaman
         url: "https://www.w3.org/WAI/tutorials/page-structure/"
-      - name: Menus
+      - name: 
+          en: Menus
+          id: Menu
         url: "https://www.w3.org/WAI/tutorials/menus/"
-      - name: Images
+      - name: 
+          en: Images
+          id: Gambar
         url: "https://www.w3.org/WAI/tutorials/images/"
-      - name: Tables
+      - name: 
+          en: Tables
+          id: Tabel
         url: "https://www.w3.org/WAI/tutorials/tables/"
-      - name: Forms
+      - name: 
+          en: Forms
+          id: Formulir
         url: "https://www.w3.org/WAI/tutorials/forms/"
-      - name: Carousels
+      - name: 
+          en: Carousels
+          id: Korsel
         url: "https://www.w3.org/WAI/tutorials/carousels/"
 
 - name:
     en: 'Test & Evaluate'
     es: 'Probar y Evaluar'
+    id: 'Uji & Evaliasi'
   pages:
   - name:
       en: 'Test & Evaluate'
       es: 'Probar y Evaluar'
+      id: 'Uji & Evaluasi'
     url: "/test-evaluate/"
-  - name: Easy Checks – A First Review
+  - name: 
+      en: Easy Checks – A First Review
+      id: Cek Mudah — Tinjauan Awal
     url: "/test-evaluate/preliminary/"
-  - name: Evaluation Tools
+  - name: 
+      en: Evaluation Tools
+      id: Alat Evaluasi
     url: "/test-evaluate/tools/"
     pages:
-      - name: Selecting Evaluation Tools
+      - name: 
+          en: Selecting Evaluation Tools
+          id: Memilih Alat Evaluasi
         url: "/test-evaluate/tools/selecting/"
-      - name: List of Evaluation Tools
+      - name: 
+          en: List of Evaluation Tools
+          id: Daftar Alat Evaluasi
         url: "https://www.w3.org/WAI/ER/tools/"
-  - name: Conformance Evaluation, Reports
+  - name: 
+      en: Conformance Evaluation, Reports
+      id: Evaluasi Kesesuaian, Laporan
     url: "/test-evaluate/conformance/"
     pages:
-      - name: WCAG-EM Conformance Methodology
+      - name: 
+          en: WCAG-EM Conformance Methodology
+          id: Metodologi Kesesuaian WCAG-EM
         url: "/test-evaluate/conformance/wcag-em/"
-      - name: WCAG-EM Report Tool
+      - name: 
+          en: WCAG-EM Report Tool
+          id: Alat Pelaporan WCAG-EM
         url: "https://www.w3.org/WAI/eval/report-tool/#/"
-      - name: Report Template
+      - name: 
+          en: Report Template
+          id: Format Laporan
         url: "/test-evaluate/report-template/"
-  - name: Using Combined Expertise
+  - name: 
+      en: Using Combined Expertise
+      id: Menggunakan Keahlian Gabungan
     url: "/test-evaluate/combined-expertise/"
-  - name: Involving Users
+  - name: 
+      en: Involving Users
+      id: Melibatkan Pengguna
     url: "/test-evaluate/involving-users/"
-  - name: Acknowledgements
+  - name: 
+      en: Acknowledgements
+      id: Ucapan Terima Kasih
     url: "/test-evaluate/acknowledgements/"
     hide: true    
 
 - name:
     en: 'Teach & Advocate'
     es: 'Enseñar y Promover'
+    id: 'Ajari & Advokasi'
   pages:
   - name:
       en: 'Teach & Advocate'
       es: 'Enseñar y Promover'
+      id: 'Ajari & Advokasi'
     url: "/teach-advocate/"
-  - name: Make Presentations Accessible
+  - name: 
+      en: Make Presentations Accessible
+      id: Membuat Presentasi Aksesibel
     url: "/teach-advocate/accessible-presentations/"
-  - name: "Curricula on Web Accessibility"
+  - name: 
+      en: "Curricula on Web Accessibility"
+      id: "Kurikulum Aksesibilitas Web"
     url: "/curricula/"
     pages:
-    - name: "Introduction to Web Accessibility"
+    - name: 
+        en: "Introduction to Web Accessibility"
+        id: "Pengantar Aksesibilitas Web"
       url: "/curricula/introduction-to-web-accessibility/"
       pages:
-      - name: "What is Web Accessibility"
+      - name: 
+          en: "What is Web Accessibility"
+          id: "Apa itu Aksesibilitas Web"
         url: "/curricula/introduction-to-web-accessibility/what-is-web-accessibility/"
-      - name: "People and Digital Technology"
+      - name: 
+          en: "People and Digital Technology"
+          id: "Manusia dan Teknologi Digital"
         url: "/curricula/introduction-to-web-accessibility/people-and-digital-technology/"
-      - name: "Business Case and Benefits"
+      - name: 
+          en: "Business Case and Benefits"
+          id: "Kasus dan Keuntungan bagi Bisnis"
         url: "/curricula/introduction-to-web-accessibility/business-case-and-benefits/"
-      - name: "Principles, Standards, and Checks"
+      - name: 
+          en: "Principles, Standards, and Checks"
+          id: "Prinsip, Standar, dan Cek"
         url: "/curricula/introduction-to-web-accessibility/principles-standards-and-checks/"
-      - name: "Getting Started with Accessibility"
+      - name: 
+          en: "Getting Started with Accessibility"
+          id: "Memulai dengan Aksesibilitas"
         url: "/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/"
-  - name: Develop Accessibility Training
+  - name: 
+      en: Develop Accessibility Training
+      id: Mengembangkan Pelatihan Aksesibilitas
     url: "/teach-advocate/accessibility-training/"
     pages:
-    - name: Topics
+    - name: 
+        en: Topics
+        id: Topik
       url: "/teach-advocate/accessibility-training/topics/"
-    - name: Presentation Outlines
+    - name: 
+        en: Presentation Outlines
+        id: Garis Besar Presentasi
       url: "/teach-advocate/accessibility-training/presentation-outlines/"
-    - name: Workshop Outline
+    - name: 
+        en: Workshop Outline
+        id: Garis Besar Lokakarya
       url: "/teach-advocate/accessibility-training/workshop-outline/"
-# - name: Presentations You Can Use
+# - name: 
+#     en: Presentations You Can Use
+#     id: Presentasi yang Dapat Anda Gunakan
 #   url: "/teach-advocate/presentations-to-use/"
-  - name: Before and After Demo (BAD)
+  - name: 
+      en: Before and After Demo (BAD)
+      id: Sebelum dan Sesudah Demo
     url: "https://www.w3.org/WAI/demos/bad/"
-  - name: Contacting Inaccessible Websites
+  - name: 
+      en: Contacting Inaccessible Websites
+      id: Menhubungi Situs Non-aksesibel
     url: "/teach-advocate/contact-inaccessible-websites/"
   - name:
       en: Business Case
       es: Caso de negocios
+      id: Kasus Bisnis
     url: "/business-case/"
     pages:
-    - name: Bibliography
+    - name: 
+        en: Bibliography
+        id: Bibliografi
       url: "/business-case/bibliography/"
   # pages:
-  #   - name: Social Factors
+  #   - name: 
+  #       en: Social Factors
+  #       id: Faktor Sosial
   #     url: "/business-case/social-factors/"
-  #   - name: Technical Factors
+  #   - name: 
+  #       en: Technical Factors
+  #       id: Faktor Teknis
   #     url: "/business-case/technical-factors/"
-  #   - name: Financial Factors
+  #   - name: 
+  #       en: Financial Factors
+  #       id: Faktor Financial
   #     url: "/business-case/financial-factors/"
-  #   - name: Legal & Policy Factors
+  #   - name: 
+  #       en: Legal & Policy Factors
+  #       id: Faktor Legal & Kebijakan
   #     url: "/business-case/legal-policy-factors/"
-  #   - name: Resources
+  #   - name: 
+  #       en: Resources
+  #       id: Sumber
   #     url: "/business-case/resources/"
 
 - name:
     en: 'Standards/<wbr>Guidelines'
     es: 'Estándares/<wbr>Pautas'
+    id: 'Standar/<wbr>Pedoman'
   pages:
   - name:
       en: 'Standards/<wbr>Guidelines'
@@ -327,140 +515,233 @@
       ko: "표준/지침"
       ru: "Стандарты/<wbr>Рекомендации"
       zh-hans: "标准/指南"
+      id: 'Standar/<wbr>Pedoman'
     url: "/standards-guidelines/"
   - name:
       en: "Web Content – WCAG"
       es: "Contenido Web – WCAG"
+      id: 'Konten Web — WCAG'
     url: "/standards-guidelines/wcag/"
     pages:
-    - name: "How to Meet WCAG 2 (Quick Reference)"
+    - name: 
+        en: "How to Meet WCAG 2 (Quick Reference)"
+        id: "Cara Memenuhi WCAG 2 (Referensi Singkat)"
       url: "https://www.w3.org/WAI/WCAG21/quickref/"
     - name:
         en: "At a Glance"
         es: "De un vistazo"
+        id: "Selayang Pandang"
       url: "/standards-guidelines/wcag/glance/"
-    - name: The Documents
+    - name: 
+        en: The Documents
+        id: Dokumen-dokumen
       url: "/standards-guidelines/wcag/docs/"
-    - name: New in 2.2 Draft
+    - name: 
+        en: New in 2.2 Draft
+        id: Baru di Naskah 2.2
       url: "/standards-guidelines/wcag/new-in-22/"
     - name:
         en: "New in 2.1"
         es: "Novedades en 2.1"
+        id: "Baru di 2.1"
       url: "/standards-guidelines/wcag/new-in-21/"
-    - name: Translations
+    - name: 
+        en: Translations
+        id: Terjemahan
       url: "/standards-guidelines/wcag/translations/"
-    - name: "Applying to Non-Web ICT"
+    - name: 
+        en: "Applying to Non-Web ICT"
+        id: "Pengaplikasian pada TIK Non-Web"
       url: "/standards-guidelines/wcag/non-web-ict/"
-    - name: "Commenting"
+    - name: 
+        en: "Commenting"
+        id: "Berkomentar"
       url: "/standards-guidelines/wcag/commenting/"
-    - name: "Conformance Logos"
+    - name: 
+        en: "Conformance Logos"
+        id: "Kesesuaian Logo"
       url: "/standards-guidelines/wcag/conformance-logos/"
-    - name: FAQ
+    - name: 
+        en: FAQ
+        id: Pertanyaan yang Sering Diajukan
       url: "/standards-guidelines/wcag/faq/"
-  - name: Authoring Tools – ATAG
+  - name: 
+      en: Authoring Tools – ATAG
+      id: Alat Penulisan
     url: "/standards-guidelines/atag/"
     pages:
-    - name: "At a Glance"
+    - name: 
+        en: "At a Glance"
+        id: "Selayang Pandang"
       url: "/standards-guidelines/atag/glance/"
-  - name: User Agents – UAAG
+  - name: 
+      en: User Agents – UAAG
+      id: Agen Pengguna
     url: "/standards-guidelines/uaag/"
   - name: WAI-ARIA
     url: "/standards-guidelines/aria/"
-  - name: Evaluation – ACT & EARL
+  - name: 
+      en: Evaluation – ACT & EARL
+      id: Evaluasi
     url: "/standards-guidelines/evaluation/"
     pages:
-    - name: Accessibility Conformance Testing – ACT
+    - name: 
+        en: Accessibility Conformance Testing – ACT
+        id: Pengujian Kesesuaian Aksesibilitas
       url: "/standards-guidelines/act/"
-    - name: WCAG ACT Rules
+    - name: 
+        en: WCAG ACT Rules
+        id: Peraturan Pengujian Kesesuaian Aksesibiitas WCAG
       url: "/standards-guidelines/act/rules/"
       hide: true
       pages:
-      - name: "Rule: HTML page has title"
+      - name: 
+          en: "Rule: HTML page has title"
+          id: "Aturan: Halaman HTML memiliki judul"
         url: "/standards-guidelines/act/rules/html-page-has-title-2779a5/"
         hide: true
-      - name: "Rule: Image button has accessible name"
+      - name:
+          en: "Rule: Image button has accessible name"
+          id: "Aturan: Tombol gambar memiliki nama yang aksesibel"
         url: "/standards-guidelines/act/rules/image-button-accessible-name-59796f/"
         hide: true
-      - name: "Rule: HTML page has ‘lang’ attribute"
+      - name: 
+          en: "Rule: HTML page has ‘lang’ attribute"
+          id: "Aturan: Halaman HTML memiliki atribut 'lang'"
         url: "/standards-guidelines/act/rules/html-page-lang-b5c3f8/"
         hide: true
-      - name: "Rule: HTML page language is valid"
+      - name: 
+          en: "Rule: HTML page language is valid"
+          id: "Aturan: Bahasa halaman HTML valid"
         url: "/standards-guidelines/act/rules/html-page-lang-valid-bf051a/"
         hide: true
-      - name: "Rule: HTML page ‘lang’ and ‘xml:lang’ attributes have matching values"
+      - name: 
+          en: "Rule: HTML page ‘lang’ and ‘xml:lang’ attributes have matching values"
+          id: "Aturan: Atribut 'lang' dan 'xml:lang' halaman HTML memiliki atribut yang sesuai dengan nilainya"
         url: "/standards-guidelines/act/rules/html-page-lang-xml-lang-match-5b7ae0/"
         hide: true
-    - name: Evaluation and Report Language – EARL
+    - name: 
+        en: Evaluation and Report Language – EARL
+        id: Bahasa Laporan dan Evaluasi
       url: "/standards-guidelines/earl/"
-  - name: Personalization
+  - name: 
+      en: Personalization
+      id: Personalisasi
     url: "/personalization/"
-  - name: Pronunciation
+  - name: 
+      en: Pronunciation
+      id: Pengucapan
     url: "/pronunciation/"
-  - name: Standards Harmonization is Essential
+  - name: 
+      en: Standards Harmonization is Essential
+      id: Hamonisasi Standar Bersifat Esensial
     url: "/standards-guidelines/harmonization/"
-  - name: W3C Process for Developing Standards
+  - name: 
+      en: W3C Process for Developing Standards
+      id: Proses W3C dalam Mengembangkan Standar
     url: "/standards-guidelines/w3c-process/"
-  - name: Referencing and Linking to Standards
+  - name: 
+      en: Referencing and Linking to Standards
+      id: Merujuk dan Memasang Tautan ke Standar 
     url: "/standards-guidelines/linking/"
-  - name: Cognitive Accessibility at W3C
+  - name: 
+      en: Cognitive Accessibility at W3C
+      id: Aksesibilitas Kognitif di W3C
     url: "/cognitive/"
   - name:
       en: "Mobile Accessibility at W3C"
       es: "Accesibilidad Móvil en el W3C"
       ru: "Решения консорциума W3C по обеспечению доступности на мобильных устройствах"
       zh-hans: "W3C 移动端无障碍"
+      id: "Aksesibilitas Perangkat Genggam di W3C"
     url: "/standards-guidelines/mobile/"
 
 - name:
     en: News
+    id: Berita
   mainnav: false
   pages:
-  - name: "News"
+  - name: 
+      en: "News"
+      id: "Berita"
     url: "/news/"
     pages:
-    - name: "Subscribe"
+    - name: 
+        en: "Subscribe"
+        id: "Berlangganan"
       url: "/news/subscribe/"
 
 - name:
     en: "About W3C WAI"
+    id: "Tentang W3C WAI"
   mainnav: false
   pages:
-  - name: About WAI
+  - name: 
+      en: About WAI
+      id: Tentang WAI
     url: "/about/"
-  - name: Participating
+  - name: 
+      en: Participating
+      id: Berpartisipasi
     url: "/about/participating/"
-  - name: Translating
+  - name: 
+      en: Translating
+      id: Menerjemahkan
     url: "/about/translating/"
-  - name: Contacting
+  - name: 
+      en: Contacting
+      id: Menghubungi
     url: "/about/contacting/"
-  - name: Sponsoring
+  - name: 
+      en: Sponsoring
+      id: Mensponsori
     url: "/about/sponsoring/"
-  - name: Projects
+  - name: 
+      en: Projects
+      id: Proyek
     url: "/about/projects/"
     pages:
-    - name: WAI-Guide
+    - name: 
+        en: WAI-Guide
+        id: Pedoman WAI
       url: "/about/projects/wai-guide/"
-    - name: WAI-Tools
+    - name: 
+        en: WAI-Tools
+        id: Peralatan-WAI
       url: "/about/projects/wai-tools/"
       pages:
-      - name: Third Open Meeting
+      - name: 
+          en: Third Open Meeting
+          id: Pertemuan Terbuka Ketiga
         url: "/about/projects/wai-tools/third-open-meeting/"
-      - name: Second Open Meeting
+      - name: 
+          en: Second Open Meeting
+          id: Pertemuan Terbuka Kedua
         url: "/about/projects/wai-tools/second-open-meeting/"
-      - name: Online Symposium
+      - name: 
+          en: Online Symposium
+          id: Simposium Daring
         url: "/about/projects/wai-tools/symposium/"
         pages:
-        - name: Record
+        - name: 
+            en: Record
+            id: Rekaman
           url: "/about/projects/wai-tools/symposium/record/"
-      - name: First Open Meeting
+      - name: 
+          en: First Open Meeting
+          id: Pertemuan Terbuka Pertama
         url: "/about/projects/wai-tools/first-open-meeting/"
-    - name: WAI Expanding Access
+    - name: 
+        en: WAI Expanding Access
+        id: WAI Memperluas Akses
       url: "/expand-access/"
     - name: Easy Reading
       url: "/about/projects/easy-reading/"
     - name: WAI-Core 2015
       url: "/about/projects/wai-core-2015/"
-  - name: Groups
+  - name: 
+      en: Groups
+      id: Kelompok
     url: "/about/groups/"
     pages:
     - name: 'AGWG: Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
@@ -474,18 +755,30 @@
       pages:
       - name: Charter
         url: "/EO/charter-current"
-      - name: Participate (Join)
+      - name: 
+          en: Participate (Join)
+          id: Turut Berpartisipasi (Gabung)
         url: "/about/groups/eowg/participate/"
-      - name: Current Participants
+      - name: 
+          en: Current Participants
+          id: Partisipan Sekarang
         url: "https://www.w3.org/groups/wg/eowg/participants"
     - name: 'WAI IG: WAI Interest Group'
       url: "/about/groups/waiig/"
-    - name: 'Group Task Forces'
+    - name: 
+        en: 'Group Task Forces'
+        id: 'Kelompok Kerja'
       url: "/about/groups/taskforces/"
-  - name: Using WAI Material
+  - name: 
+      en: Using WAI Material
+      id: Menggunakan Materi WAI
     url: "/about/using-wai-material/"
-  - name: Accessibility Statement
+  - name: 
+      en: Accessibility Statement
+      id: Pernyataan Aksesibilitas
     url: "/about/accessibility-statement/"
-- name: Resources
+- name: 
+    en: Resources
+    id: Sumber
   url: "/resources/"
   mainnav: false
