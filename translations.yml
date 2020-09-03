@@ -13,6 +13,7 @@
   es: 'Acerca de esta Traducción'
   ko: '번역 정보'
   pt-BR: 'Sobre esta tradução'
+  fa: 'درباره این ترجمه'
 
 - en: 'All&nbsp;Translations'   # link goes to w3.org/WAI/translations/ = 'All Translations' with &nbsp; between words to avoid line breaks
   ar: 'كل&nbsp;الترجمات'
@@ -27,6 +28,7 @@
   es: 'Todas&nbsp;las&nbsp;Traducciones'
   ko: '모든&nbsp;번역'
   pt-BR: 'Todas&nbsp;as&nbsp;traduções'
+  fa: 'همه&nbsp;ترجمه‌ها'
 
 - en: 'Back to Top'   # link that appears after scrolling down, takes focus back to top of page
   ar: 'العودة إلى الأعلى'
@@ -41,6 +43,7 @@
   es: 'Ir Arriba'
   ko: '위로 가기'
   pt-BR: 'Voltar para o topo'
+  fa: 'بازگشت به بالا'
 
 - en: 'Breadcrumb'   # aria-label for breadcrumb navigation
   ar: 'علامات التتبع'
@@ -55,6 +58,7 @@
   es: 'Miga de pan'
   ko: '페이지 경로'
   pt-BR: 'Migalha de Pão'
+  fa: 'بردکرامب'
 
 - en: 'Change Text Size or Colors'   # link goes to w3.org/WAI/meta/customize/
   ar: 'تغيير حجم النص أو الألوان'
@@ -69,6 +73,7 @@
   es: 'Cambiar Tamaño del Texto o los Colores'
   ko: '글자크기와 색상 바꾸기'
   pt-BR: 'Mudar o Tamanho do Texto ou as Cores'
+  fa: 'تغییر سایز متن یا رنگ‌ها'
 
 - en: 'Contributor:'   # for listing people who helped with a translation. gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Contribution'
   ar: 'المساهمة:'
@@ -83,6 +88,7 @@
   es: 'Colaborador/a:'
   ko: '기여한 사람'
   pt-BR: 'Colaborador/a:'
+  fa: 'مشارکت کننده:'
 
 - en: 'Contributors:'   #  for listing people who helped with a translation. gender-neutral, plural
   ar: 'المساهمات:'
@@ -97,6 +103,7 @@
   es: 'Colaboradores/as:'
   ko: '기여한 사람들'
   pt-BR: 'Colaboradores/as:'
+  fa: 'مشارکت کنندگان:'
 
 - en: 'Copyright'
   ar: 'حق النشر'
@@ -111,6 +118,7 @@
   es: 'Derechos de autor'
   ko: '저작권'
   pt-BR: 'Direitos do Autor'
+  fa: 'حق نشر'
 
 - en: 'Different View'   # alt text for icon that indicates link goes to page without WAI site navigation
   ar: 'عرض مختلف'
@@ -125,6 +133,7 @@
   es: 'Vista Diferente'
   ko: '다른 화면'
   pt-BR: 'Visualização Diferente'
+  fa: 'نمایش متفاوت'
 
 - en: 'Disable Audio Description'   # used with videos for description as explained here: w3.org/WAI/media/av/description/
   ar: 'تعطيل الوصف الصوتي'
@@ -139,6 +148,7 @@
   es: 'Deshabilitar Descripción de Audio'
   ko: '오디오 설명 사용하지 않기'
   pt-BR: 'Desativar Descrição do Audio'
+  fa: 'غیرفعال کردن توضیحات صوتی'
 
 - en: 'Enable Audio Description'   # used with videos for description as explained here: w3.org/WAI/media/av/description/
   ar: 'تفعيل الوصف الصوتي'
@@ -153,6 +163,7 @@
   es: 'Habilitar Descripción de Audio'
   ko: '오디오 설명 사용하기'
   pt-BR: 'Ativar a Descrição do Audio'
+  fa: 'فعال کردن توضیحات صوتی'
 
 - en: 'E-mail'
   ar: 'البريد الإلكتروني'
@@ -167,6 +178,7 @@
   es: 'Correo Electrónico'
   ko: 'E-mail'
   pt-BR: 'E-mail'
+  fa: 'ایمیل'
 
 
 - en: 'English updated:'   # introduces a date. used in “About this Translation”
@@ -182,6 +194,7 @@
   es: 'Versión en inglés actualizada:'
   ko: '영문 업데이트:'
   pt-BR: 'Versão em inglês atualizada:'
+  fa: 'انگلیسی به روز شده:'
 
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'   # used in “About this Translation”
   ar: 'تم تحديث النسخة الإنجليزية منذ هذه الترجمة:<a href="$1">سجل التغيير</a>'
@@ -196,6 +209,7 @@
   es: 'Versión en inglés actualizada posteriormente a esta traducción: <a href="$1">registro de cambios</a>.'
   ko: '영문 버전이 다음 번역 이후로 업데이트되었습니다.: <a href="$1">변경 기록</a>'
   pt-BR: 'Versão em inglês atualizada posteriormente a esta tradução: <a href="$1">registro de mudanças</a>.'
+  fa: 'نسخه انگلیسی از زمان این ترجمه به روز شده است: <a href="$1">تغییرات </a>.'
 
 - en: 'External Site'   # alt text for icon that indicates link goes off WAI site
   ar: 'الموقع الخارجي'
@@ -210,6 +224,7 @@
   es: 'Sitio Externo'
   ko: '외부 사이트'
   pt-BR: 'Site Externo'
+  fa: 'سایت خارجی'
 
 - en: 'Fork &amp; Edit on GitHub'   # "&amp;" is code for the "&" character. If you don't use & in your language, do not include &amp; in your translation.
   ar: 'تفرع وتحرير على GitHub'
@@ -224,6 +239,7 @@
   es: 'Fork y Editar en GitHub'
   ko: 'GitHub에서 Fork 및 수정하기'
   pt-BR: 'Fork e Editar no Github'
+  fa: 'انشعاب گرفتن و ویرایش در گیت‌هاب'
 
 - en: 'Help improve this page'   # heading for box with links to e-mail and GitHub
   ar: 'لمساعدة تحسين هذه الصفحة'
@@ -238,6 +254,7 @@
   es: 'Ayuda a mejorar esta página'
   ko: '이 페이지 개선에 참여하기'
   pt-BR: 'Ajude a melhorar esta página'
+  fa: 'به بهبود این صفحه کمک کنید'
 
 - en: 'Hide'   # for show/hide toggle, for example, on the WAI home page: “Hide Section”
   ar: 'إخفاء'
@@ -252,6 +269,7 @@
   es: 'Ocultar'
   ko: '숨기기'
   pt-BR: 'Ocultar'
+  fa: 'پنهان کردن'
 
 - en: 'Hide Languages'     # for show/hide languages
   ar: 'إخفاء اللغات'
@@ -266,6 +284,7 @@
   es: 'Ocultar Idiomas'
   ko: '언어 숨기기'
   pt-BR: 'Ocultar Idiomas'
+  fa: 'پنهان کردن زبان‌ها'
 
 - en: 'Hide Options'   # for show/hide options, for example, near the top of w3.org/WAI/videos/standards-and-benefits/
   ar: 'إخفاء الخيارات'
@@ -280,6 +299,7 @@
   es: 'Ocultar Opciones'
   ko: '옵션 숨기기'
   pt-BR: 'Ocultar Opções'
+  fa: 'پنهان کردن گزینه‌ها'
 
 - en: 'Home'   # link to the WAI home page
   ar: 'الصفحة الرئيسية'
@@ -294,6 +314,7 @@
   es: 'Portada'
   ko: '메인'
   pt-BR: 'Pagina Inicial'
+  fa: 'صفحه اصلی'
 
 - en: 'in English'   # indicates that the linked page is in English. included in parenthesis on translated pages
   ar: 'باللغة الإنجليزية'
@@ -308,6 +329,7 @@
   es: 'en Inglés'
   ko: '영어'
   pt-BR: 'em Inglês'
+  fa: 'به انگلیسی'
 
 - en: 'Languages/Translations'   # heading for list of translations. if "/" doesn't work well, could use a comma (,)
   ar: 'لغات وترجمات'
@@ -322,6 +344,7 @@
   es: 'Idiomas/Traducciones'
   ko: '언어/번역'
   pt-BR: 'Idiomas/Traduções'
+  fa: 'زبان‌ها/ ترجمه‌ها'
 
 - en: 'Main'   # aria-label for main navigation
   ar: 'الرئيسي'
@@ -336,6 +359,7 @@
   es: 'Principal'
   ko: '주메뉴'
   pt-BR: 'Principal'
+  fa: 'اصلی'
 
 - en: 'Menu'   # UI component, displays navigation. used in mobile view
   ar: 'قائمة'
@@ -350,6 +374,7 @@
   es: 'Menú'
   ko: '메뉴'
   pt-BR: 'Menu'
+  fa: 'منو'
 
 - en: 'New GitHub Issue'   # links to GitHub with new Issue opened
   ar: 'قضية جديدة على Github'
@@ -364,6 +389,7 @@
   es: 'Nueva Incidencia de GitHub'
   ko: '새로운 GitHub 이슈'
   pt-BR: 'Novo incidente no GitHub'
+  fa: 'موضوع جدید در گیت‌هاب'
 
 - en: 'Other Pages in this Resource'   # aria-label for certain secondary navigations (“resource” means a document, for example, w3.org/WAI/people-use-web/#this-resource-includes-the-following-pages
   ar: 'صفحات أخرى في هذا الموقع'
@@ -378,6 +404,7 @@
   es: 'Otras Páginas en este Recurso'
   ko: '이 자료의 다른 페이지'
   pt-BR: 'Outras Páginas em esse Recurso'
+  fa: 'صفحات دیگر در این منبع'
 
 - en: 'Other Resources in'   # for "Other Resource in [language], e.g,: "Other Resources in English". links to list of other pages in that languages, for example w3.org/WAI/translations/#es
   ar: 'الموارد الأخرى بـ'
@@ -392,6 +419,7 @@
   es: 'Otros Recursos en'
   ko: '다음 언어로 번역된 다른 자료 :'
   pt-BR: 'Outros Recursos em'
+  fa: 'منابع دیگر در'
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
   ar: ' المرجو المشاركة بأفكار أو اقتراحات أو تعليقات عبر البريد الإلكتروني إلى القائمة بالأرشيف العام [$1](mailto:{$1?subject=%s) أو عبر GitHub'
@@ -406,6 +434,7 @@
   es: 'Comparte tus ideas, sugerencias o comentarios por correo electrónico a la lista pública [$1](mailto:$1?subject=%s) o vía GitHub.'
   ko: '당신의 아이디어와 제안, 의견 등을 공개적으로 보관되는 [$1](mailto:$1?subject=%s)나 GitHub을 통해 공유해주세요.'
   pt-BR: 'Compartilhe suas ideias, sugestões ou comentários por e-mail para a lista pública [$1](mailto:$1?subject=%s) ou via GitHub.'
+  fa: 'لطفا ایده‌ها، پیشنهادات یا نظرات خود را از طریق ایمیل به فهرست بایگانی شده عمومی [$1](mailto:$1?subject=%s)  یا از طریق گیت‌هاب به اشتراک بگذارید.'
 
 - en: 'Previous/Next Page'   # aria-label for prev/next page naviation
   ar: 'الصفحة السالفة / التالية'
@@ -420,6 +449,7 @@
   es: 'Página Anterior/Siguiente'
   ko: '이전/다음 페이지'
   pt-BR: 'Pagina Anterior/Seguinte'
+  fa: 'صفحه قبلی/بعدی'
 
 - en: 'Reviewer'  # gender-neutral, singular -- if gender-neutral word is not in your language, use appropriate alternative, such as plural ; introduces the name of the person who reviewed a translation
   ar: 'المراجعة'
@@ -434,6 +464,7 @@
   es: 'Página Anterior/Siguiente'
   ko: '검토한 사람'
   pt-BR: 'Revisor/a'
+  fa: 'بازبین'
 
 - en: 'Reviewers'  # gender-neutral, plural ; introduces the names people who reviewed a translation
   ar: 'المراجعات'
@@ -448,6 +479,7 @@
   es: 'Revisores/as'
   ko: '검토한 사람들'
   pt-BR: 'Revisores/as'
+  fa: 'بازبین‌ها'
 
 - en: 'Search'   # Search box field label
   ar: 'بحث'
@@ -462,6 +494,7 @@
   es: 'Buscar'
   ko: '찾기'
   pt-BR: 'Buscar'
+  fa: 'جستجو'
 
 - en: 'Secondary'   # aria-label for secondary navigation
   ar: 'الثانوي'
@@ -476,6 +509,7 @@
   es: 'Secundario'
   ko: '두번째'
   pt-BR: 'Secundário'
+  fa: 'ثانویه'
 
 - en: 'Select Language, Translations'   # for show/hide toggle
   ar: 'اختيار اللغة والترجمات'
@@ -490,6 +524,7 @@
   es: 'Selecciona Idioma, Traducciones'
   ko: '언어, 번역을 선택하세요.'
   pt-BR: 'Selecione Idioma, Traduções'
+  fa: 'انتخاب زبان و ترجمه‌ها'
 
 - en: 'Show Customization, Languages, Translations'   # for show/hide toggle at the top of pages with translations, for example, w3.org/WAI/videos/standards-and-benefits/
   ar: 'إظهار التخصيص واللغات والترجمات'
@@ -504,6 +539,7 @@
   es: 'Mostrar Personalización, Idiomas, Traducciones'
   ko: '사용자정의, 언어, 번역 보기'
   pt-BR: 'Mostrar Customizações, Idiomas, Traduções'
+  fa: 'نمایش سفارشی‌سازی، زبان‌ها، ترجمه‌ها'
 
 - en: 'Show Languages'   # for show/hide toggle
   ar: 'إظهار اللغات'
@@ -518,6 +554,7 @@
   es: 'Mostrar Idiomas'
   ko: '언어 보기'
   pt-BR: 'Mostrar Idiomas'
+  fa: 'نمایش زبان‌ها'
 
 - en: 'Skip Link and Language Selector'   # aria-label for top navigation [this will probably change…]
   ar: 'تخطي الرابط ومحدد اللغة'
@@ -532,6 +569,7 @@
   es: 'Saltar Enlace y Selector de Idioma'
   ko: '링크 건너뛰기와 언어 선택'
   pt-BR: 'Pular Link e Seletor de Idioma'
+  fa: 'رد کردن پیوند و انتخاب زبان'
 
 - en: 'Skip to Content'   # moves focus within a page
   ar: 'انتقال إلى المضمون'
@@ -546,6 +584,7 @@
   es: 'Saltar al Contenido'
   ko: '콘텐츠로 넘어가기'
   pt-BR: 'Pular para o conteúdo'
+  fa: 'پرش به محتوا'
 
 - en: 'Strategies, standards, and supporting resources to make the Web accessible to people with disabilities.'   # WAI “tagline” in footer, not interactive
   ar: 'ستراتيجيات ومعايير وموارد داعمة لجعل الويب في متناول الأشخاص ذوي الإعاقات.'
@@ -560,6 +599,7 @@
   es: 'Estrategias, estándares y materiales de apoyo para hacer la Web accesible para gente con discapacidades.'
   ko: '장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원 지원'
   pt-BR: 'Estratégias, padrões, e materiais de apoio para fazer a Web accessivel para pessoas com deficiência.'
+  fa: 'استراتژی‌ها، استانداردها و منابع حمایتی برای دسترسی‌پذیری وب به افراد کم‌توان.'
 
 - en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'   # WAI tagline in header, shorter version of previous line, please make as short as feasible -- even if not grammatically correct (e.g., no "and" after "Strategies, standards,")
   ar: 'ستراتيجيات ومعايير وموارد لجعل الويب في متناول الأشخاص ذوي الإعاقات'
@@ -574,6 +614,7 @@
   es: 'Estrategias, estándares y materiales para hacer la Web accesible para gente con discapacidades.'
   ko: 장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원'
   pt-BR: 'Estratégias, padrões, e materiais para fazer a Web accessivel para pessoas com deficiência.'
+  fa: 'استراتژی‌ها، استانداردها و منابع برای دسترسی‌پذیری وب به افراد کم‌توان.'
 
 - en: 'Submit Search'   # aria-label for button
   ar: 'إرسال البحث'
@@ -588,6 +629,7 @@
   es: 'Enviar Búsqueda'
   ko: '찾기'
   pt-BR: 'Realizar Busca'
+  fa: 'ارسال جستجو'
 
 - en: 'This is an unpublished draft preview that might include content that is not yet approved. The published website is at <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
   ar: 'هذا عرض مسبق لمسودة غير منشورة قد تتضمن محتوى لم تتم الموافقة عليه بعد. الموقع المنشور موجود على'
@@ -602,6 +644,7 @@
   es: 'Esta es una previsualización en borrador que no está publicada que puede incluir contenido que aún no se han aprobado. El sitio web publicado está en <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
   ko: '공식적으로 배포되지 않은 초안으로 아직 승인되지 않은 콘텐츠를 담고 있을 수 있습니다. 공식 사이트는 <a href="https://w3.org/WAI/">w3.org/WAI/</a> 입니다.'
   pt-BR: 'Este é uma pre-visualização de um rascunho que pode incluir conteudo que ainda não foi aprovado. O site publicado está em <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
+  fa: 'این یک پیش‌نمایش پیش‌نویس منتشر نشده است که ممکن است شامل محتوایی باشد که هنوز تایید نشده است. وب‌سایت منتشر شده به آدرس <a href="https://w3.org/WAI/">w3.org/WAI/</a> می‌باشد.'
 
 - en: 'This&nbsp;page&nbsp;in:'   # "This page in:" with &nbsp; between words to avoid line breaks (for top "This page in: English..."). introduces a list of languages, used near the top of pages with translations, such as w3.org/WAI/videos/standards-and-benefits/
   ar: 'هذه&nbsp;الصفحة&nbsp;بـ:'
@@ -616,6 +659,7 @@
   es: 'Esta&nbsp;página&nbsp;en:'
   ko: '현재&nbsp;번역&nbsp;언어:'
   pt-BR: 'Essa&nbsp;pagina&nbsp;em:'
+  fa: 'این&nbsp;صفحه&nbsp;در:'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
   ar: 'قد لا تعكس هذه الترجمة التطوعية بدقة قصد <a href="$1">الإنجليزية الأصلية</a>.'
@@ -630,6 +674,7 @@
   es: 'Esta traducción voluntaria puede que no refleje de forma adecuada las intenciones de la <a href="$1">versión original en inglés</a>.'
   ko: '이 자원 번역자는 <a href="$1">영어 원문</a>의 의도를 정확하게 나타내지 않았을 수 있습니다.'
   pt-BR: 'Esta tradução voluntária pode não refletir de forma adequada as intenções da <a href="$1">versão original em ingles.</a>'
+  fa: 'این ترجمه داوطلبانه ممکن است به دقت اهداف اصلی <a href="$1">متن انگلیسی</a> را منعکس نکند.'
 
 - en: 'Translating WAI Resources'   # links to w3.org/WAI/about/translating/
   ar: 'ترجمة موارد WAI'
@@ -644,6 +689,7 @@
   es: 'Recursos de traducción de WAI'
   ko: 'WAI 자료 번역하기'
   pt-BR: 'Recursos de tradução de WAI'
+  fa: 'ترجمه منابع WAI'
 
 - en: 'Translation updated:'   # precedes a date
   ar: 'ترجمة محدثة:'
@@ -658,6 +704,7 @@
   es: 'Traducción actualizada:'
   ko: '번역 업데이트:'
   pt-BR: 'Tradução atualizada:'
+  fa: 'ترجمه به روز شده:'
 
 - en: 'Translation up-to-date with the English version.'
   ar: 'ترجمة محدثة مع النسخة الإنجليزية.'
@@ -672,6 +719,7 @@
   es: 'Traducción actualizada a la última versión de la original en inglés.'
   ko: '최근 영어 버전과 함께 업데이트되었습니다.'
   pt-BR: 'Tradução atualizada com a última versão em inglês.'
+  fa: 'ترجمه به روز در نسخه انگلیسی.'
 
 - en: 'Translations'
   ar: 'ترجمات'
@@ -686,6 +734,7 @@
   es: 'Traducciones'
   ko: '번역'
   pt-BR: 'Traduções'
+  fa: 'ترجمه‌ها'
 
 - en: 'Translator:'   # gender-neutral, singular -- if gender-neutral not in your language, use appropriate alternative, such as plural or 'Translation'. precedes list of one person who did a translation
   ar: 'الترجمة:'
@@ -700,6 +749,7 @@
   es: 'Traductor/a:'
   ko: '번역한 사람'
   pt-BR: 'Tradutor:'
+  fa: 'مترجم:'
 
 - en: 'Translators:'   # gender-neutral, plural. precedes list of more than one person who did a translation
   ar: 'ال ترجمات:'
@@ -714,6 +764,7 @@
   es: 'Traductores/as:'
   ko: '번역한 사람들'
   pt-BR: 'Tradutores:'
+  fa: 'مترجمان:'
 
 - en: 'WAI thanks translators, and welcomes other <a href="$1">translations</a>.'   # UPDATED 18-Mar-2019 "WAI thanks these translators" -> "WAI thanks translators"
   ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
@@ -728,6 +779,7 @@
   es: 'WAI les da las gracias a estos/as traductores/as y da la bienvenida a otras <a href="$1">traducciones</a>.'
   ko: 'WAI는 번역자에게 감사의 마음을 전하고, 다른 <a href="$1">번역</a>에도 참여하는 것을 환영합니다.'
   pt-BR: 'WAI agradeçe os/as tradutores/as, e dá as boas-vindas a outras <a href="$1">traduções.</a>'
+  fa: 'WAI از مترجمان تشکر می‌کند، و از <a href="$1">ترجمه‌های</a> دیگر استقبال می‌کند.'
 
 - en: '[put comment here...]'   # placeholder text in e-mail template
   ar: '[ضع تعليق هنا ...]'
@@ -742,6 +794,7 @@
   es: '[tu comentario aquí...]'
   ko: '[여기에 코멘트를 남기세요...]'
   pt-BR: '[seu comentário aqui...]'
+  fa: '[نظر خود را اینجا بنویسید...]'
 
 - en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
   ar: '[ضع تعليق هنا ...] \n \n أوافق على مشاركة هذا في قائمة البريد إلكتروني بالأرشيف العام.'
@@ -756,6 +809,7 @@
   es: '[tu comentario aquí...]\n\nConsiento el compartirlo en una lista de correo pública con archivo.'   # for e-mail template
   ko: '[여기에 코멘트를 남기세요...]\n\n이 메일이 공개적으로 보관되는 이메일 목록에 공유되는 것을 동의합니다.'
   pt-BR: '[seu comentário aqui...]\n\nConcedo permissão de compartilhar isto para uma lista de email pública com arquivo.'
+  fa: '[نظر خود را اینجا بنویسید...]\n\nمن اجازه می‌دهد این پیام به فهرست بایگانی ایمیل عمومی به اشتراک گذاشته شود.'
 
 # ADDED 2019-02-20
 
@@ -771,6 +825,7 @@
   fr: 'Suivant'
   ko: '다음'
   pt-BR: 'Próxima'
+  fa: 'بعدی'
 
 - en: 'Previous'  # used for navigation to the previous page in a multi-page resource; for example, just above w3.org/WAI/people-use-web/user-stories/#helpimprove
   ar: 'السالف'
@@ -784,6 +839,7 @@
   fr: 'Précédent'
   ko: '이전'
   pt-BR: 'Anterior'
+  fa: 'قبلی'
 
 # ADDED 2019-02-21
 
@@ -800,6 +856,7 @@
   es: 'Registro de cambios'
   ko: '변경 기록'
   pt-BR: 'Registro de Mudanças'
+  fa: 'تغییرات'
 
 # ADDED 2019-07-09
 
@@ -808,6 +865,7 @@
   de: 'in'
   fr: 'dans'
   nl: 'in'
+  fa: 'در'
 
 # ADDED 2019-08-19
 
@@ -815,12 +873,14 @@
   cs: 'Rozbalit všechny sekce'
   de: 'Alle Abschnitte aufklappen'
   nl: 'Alle secties uitklappen'
+  fa: 'همه بخش‌ها باز شود'
   javascript: true
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
   cs: 'Sbalit všechny sekce'
   de: 'Alle Abschnitte zuklappen'
   nl: 'Alle secties inklappen'
+  fa: 'همه بخش‌ها بسته شود'
   javascript: true
 
 # Added 2019-11-08
@@ -830,14 +890,17 @@
 - en: 'to footnote'
   cs: 'k poznámce pod čarou'
   nl: 'naar voetnoot'
+  fa: 'به پاورقی'
   javascript: true
 
 - en: 'back to footnote'
   cs: 'zpět k poznámce pod čarou'
   nl: 'terug naar voetnoot'
+  fa: 'بازگشت به پاورقی'
   javascript: true
 
 - en: 'in text'
   cs: 'v textu'
   nl: 'in tekst'
+  fa: 'در متن'
   javascript: true
