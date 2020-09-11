@@ -194,7 +194,7 @@
   es: 'Versión en inglés actualizada:'
   ko: '영문 업데이트:'
   pt-BR: 'Versão em inglês atualizada:'
-  fa: 'انگلیسی به روز شده:'
+  fa: 'انگلیسی به روز شد:'
 
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'   # used in “About this Translation”
   ar: 'تم تحديث النسخة الإنجليزية منذ هذه الترجمة:<a href="$1">سجل التغيير</a>'
@@ -344,7 +344,7 @@
   es: 'Idiomas/Traducciones'
   ko: '언어/번역'
   pt-BR: 'Idiomas/Traduções'
-  fa: 'زبان‌ها/ ترجمه‌ها'
+  fa: 'زبان‌ها/ترجمه‌ها'
 
 - en: 'Main'   # aria-label for main navigation
   ar: 'الرئيسي'
