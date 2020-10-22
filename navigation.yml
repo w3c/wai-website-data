@@ -341,18 +341,18 @@
       url: "/standards-guidelines/wcag/glance/"
     - name: The Documents
       url: "/standards-guidelines/wcag/docs/"
-    - name: WCAG 3 Introduction
-      url: "/standards-guidelines/wcag/wcag3-intro/"
+    - name: "Applying to Non-Web ICT"
+      url: "/standards-guidelines/wcag/non-web-ict/"
     - name: New in 2.2 Draft
       url: "/standards-guidelines/wcag/new-in-22/"
     - name:
         en: "New in 2.1"
         es: "Novedades en 2.1"
       url: "/standards-guidelines/wcag/new-in-21/"
+    - name: WCAG 3 Introduction
+      url: "/standards-guidelines/wcag/wcag3-intro/"
     - name: Translations
       url: "/standards-guidelines/wcag/translations/"
-    - name: "Applying to Non-Web ICT"
-      url: "/standards-guidelines/wcag/non-web-ict/"
     - name: "Commenting"
       url: "/standards-guidelines/wcag/commenting/"
     - name: "Conformance Logos"
