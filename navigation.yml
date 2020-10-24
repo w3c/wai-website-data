@@ -323,6 +323,7 @@
   pages:
   - name:
       en: 'Standards/<wbr>Guidelines'
+      cs: 'Standardy/Pokyny'
       es: 'Estándares/<wbr>Pautas'
       fr: "Standards/<wbr>Règles"
       ko: "표준/지침"
