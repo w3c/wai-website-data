@@ -332,6 +332,7 @@
     url: "/standards-guidelines/"
   - name:
       en: "Web Content – WCAG"
+      fr: "Web Content – WCAG"
       es: "Contenido Web – WCAG"
     url: "/standards-guidelines/wcag/"
     pages:
