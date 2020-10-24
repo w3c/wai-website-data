@@ -340,6 +340,7 @@
     - name:
         en: "At a Glance"
         es: "De un vistazo"
+        fr: "en bref"
       url: "/standards-guidelines/wcag/glance/"
     - name: The Documents
       url: "/standards-guidelines/wcag/docs/"
