@@ -841,3 +841,10 @@
   cs: 'v textu'
   nl: 'in tekst'
   javascript: true
+
+# Added 2020-11-06
+
+# Text used in video card component to describe tehtherere is a version with more accessibility features available
+
+- en: 'This video is available with more accessibility features:'
+  nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties: '
