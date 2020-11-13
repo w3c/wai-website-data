@@ -412,6 +412,7 @@
     url: "/cognitive/"
   - name:
       en: "Mobile Accessibility at W3C"
+      cs: "Mobilní přístupnost ve W3C"
       es: "Accesibilidad Móvil en el W3C"
       ru: "Решения консорциума W3C по обеспечению доступности на мобильных устройствах"
       zh-hans: "W3C 移动端无障碍"
