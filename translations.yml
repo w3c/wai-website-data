@@ -804,47 +804,54 @@
 # ADDED 2019-07-09
 
 - en: 'in'  # for "[resource sub-page title] in [parent resource title]" such as [Stories of Web Users] in [How People with Disabilities Use the Web] at w3.org/WAI/people-use-web/user-stories/
-  cs: 'v'
-  de: 'in'
-  fr: 'dans'
-  nl: 'in'
+   
+   cs: 'v'
+   de: 'in'
+   fr: 'dans' 
+   nl: 'in'
 
 # ADDED 2019-08-19
 
 - en: 'Expand All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
-  cs: 'Rozbalit všechny sekce'
-  de: 'Alle Abschnitte aufklappen'
-  nl: 'Alle secties uitklappen'
-  javascript: true
+   fr: 'Afficher toutes les sections'
+   cs: 'Rozbalit všechny sekce'
+   de: 'Alle Abschnitte aufklappen'
+   nl: 'Alle secties uitklappen'
+   javascript: true
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
-  cs: 'Sbalit všechny sekce'
-  de: 'Alle Abschnitte zuklappen'
-  nl: 'Alle secties inklappen'
-  javascript: true
+   fr: 'Réduire toutes les sections'
+   cs: 'Sbalit všechny sekce'
+   de: 'Alle Abschnitte zuklappen'
+   nl: 'Alle secties inklappen'
+   javascript: true
 
 # Added 2019-11-08
 
 # Links to footnotes and back from footnotes to main content text:
 
 - en: 'to footnote'
-  cs: 'k poznámce pod čarou'
-  nl: 'naar voetnoot'
-  javascript: true
+   fr: 'vers la note de bas de page'
+   cs: 'k poznámce pod čarou'
+   nl: 'naar voetnoot'
+   javascript: true
 
 - en: 'back to footnote'
-  cs: 'zpět k poznámce pod čarou'
-  nl: 'terug naar voetnoot'
-  javascript: true
+   fr: 'retour à la note de bas de page'
+   cs: 'zpět k poznámce pod čarou'
+   nl: 'terug naar voetnoot'
+   javascript: true
 
 - en: 'in text'
-  cs: 'v textu'
-  nl: 'in tekst'
-  javascript: true
+   fr: 'dans le texte'
+   cs: 'v textu'
+   nl: 'in tekst'
+   javascript: true
 
 # Added 2020-11-06
 
-# Text used in video card component to describe there is a version with more accessibility features available, link to alternative version is displayed after colon
+# Text under videos such as at https://www.w3.org/WAI/test-evaluate/#initial -- with the title of the video after this phrase
 
 - en: 'This video is available with more accessibility features:'
-  nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties: '
+   fr: 'Cette vidéo est disponible avec plus d'options d'accessibilité:'
+   nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties:'
