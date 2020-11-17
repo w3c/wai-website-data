@@ -850,6 +850,4 @@
 # Added 2020-11-06
 
 - en: 'This video is available with more accessibility features:'   # Text under videos such as at w3.org/WAI/test-evaluate/#initial -- with the title of the video after this phrase
-  fr: 'Cette vidéo est disponible avec plus d'options d'accessibilité:'
   nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties:'
-  javascript: true
