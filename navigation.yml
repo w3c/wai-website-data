@@ -445,6 +445,8 @@
   - name: Projects
     url: "/about/projects/"
     pages:
+    - name: WAI-CooP
+      url: "/about/projects/wai-coop/"
     - name: WAI-Guide
       url: "/about/projects/wai-guide/"
     - name: WAI-Tools
