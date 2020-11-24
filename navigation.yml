@@ -41,6 +41,9 @@
         url: /videos/standards-and-benefits/changelog/
         hide: true
   - name:
+      en: Foundations Online Course
+    url: "/fundamentals/foundations-course/"
+  - name:
       en: Components of Web Accessibility
       ko: "웹 접근성 요소"
     url: "/fundamentals/components/"
