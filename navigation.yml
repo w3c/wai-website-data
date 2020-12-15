@@ -455,6 +455,8 @@
     - name: WAI-Tools
       url: "/about/projects/wai-tools/"
       pages:
+      - name: Final Open Meeting
+        url: "/about/projects/wai-tools/final-open-meeting/"
       - name: Third Open Meeting
         url: "/about/projects/wai-tools/third-open-meeting/"
       - name: Second Open Meeting
