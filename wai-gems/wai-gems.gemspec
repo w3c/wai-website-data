@@ -14,5 +14,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency "jekyll-redirect-from"
   spec.add_dependency "jekyll-include-cache"
   spec.add_dependency "jekyll-remote-theme"
+  spec.add_dependency "jekyll-paginate"
   spec.add_dependency "wai-website-plugin"
 end
