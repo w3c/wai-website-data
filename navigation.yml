@@ -356,8 +356,6 @@
         en: "New in 2.1"
         es: "Novedades en 2.1"
       url: "/standards-guidelines/wcag/new-in-21/"
-    - name: WCAG 3 Introduction
-      url: "/standards-guidelines/wcag/wcag3-intro/"
     - name: Translations
       url: "/standards-guidelines/wcag/translations/"
     - name: "Commenting"
@@ -373,6 +371,8 @@
       url: "/standards-guidelines/atag/glance/"
   - name: User Agents – UAAG
     url: "/standards-guidelines/uaag/"
+  - name: WCAG 3 Draft
+    url: "/standards-guidelines/wcag/wcag3-intro/"
   - name: WAI-ARIA
     url: "/standards-guidelines/aria/"
   - name: Evaluation – ACT & EARL
