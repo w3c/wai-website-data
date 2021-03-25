@@ -265,10 +265,12 @@
 - name:
     en: 'Teach & Advocate'
     es: 'Enseñar y Promover'
+    fr: 'Former et promouvoir'
   pages:
   - name:
       en: 'Teach & Advocate'
       es: 'Enseñar y Promover'
+      fr: 'Former et promouvoir'
     url: "/teach-advocate/"
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
