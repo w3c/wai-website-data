@@ -478,6 +478,17 @@
       pages:
       - name: Final Open Meeting
         url: "/about/projects/wai-tools/final-open-meeting/"
+        pages:
+        - name: Session 1
+          url: "/about/projects/wai-tools/final-open-meeting/video1/"
+        - name: Session 2
+          url: "/about/projects/wai-tools/final-open-meeting/video2/"
+        - name: Session 3
+          url: "/about/projects/wai-tools/final-open-meeting/video3/"
+        - name: Session 4
+          url: "/about/projects/wai-tools/final-open-meeting/video4/"
+        - name: Session 5
+          url: "/about/projects/wai-tools/final-open-meeting/video5/"
       - name: Third Open Meeting
         url: "/about/projects/wai-tools/third-open-meeting/"
       - name: Second Open Meeting
