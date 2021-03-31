@@ -479,15 +479,15 @@
       - name: Final Open Meeting
         url: "/about/projects/wai-tools/final-open-meeting/"
       - name: Video Recording 1
-        url: "/about/projects/wai-tools/final-open-meeting/session1/"
+        url: "/about/projects/wai-tools/session1/"
       - name: Video Recording 2
-        url: "/about/projects/wai-tools/final-open-meeting/session2/"
+        url: "/about/projects/wai-tools/session2/"
       - name: Video Recording 3
-        url: "/about/projects/wai-tools/final-open-meeting/session3/"
+        url: "/about/projects/wai-tools/session3/"
       - name: Video Recording 4
-        url: "/about/projects/wai-tools/final-open-meeting/session4/"
+        url: "/about/projects/wai-tools/session4/"
       - name: Video Recording 5
-        url: "/about/projects/wai-tools/final-open-meeting/session5/"
+        url: "/about/projects/wai-tools/session5/"
       - name: Third Open Meeting
         url: "/about/projects/wai-tools/third-open-meeting/"
       - name: Second Open Meeting
