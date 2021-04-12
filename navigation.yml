@@ -87,7 +87,7 @@
     - name: Customizable Text
       url: "/perspective-videos/customizable/"
     - name: Speech Recognition
-      url: "/perspective-videos/speech/"
+      url: "/perspective-videos/voice/"
     - name: Understandable Content
       url: "/perspective-videos/understandable/"
     - name: Notifications and Feedback
