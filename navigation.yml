@@ -54,6 +54,7 @@
       hide: true
   - name:
       en: "Accessibility Principles"
+      ar: "مبادئ الوصول"
       fr: "Principes d’accessibilité"
       es: "Principios de accesibilidad"
       zh-hans: "无障碍原则"
@@ -347,6 +348,7 @@
   pages:
   - name:
       en: 'Standards/<wbr>Guidelines'
+      ar: 'معايير/إرشادات'
       cs: 'Standardy/Pokyny'
       es: 'Estándares/<wbr>Pautas'
       fr: "Standards/<wbr>Règles"
@@ -436,6 +438,7 @@
     url: "/cognitive/"
   - name:
       en: "Mobile Accessibility at W3C"
+      ar: "إمكانية الوصول للأجهزة المحمولة في W3C"
       cs: "Mobilní přístupnost ve W3C"
       es: "Accesibilidad Móvil en el W3C"
       ru: "Решения консорциума W3C по обеспечению доступности на мобильных устройствах"
