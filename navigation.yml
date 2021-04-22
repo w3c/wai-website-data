@@ -54,6 +54,7 @@
       hide: true
   - name:
       en: "Accessibility Principles"
+      ar: "مبادئ الوصول"
       fr: "Principes d’accessibilité"
       es: "Principios de accesibilidad"
       zh-hans: "无障碍原则"
@@ -86,7 +87,7 @@
       url: "/perspective-videos/captions/"
     - name: Customizable Text
       url: "/perspective-videos/customizable/"
-    - name: Voice Recognition
+    - name: Speech Recognition
       url: "/perspective-videos/voice/"
     - name: Understandable Content
       url: "/perspective-videos/understandable/"
@@ -265,29 +266,48 @@
 - name:
     en: 'Teach & Advocate'
     es: 'Enseñar y Promover'
+    fr: 'Former et promouvoir'
   pages:
   - name:
       en: 'Teach & Advocate'
       es: 'Enseñar y Promover'
+      fr: 'Former et promouvoir'
     url: "/teach-advocate/"
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
-  - name: "Curricula on Web Accessibility"
+  - name: Curricula on Web Accessibility
     url: "/curricula/"
     pages:
-    - name: "Introduction to Web Accessibility"
-      url: "/curricula/introduction-to-web-accessibility/"
+    - name: Foundation Modules
+      url: "/curricula/foundation-modules/"
       pages:
-      - name: "What is Web Accessibility"
-        url: "/curricula/introduction-to-web-accessibility/what-is-web-accessibility/"
-      - name: "People and Digital Technology"
-        url: "/curricula/introduction-to-web-accessibility/people-and-digital-technology/"
-      - name: "Business Case and Benefits"
-        url: "/curricula/introduction-to-web-accessibility/business-case-and-benefits/"
-      - name: "Principles, Standards, and Checks"
-        url: "/curricula/introduction-to-web-accessibility/principles-standards-and-checks/"
-      - name: "Getting Started with Accessibility"
-        url: "/curricula/introduction-to-web-accessibility/getting-started-with-accessibility/"
+      - name: What is Web Accessibility
+        url: "/curricula/foundation-modules/what-is-web-accessibility/"
+      - name: People and Digital Technology
+        url: "/curricula/foundation-modules/people-and-digital-technology/"
+      - name: Business Case and Benefits
+        url: "/curricula/foundation-modules/business-case-and-benefits/"
+      - name: Principles, Standards, and Checks
+        url: "/curricula/foundation-modules/principles-standards-and-checks/"
+      - name: Getting Started with Accessibility
+        url: "/curricula/foundation-modules/getting-started-with-accessibility/"
+    - name: Developer Modules
+      url: "/curricula/developer-modules/"
+      pages:
+      - name: Page Structure
+        url: "/curricula/developer-modules/page-structure/"
+      - name: Menus
+        url: "/curricula/developer-modules/menus/"
+      - name: Images
+        url: "/curricula/developer-modules/images/"
+      - name: Tables
+        url: "/curricula/developer-modules/tables/"
+      - name: Forms
+        url: "/curricula/developer-modules/forms/"
+      - name: Custom Widgets
+        url: "/curricula/developer-modules/custom-widgets/"
+      - name: Rich Applications
+        url: "/curricula/developer-modules/rich-applications/"
   - name: Develop Accessibility Training
     url: "/teach-advocate/accessibility-training/"
     pages:
@@ -328,6 +348,7 @@
   pages:
   - name:
       en: 'Standards/<wbr>Guidelines'
+      ar: 'معايير/إرشادات'
       cs: 'Standardy/Pokyny'
       es: 'Estándares/<wbr>Pautas'
       fr: "Standards/<wbr>Règles"
@@ -417,6 +438,7 @@
     url: "/cognitive/"
   - name:
       en: "Mobile Accessibility at W3C"
+      ar: "إمكانية الوصول للأجهزة المحمولة في W3C"
       cs: "Mobilní přístupnost ve W3C"
       es: "Accesibilidad Móvil en el W3C"
       ru: "Решения консорциума W3C по обеспечению доступности на мобильных устройствах"
@@ -459,6 +481,16 @@
       pages:
       - name: Final Open Meeting
         url: "/about/projects/wai-tools/final-open-meeting/"
+      - name: Video Recording 1
+        url: "/about/projects/wai-tools/session1/"
+      - name: Video Recording 2
+        url: "/about/projects/wai-tools/session2/"
+      - name: Video Recording 3
+        url: "/about/projects/wai-tools/session3/"
+      - name: Video Recording 4
+        url: "/about/projects/wai-tools/session4/"
+      - name: Video Recording 5
+        url: "/about/projects/wai-tools/session5/"
       - name: Third Open Meeting
         url: "/about/projects/wai-tools/third-open-meeting/"
       - name: Second Open Meeting
