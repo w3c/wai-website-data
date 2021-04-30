@@ -16,7 +16,8 @@
       zh-hans: "Web无障碍简介"
     url: "/fundamentals/accessibility-intro/"
     pages:
-    - name: Changelog
+    - name:
+        en: 'Changelog'
       url: "/fundamentals/accessibility-intro/changelog/"
       hide: true
     - name:
