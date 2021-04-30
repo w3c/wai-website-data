@@ -15,10 +15,10 @@
       ru: "ВВЕДЕНИЕ В ВЕБ-ДОСТУПНОСТЬ"
       zh-hans: "Web无障碍简介"
     url: "/fundamentals/accessibility-intro/"
+    pages:
     - name: Changelog
       url: "/fundamentals/accessibility-intro/changelog/"
       hide: true
-    pages:
     - name:
         en: 'Video Introduction'
         ar: 'مقدمة فيديو'
