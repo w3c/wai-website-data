@@ -360,6 +360,9 @@
       ru: "Стандарты/<wbr>Рекомендации"
       zh-hans: "标准/指南"
     url: "/standards-guidelines/"
+  - name: Changelog
+      url: "/standards-guidelines/changelog/"
+      hide: true
   - name:
       en: "Web Content – WCAG"
       fr: "Web Content – WCAG"
