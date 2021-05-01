@@ -658,7 +658,7 @@
   es: 'Esta&nbsp;página&nbsp;en:'
   ko: '현재&nbsp;번역&nbsp;언어:'
   pt-BR: 'Essa&nbsp;pagina&nbsp;em:'
-  en: 'Halamn&nbsp;ini&nbsp;dalam:'
+  id: 'Halamn&nbsp;ini&nbsp;dalam:'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
   ar: 'قد لا تعكس هذه الترجمة التطوعية بدقة قصد <a href="$1">الإنجليزية الأصلية</a>.'

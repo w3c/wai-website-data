@@ -1,225 +1,125 @@
 - key: "1.1.1"
-  title:
-    en: Non-text Content
-    id: Konten Non-teks
-  desc: 
-    en: "All non-text content that is presented to the user has a text alternative that serves the equivalent purpose, except for the situations listed[…]."
-    id: "Semua konten non-teks yang ditampilkan ke penggung memiliki laternatif teks dengan tujuan yang sama, kecuali dalam kondisi yang tertera[…]."
+  title: Non-text Content
+  desc: "All non-text content that is presented to the user has a text alternative that serves the equivalent purpose, except for the situations listed[…]."
   level: A
   slug: text-equiv-all
 - key: "1.3.1"
-  desc:
-    en: "Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text."
-    id: "Informasi, struktur, dan relasi yang disampaikan melalui presentasi dapat ditentukan melalui program atau tersedia dalam teks."
+  desc: "Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text."
   level: A
-  title:
-    en: Info and Relationships
-    id: Info dan Relasi
+  title: Info and Relationships
   slug: content-structure-separation-programmatic
 - key: "1.4.1"
-  desc: 
-    en: "Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element."
-    id: "Warna tidak hanya digunakan sebagai cara menyampaikan informasi secara visual, mengindikasikan aksi, memicu respon, atau membedakan elemen visual."
+  desc: "Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element."
   level: A
-  title: 
-    en: Use of Color
-    id: Penggunaan Warna
+  title: Use of Color
   slug: visual-audio-contrast-without-color
 - key: "1.4.3"
-  title:
-    en: Contrast (Minimum)
-    id: Kontras (Minimum)
-  desc:
-    en: 'The visual presentation of text and images of text has a contrast ratio of at least 4,5:1, except for the following:<ul><li><strong>Large Text: </strong> Large-scale text and images of large-scale text have a contrast ratio of at least 3:1;</li><li><strong>Incidental: </strong> Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement.</li><li><strong>Logotypes: </strong> Text that is part of a logo or brand name has no minimum contrast requirement.</li></ul>'
-    id: 'Presentasi visual teks dan teks berupa gambar memiliki rasio kontras setidaknya 4.5:1, kecuali pada:<ul><li><strong>Teks Besar:</strong> Teks berukuran besar dan teks ukuran besar dalam gambar memiliki rasio kontras setidaknya 3:1;</li></li><strong>Kasus Tertentu:</string> Teks atau teks berupa gambar yang merupakan bagian dari komponen antarmuka yang tidak aktif, hanya berupa dekorasi, yang tidak dapat dilihat siapa pun, atau merupakan bagian dari gambar yang berisi konten visual lain yang lebih signifikan, tidak memiliki kebutuhan nilai kontras.</li></li><strong>Logo:</strong> Teks yang merupakan bagian dari logo atau nama merek tidak memiliki kebutuhan nilai kontras minimum.</li></ul>'
+  title: Contrast (Minimum)
+  desc: 'The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except for the following:<ul><li><strong>Large Text: </strong> Large-scale text and images of large-scale text have a contrast ratio of at least 3:1;</li><li><strong>Incidental: </strong> Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement.</li><li><strong>Logotypes: </strong> Text that is part of a logo or brand name has no minimum contrast requirement.</li></ul>'
   level: AA
   slug: visual-audio-contrast-contrast
 - key: "1.4.4"
-  title:
-    en: Resize text
-    id: Ubah ukuran huruf
-  desc: 
-    en: 'Except for captions and images of text, text can be resized without assistive technology up to 200 percent without loss of content or functionality.'
-    id: 'Kecuali untuk teks penjelas dan teks berupa gambar, huruf dapat diubah ukurannya tanpa menggunakan teknologi asistif hingga 200 persen tanpa mengurangi isi dan fungsinya.'
+  title: Resize text
+  desc: 'Except for captions and images of text, text can be resized without assistive technology up to 200 percent without loss of content or functionality.'
   level: AA
   slug: visual-audio-contrast-scale
 - key: "1.4.5"
-  title:
-    en: Images of Text
-    id: Teks berupa Gambar
-  desc: 
-    en: "If the technologies being used can achieve the visual presentation, text is used to convey information rather than images of text except [for customizable and essential images]"
-    id: "Jika teknologi yang digunakan dapat mencapai kebutuhan presentasi secara visual, teks digunakan untuk menyampaikan informasi bukan sekedar teks dalam bentuk gambar kecuali [untuk tujuan kustomisasi dan gambar yang bersifat esensial]"
+  title: Images of Text
+  desc: "If the technologies being used can achieve the visual presentation, text is used to convey information rather than images of text except [for customizable and essential images]"
   level: AA
   slug: visual-audio-contrast-text-presentation
 - key: "1.4.6"
-  title:
-    en: Contrast (Enhanced)
-    id: Kontras (Ditingkatkan)
-  desc: 
-    en: 'The visual presentation of text and images of text has a contrast ratio of at least 7:1, except for the following:<ul><li><strong>Large Text: </strong> Large-scale text and images of large-scale text have a contrast ratio of at least 4.5:1;</li><li><strong>Incidental: </strong> Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement.</li><li><strong>Logotypes: </strong> Text that is part of a logo or brand name has no minimum contrast requirement.</li></ul>'
-    id: 'Presentasi visual teks dan teks berupa gambar memiliki rasio kontras setidaknya 7:1, kecuali pada:<ul><li><strong>Teks Besar:</strong> Teks berukuran besar dan teks ukuran besar dalam gambar memiliki rasio kontras setidaknya 4,5:1;</li></li><strong>Kasus Tertentu:</string> Teks atau teks berupa gambar yang merupakan bagian dari komponen antarmuka yang tidak aktif, hanya berupa dekorasi, yang tidak dapat dilihat siapa pun, atau merupakan bagian dari gambar yang berisi konten visual lain yang lebih signifikan, tidak memiliki kebutuhan nilai kontras.</li></li><strong>Logo:</strong> Teks yang merupakan bagian dari logo atau nama merek tidak memiliki kebutuhan nilai kontras minimum.</li></ul>'
+  title: Contrast (Enhanced)
+  desc: 'The visual presentation of text and images of text has a contrast ratio of at least 7:1, except for the following:<ul><li><strong>Large Text: </strong> Large-scale text and images of large-scale text have a contrast ratio of at least 4.5:1;</li><li><strong>Incidental: </strong> Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement.</li><li><strong>Logotypes: </strong> Text that is part of a logo or brand name has no minimum contrast requirement.</li></ul>'
   level: AAA
   slug: visual-audio-contrast7
 - key: "1.4.9"
-  title: 
-    en: Images of Text (No Exception)
-    id: Teks Berupa Gambar (Tanpa Pengecualian)
-  desc: 
-    en: "Images of text are only used for pure decoration or where a particular presentation of text is essential to the information being conveyed"
-    id: "Teks berupa gambar hanya digunakan untuk dekorasi atau tampilan teks bersifat esensial untuk informasi yang sedang disampaikan"
+  title: Images of Text (No Exception)
+  desc: "Images of text are only used for pure decoration or where a particular presentation of text is essential to the information being conveyed"
   level: AAA
   slug: visual-audio-contrast-text-images
 - key: "2.1.1"
-  title: 
-    en: Keyboard
-    id: Kibor
-  desc: 
-    en: 'All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes, except where the underlying function requires input that depends on the path of the user’s movement and not just the endpoints.'
-    id: 'Semua fungsi yang terdapat dalam konten dapat dioperasikan melalui kibor tanpa memerlukan penyesuaian waktu tertentu untuk setiap penekanan tombolnya, kecuali jika pada dasarnya fungsi tersebut memang memerlukan input yang bergantung pada pola penekanan tertentu dari pengguna.'
+  title: Keyboard
+  desc: 'All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes, except where the underlying function requires input that depends on the path of the user’s movement and not just the endpoints.'
   level: A
   slug: keyboard-operation-keyboard-operable
 - key: "2.1.2"
-  title:
-    en: No Keyboard Trap
-    id: Jebakan Tanpa Kibor
-  desc: 
-    en: 'If keyboard focus can be moved to a component of the page using a keyboard interface, then focus can be moved away from that component using only a keyboard interface, and, if it requires more than unmodified arrow or tab keys or other standard exit methods, the user is advised of the method for moving focus away.'
-    id: 'Jika fokus kibor dapat dipindahkan ke suatu komponen dalam halaman dengan menggunakan input dari kibor, maka fokus juga dapat dipindahkan dari komponen tersebut hanya dengan menggunakan kibor, dan, jika dibutuhkan lebih dari sekedar tombol panah atau tab yang tidak dimodifikasi, atau metode keluar yang standar, user diberitahu cara untuk memindahkan fokus tersebut.'
+  title: No Keyboard Trap
+  desc: 'If keyboard focus can be moved to a component of the page using a keyboard interface, then focus can be moved away from that component using only a keyboard interface, and, if it requires more than unmodified arrow or tab keys or other standard exit methods, the user is advised of the method for moving focus away.'
   level: A
   slug: keyboard-operation-trapping
 - key: "2.1.3"
-  title: 
-    en: Keyboard (No Exception)
-    id: Kibor (Tanpa Pengecualian)
-  desc: 
-    en: All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.
-    id: Semua fungsi yang terdapat dalam konten dapat dioperasikan melalui kibor tanpa memerlukan penyesuaian waktu tertentu untuk setiap penekanan tombolnya.
+  title: Keyboard (No Exception)
+  desc: All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.
   level: AAA
   slug: keyboard-operation-all-funcs
 - key: "2.2.1"
-  title: 
-    en: Timing Adjustable
-    id: Pengaturan Waktu Dapat Disesuaikan
-  desc: 
-    en: 'For each time limit that is set by the content, at least one of the following is true:<ul><li>Turn off: The user is allowed to turn off the time limit before encountering it; or</li>Adjust: The user is allowed to adjust the time limit before encountering it over a wide range that is at least ten times the length of the default setting; or</li><li>Extend: The user is warned before time expires and given at least 20 seconds to extend the time limit with a simple action (for example, "press the space bar"), and the user is allowed to extend the time limit at least ten times; or</li><li>Real-time Exception: The time limit is a required part of a real-time event (for example, an auction), and no alternative to the time limit is possible; or</li><li>Essential Exception: The time limit is essential and extending it would invalidate the activity; or</li><li>20 Hour Exception: The time limit is longer than 20 hours. </li></ul>'
-    id: 'Untuk setiap batas waktu yang ditetapkan oleh konten, setidaknya salah satu dari berikut ini benar:<ul><li>Nonaktifkan: Pengguna diizinkan untuk menonaktifkan batas waktu sebelum bertemu dengan batas waktu; atau</li>Sesuaikan: Pengguna diizinkan untuk menyesuaikan batas waktu sebelum bertemu dengannya dalam rentang yang luas, setidaknya sepuluh kali lipat dari pengaturan awal; atau</li><li>Perpanjang: Pengguna diperingatkan sebelum waktu habis dan diberi setidaknya 20 detik untuk memperpanjang batas waktu dengan melakukan aksi yang sederhana (misalnya, "tekan spasi"), dan pengguna diizinkan untuk memperpanjang batas waktu setidaknya sepuluh kali lipat; atau</li><li>Pengecualian Waktu Nyata: Batas waktu adalah bagian yang harus ada dalam acara waktu nyata (misalnya, lelang), dan tidak ada alternatif batas waktu yang memungkinkan; atau</li><li>Pengecualian Esensial: Batas waktu adalah bagian yang esensial dan memperpanjang batas waktu akan membatalkan kegiatan; atau</li><li>Pengecualian 20 Jam: Batas waktu lebih dari 20 jam.</li></ul>'
+  title: Timing Adjustable
+  desc: 'For each time limit that is set by the content, at least one of the following is true:<ul><li>Turn off: The user is allowed to turn off the time limit before encountering it; or</li>Adjust: The user is allowed to adjust the time limit before encountering it over a wide range that is at least ten times the length of the default setting; or</li><li>Extend: The user is warned before time expires and given at least 20 seconds to extend the time limit with a simple action (for example, "press the space bar"), and the user is allowed to extend the time limit at least ten times; or</li><li>Real-time Exception: The time limit is a required part of a real-time event (for example, an auction), and no alternative to the time limit is possible; or</li><li>Essential Exception: The time limit is essential and extending it would invalidate the activity; or</li><li>20 Hour Exception: The time limit is longer than 20 hours. </li></ul>'
   level: A
   slug: time-limits-required-behaviors
 - key: "2.2.2"
-  title:
-    en: "Pause, Stop, Hide"
-    id: "Jeda, Hentikan, Sembunyikan"
-  desc:
-    en: 'For moving, blinking, scrolling, or auto-updating information, all of the following are true:<ul><li><p><strong>Moving, blinking, scrolling: </strong>For any moving, blinking or scrolling information that (1) starts automatically, (2) lasts more than five seconds, and (3) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it unless the movement, blinking, or scrolling is part of an activity where it is essential; and</p></li><li><p><strong>Auto-updating: </strong>For any auto-updating information that (1) starts automatically and (2) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it or to control the frequency of the update unless the auto-updating is part of an activity where it is essential.</p></li></ul>'
-    id: 'Untuk informasi yang bergerak, berkedip, bergulir, atau otomatis diperbarui, semua hal ini berlaku:<ul><li><p><strong>Bergerak, berkedip, bergulir:</strong> Untuk informasi bergerak, berkedip mau pun bergulir yang (1) mulai secara otomatis, (2) berlangung lebih dari lima detik, dan (3) ditampilkan paralel dengan konten lain, terdapat mekanisme untuk pengguna memberi jeda, menghentikan, atau menyembunyikannya kecuali jika gerakan, kedipan, dan guliran adalah bagian yang esensial dari aktivitas; dan</p></li><li><p><strong>Otomatis diperbarui:</strong> Untuk informasi yang otomatis diperbarui mana pun yang (1) Mulai secara otomatis dan (2) ditampilkan paralel dengan konten lain, terdapat mekanisme untuk pengguna memberi jeda, menghentikan, atau menyembunyikannya atau mengontrol frekuensi perbaruan kecuali jika perbaruan otomatis tersebut adalah bagian yang esensial dari aktivitas.'
+  title: "Pause, Stop, Hide"
+  desc: 'For moving, blinking, scrolling, or auto-updating information, all of the following are true:<ul><li><p><strong>Moving, blinking, scrolling: </strong>For any moving, blinking or scrolling information that (1) starts automatically, (2) lasts more than five seconds, and (3) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it unless the movement, blinking, or scrolling is part of an activity where it is essential; and</p></li><li><p><strong>Auto-updating: </strong>For any auto-updating information that (1) starts automatically and (2) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it or to control the frequency of the update unless the auto-updating is part of an activity where it is essential.</p></li></ul>'
   level: A
   slug: time-limits-pause
 - key: "2.4.1"
-  title:
-    en: "Bypass Blocks"
-    id: "Melewati Blok"
-  desc:
-    en: 'A mechanism is available to bypass blocks of content that are repeated on multiple Web pages.'
-    id: 'Ada mekanisme untuk melewati blok konten yang berulang dalam banyak halaman.' 
+  title: "Bypass Blocks"
+  desc: 'A mechanism is available to bypass blocks of content that are repeated on multiple Web pages.'
   level: A
   slug: navigation-mechanisms-skip
 - key: "2.4.3"
-  title: 
-    en: "Focus Order"
-    id: "Urutan Fokus"
-  desc: 
-    en: 'If a Web page can be navigated sequentially and the navigation sequences affect meaning or operation, focusable components receive focus in an order that preserves meaning and operability.'
-    id: 'Jika halaman Web dapat dinavigasi secara berurutan dan urutan navigasi mempengaruhi makna atau operasi, komponen yang dapat difokuskan menerima fokus dalam urutan yang menjaga makna dan pengoperasian.'
+  title: "Focus Order"
+  desc: 'If a Web page can be navigated sequentially and the navigation sequences affect meaning or operation, focusable components receive focus in an order that preserves meaning and operability.'
   level: A
   slug: navigation-mechanisms-focus-order
 - key: "2.4.5"
-  title: 
-    en: "Multiple Ways"
-    id: "Banyak Cara"
-  desc: 
-    en: "More than one way is available to locate a Web page within a set of Web pages except where the Web Page is the result of, or a step in, a process."
-    id: "Tersedia lebih dari atu cara untuk menemukan halaman Web dalam sekumpulan halaman Web kecuali jika halaman tersebut adalah hasil dari, atau langkah dari, sebuah proses."
+  title: "Multiple Ways"
+  desc: "More than one way is available to locate a Web page within a set of Web pages except where the Web Page is the result of, or a step in, a process."
   level: AA
   slug: navigation-mechanisms-mult-loc
 - key: "2.4.6"
-  title: 
-    en: "Headings and Labels"
-    id: "Judul dan Label"
-  desc: 
-    en: "Headings and labels describe topic or purpose."
-    id: "Judul dan label mendeskripsikan topik atau tujuan."
+  title: "Headings and Labels"
+  desc: "Headings and labels describe topic or purpose."
   level: AA
   slug: navigation-mechanisms-descriptive
 - key: "2.4.7"
-  title: 
-    en: "Focus Visible"
-    id: "Fokus Terlihat"
-  desc: 
-    en: "Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible."
-    id: "Semua antarmuka yang dapat dioperasikan melalui kibor memiliki mode operasi dimana indikator fokus kibor terlihat."
+  title: "Focus Visible"
+  desc: "Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible."
   level: AA
   slug: navigation-mechanisms-focus-visible
 - key: "2.4.8"
-  title: 
-    en: "Location"
-    id: "Lokasi"
-  desc: 
-    en: "Information about the user's location within a set of Web pages is available."
-    id: "Informasi mengenai lokasi pengguna dalam sekumpulan halaman Web tersedia."
+  title: "Location"
+  desc: "Information about the user's location within a set of Web pages is available."
   level: AAA
   slug: navigation-mechanisms-location
 - key: "2.4.10"
-  title: 
-    en: "Section Headings"
-    id: "Judul Bagian"
-  desc: 
-    en: 'Section headings are used to organize the content.'
-    id: 'Judul bagian digunakan untuk mengorganisasi konten.'
+  title: "Section Headings"
+  desc: 'Section headings are used to organize the content.'
   level: AAA
   slug: navigation-mechanisms-headings
 - key: "3.3.1"
-  title: 
-    en: "Error Identifications"
-    id: "Identifikasi Kesalahan"
-  desc: 
-    en: "If an input error is automatically detected, the item that is in error is identified and the error is described to the user in text."
-    id: "Jika kesalahan input terdeteksi secara otomatis, objek yang bermasalah diidentifikasi dan kesalahan dijelaskan kepada pengguna dalam teks."
+  title: "Error Identifications"
+  desc: "If an input error is automatically detected, the item that is in error is identified and the error is described to the user in text."
   level: A
   slug: minimize-error-identified
 - key: "3.3.2"
-  title: 
-    en: "Labels or Instructions"
-    id: "Label atau Instruksi"
-  desc: 
-    en: "Labels or instructions are provided when content requires user input."
-    id: "Label atau instruksi disediakan ketika konten memerlukan input dari pengguna."
+  title: "Labels or Instructions"
+  desc: "Labels or instructions are provided when content requires user input."
   level: A
   slug: minimize-error-cues
 - key: "3.3.3"
-  title: 
-    en: "Error Suggestion"
-    id: "Saran Perbaikan"
-  desc: 
-    en: "If an input error is automatically detected and suggestions for correction are known, then the suggestions are provided to the user, unless it would jeopardize the security or purpose of the content."
-    id: "Jika kesalahan input terdeteksi secara otomatis dan saran untuk perbaikan diketahui, maka saran tersebut diberikan kepada pengguna, kecuali jika itu akan menghancurkan keamanan atau tujuan dari konten."
+  title: "Error Suggestion"
+  desc: "If an input error is automatically detected and suggestions for correction are known, then the suggestions are provided to the user, unless it would jeopardize the security or purpose of the content."
   level: AA
   slug: minimize-error-suggestions
 - key: "3.3.4"
-  title: 
-    en: Error Prevention (Legal, Financial, Data)
-    id: Mencegah Kesalahan (Legal, Finansial, Data)
-  desc: 
-    en: "For Web pages that cause legal commitments or financial transactions for the user to occur, that modify or delete user-controllable data in data storage systems, or that submit user test responses, at least one of the following is true: Reversible, Checked, Confirmed"
-    id: "Untuk halaman Web yang mengakibatkan komitmen legal atau transaksi finansial terjadi kepada pengguna, yang akan mengubah atau menghapus data yang bisa dikontrol oleh pengguna dalam sistem penampungan data, atau yang mengirimkan respons pengujian pengguna, salah satu dari hal berikut berlaku: Dapat Dikembalikan, Dicek, Dikonfirmasi"
+  title: Error Prevention (Legal, Financial, Data)
+  desc: "For Web pages that cause legal commitments or financial transactions for the user to occur, that modify or delete user-controllable data in data storage systems, or that submit user test responses, at least one of the following is true: Reversible, Checked, Confirmed"
   level: AA
   slug: minimize-error-reversible
 - key: "4.1.2"
-  title: 
-    en: "Name, Role, Value"
-    id: "Name, Peranan, Nilai"
-  desc: 
-    en: "For all user interface components (including but not limited to: form elements, links and components generated by scripts), the name and role can be programmatically determined; states, properties, and values that can be set by the user can be programmatically set; and notification of changes to these items is available to user agents, including assistive technologies."
-     id: "Untuk semua komponen antarmuka (termasuk namun tidak terbatas pada: elemen formulir, tautan, dan komponen yang dibuat oleh skrip), nama dan peranan dapat ditentukan dari program; status, properti, dan nilai yang dapat disetel oleh pengguna dapat disetel dari program; dan notifikasi mengenai perubahan pada hal-hal tersebut tersedia untuk agen pengguna, termasuk teknologi asistif. "
+  title: "Name, Role, Value"
+  desc: "For all user interface components (including but not limited to: form elements, links and components generated by scripts), the name and role can be programmatically determined; states, properties, and values that can be set by the user can be programmatically set; and notification of changes to these items is available to user agents, including assistive technologies."
   level: A
   slug: ensure-compat-rsv
