@@ -418,7 +418,7 @@
   es: 'Otros Recursos en'
   ko: '다음 언어로 번역된 다른 자료 :'
   pt-BR: 'Outros Recursos em'
-  id: 'Dokumen lainnya dalam'
+  id: 'Sumber informasi lainnya dalam'
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
   ar: ' المرجو المشاركة بأفكار أو اقتراحات أو تعليقات عبر البريد الإلكتروني إلى القائمة بالأرشيف العام [$1](mailto:{$1?subject=%s) أو عبر GitHub'
@@ -598,7 +598,7 @@
   es: 'Estrategias, estándares y materiales de apoyo para hacer la Web accesible para gente con discapacidades.'
   ko: '장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원 지원'
   pt-BR: 'Estratégias, padrões, e materiais de apoio para fazer a Web accessivel para pessoas com deficiência.'
-  id: 'Strategi, standar, dan dokumen pendukung untuk membuat Web yang aksesibel bagi penyandang disabilitas.'
+  id: 'Strategi, standar, dan sumber informasi pendukung untuk membuat Web yang aksesibel bagi penyandang disabilitas.'
 
 - en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'   # WAI tagline in header, shorter version of previous line, please make as short as feasible -- even if not grammatically correct (e.g., no "and" after "Strategies, standards,")
   ar: 'ستراتيجيات ومعايير وموارد لجعل الويب في متناول الأشخاص ذوي الإعاقات'
@@ -613,7 +613,7 @@
   es: 'Estrategias, estándares y materiales para hacer la Web accesible para gente con discapacidades.'
   ko: 장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원'
   pt-BR: 'Estratégias, padrões, e materiais para fazer a Web accessivel para pessoas com deficiência.'
-  id: 'Strategi, standar, dokumen untuk membuat Web aksesibel bagi penyandang disabilitas'
+  id: 'Strategi, standar, informasi untuk membuat Web aksesibel bagi penyandang disabilitas'
 
 - en: 'Submit Search'   # aria-label for button
   ar: 'إرسال البحث'
@@ -688,7 +688,7 @@
   es: 'Recursos de traducción de WAI'
   ko: 'WAI 자료 번역하기'
   pt-BR: 'Recursos de tradução de WAI'
-  id: 'Menerjemahkan Dokumen WAI'
+  id: 'Menerjemahkan Sumber Informasi WAI'
 
 - en: 'Translation updated:'   # precedes a date
   ar: 'ترجمة محدثة:'
