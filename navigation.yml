@@ -18,7 +18,7 @@
     pages:
     - name:
         en: Changelog
-      url: /standards-guidelines/mobile/changelog/
+      url: /fundamentals/accessibility-intro/changelog/
       hide: true
     - name:
         en: 'Video Introduction'
@@ -360,7 +360,7 @@
     url: "/standards-guidelines/"
   - name:
       en: Changelog
-    url: /standards-guidelines/mobile/changelog/
+    url: /standards-guidelines/changelog/
     hide: true
   - name:
       en: "Web Content – WCAG"
