@@ -441,11 +441,11 @@
       ru: "Решения консорциума W3C по обеспечению доступности на мобильных устройствах"
       zh-hans: "W3C 移动端无障碍"
     url: "/standards-guidelines/mobile/"
-      pages:
-      - name:
-          en: Changelog
-        url: /standards-guidelines/mobile/changelog/
-        hide: true
+    pages:
+    - name:
+        en: Changelog
+      url: /standards-guidelines/mobile/changelog/
+      hide: true
 - name:
     en: News
   mainnav: false
