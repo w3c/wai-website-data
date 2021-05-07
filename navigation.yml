@@ -18,10 +18,6 @@
     url: "/fundamentals/accessibility-intro/"
     pages:
     - name:
-        en: Changelog
-      url: /fundamentals/accessibility-intro/changelog/
-      hide: true
-    - name:
         en: 'Video Introduction'
         ar: 'مقدمة فيديو'
         cs: 'Video úvod'
@@ -139,10 +135,6 @@
       en: 'Planning & Policies'
       es: 'Planificación y Políticas'
     url: "/planning/"
-  - name:
-      en: Changelog
-    url: /planning/changelog/
-    hide: true    
   - name: Approaches for Interim Repairs
     url: "/planning/interim-repairs/"
   - name: Planning and Managing Accessibility
@@ -281,11 +273,7 @@
       es: 'Enseñar y Promover'
       fr: 'Former et promouvoir'
     url: "/teach-advocate/"
-  - name:
-      en: Changelog
-    url: /teach-advocate/changelog/
-    hide: true
-- name: Make Presentations Accessible
+  - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
   - name: Curricula on Web Accessibility
     url: "/curricula/"
@@ -367,10 +355,6 @@
       ru: "Стандарты/<wbr>Рекомендации"
       zh-hans: "标准/指南"
     url: "/standards-guidelines/"
-  - name:
-      en: Changelog
-    url: /standards-guidelines/changelog/
-    hide: true
   - name:
       en: "Web Content – WCAG"
       fr: "Web Content – WCAG"
@@ -458,11 +442,7 @@
       ru: "Решения консорциума W3C по обеспечению доступности на мобильных устройствах"
       zh-hans: "W3C 移动端无障碍"
     url: "/standards-guidelines/mobile/"
-    pages:
-    - name:
-        en: Changelog
-      url: /standards-guidelines/mobile/changelog/
-      hide: true
+
 - name:
     en: News
   mainnav: false
@@ -557,3 +537,4 @@
 - name: Resources
   url: "/resources/"
   mainnav: false
+  
