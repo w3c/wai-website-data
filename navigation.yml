@@ -139,6 +139,10 @@
       en: 'Planning & Policies'
       es: 'Planificación y Políticas'
     url: "/planning/"
+  - name:
+      en: Changelog
+    url: /planning/changelog/
+    hide: true    
   - name: Approaches for Interim Repairs
     url: "/planning/interim-repairs/"
   - name: Planning and Managing Accessibility
@@ -277,7 +281,11 @@
       es: 'Enseñar y Promover'
       fr: 'Former et promouvoir'
     url: "/teach-advocate/"
-  - name: Make Presentations Accessible
+  - name:
+      en: Changelog
+    url: /teach-advocate/changelog/
+    hide: true
+- name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
   - name: Curricula on Web Accessibility
     url: "/curricula/"
