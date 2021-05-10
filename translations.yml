@@ -924,8 +924,7 @@
   fa: 'در'
   id: 'dalam'
   ko: 'in'
-
-
+  
 # ADDED 2019-08-19
 
 - en: 'Expand All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
@@ -966,7 +965,8 @@
   cs: 'zpět k poznámce pod čarou'
   nl: 'terug naar voetnoot'
   fa: 'بازگشت به پاورقی'
-  id: '각주에서 나오기'
+  id: 'kembali ke catatan kaki'
+  ko: '각주에서 나오기'
   javascript: true
 
 - en: 'in text'
