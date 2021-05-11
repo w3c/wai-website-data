@@ -923,7 +923,8 @@
   nl: 'in'
   fa: 'در'
   id: 'dalam'
-
+  ko: 'in'
+  
 # ADDED 2019-08-19
 
 - en: 'Expand All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
@@ -933,6 +934,7 @@
   nl: 'Alle secties uitklappen'
   fa: 'همه بخش‌ها باز شود'
   id: 'Lihat Semua Bagian'
+  ko: '모든 섹션 펼치기'
   javascript: true
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
@@ -942,6 +944,7 @@
   nl: 'Alle secties inklappen'
   fa: 'همه بخش‌ها بسته شود'
   id: 'Sembunyikan Semua Bagian'
+  ko: '모든 섹션 닫기'
   javascript: true
 
 # Added 2019-11-08
@@ -954,6 +957,7 @@
   nl: 'naar voetnoot'
   fa: 'به پاورقی'
   id: 'ke catatan kaki'
+  ko: '각주로 이동'
   javascript: true
 
 - en: 'back to footnote'
@@ -962,6 +966,7 @@
   nl: 'terug naar voetnoot'
   fa: 'بازگشت به پاورقی'
   id: 'kembali ke catatan kaki'
+  ko: '각주에서 나오기'
   javascript: true
 
 - en: 'in text'
@@ -970,6 +975,7 @@
   nl: 'in tekst'
   fa: 'در متن'
   id: 'dalam teks'
+  ko: '텍스트에서'
   javascript: true
 
 # Added 2020-11-06
@@ -978,3 +984,4 @@
   fr: 'Cette vidéo est disponible avec plus de fonctionnalités d’accessibilité :' 
   nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties:'
   id: 'Video ini tersedia dengan lebih banyak fitur aksesibilitas:'
+  ko: '접근성 기능이 지원된 비디오로도 이용 가능합니다.'
