@@ -924,6 +924,7 @@
   fa: 'در'
   id: 'dalam'
   ko: 'in'
+  ar: 'في'
   
 # ADDED 2019-08-19
 
@@ -935,6 +936,7 @@
   fa: 'همه بخش‌ها باز شود'
   id: 'Lihat Semua Bagian'
   ko: '모든 섹션 펼치기'
+  ar: 'توسيع كل الأقسام'
   javascript: true
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
@@ -945,6 +947,7 @@
   fa: 'همه بخش‌ها بسته شود'
   id: 'Sembunyikan Semua Bagian'
   ko: '모든 섹션 닫기'
+  ar: 'تصغير كل الأقسام'
   javascript: true
 
 # Added 2019-11-08
@@ -958,6 +961,7 @@
   fa: 'به پاورقی'
   id: 'ke catatan kaki'
   ko: '각주로 이동'
+  ar: 'الي الهامش'
   javascript: true
 
 - en: 'back to footnote'
@@ -967,6 +971,7 @@
   fa: 'بازگشت به پاورقی'
   id: 'kembali ke catatan kaki'
   ko: '각주에서 나오기'
+  ar: 'العودة الي الهامش'
   javascript: true
 
 - en: 'in text'
@@ -976,6 +981,7 @@
   fa: 'در متن'
   id: 'dalam teks'
   ko: '텍스트에서'
+  ar: 'في النص'
   javascript: true
 
 # Added 2020-11-06
@@ -983,5 +989,6 @@
 - en: 'This video is available with more accessibility features:'   # Text under videos such as at w3.org/WAI/test-evaluate/#initial -- with the title of the video after this phrase
   fr: 'Cette vidéo est disponible avec plus de fonctionnalités d’accessibilité :' 
   nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties:'
-  id: 'Video ini tersedia dengan lebih banyak fitur aksesibilitas:'
   ko: '접근성 기능이 지원된 비디오로도 이용 가능합니다.'
+  id: 'Video ini tersedia dengan lebih banyak fitur aksesibilitas:'
+  ar: ':يتوفر هذا الفيديو بمزيد من ميزات إمكانية الوصول'
