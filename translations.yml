@@ -930,6 +930,7 @@
 # ADDED 2019-08-19
 
 - en: 'Expand All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
+  es: 'Expandir todas las secciones'
   fr: 'Afficher toutes les sections'
   cs: 'Rozbalit všechny sekce'
   de: 'Alle Abschnitte aufklappen'
@@ -942,6 +943,7 @@
   javascript: true
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
+  es: 'Contraer todas las secciones'
   fr: 'Réduire toutes les sections'
   cs: 'Sbalit všechny sekce'
   de: 'Alle Abschnitte zuklappen'
@@ -958,6 +960,7 @@
 # Links to footnotes and back from footnotes to main content text:
 
 - en: 'to footnote'
+  es: 'A la nota al pie'
   fr: 'vers la note de bas de page'
   cs: 'k poznámce pod čarou'
   nl: 'naar voetnoot'
@@ -969,6 +972,7 @@
   javascript: true
 
 - en: 'back to footnote'
+  es: 'Volver a la nota al pie'
   fr: 'retour à la note de bas de page'
   cs: 'zpět k poznámce pod čarou'
   nl: 'terug naar voetnoot'
@@ -980,6 +984,7 @@
   javascript: true
 
 - en: 'in text'
+  es: 'en texto'
   fr: 'dans le texte'
   cs: 'v textu'
   nl: 'in tekst'
@@ -993,6 +998,7 @@
 # Added 2020-11-06
 
 - en: 'This video is available with more accessibility features:'   # Text under videos such as at w3.org/WAI/test-evaluate/#initial -- with the title of the video after this phrase
+  es: 'Este vídeo está disponible con más características de accesibilidad'
   fr: 'Cette vidéo est disponible avec plus de fonctionnalités d’accessibilité :' 
   cs: 'Toto video je k dispozici s více funkcemi přístupnosti:'
   nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties:'
