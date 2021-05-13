@@ -925,6 +925,7 @@
   id: 'dalam'
   ko: 'in'
   ar: 'في'
+  ru: 'в'
   
 # ADDED 2019-08-19
 
@@ -937,6 +938,7 @@
   id: 'Lihat Semua Bagian'
   ko: '모든 섹션 펼치기'
   ar: 'توسيع كل الأقسام'
+  ru: 'Развернуть Все Разделы'
   javascript: true
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
@@ -948,6 +950,7 @@
   id: 'Sembunyikan Semua Bagian'
   ko: '모든 섹션 닫기'
   ar: 'تصغير كل الأقسام'
+  ru: 'Свернуть Все Разделы'
   javascript: true
 
 # Added 2019-11-08
@@ -962,6 +965,7 @@
   id: 'ke catatan kaki'
   ko: '각주로 이동'
   ar: 'الي الهامش'
+  ru: 'к примечанию'
   javascript: true
 
 - en: 'back to footnote'
@@ -972,6 +976,7 @@
   id: 'kembali ke catatan kaki'
   ko: '각주에서 나오기'
   ar: 'العودة الي الهامش'
+  ru: 'вернуться к примечанию'
   javascript: true
 
 - en: 'in text'
@@ -982,6 +987,7 @@
   id: 'dalam teks'
   ko: '텍스트에서'
   ar: 'في النص'
+  ru: 'в тексте'
   javascript: true
 
 # Added 2020-11-06
@@ -993,3 +999,4 @@
   ko: '접근성 기능이 지원된 비디오로도 이용 가능합니다.'
   id: 'Video ini tersedia dengan lebih banyak fitur aksesibilitas:'
   ar: ':يتوفر هذا الفيديو بمزيد من ميزات إمكانية الوصول'
+  ru: 'Данное видео доступно с расширенным функционалом специальных возможностей'
