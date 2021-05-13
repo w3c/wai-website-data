@@ -957,7 +957,7 @@
 
 # Added 2019-11-08
 
-# Links to footnotes and back from footnotes to main content text:
+# The next phrases are combined with a number to created "to footnote 1" and "back to footnote 1 in text" in https://www.w3.org/WAI/business-case/#fn:1
 
 - en: 'to footnote'
   es: 'A la nota al pie'
