@@ -873,7 +873,7 @@
   ru: 'Предыдущая'
   de: 'Als nächstes'
   nl: 'Volgende'
-  zh-hans: '下一'
+  zh-hans: '下一页'
   el: 'Επόμενο'
   fr: 'Suivant'
   ko: '다음'
@@ -888,7 +888,7 @@
   ru: 'Следующая'
   de: 'Zuvor'
   nl: 'Vorige'
-  zh-hans: '上一'
+  zh-hans: '上一页'
   el: 'Προηγούμενο'
   fr: 'Précédent'
   ko: '이전'
@@ -926,6 +926,7 @@
   ko: 'in'
   ar: 'في'
   ru: 'в'
+  zh-hans: '在@@之中' # In Chinese, the usage of "in" is different from English, and we usually use a phrase combination to express it. Such as [Stories of Web Users] 在 [How People with Disabilities Use the Web] 之中。Of course, it is understandable to just translate as "在", but it is not accurate.
   
 # ADDED 2019-08-19
 
@@ -940,6 +941,7 @@
   ko: '모든 섹션 펼치기'
   ar: 'توسيع كل الأقسام'
   ru: 'Развернуть Все Разделы'
+  zh-hans: '展开所有章节'
   javascript: true
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
@@ -953,6 +955,7 @@
   ko: '모든 섹션 닫기'
   ar: 'تصغير كل الأقسام'
   ru: 'Свернуть Все Разделы'
+  zh-hans: '收起所有章节'
   javascript: true
 
 # Added 2019-11-08
@@ -969,6 +972,7 @@
   ko: '각주로 이동'
   ar: 'الي الهامش'
   ru: 'к примечанию'
+  zh-hans: '访问脚注'
   javascript: true
 
 - en: 'back to footnote'
@@ -981,6 +985,7 @@
   ko: '각주에서 나오기'
   ar: 'العودة الي الهامش'
   ru: 'вернуться к примечанию'
+  zh-hans: '返回脚注'
   javascript: true
 
 - en: 'in text'
@@ -993,6 +998,7 @@
   ko: '텍스트에서'
   ar: 'في النص'
   ru: 'в тексте'
+  zh-hans: '在文中'
   javascript: true
 
 # Added 2020-11-06
@@ -1006,3 +1012,4 @@
   id: 'Video ini tersedia dengan lebih banyak fitur aksesibilitas:'
   ar: ':يتوفر هذا الفيديو بمزيد من ميزات إمكانية الوصول'
   ru: 'Данное видео доступно с расширенным функционалом специальных возможностей'
+  zh-hans: '该视频具有更多的无障碍特性：'
