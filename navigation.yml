@@ -130,10 +130,12 @@
 - name:
     en: 'Planning & Policies'
     es: 'Planificación y Políticas'
+    fr: 'Organisation & politiques'
   pages:
   - name:
       en: 'Planning & Policies'
       es: 'Planificación y Políticas'
+      fr: 'Organisation & politiques'
     url: "/planning/"
   - name: Approaches for Interim Repairs
     url: "/planning/interim-repairs/"
@@ -170,10 +172,12 @@
 - name:
     en: 'Design & Develop'
     es: 'Diseñar y Desarrollar'
+    fr: 'Concevoir & développer'
   pages:
   - name:
       en: 'Design & Develop'
       es: 'Diseñar y Desarrollar'
+      fr: 'Concevoir & développer'
     url: "/design-develop/"
   - name: Tips for Getting Started
     url: "/tips/"
