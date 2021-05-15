@@ -350,6 +350,7 @@
 - name:
     en: 'Standards/<wbr>Guidelines'
     es: 'Estándares/<wbr>Pautas'
+    fr: 'Standards/<wbr>Règles'
   pages:
   - name:
       en: 'Standards/<wbr>Guidelines'
@@ -444,6 +445,7 @@
       en: "Mobile Accessibility at W3C"
       cs: "Mobilní přístupnost ve W3C"
       es: "Accesibilidad Móvil en el W3C"
+      fr: "Accessibilité mobile chez W3C"
       ru: "Решения консорциума W3C по обеспечению доступности на мобильных устройствах"
       zh-hans: "W3C 移动端无障碍"
     url: "/standards-guidelines/mobile/"
