@@ -1,7 +1,7 @@
 - name:
-    en: 'Accessibility Fundamentals'
-    es: 'Fundamentos de accesibilidad'
-    fr: 'Fondamentaux de l'accessibilité'
+    en: "Accessibility Fundamentals"
+    es: "Fundamentos de accesibilidad"
+    fr: "Fondamentaux de l'accessibilité"
   pages:
   - name:
       en: 'Accessibility Fundamentals'
