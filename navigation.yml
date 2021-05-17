@@ -6,6 +6,7 @@
   - name:
       en: 'Accessibility Fundamentals'
       es: 'Fundamentos de accesibilidad'
+      fr: "Fondamentaux de l'accessibilité"
     url: "/fundamentals/"
   - name:
       en: "Introduction to Accessibility"
@@ -237,11 +238,12 @@
 - name:
     en: 'Test & Evaluate'
     es: 'Probar y Evaluar'
-    fr: 'Tester et Évaluer'
+    fr: 'Tester et évaluer'
   pages:
   - name:
       en: 'Test & Evaluate'
       es: 'Probar y Evaluar'
+      fr: 'Tester et évaluer'
     url: "/test-evaluate/"
   - name: Easy Checks – A First Review
     url: "/test-evaluate/preliminary/"
@@ -263,7 +265,9 @@
         url: "/test-evaluate/report-template/"
   - name: Using Combined Expertise
     url: "/test-evaluate/combined-expertise/"
-  - name: Involving Users
+  - name:
+      en: 'Involving Users'
+      fr: 'Impliquer les utilisateurs'
     url: "/test-evaluate/involving-users/"
   - name: Acknowledgements
     url: "/test-evaluate/acknowledgements/"
@@ -330,8 +334,9 @@
   - name: Contacting Inaccessible Websites
     url: "/teach-advocate/contact-inaccessible-websites/"
   - name:
-      en: Business Case
-      es: Caso de negocios
+      en: 'Business Case'
+      es: 'Caso de negocios'
+      fr: 'Bénéfices business'
     url: "/business-case/"
     pages:
     - name: Bibliography
@@ -364,7 +369,7 @@
     url: "/standards-guidelines/"
   - name:
       en: "Web Content – WCAG"
-      fr: "Web Content – WCAG"
+      fr: "Contenus web – WCAG"
       es: "Contenido Web – WCAG"
     url: "/standards-guidelines/wcag/"
     pages:
@@ -373,7 +378,7 @@
     - name:
         en: "At a Glance"
         es: "De un vistazo"
-        fr: "en bref"
+        fr: "En bref"
       url: "/standards-guidelines/wcag/glance/"
     - name: The Documents
       url: "/standards-guidelines/wcag/docs/"
