@@ -485,9 +485,6 @@
     pages:
     - name: WAI-CooP
       url: "/about/projects/wai-coop/"
-      pages:
-      - name: First Open Meeting
-        url: "/about/projects/wai-coop/first-open-meeting/"
     - name: WAI-Guide
       url: "/about/projects/wai-guide/"
     - name: WAI-Tools
