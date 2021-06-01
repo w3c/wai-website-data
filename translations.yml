@@ -1,6 +1,7 @@
 # Text after the "#" is comments to help with translation. Please do not change any text after the #.
 
 - en: 'About this Translation'   # heading
+  uk: 'Про цей переклад'
   ar: 'عن هذه الترجمة'
   cs: 'O tomto překladu'
   ja: '本翻訳について'
@@ -17,6 +18,7 @@
   id: 'Tentang Terjemahan Ini'
 
 - en: 'All&nbsp;Translations'   # link goes to w3.org/WAI/translations/ = 'All Translations' with &nbsp; between words to avoid line breaks
+  uk: 'Всі переклади'
   ar: 'كل&nbsp;الترجمات'
   cs: 'Všechny&nbsp;překlady'
   ja: '全ての翻訳'
@@ -33,6 +35,7 @@
   id: 'Semua&nbsp;Terjemahan'
 
 - en: 'Back to Top'   # link that appears after scrolling down, takes focus back to top of page
+  uk: 'До початку'
   ar: 'العودة إلى الأعلى'
   cs: 'Nahoru'
   ja: '最初に戻る'
@@ -49,6 +52,7 @@
   id: 'Kembali ke Atas'
 
 - en: 'Breadcrumb'   # aria-label for breadcrumb navigation
+  uk: 'Хлібні крихти'
   ar: 'علامات التتبع'
   cs: 'Struktura'
   ja: '小リンク集'
@@ -65,6 +69,7 @@
   id: 'Jejak Roti'
 
 - en: 'Change Text Size or Colors'   # link goes to w3.org/WAI/meta/customize/
+  uk: 'Змінити розмір чи колір тексту'
   ar: 'تغيير حجم النص أو الألوان'
   cs: 'Změnit velikost textu nebo barvy'
   ja: 'テキストのサイズ・色を変更'
@@ -81,6 +86,7 @@
   id: 'Ubah Ukuran atau Warna Teks'
 
 - en: 'Contributor:'   # for listing people who helped with a translation. gender-neutral, singular -- if not in your language, use appropriate alternative, such as plural or 'Contribution'
+  uk: 'Автор'
   ar: 'المساهمة:'
   cs: 'Přispěvatel:'
   ja: '寄稿者'
@@ -97,6 +103,7 @@
   id: 'Kontributor:'
 
 - en: 'Contributors:'   #  for listing people who helped with a translation. gender-neutral, plural
+  uk: 'Співавтори'
   ar: 'المساهمات:'
   cs: 'Přispěvatelé'
   ja: '寄稿者'
@@ -113,6 +120,7 @@
   id: 'Kontributor:'
 
 - en: 'Copyright'
+  uk: 'Авторське право'
   ar: 'حق النشر'
   cs: 'Autorská práva'
   ja: '著作権'
@@ -129,6 +137,7 @@
   id: 'Hak Cipta'
 
 - en: 'Different View'   # alt text for icon that indicates link goes to page without WAI site navigation
+  uk: 'Інший вигляд'
   ar: 'عرض مختلف'
   cs: 'Jiné zobrazení'
   ja: '別表示'
@@ -145,6 +154,7 @@
   id: 'Tampilan Berbeda'
 
 - en: 'Disable Audio Description'   # used with videos for description as explained here: w3.org/WAI/media/av/description/
+  uk: 'Вимкнути аудіо опис'
   ar: 'تعطيل الوصف الصوتي'
   cs: 'Vypnout audio popisky'
   ja: '音声無効化'
@@ -161,6 +171,7 @@
   id: 'Matikan Deskripsi Audio'
 
 - en: 'Enable Audio Description'   # used with videos for description as explained here: w3.org/WAI/media/av/description/
+  uk: 'Увімкнути аудіо опис'
   ar: 'تفعيل الوصف الصوتي'
   cs: 'Zapnout audio popisky'
   ja: '音声有効化'
@@ -177,6 +188,7 @@
   id: 'Nyalakan Deskripsi Audio'
 
 - en: 'E-mail'
+  uk: 'E-mail'
   ar: 'البريد الإلكتروني'
   cs: 'E-mail'
   ja: 'E-mail'
@@ -189,10 +201,12 @@
   es: 'Correo Electrónico'
   ko: 'E-mail'
   pt-BR: 'E-mail'
+
   fa: 'ایمیل'
   id: 'Email'
 
 - en: 'English updated:'   # introduces a date. used in “About this Translation”
+  uk: 'Англійська версія оновлена:'
   ar: 'إنجليزية المحدثة:'
   cs: 'Angličtina aktualizována:'
   ja: '英語版更新'
@@ -209,6 +223,7 @@
   id: 'Bahasa Inggris Diperbarui:'
 
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'   # used in “About this Translation”
+  uk: 'Англійська версія оновлена з моменту перекладу: <a href="$1">Журнал змін</a>.'
   ar: 'تم تحديث النسخة الإنجليزية منذ هذه الترجمة:<a href="$1">سجل التغيير</a>'
   cs: 'Anglická verze aktualizována od tohoto překladu: <a href="$1">Záznam změn</a>.'
   ja: '本翻訳後に英語版が更新されました'
@@ -225,6 +240,7 @@
   id: 'Versi Bahasa Inggris diperbarui sejak terjemahan dibuat: <a href="$1">Catatan perubahan</a>.'
 
 - en: 'External Site'   # alt text for icon that indicates link goes off WAI site
+  uk: 'Зовнішній сайт'
   ar: 'الموقع الخارجي'
   cs: 'Externí odkaz'
   ja: '外部サイト'
@@ -241,6 +257,7 @@
   id: 'Situs Eksternal'
 
 - en: 'Fork &amp; Edit on GitHub'   # "&amp;" is code for the "&" character. If you don't use & in your language, do not include &amp; in your translation.
+  uk: 'Відокремити гілку &amp; Редагувати на GitHub'
   ar: 'تفرع وتحرير على GitHub'
   cs: 'Vytvořit fork &amp; upravit na GitHubu'
   ja: '&ampをフォーク; GitHubを編集'
@@ -257,6 +274,7 @@
   id: 'Fork &amp; Edit di Github'
 
 - en: 'Help improve this page'   # heading for box with links to e-mail and GitHub
+  uk: 'Допоможіть покращити цю сторінку'
   ar: 'لمساعدة تحسين هذه الصفحة'
   cs: 'Pomozte vylepšit tuto stránku'
   ja: '本ページの改善にご協力ください'
@@ -273,6 +291,7 @@
   id: 'Bantu tingkatkan halaman ini'
 
 - en: 'Hide'   # for show/hide toggle, for example, on the WAI home page: “Hide Section”
+  uk: 'Приховати'
   ar: 'إخفاء'
   cs: 'Skrýt'
   ja: '隠す'
@@ -289,6 +308,7 @@
   id: 'Sembunyikan'
 
 - en: 'Hide Languages'     # for show/hide languages
+  uk: 'Приховати мови'
   ar: 'إخفاء اللغات'
   cs: 'Skrýt jazyky'
   ja: '’言語を隠す'
@@ -305,6 +325,7 @@
   id: 'Sembunyikan Bahasa'
 
 - en: 'Hide Options'   # for show/hide options, for example, near the top of w3.org/WAI/videos/standards-and-benefits/
+  uk: 'Приховати параметри'
   ar: 'إخفاء الخيارات'
   cs: 'Skrýt možnosti'
   ja: 'オプションを隠す'
@@ -321,6 +342,7 @@
   id: 'Sembunyikan Pilihan'
 
 - en: 'Home'   # link to the WAI home page
+  uk: 'Додому'
   ar: 'الصفحة الرئيسية'
   cs: 'Domů'
   ja: 'ホーム'
@@ -337,6 +359,7 @@
   id: 'Beranda'
 
 - en: 'in English'   # indicates that the linked page is in English. included in parenthesis on translated pages
+  uk: 'англійською'
   ar: 'باللغة الإنجليزية'
   cs: 'anglicky'
   ja: '英語版'
@@ -353,6 +376,7 @@
   id: 'dalam Bahasa Inggris'
 
 - en: 'Languages/Translations'   # heading for list of translations. if "/" doesn't work well, could use a comma (,)
+  uk: 'Мови/переклади'
   ar: 'لغات وترجمات'
   cs: 'Jazyky/překlady'
   ja: '言語/翻訳'
@@ -369,6 +393,7 @@
   id: 'Bahasa/Terjemahan'
 
 - en: 'Main'   # aria-label for main navigation
+  uk: 'Головна'
   ar: 'الرئيسي'
   cs: 'Hlavní menu'
   ja: 'メイン'
@@ -385,6 +410,7 @@
   id: 'Menu Utama'
 
 - en: 'Menu'   # UI component, displays navigation. used in mobile view
+  uk: 'Меню'
   ar: 'قائمة'
   cs: 'Menu'
   ja: 'メニュー'
@@ -401,6 +427,7 @@
   id: 'Menu'
 
 - en: 'New GitHub Issue'   # links to GitHub with new Issue opened
+  uk: 'Нова задача на GitHub'
   ar: 'قضية جديدة على Github'
   cs: 'Nová GitHub Issue'
   ja: '新しいGitHubの課題'
@@ -417,6 +444,7 @@
   id: 'Buat Isu Github'
 
 - en: 'Other Pages in this Resource'   # aria-label for certain secondary navigations (“resource” means a document, for example, w3.org/WAI/people-use-web/#this-resource-includes-the-following-pages
+  uk: 'Інші сторінки на цьому ресурсі'
   ar: 'صفحات أخرى في هذا الموقع'
   cs: 'Další stránky v tomto zdroji'
   ja: '本リソースを記載する他ページ'
@@ -433,6 +461,7 @@
   id: 'Halaman Lainnya dalam Dokumen Ini'
 
 - en: 'Other Resources in'   # for "Other Resource in [language], e.g,: "Other Resources in English". links to list of other pages in that languages, for example w3.org/WAI/translations/#es
+  uk: 'Інші ресурси на'
   ar: 'الموارد الأخرى بـ'
   cs: 'Další zdroje v'
   ja: '’他リソースの'
@@ -449,6 +478,7 @@
   id: 'Sumber informasi lainnya dalam'
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
+  uk: 'Будь ласка, поділіться своїми ідеями, пропозиціями або коментарями в публічній електронній розсилці [$1](mailto:$1?subject=%s) або на GitHub.'
   ar: ' المرجو المشاركة بأفكار أو اقتراحات أو تعليقات عبر البريد الإلكتروني إلى القائمة بالأرشيف العام [$1](mailto:{$1?subject=%s) أو عبر GitHub'
   cs: 'Prosíme, sdílejte své nápady, připomínky nebo komentáře e-mailem do veřejně archivovaného seznamu [$1](mailto:$1?subject=%s) nebo na GitHubu.'
   ja: 'ご意見、ご提案、コメントをemail [$1](mailto:$1?subject=%s) かGitHubまでお寄せください。'
@@ -465,6 +495,7 @@
   id: 'Mohon berikan gagasan, saran, atau komentar melalui email ke arsip-publik [$1](mailto:$1?subject=%s) atau melalui GitHub.'
 
 - en: 'Previous/Next Page'   # aria-label for prev/next page naviation
+  uk: 'Попередня/Наступна сторінка'
   ar: 'الصفحة السالفة / التالية'
   cs: 'Předchozí/další stránka'
   ja: '前/次ページ'
@@ -481,6 +512,7 @@
   id: 'Halaman Sebelumnya/Berikutnya'
 
 - en: 'Reviewer'  # gender-neutral, singular -- if gender-neutral word is not in your language, use appropriate alternative, such as plural ; introduces the name of the person who reviewed a translation
+  uk: 'Рецензент'
   ar: 'المراجعة'
   cs: 'Recenzent'
   ja: 'レビュアー'
@@ -497,6 +529,7 @@
   id: 'Peninjau'
 
 - en: 'Reviewers'  # gender-neutral, plural ; introduces the names people who reviewed a translation
+  uk: 'Рецензенти'
   ar: 'المراجعات'
   cs: 'Recenzenti'
   ja: 'レビュアー'
@@ -513,6 +546,7 @@
   id: 'Peninjau'
 
 - en: 'Search'   # Search box field label
+  uk: 'Пошук'
   ar: 'بحث'
   cs: 'Hledat'
   ja: 'サーチ'
@@ -529,6 +563,7 @@
   id: 'Cari'
 
 - en: 'Secondary'   # aria-label for secondary navigation
+  uk: 'Додаткова'
   ar: 'الثانوي'
   cs: 'Sekundární'
   ja: '二次'
@@ -545,6 +580,7 @@
   id: 'Menu Sekunder'
 
 - en: 'Select Language, Translations'   # for show/hide toggle
+  uk: 'Вибрати мову, переклади'
   ar: 'اختيار اللغة والترجمات'
   cs: 'Vybrat jazyk, překlady'
   ja: '言語の選択'
@@ -561,6 +597,7 @@
   id: 'Pilih Bahasa, Terjemahan'
 
 - en: 'Show Customization, Languages, Translations'   # for show/hide toggle at the top of pages with translations, for example, w3.org/WAI/videos/standards-and-benefits/
+  uk: 'Показати налаштування, мови, переклади'
   ar: 'إظهار التخصيص واللغات والترجمات'
   cs: 'Zobrazit přizpůsobení, jazyky, překlady'
   ja: 'カスタマイズ、言語、翻訳'
@@ -577,6 +614,7 @@
   id: 'Tampilkan Kustomisasi, Bahasa, Terjemahan'
 
 - en: 'Show Languages'   # for show/hide toggle
+  uk: 'Показати мови'
   ar: 'إظهار اللغات'
   cs: 'Zobrazit jazyky'
   ja: '翻訳'
@@ -593,6 +631,7 @@
   id: 'Tampilkan Bahasa'
 
 - en: 'Skip Link and Language Selector'   # aria-label for top navigation [this will probably change…]
+  uk: 'Пропустити посилання та вибір мови'
   ar: 'تخطي الرابط ومحدد اللغة'
   cs: 'Přeskočit na hlavní obsah a výběr jazyka'
   ja: 'リンクと言語選択をスキップ'
@@ -609,6 +648,7 @@
   id: 'Lewati Link dan Pilihan Bahasa'
 
 - en: 'Skip to Content'   # moves focus within a page
+  uk: 'Перейти до контенту'
   ar: 'انتقال إلى المضمون'
   cs: 'Přeskočit na obsah'
   ja: 'コンテンツにスキップ'
@@ -625,6 +665,7 @@
   id: 'Loncat ke Konten'
 
 - en: 'Strategies, standards, and supporting resources to make the Web accessible to people with disabilities.'   # WAI “tagline” in footer, not interactive
+  uk: 'Стратегії, стандарти та додаткові ресурси щоб робити Інтернет доступнішим для людей з інвалідністю'
   ar: 'ستراتيجيات ومعايير وموارد داعمة لجعل الويب في متناول الأشخاص ذوي الإعاقات.'
   cs: 'Strategie, standardy a další zdroje pro tvorbu webu přístupného pro lidi s postižením.'
   ja: '戦略、標準化、リソースの各サポートは、障害を持つ人々がウェブにアクセスできるようになる'
@@ -641,6 +682,7 @@
   id: 'Strategi, standar, dan sumber informasi pendukung untuk membuat Web yang aksesibel bagi penyandang disabilitas.'
 
 - en: 'Strategies, standards, resources to make the Web accessible to people with disabilities'   # WAI tagline in header, shorter version of previous line, please make as short as feasible -- even if not grammatically correct (e.g., no "and" after "Strategies, standards,")
+  uk: 'Стратегії, стандарти, ресурси з вебдоступності для людей з інвалідністю'
   ar: 'ستراتيجيات ومعايير وموارد لجعل الويب في متناول الأشخاص ذوي الإعاقات'
   cs: 'Strategie, standardy, zdroje pro tvorbu webu přístupného pro lidi s postižením'
   ja: '障害を持つ人々へのサポート - 戦略・標準化・リソース'
@@ -657,6 +699,7 @@
   id: 'Strategi, standar, informasi untuk membuat Web aksesibel bagi penyandang disabilitas'
 
 - en: 'Submit Search'   # aria-label for button
+  uk: 'Шукати'
   ar: 'إرسال البحث'
   cs: 'Vyhledat'
   ja: 'サーチ'
@@ -673,6 +716,7 @@
   id: 'Lakukan pencarian'
 
 - en: 'This is an unpublished draft preview that might include content that is not yet approved. The published website is at <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
+  uk: 'Це неопублікована чернетка яка може містити ще не затверджений контент. Опублікований вебсайт знаходиться за адресою <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
   ar: 'هذا عرض مسبق لمسودة غير منشورة قد تتضمن محتوى لم تتم الموافقة عليه بعد. الموقع المنشور موجود على'
   cs: 'Toto je nepublikovaný náhled, který může zahrnovat obsah, který ještě není schválený. Publikovaná stránka je na <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
   ja: '本ドラフトは未承認のコンテンツを含む場合があります'
@@ -689,6 +733,7 @@
   id: 'Ini adalah tampilan draf yang belum dipublikasikan dan mungkin berisi konten yang belum di setujui. Halaman yang sudah dipublikasikan dapat diakses di <a href="https://w3.org/WAI/">w3.org/WAI/</a>.'
 
 - en: 'This&nbsp;page&nbsp;in:'   # "This page in:" with &nbsp; between words to avoid line breaks (for top "This page in: English..."). introduces a list of languages, used near the top of pages with translations, such as w3.org/WAI/videos/standards-and-benefits/
+  uk: 'Ця&nbsp;сторінка&nbsp;такою&nbsp;мовою:'
   ar: 'هذه&nbsp;الصفحة&nbsp;بـ:'
   cs: 'Tato&nbsp;stránka&nbsp;v:'
   ja: '本ページは日本語表記です'
@@ -705,6 +750,7 @@
   id: 'Halamn&nbsp;ini&nbsp;dalam:'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
+  uk: 'Це волонтерський переклад може бути неточним та відрізнятись від <a href="$1">оригіналу англійською</a>'
   ar: 'قد لا تعكس هذه الترجمة التطوعية بدقة قصد <a href="$1">الإنجليزية الأصلية</a>.'
   cs: 'Tento dobrovolnický překlad nemusí přesně vystihovat záměry <a href="$1">anglického originálu</a>.'
   ja: 'ボランタリーの本翻訳は、英語原文 <a href="$1">を正確に反映していない場合があります</a>'
@@ -721,6 +767,7 @@
   id: 'Terjemahan sukarela ini mungkin tidak menggambarkan secara akurat intensi dari <a href="$1">dokumen Bahasa Inggris aslinya</a>.'
 
 - en: 'Translating WAI Resources'   # links to w3.org/WAI/about/translating/
+  uk: 'Переклад ресурсів WAI'
   ar: 'ترجمة موارد WAI'
   cs: 'Překlady WAI zdrojů'
   ja: 'WAIリソース翻訳'
@@ -737,6 +784,7 @@
   id: 'Menerjemahkan Sumber Informasi WAI'
 
 - en: 'Translation updated:'   # precedes a date
+  uk: 'Переклад оновлено:'
   ar: 'ترجمة محدثة:'
   cs: 'Překlad aktualizován:'
   ja: '翻訳更新済'
@@ -753,6 +801,7 @@
   id: 'Terjemahan diperbarui:'
 
 - en: 'Translation up-to-date with the English version.'
+  uk: 'Цей переклад відповідає версії англійською'
   ar: 'ترجمة محدثة مع النسخة الإنجليزية.'
   cs: 'Překlad v souladu s anglickou verzí.'
   ja: '最新英語文書の翻訳'
@@ -769,6 +818,7 @@
   id: 'Versi terjemahan ini sama dengan versi Bahasa Inggris-nya.'
 
 - en: 'Translations'
+  uk: 'Переклади'
   ar: 'ترجمات'
   cs: 'Překlady'
   ja: '翻訳'
@@ -785,6 +835,7 @@
   id: 'Terjemahan'
 
 - en: 'Translator:'   # gender-neutral, singular -- if gender-neutral not in your language, use appropriate alternative, such as plural or 'Translation'. precedes list of one person who did a translation
+  uk: 'Перекладач'
   ar: 'الترجمة:'
   cs: 'Překladatel:'
   ja: '翻訳者'
@@ -801,6 +852,7 @@
   id: 'Penerjemah:'
 
 - en: 'Translators:'   # gender-neutral, plural. precedes list of more than one person who did a translation
+  uk: 'Перекладачі'
   ar: 'ال ترجمات:'
   cs: 'Překladatelé:'
   ja: '翻訳者'
@@ -817,6 +869,7 @@
   id: 'Penerjemah:'
 
 - en: 'WAI thanks translators, and welcomes other <a href="$1">translations</a>.'   # UPDATED 18-Mar-2019 "WAI thanks these translators" -> "WAI thanks translators"
+  uk: 'WAI дякує перекладачам та запрошує долучитись охочих <a href="$1">переклади</a>.'
   ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
   cs: 'WAI děkuje překladatelům a vítá další <a href="$1">překlady</a>.'
   ja: 'WAIは全ての翻訳者に感謝し、また他の<a href="$1">translations</a>も歓迎します'
@@ -833,6 +886,7 @@
   id: 'WAI berterimakasih kepada para penerjemah, dan menyambut <a href="$1">terjemahan</a> lainnya.'
 
 - en: '[put comment here...]'   # placeholder text in e-mail template
+  uk: '[залиште коментар тут...]'
   ar: '[ضع تعليق هنا ...]'
   cs: '[vložit komentář zde...]'
   ja: '[コメント欄]'
@@ -849,6 +903,7 @@
   id: '[masukkan komentar disini...]'
 
 - en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
+  uk: '[залиште коментар тут...]\n\nЯ надаю дозвіл на поширення цього тексту в публічній розсилці.'
   ar: '[ضع تعليق هنا ...] \n \n أوافق على مشاركة هذا في قائمة البريد إلكتروني بالأرشيف العام.'
   cs: '[vložit komentář zde...]\n\nDávám souhlas se sdílením do veřejně archivovaného e-mailového seznamu'
   ja: '[コメント欄]\n\nI 一般に公開されているemailリストへの共有'
@@ -867,6 +922,7 @@
 # ADDED 2019-02-20
 
 - en: 'Next'  # used for navigation to the next page in a multi-page resource; for example, just above w3.org/WAI/people-use-web/user-stories/#helpimprove
+  uk: 'Наступна'
   ar: 'التالي'
   cs: 'Další'
   ja: '次ページ'
@@ -882,6 +938,7 @@
   id: 'Berikutnya'
 
 - en: 'Previous'  # used for navigation to the previous page in a multi-page resource; for example, just above w3.org/WAI/people-use-web/user-stories/#helpimprove
+  uk: 'Попередня'
   ar: 'السالف'
   cs: 'Předchozí'
   ja: '前ページ'
@@ -899,6 +956,7 @@
 # ADDED 2019-02-21
 
 - en: Changelog   # links to page that lists changes to the resource
+  uk: 'Перелік змін'
   ar: 'سجل التغيير'
   cs: 'Seznam změn'
   ja: 'Change log'
@@ -917,6 +975,7 @@
 # ADDED 2019-07-09
 
 - en: 'in'  # for "[resource sub-page title] in [parent resource title]" such as [Stories of Web Users] in [How People with Disabilities Use the Web] at w3.org/WAI/people-use-web/user-stories/
+  uk: 'в'
   cs: 'v'
   de: 'in'
   fr: 'dans'
@@ -926,16 +985,18 @@
   ko: 'in'
   ar: 'في'
   ru: 'в'
-  zh-hans: '在@@之中' # In Chinese, the usage of "in" is different from English, and we usually use a phrase combination to express it. Such as [Stories of Web Users] 在 [How People with Disabilities Use the Web] 之中。Of course, it is understandable to just translate as "在", but it is not accurate.
+  zh-hans: '在' # In Chinese, the usage of "in" is different from English, and we usually use a phrase combination to express it. Such as [Stories of Web Users] 在 [How People with Disabilities Use the Web] 之中。Of course, it is understandable to just translate as "在", but it is not accurate.
   
 # ADDED 2019-08-19
 
 - en: 'Expand All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
   es: 'Expandir todas las secciones'
+  uk: 'Розгорнути Всі Секції'
   fr: 'Afficher toutes les sections'
   cs: 'Rozbalit všechny sekce'
   de: 'Alle Abschnitte aufklappen'
   nl: 'Alle secties uitklappen'
+
   fa: 'همه بخش‌ها باز شود'
   id: 'Lihat Semua Bagian'
   ko: '모든 섹션 펼치기'
@@ -946,10 +1007,12 @@
 
 - en: 'Collapse All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
   es: 'Contraer todas las secciones'
+  uk: 'Згорнути Всі Секції'
   fr: 'Réduire toutes les sections'
   cs: 'Sbalit všechny sekce'
   de: 'Alle Abschnitte zuklappen'
   nl: 'Alle secties inklappen'
+
   fa: 'همه بخش‌ها بسته شود'
   id: 'Sembunyikan Semua Bagian'
   ko: '모든 섹션 닫기'
@@ -964,9 +1027,11 @@
 
 - en: 'to footnote'
   es: 'A la nota al pie'
+  uk: 'до примітки'
   fr: 'vers la note de bas de page'
   cs: 'k poznámce pod čarou'
   nl: 'naar voetnoot'
+
   fa: 'به پاورقی'
   id: 'ke catatan kaki'
   ko: '각주로 이동'
@@ -977,9 +1042,11 @@
 
 - en: 'back to footnote'
   es: 'Volver a la nota al pie'
+  uk: 'назад до примітки'
   fr: 'retour à la note de bas de page'
   cs: 'zpět k poznámce pod čarou'
   nl: 'terug naar voetnoot'
+
   fa: 'بازگشت به پاورقی'
   id: 'kembali ke catatan kaki'
   ko: '각주에서 나오기'
@@ -990,9 +1057,11 @@
 
 - en: 'in text'
   es: 'en texto'
+  uk: 'в тексті'
   fr: 'dans le texte'
   cs: 'v textu'
   nl: 'in tekst'
+
   fa: 'در متن'
   id: 'dalam teks'
   ko: '텍스트에서'
@@ -1007,6 +1076,7 @@
   es: 'Este vídeo está disponible con más características de accesibilidad'
   fr: 'Cette vidéo est disponible avec plus de fonctionnalités d’accessibilité :' 
   cs: 'Toto video je k dispozici s více funkcemi přístupnosti:'
+  uk: 'Більше функцій доступності для цього відео:'
   nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties:'
   ko: '접근성 기능이 지원된 비디오로도 이용 가능합니다.'
   id: 'Video ini tersedia dengan lebih banyak fitur aksesibilitas:'
