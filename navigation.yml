@@ -157,7 +157,6 @@
     pages:
       - name: Example
         url: "/planning/org-policies/example/"
-        hide: true
   - name: Developing an Accessibility Statement
     url: "/planning/statements/"
     pages:
