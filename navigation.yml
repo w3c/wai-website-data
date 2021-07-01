@@ -189,26 +189,46 @@
     url: "/tips/designing/"
   - name: Tips for Developing
     url: "/tips/developing/"
-  - name: Audio & Video Media
+  - name:
+      en: 'Audio & Video Media'
+      fr: 'Médias audio et vidéo'
     url: "/media/av/"
     pages:
-      - name: User Needs
+      - name:
+          en: 'User Needs'
+          fr: 'Besoins utilisateurs'
         url: "/media/av/users-orgs/"
-      - name: Planning
+      - name:
+          en: 'Planning'
+          fr: 'Planification'
         url: "/media/av/planning/"
-      - name: Audio Content & Video Content
+      - name:
+          en: 'Audio Content & Video Content'
+          fr: 'Contenu audio & contenu vidéo'
         url: "/media/av/av-content/"
-      - name: Description
+      - name:
+          en: 'Description'
+          fr: 'Description'
         url: "/media/av/description/"
-      - name: Captions/Subtitles
+      - name:
+          en: 'Captions/Subtitles'
+          fr: 'Sous-titres'
         url: "/media/av/captions/"
-      - name: Transcripts
+      - name:
+          en: 'Transcripts'
+          fr: 'Transcriptions'
         url: "/media/av/transcripts/"
-      - name: Transcribing Audio to Text
+      - name:
+          en: 'Transcribing Audio to Text'
+          fr: 'Transcrire un contenu audio en texte'
         url: "/media/av/transcribing/"
-      - name: Sign Languages
+      - name:
+          en: 'Sign Languages'
+          fr: 'Langues des signes'
         url: "/media/av/sign-languages/"
-      - name: Media Player
+      - name:
+          en: 'Media Player'
+          fr: 'Lecteur multimédia'
         url: "/media/av/player/"
       - name:
           en: Acknowledgements
