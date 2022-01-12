@@ -370,6 +370,9 @@
       ru: "Стандарты/<wbr>Рекомендации"
       zh-hans: "标准/指南"
     url: "/standards-guidelines/"
+  - name: Changelog
+    url: "/standards-guidelines/changelog/"
+    hide: true
   - name:
       en: "Web Content – WCAG"
       fr: "Contenus web – WCAG"
@@ -488,6 +491,9 @@
     pages:
     - name: WAI-CooP
       url: "/about/projects/wai-coop/"
+      pages:
+      - name: Online Research Symposium
+        url: "/about/projects/wai-coop/symposium1/"	  
     - name: WAI-Guide
       url: "/about/projects/wai-guide/"
     - name: WAI-Tools
@@ -553,4 +559,3 @@
 - name: Resources
   url: "/resources/"
   mainnav: false
-  
