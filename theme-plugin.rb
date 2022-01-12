@@ -3,7 +3,8 @@
 # NB this tries to parse the HTML5 string parsed and then serialise it again
 ##
 
-## NB remote =theme does not support plugins so we access it as a shared file via theme-data
+## NB remote theme does not support plugins so we access it as a shared file via theme-data
+
 require 'nokogiri'
 
 module Jekyll
