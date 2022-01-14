@@ -4,6 +4,8 @@
 ##
 
 ## NB remote theme does not support plugins so we access it as a shared file via theme-data
+# To install create a _plugins folder in the resource and link to this file in_external/data
+# Also add nokigir to the gem
 
 require 'nokogiri'
 
