@@ -16,5 +16,4 @@ Gem::Specification.new do |spec|
   spec.add_dependency "jekyll-remote-theme"
   spec.add_dependency "jekyll-paginate"
   spec.add_dependency "wai-website-plugin"
-  spec.add_dependency "nokogiri"
 end
