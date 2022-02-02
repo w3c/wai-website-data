@@ -263,7 +263,7 @@
       - name: WCAG-EM Conformance Methodology
         url: "/test-evaluate/conformance/wcag-em/"
       - name: WCAG-EM Report Tool
-        url: "https://www.w3.org/WAI/eval/report-tool/#/"
+        url: "https://www.w3.org/WAI/eval/report-tool/"
       - name: Report Template
         url: "/test-evaluate/report-template/"
   - name: Using Combined Expertise
