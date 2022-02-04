@@ -374,9 +374,9 @@
     url: "/standards-guidelines/changelog/"
     hide: true
   - name:
-      en: "Web Content – WCAG"
-      fr: "Contenus web – WCAG"
-      es: "Contenido Web – WCAG"
+      en: "Web Content – WCAG 2"
+      fr: "Contenus web – WCAG 2"
+      es: "Contenido Web – WCAG 2"
     url: "/standards-guidelines/wcag/"
     pages:
     - name: "How to Meet WCAG 2 (Quick Reference)"
