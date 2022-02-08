@@ -219,20 +219,130 @@
         url: /media/av/changelog/
         hide: true
   - name: Tutorials
-    url: "https://www.w3.org/WAI/tutorials/"
+    url: "/tutorials/"
     pages:
-      - name: Page Structure
-        url: "https://www.w3.org/WAI/tutorials/page-structure/"
-      - name: Menus
-        url: "https://www.w3.org/WAI/tutorials/menus/"
-      - name: Images
-        url: "https://www.w3.org/WAI/tutorials/images/"
-      - name: Tables
-        url: "https://www.w3.org/WAI/tutorials/tables/"
-      - name: Forms
-        url: "https://www.w3.org/WAI/tutorials/forms/"
-      - name: Carousels
-        url: "https://www.w3.org/WAI/tutorials/carousels/"
+    - name: Page Structure
+      url: "/tutorials/page-structure/"
+      pages:
+      - name: Page Regions
+        url: "/tutorials/page-structure/regions/"
+      - name: Labeling Regions
+        url: "/tutorials/page-structure/labels/"
+      - name: Headings
+        url: "/tutorials/page-structure/headings/"
+      - name: Content Structure
+        url: "/tutorials/page-structure/content/"
+      - name: Full Example
+        url: "/tutorials/page-structure/example/"
+    - name: "Menus"
+      url: "/tutorials/menus/"
+      pages:
+      - name: Structure
+        url: "/tutorials/menus/structure/"
+      - name: Styling
+        url: "/tutorials/menus/styling/"
+      - name: Fly-Out Menus
+        url: "/tutorials/menus/flyout/"
+      - name: Application Menus
+        url: "/tutorials/menus/application-menus/"
+      - name: Application Menu Example & Code
+        url: "/tutorials/menus/application-menus-code/"
+    - name: Images
+      url: "/tutorials/images/"
+      pages:
+      - name: Image Concepts
+        url: "/tutorials/images/"
+      - name: Informative Images
+        url: "/tutorials/images/informative/"
+      - name: Decorative Images
+        url: "/tutorials/images/decorative/"
+      - name: Functional Images
+        url: "/tutorials/images/functional/"
+      - name: Images of Text
+        url: "/tutorials/images/textual/"
+      - name: Complex Images
+        url: "/tutorials/images/complex/"
+        pages:
+        - name: Example
+          url: "/tutorials/images/examples/2014-first-qtr/"
+          hide: true
+      - name: Groups of Images
+        url: "/tutorials/images/groups/"
+      - name: Image Maps
+        url: "/tutorials/images/imagemap/"
+        pages:
+        - name: Example
+          url: "/tutorials/images/examples/imagemap/"
+          hide: true
+      - name: 'An <code style="color: inherit;">alt</code> Decision Tree'
+        url: "/tutorials/images/decision-tree/"
+      - name: Tips and Tricks
+        url: "/tutorials/images/tips/"
+    - name: Tables
+      url: "/tutorials/tables/"
+      pages:
+      - name: Tables Concepts
+        url: "/tutorials/tables/"
+      - name: One Header
+        url: "/tutorials/tables/one-header/"
+      - name: Two Headers
+        url: "/tutorials/tables/two-headers/"
+        pages:
+        - name: "Complete “Table with header cells in the top row only” Example"
+          url: /tutorials/tables/examples/headertoprowfirstcol/
+          hide: true
+      - name: Irregular Headers
+        url: "/tutorials/tables/irregular/"
+      - name: Multi-level Headers
+        url: "/tutorials/tables/multi-level/"
+      - name: Caption & Summary
+        url: "/tutorials/tables/caption-summary/"
+      - name: Tips and Tricks
+        url: "/tutorials/tables/tips/"
+    - name: "Forms"
+      url: "/tutorials/forms/"
+      pages:
+      - name: Forms Concepts
+        url: "/tutorials/forms/"
+      - name: Labeling Controls
+        url: "/tutorials/forms/labels/"
+      - name: Gruping Controls
+        url: "/tutorials/forms/grouping/"
+      - name: Form Instructions
+        url: "/tutorials/forms/instructions/"
+      - name: Validating Input
+        url: "/tutorials/forms/validation/"
+      - name: User Notifications
+        url: "/tutorials/forms/notifications/"
+        pages:
+        - name: Password Example
+          url: "/tutorials/forms/examples/password/"
+          hide: true
+      - name: Multi-page Forms
+        url: "/tutorials/forms/multi-page/"
+      - name: Custom Controls
+        url: "/tutorials/forms/custom-controls/"
+    - name: "Carousels"
+      url: "/tutorials/carousels/"
+      pages:
+      - name: Structure
+        url: "/tutorials/carousels/structure/"
+      - name: Functionality
+        url: "/tutorials/carousels/functionality/"
+      - name: Animations
+        url: "/tutorials/carousels/animations/"
+      - name: Styling
+        url: "/tutorials/carousels/styling/"
+      - name: Working Example
+        url: "/tutorials/carousels/working-example/"
+      - name: Complete Code
+        url: "/tutorials/carousels/full-code/"
+    - name: "Changelog"
+      url: "/tutorials/changelog/"
+      hide: true
+    - name: "Acknowledgements"
+      url: "/tutorials/acknowledgements/"
+      hide: true
 
 - name:
     en: 'Test & Evaluate'
@@ -274,7 +384,7 @@
     url: "/test-evaluate/involving-users/"
   - name: Acknowledgements
     url: "/test-evaluate/acknowledgements/"
-    hide: true    
+    hide: true
 
 - name:
     en: 'Teach & Advocate'
@@ -493,7 +603,7 @@
       url: "/about/projects/wai-coop/"
       pages:
       - name: Online Research Symposium
-        url: "/about/projects/wai-coop/symposium1/"	  
+        url: "/about/projects/wai-coop/symposium1/"
     - name: WAI-Guide
       url: "/about/projects/wai-guide/"
     - name: WAI-Tools
@@ -529,7 +639,7 @@
     - name: WAI-Core 2015, 2020
       url: "/about/projects/wai-core-2015/"
     - name: WAI-Core Ford
-      url: "/about/projects/wai-core-ford/"      
+      url: "/about/projects/wai-core-ford/"
   - name: Groups
     url: "/about/groups/"
     pages:
