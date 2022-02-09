@@ -250,8 +250,6 @@
     - name: Images
       url: "/tutorials/images/"
       pages:
-      - name: Image Concepts
-        url: "/tutorials/images/"
       - name: Informative Images
         url: "/tutorials/images/informative/"
       - name: Decorative Images
@@ -281,8 +279,6 @@
     - name: Tables
       url: "/tutorials/tables/"
       pages:
-      - name: Tables Concepts
-        url: "/tutorials/tables/"
       - name: One Header
         url: "/tutorials/tables/one-header/"
       - name: Two Headers
@@ -302,8 +298,6 @@
     - name: "Forms"
       url: "/tutorials/forms/"
       pages:
-      - name: Forms Concepts
-        url: "/tutorials/forms/"
       - name: Labeling Controls
         url: "/tutorials/forms/labels/"
       - name: Gruping Controls
