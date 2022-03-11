@@ -599,14 +599,38 @@
   pages:
   - name: About WAI
     url: "/about/"
+  - name: "What We're Working On"
+    url: "/update/"
   - name: Participating
     url: "/about/participating/"
+  - name: Groups
+    url: "/about/groups/"
+    pages:
+    - name: 'AGWG: Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
+      url: "https://www.w3.org/WAI/GL/"
+    - name: 'APA: Accessible Platform <abbr title="Working Group">WG</abbr>'
+      url: "https://www.w3.org/WAI/APA/"
+    - name: 'ARIA: Accessible Rich Internet Applications <abbr title="Working Group">WG</abbr>'
+      url: "https://www.w3.org/WAI/ARIA/"
+    - name: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
+      url: "/about/groups/eowg/"
+      pages:
+      - name: Charter
+        url: "/EO/charter-current"
+      - name: Participate (Join)
+        url: "/about/groups/eowg/participate/"
+      - name: Current Participants
+        url: "https://www.w3.org/groups/wg/eowg/participants"
+    - name: 'WAI IG: WAI Interest Group'
+      url: "/about/groups/waiig/"
+    - name: 'Group Task Forces'
+      url: "/about/groups/taskforces/"
   - name: Translating
     url: "/about/translating/"
-  - name: Contacting
-    url: "/about/contacting/"
   - name: Sponsoring
     url: "/about/sponsoring/"
+  - name: Contacting
+    url: "/about/contacting/"
   - name: Projects
     url: "/about/projects/"
     pages:
@@ -651,32 +675,11 @@
       url: "/about/projects/wai-core-2015/"
     - name: WAI-Core Ford
       url: "/about/projects/wai-core-ford/"
-  - name: Groups
-    url: "/about/groups/"
-    pages:
-    - name: 'AGWG: Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
-      url: "https://www.w3.org/WAI/GL/"
-    - name: 'APA: Accessible Platform <abbr title="Working Group">WG</abbr>'
-      url: "https://www.w3.org/WAI/APA/"
-    - name: 'ARIA: Accessible Rich Internet Applications <abbr title="Working Group">WG</abbr>'
-      url: "https://www.w3.org/WAI/ARIA/"
-    - name: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
-      url: "/about/groups/eowg/"
-      pages:
-      - name: Charter
-        url: "/EO/charter-current"
-      - name: Participate (Join)
-        url: "/about/groups/eowg/participate/"
-      - name: Current Participants
-        url: "https://www.w3.org/groups/wg/eowg/participants"
-    - name: 'WAI IG: WAI Interest Group'
-      url: "/about/groups/waiig/"
-    - name: 'Group Task Forces'
-      url: "/about/groups/taskforces/"
-  - name: Using WAI Material
-    url: "/about/using-wai-material/"
   - name: Accessibility Statement
     url: "/about/accessibility-statement/"
+  - name: Using WAI Material
+    url: "/about/using-wai-material/"
 - name: Resources
   url: "/resources/"
   mainnav: false
+  
