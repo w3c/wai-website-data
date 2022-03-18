@@ -219,20 +219,124 @@
         url: /media/av/changelog/
         hide: true
   - name: Tutorials
-    url: "https://www.w3.org/WAI/tutorials/"
+    url: "/tutorials/"
     pages:
-      - name: Page Structure
-        url: "https://www.w3.org/WAI/tutorials/page-structure/"
-      - name: Menus
-        url: "https://www.w3.org/WAI/tutorials/menus/"
-      - name: Images
-        url: "https://www.w3.org/WAI/tutorials/images/"
-      - name: Tables
-        url: "https://www.w3.org/WAI/tutorials/tables/"
-      - name: Forms
-        url: "https://www.w3.org/WAI/tutorials/forms/"
-      - name: Carousels
-        url: "https://www.w3.org/WAI/tutorials/carousels/"
+    - name: Page Structure
+      url: "/tutorials/page-structure/"
+      pages:
+      - name: Page Regions
+        url: "/tutorials/page-structure/regions/"
+      - name: Labeling Regions
+        url: "/tutorials/page-structure/labels/"
+      - name: Headings
+        url: "/tutorials/page-structure/headings/"
+      - name: Content Structure
+        url: "/tutorials/page-structure/content/"
+      - name: Full Example
+        url: "/tutorials/page-structure/example/"
+    - name: "Menus"
+      url: "/tutorials/menus/"
+      pages:
+      - name: Structure
+        url: "/tutorials/menus/structure/"
+      - name: Styling
+        url: "/tutorials/menus/styling/"
+      - name: Fly-Out Menus
+        url: "/tutorials/menus/flyout/"
+      - name: Application Menus
+        url: "/tutorials/menus/application-menus/"
+      - name: Application Menu Example & Code
+        url: "/tutorials/menus/application-menus-code/"
+    - name: Images
+      url: "/tutorials/images/"
+      pages:
+      - name: Informative Images
+        url: "/tutorials/images/informative/"
+      - name: Decorative Images
+        url: "/tutorials/images/decorative/"
+      - name: Functional Images
+        url: "/tutorials/images/functional/"
+      - name: Images of Text
+        url: "/tutorials/images/textual/"
+      - name: Complex Images
+        url: "/tutorials/images/complex/"
+        pages:
+        - name: Example
+          url: "/tutorials/images/examples/2014-first-qtr/"
+          hide: true
+      - name: Groups of Images
+        url: "/tutorials/images/groups/"
+      - name: Image Maps
+        url: "/tutorials/images/imagemap/"
+        pages:
+        - name: Example
+          url: "/tutorials/images/examples/imagemap/"
+          hide: true
+      - name: 'An <code style="color: inherit;">alt</code> Decision Tree'
+        url: "/tutorials/images/decision-tree/"
+      - name: Tips and Tricks
+        url: "/tutorials/images/tips/"
+    - name: Tables
+      url: "/tutorials/tables/"
+      pages:
+      - name: One Header
+        url: "/tutorials/tables/one-header/"
+      - name: Two Headers
+        url: "/tutorials/tables/two-headers/"
+        pages:
+        - name: "Complete “Table with header cells in the top row only” Example"
+          url: /tutorials/tables/examples/headertoprowfirstcol/
+          hide: true
+      - name: Irregular Headers
+        url: "/tutorials/tables/irregular/"
+      - name: Multi-level Headers
+        url: "/tutorials/tables/multi-level/"
+      - name: Caption & Summary
+        url: "/tutorials/tables/caption-summary/"
+      - name: Tips and Tricks
+        url: "/tutorials/tables/tips/"
+    - name: "Forms"
+      url: "/tutorials/forms/"
+      pages:
+      - name: Labeling Controls
+        url: "/tutorials/forms/labels/"
+      - name: Gruping Controls
+        url: "/tutorials/forms/grouping/"
+      - name: Form Instructions
+        url: "/tutorials/forms/instructions/"
+      - name: Validating Input
+        url: "/tutorials/forms/validation/"
+      - name: User Notifications
+        url: "/tutorials/forms/notifications/"
+        pages:
+        - name: Password Example
+          url: "/tutorials/forms/examples/password/"
+          hide: true
+      - name: Multi-page Forms
+        url: "/tutorials/forms/multi-page/"
+      - name: Custom Controls
+        url: "/tutorials/forms/custom-controls/"
+    - name: "Carousels"
+      url: "/tutorials/carousels/"
+      pages:
+      - name: Structure
+        url: "/tutorials/carousels/structure/"
+      - name: Functionality
+        url: "/tutorials/carousels/functionality/"
+      - name: Animations
+        url: "/tutorials/carousels/animations/"
+      - name: Styling
+        url: "/tutorials/carousels/styling/"
+      - name: Working Example
+        url: "/tutorials/carousels/working-example/"
+      - name: Complete Code
+        url: "/tutorials/carousels/full-code/"
+    - name: "Changelog"
+      url: "/tutorials/changelog/"
+      hide: true
+    - name: "Acknowledgements"
+      url: "/tutorials/acknowledgements/"
+      hide: true
 
 - name:
     en: 'Test & Evaluate'
@@ -263,7 +367,7 @@
       - name: WCAG-EM Conformance Methodology
         url: "/test-evaluate/conformance/wcag-em/"
       - name: WCAG-EM Report Tool
-        url: "https://www.w3.org/WAI/eval/report-tool/#/"
+        url: "https://www.w3.org/WAI/eval/report-tool/"
       - name: Report Template
         url: "/test-evaluate/report-template/"
   - name: Using Combined Expertise
@@ -274,7 +378,7 @@
     url: "/test-evaluate/involving-users/"
   - name: Acknowledgements
     url: "/test-evaluate/acknowledgements/"
-    hide: true    
+    hide: true
 
 - name:
     en: 'Teach & Advocate'
@@ -321,6 +425,23 @@
         url: "/curricula/developer-modules/custom-widgets/"
       - name: Rich Applications
         url: "/curricula/developer-modules/rich-applications/"
+    - name: Designer Modules
+      url: "/curricula/designer-modules/"
+      pages:
+      - name: Visual Design
+        url: "/curricula/designer-modules/visual-design/"
+      - name: Information Design
+        url: "/curricula/designer-modules/information-design/"
+      - name: Navigation Design
+        url: "/curricula/designer-modules/navigation-design/"
+      - name: Interaction Design
+        url: "/curricula/designer-modules/interaction-design/"
+      - name: Images and Graphics
+        url: "/curricula/designer-modules/images-and-graphics/"
+      - name: Multimedia and Animations
+        url: "/curricula/designer-modules/multimedia-and-animations/"
+      - name: Forms Design
+        url: "/curricula/designer-modules/forms-design/"
   - name: Develop Accessibility Training
     url: "/teach-advocate/accessibility-training/"
     pages:
@@ -374,9 +495,9 @@
     url: "/standards-guidelines/changelog/"
     hide: true
   - name:
-      en: "Web Content – WCAG"
-      fr: "Contenus web – WCAG"
-      es: "Contenido Web – WCAG"
+      en: "Web Content – WCAG 2"
+      fr: "Contenus web – WCAG 2"
+      es: "Contenido Web – WCAG 2"
     url: "/standards-guidelines/wcag/"
     pages:
     - name: "How to Meet WCAG 2 (Quick Reference)"
@@ -478,14 +599,38 @@
   pages:
   - name: About WAI
     url: "/about/"
+  - name: "What We're Working On"
+    url: "/update/"
   - name: Participating
     url: "/about/participating/"
+  - name: Groups
+    url: "/about/groups/"
+    pages:
+    - name: 'AGWG: Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
+      url: "https://www.w3.org/WAI/GL/"
+    - name: 'APA: Accessible Platform <abbr title="Working Group">WG</abbr>'
+      url: "https://www.w3.org/WAI/APA/"
+    - name: 'ARIA: Accessible Rich Internet Applications <abbr title="Working Group">WG</abbr>'
+      url: "https://www.w3.org/WAI/ARIA/"
+    - name: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
+      url: "/about/groups/eowg/"
+      pages:
+      - name: Charter
+        url: "/EO/charter-current"
+      - name: Participate (Join)
+        url: "/about/groups/eowg/participate/"
+      - name: Current Participants
+        url: "https://www.w3.org/groups/wg/eowg/participants"
+    - name: 'WAI IG: WAI Interest Group'
+      url: "/about/groups/waiig/"
+    - name: 'Group Task Forces'
+      url: "/about/groups/taskforces/"
   - name: Translating
     url: "/about/translating/"
-  - name: Contacting
-    url: "/about/contacting/"
   - name: Sponsoring
     url: "/about/sponsoring/"
+  - name: Contacting
+    url: "/about/contacting/"
   - name: Projects
     url: "/about/projects/"
     pages:
@@ -493,7 +638,7 @@
       url: "/about/projects/wai-coop/"
       pages:
       - name: Online Research Symposium
-        url: "/about/projects/wai-coop/symposium1/"	  
+        url: "/about/projects/wai-coop/symposium1/"
     - name: WAI-Guide
       url: "/about/projects/wai-guide/"
     - name: WAI-Tools
@@ -529,36 +674,15 @@
     - name: WAI-Core 2015, 2020
       url: "/about/projects/wai-core-2015/"
     - name: WAI-Core Ford
-      url: "/about/projects/wai-core-ford/"      
-  - name: Groups
-    url: "/about/groups/"
-    pages:
-    - name: 'AGWG: Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
-      url: "https://www.w3.org/WAI/GL/"
-    - name: 'APA: Accessible Platform <abbr title="Working Group">WG</abbr>'
-      url: "https://www.w3.org/WAI/APA/"
-    - name: 'ARIA: Accessible Rich Internet Applications <abbr title="Working Group">WG</abbr>'
-      url: "https://www.w3.org/WAI/ARIA/"
-    - name: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
-      url: "/about/groups/eowg/"
-      pages:
-      - name: Charter
-        url: "/EO/charter-current"
-      - name: Participate (Join)
-        url: "/about/groups/eowg/participate/"
-      - name: Current Participants
-        url: "https://www.w3.org/groups/wg/eowg/participants"
-    - name: 'WAI IG: WAI Interest Group'
-      url: "/about/groups/waiig/"
-    - name: 'Group Task Forces'
-      url: "/about/groups/taskforces/"
-  - name: Using WAI Material
-    url: "/about/using-wai-material/"
+      url: "/about/projects/wai-core-ford/"
   - name: Accessibility Statement
     url: "/about/accessibility-statement/"
+  - name: Using WAI Material
+    url: "/about/using-wai-material/"
 - name: Resources
   url: "/resources/"
   mainnav: false
 - name: Cognitive Accessibility Guidance - Here in March 2022
   url: "/WCAG2/supplemental/"
   mainnav: false
+  
