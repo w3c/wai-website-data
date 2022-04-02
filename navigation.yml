@@ -540,6 +540,8 @@
       url: "/standards-guidelines/wcag/conformance-logos/"
     - name: FAQ
       url: "/standards-guidelines/wcag/faq/"
+  - name: WCAG 3 Draft
+    url: "/standards-guidelines/wcag/wcag3-intro/"
   - name: Authoring Tools – ATAG
     url: "/standards-guidelines/atag/"
     pages:
@@ -547,8 +549,6 @@
       url: "/standards-guidelines/atag/glance/"
   - name: User Agents – UAAG
     url: "/standards-guidelines/uaag/"
-  - name: WCAG 3 Draft
-    url: "/standards-guidelines/wcag/wcag3-intro/"
   - name: WAI-ARIA
     url: "/standards-guidelines/aria/"
   - name: Evaluation – ACT & EARL
