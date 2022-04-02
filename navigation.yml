@@ -8,6 +8,9 @@
       es: 'Fundamentos de accesibilidad'
       fr: "Fondamentaux de l'accessibilité"
     url: "/fundamentals/"
+  - name: Changelog
+    url: "/fundamentals/changelog/"
+    hide: true
   - name:
       en: "Introduction to Accessibility"
       ar: "مقدمة لولوجية الويب"
@@ -139,6 +142,9 @@
       es: 'Planificación y Políticas'
       fr: 'Organisation & politiques'
     url: "/planning/"
+  - name: Changelog
+    url: "/planning/changelog/"
+    hide: true
   - name: Approaches for Interim Repairs
     url: "/planning/interim-repairs/"
   - name: Planning and Managing Accessibility
@@ -180,6 +186,9 @@
       es: 'Diseñar y Desarrollar'
       fr: 'Concevoir & développer'
     url: "/design-develop/"
+  - name: Changelog
+    url: "/design-develop/changelog/"
+    hide: true
   - name: Tips for Getting Started
     url: "/tips/"
     hide: true
@@ -348,6 +357,9 @@
       es: 'Probar y Evaluar'
       fr: 'Tester et évaluer'
     url: "/test-evaluate/"
+  - name: Changelog
+    url: "/test-evaluate/changelog/"
+    hide: true
   - name: Easy Checks – A First Review
     url: "/test-evaluate/preliminary/"
   - name:
@@ -390,6 +402,9 @@
       es: 'Enseñar y Promover'
       fr: 'Former et promouvoir'
     url: "/teach-advocate/"
+  - name: Changelog
+    url: "/teach-advocate/changelog/"
+    hide: true
   - name: Make Presentations Accessible
     url: "/teach-advocate/accessible-presentations/"
   - name: Curricula on Web Accessibility
@@ -685,4 +700,3 @@
 - name: Cognitive Accessibility Guidance - Here in March 2022
   url: "/WCAG2/supplemental/"
   mainnav: false
-  
