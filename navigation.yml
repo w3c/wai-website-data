@@ -405,7 +405,9 @@
   - name: Changelog
     url: "/teach-advocate/changelog/"
     hide: true
-  - name: Make Presentations Accessible
+  - name:
+      en: 'Make Presentations Accessible'
+      fr: 'Des présentations accessibles'
     url: "/teach-advocate/accessible-presentations/"
   - name: Curricula on Web Accessibility
     url: "/curricula/"
