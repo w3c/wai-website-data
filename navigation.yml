@@ -30,7 +30,7 @@
         nl: 'Video-introductie'
         ru: 'Введение'
         zh-hans: '视频介绍'
-      url: /videos/standards-and-benefits/
+      url: "/videos/standards-and-benefits/"
       pages:
       - name:
           en: Changelog
@@ -40,7 +40,7 @@
           zh-hans: '修改日志'
           fr: 'Changements'
           es: 'Registro de cambios'
-        url: /videos/standards-and-benefits/changelog/
+        url: "/videos/standards-and-benefits/changelog/"
         hide: true
   - name:
       en: Foundations Online Course
@@ -212,11 +212,11 @@
         url: "/media/av/player/"
       - name:
           en: Acknowledgements
-        url: /media/av/acknowledgements/
+        url: "/media/av/acknowledgements/"
         hide: true
       - name:
           en: Changelog
-        url: /media/av/changelog/
+        url: "/media/av/changelog/"
         hide: true
   - name: Tutorials
     url: "https://www.w3.org/WAI/tutorials/"
@@ -279,7 +279,9 @@
       es: 'Enseñar y Promover'
       fr: 'Former et promouvoir'
     url: "/teach-advocate/"
-  - name: Make Presentations Accessible
+  - name:
+      en: 'Make Presentations Accessible'
+      fr: 'Des présentations accessibles'
     url: "/teach-advocate/accessible-presentations/"
   - name: Curricula on Web Accessibility
     url: "/curricula/"
