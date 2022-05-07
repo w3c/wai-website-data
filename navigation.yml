@@ -34,7 +34,7 @@
         nl: 'Video-introductie'
         ru: 'Введение'
         zh-hans: '视频介绍'
-      url: /videos/standards-and-benefits/
+      url: "/videos/standards-and-benefits/"
       pages:
       - name:
           en: Changelog
@@ -44,7 +44,7 @@
           zh-hans: '修改日志'
           fr: 'Changements'
           es: 'Registro de cambios'
-        url: /videos/standards-and-benefits/changelog/
+        url: "/videos/standards-and-benefits/changelog/"
         hide: true
   - name:
       en: Foundations Online Course
@@ -221,11 +221,11 @@
         url: "/media/av/player/"
       - name:
           en: Acknowledgements
-        url: /media/av/acknowledgements/
+        url: "/media/av/acknowledgements/"
         hide: true
       - name:
           en: Changelog
-        url: /media/av/changelog/
+        url: "/media/av/changelog/"
         hide: true
   - name: Tutorials
     url: "/tutorials/"
@@ -294,7 +294,7 @@
         url: "/tutorials/tables/two-headers/"
         pages:
         - name: "Complete “Table with header cells in the top row only” Example"
-          url: /tutorials/tables/examples/headertoprowfirstcol/
+          url: "/tutorials/tables/examples/headertoprowfirstcol/"
           hide: true
       - name: Irregular Headers
         url: "/tutorials/tables/irregular/"
