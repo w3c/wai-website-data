@@ -43,7 +43,9 @@ module Jekyll
         # Convert text to be suitable for a URl fragment and HTML element id
         # Both HTML5 id and URL fragment are very flxible so we just strip whitespace (not lf)
         def fragmentify(text)
-            return text.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+            return text
+            .downcase
+            .gsub(/[\s]/, '')
         end
     end
   end
