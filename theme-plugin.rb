@@ -14,24 +14,26 @@ module Jekyll
 
         # Ads id attribute to H2 based on text
         def add_h2_ids(content)
-        doc = Nokogiri::HTML5.fragment(content)
-# TODO maybe add option to print errors like this
-# As it is this will change the content if html is invalid.
-#        doc = Nokogiri::HTML5.fragment(content, max_errors: 10)  
-#        doc.errors.each do |err|
-#            puts(err)
-#        end
-        doc.css('h2').each do |h2|
-            h2['id'] = fragmentify h2.text 
-        end
-        return doc.to_s
+            doc = Nokogiri::HTML5.fragment(content)
+            # TODO maybe add option to print errors like this
+            # As it is this will change the content if html is invalid.
+            #        doc = Nokogiri::HTML5.fragment(content, max_errors: 10)  
+            #        doc.errors.each do |err|
+            #            puts(err)
+            #        end
+            doc.css('h2').each do |h2|
+                if !h2['id']
+                    h2['id'] = fragmentify h2.text
+                end
+            end
+            return doc.to_s
         end
 
         # Get an array of links
         def get_h2_links(content)
             doc = Nokogiri::HTML5.fragment(content)
             names = doc.css('h2').map { |h2| h2.text }
-            ids = names.map { |name| fragmentify name }
+            ids = doc.css('h2').map { |h2| h2['id'] }
             links = names.zip( ids )
             return links
         end
@@ -43,7 +45,7 @@ module Jekyll
         def fragmentify(text)
             return text
             .downcase
-            .gsub(/[\s]/, '') 
+            .gsub(/[\s]/, '')
         end
     end
   end
