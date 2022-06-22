@@ -577,8 +577,8 @@
         hide: true
     - name: Evaluation and Report Language – EARL
       url: "/standards-guidelines/earl/"
-  - name: Personalization
-    url: "/personalization/"
+  - name: WAI-Adapt
+    url: "/adapt/"
   - name: Pronunciation
     url: "/pronunciation/"
   - name: Standards Harmonization is Essential
