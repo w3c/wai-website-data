@@ -46,9 +46,16 @@
           es: 'Registro de cambios'
         url: /videos/standards-and-benefits/changelog/
         hide: true
-  - name:
-      en: Foundations Online Course
-    url: "/fundamentals/foundations-course/"
+  - name: Accessibility Courses
+    url: "/fundamentals/courses/"
+    pages:
+    - name: Foundations Online Course
+      url: "/fundamentals/foundations-course/"
+    - name: Course List
+      url: "/courses/list/"
+    - name: Submit a Course
+      url: "/courses/submission/"
+      hide: true
   - name:
       en: Components of Web Accessibility
       ko: "웹 접근성 요소"
