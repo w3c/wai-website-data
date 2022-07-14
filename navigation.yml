@@ -46,11 +46,11 @@
           es: 'Registro de cambios'
         url: /videos/standards-and-benefits/changelog/
         hide: true
-  - name: Accessibility Courses
-    url: "/fundamentals/courses/"
+  - name: Courses
+    url: "/courses/"
     pages:
     - name: Foundations Online Course
-      url: "/fundamentals/foundations-course/"
+      url: "/foundations-course/"
     - name: Course List
       url: "/courses/list/"
     - name: Submit a Course
