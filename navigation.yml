@@ -50,7 +50,7 @@
     url: "/courses/"
     pages:
     - name: Foundations Online Course
-      url: "/foundations-course/"
+      url: "/courses/foundations-course/"
     - name: Course List
       url: "/courses/list/"
     - name: Submit a Course
