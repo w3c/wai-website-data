@@ -47,8 +47,15 @@
         url: /videos/standards-and-benefits/changelog/
         hide: true
   - name:
-      en: Foundations Online Course
-    url: "/fundamentals/foundations-course/"
+      en: Digital Accessibility Courses
+    url: "/courses/"
+    pages:
+	- name:
+		en: W3C Foundations Online Course
+		url: "/courses/foundations-course/"
+	- name:
+		en: Course List
+		url: "/courses/list/"
   - name:
       en: Components of Web Accessibility
       ko: "웹 접근성 요소"
