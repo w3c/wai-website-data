@@ -56,6 +56,11 @@
     - name:
         en: Course List
       url: "/courses/list/"
+      pages:
+      - name:
+        en: Submit a course
+      url: "/courses/submission/"
+      hide: true
   - name:
       en: Components of Web Accessibility
       ko: "웹 접근성 요소"
