@@ -629,7 +629,7 @@
   - name: "News"
     url: "/news/"
     pages:
-    - name: "Subscribe"
+    - name: "To subscribe:"
       url: "/news/subscribe/"
 
 - name:
