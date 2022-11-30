@@ -110,6 +110,9 @@
     - name: Acknowledgements
       url: "/perspective-videos/acknowledgements/"
       hide: true
+  - name: "It's About People"
+    url: "/people/"  
+    hide: true
   - name:
       en: "How People with Disabilities Use the Web"
       fr: "Comment les personnes handicapées utilisent le web"
