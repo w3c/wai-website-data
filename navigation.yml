@@ -574,6 +574,12 @@
     pages:
     - name: "At a Glance"
       url: "/standards-guidelines/atag/glance/"
+    - name: For LMS"
+      url: "/standards-guidelines/atag/education/"
+    - name: "For No-Code"
+      url: "/standards-guidelines/atag/no-code/"
+    - name: "For Social Media"
+      url: "/standards-guidelines/atag/social-media/"
   - name: User Agents – UAAG
     url: "/standards-guidelines/uaag/"
   - name: WAI-ARIA
