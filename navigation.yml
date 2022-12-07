@@ -170,6 +170,11 @@
         url: "/planning-and-managing/implement/"
       - name: Sustain
         url: "/planning-and-managing/sustain/"
+      - name: Authoring Tools List
+        url: "/tools-list/authoring/"
+      - name: Authoring Tool Submission Form
+        url: "/tools-list/authoring/submit-a-tool/"
+        hide: true
   - name: Developing an Organizational Policy
     url: "/planning/org-policies/"
     pages:
