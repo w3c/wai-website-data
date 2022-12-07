@@ -574,11 +574,11 @@
     pages:
     - name: "At a Glance"
       url: "/standards-guidelines/atag/glance/"
-    - name: For LMS"
+    - name: "For LMS"
       url: "/standards-guidelines/atag/education/"
-    - name: "For No-Code"
+    - name: "For No-Code Tools"
       url: "/standards-guidelines/atag/no-code/"
-    - name: "For Social Media"
+    - name: "For Social Media Platforms"
       url: "/standards-guidelines/atag/social-media/"
   - name: User Agents – UAAG
     url: "/standards-guidelines/uaag/"
