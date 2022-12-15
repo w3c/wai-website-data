@@ -692,6 +692,8 @@
       pages:
       - name: Research Symposium 2021
         url: "/about/projects/wai-coop/symposium1/"
+      - name: Research Symposium AI
+        url: "/about/projects/wai-coop/symposium2/"
     - name: WAI-Guide
       url: "/about/projects/wai-guide/"
     - name: WAI-Tools
