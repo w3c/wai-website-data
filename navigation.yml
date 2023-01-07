@@ -110,7 +110,7 @@
     - name: Acknowledgements
       url: "/perspective-videos/acknowledgements/"
       hide: true
-  - name: "Accessibility: It's About People"
+  - name: "Accessibility is About People"
     url: "/people/"  
     hide: true
   - name:
