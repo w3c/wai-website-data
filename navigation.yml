@@ -45,19 +45,69 @@
           fr: 'Changements'
           es: 'Registro de cambios'
         url: /videos/standards-and-benefits/changelog/
-        hide: true
-  - name:
-      en: Digital Accessibility Courses
-    url: "/courses/"
+        hide: true        
+  - name: "Accessibility is About People"
+    url: "/people/"
     pages:
-    - name: W3C Foundations Online Course
-      url: "/courses/foundations-course/"
-    - name: Course List
-      url: "/courses/list/"
+    - name: Perspectives Videos
+      url: "/perspective-videos/"
       pages:
-      - name: Submit a course
-        url: "/courses/submission/"
+      - name: Keyboard Compatibility
+        url: "/perspective-videos/keyboard/"
+      - name: Colors with Good Contrast
+        url: "/perspective-videos/contrast/"
+      - name: Clear Layout and Design
+        url: "/perspective-videos/layout/"
+      - name: Text to Speech
+        url: "/perspective-videos/speech/"
+      - name: Large Links, Buttons, and Controls
+        url: "/perspective-videos/controls/"
+      - name: Video Captions
+        url: "/perspective-videos/captions/"
+      - name: Customizable Text
+        url: "/perspective-videos/customizable/"
+      - name: Speech Recognition
+        url: "/perspective-videos/voice/"
+      - name: Understandable Content
+        url: "/perspective-videos/understandable/"
+      - name: Notifications and Feedback
+        url: "/perspective-videos/notifications/"
+      - name: Acknowledgements
+        url: "/perspective-videos/acknowledgements/"
         hide: true
+    - name:
+        en: "How People with Disabilities Use the Web"
+        fr: "Comment les personnes handicapées utilisent le web"
+        es: "Cómo usan la web las personas con discapacidad"
+      url: "/people-use-web/"
+      pages:
+      - name:
+          en: "Stories of Web Users"
+          fr: "Quelques utilisateurs du Web"
+          es: "Historias de usuarios de la web"
+        url: "/people-use-web/user-stories/"
+      - name:
+          en: "Diverse Abilities and Barriers"
+          fr: "Des capacités et des points bloquants variés"
+        url: "/people-use-web/abilities-barriers/"
+      - name:
+          en: "Tools and Techniques"
+          fr: "Outils et techniques"
+        url: "/people-use-web/tools-techniques/"
+      - name: Videos of How People Use the Web
+        url: "/people-use-web/videos/"
+    - name: Older Users and Accessibility
+      url: "/older-users/"
+      pages:
+      - name: How WCAG 2 Applies
+        url: "/older-users/developing/"
+      - name: Literature Review
+        url: "/older-users/literature/"
+      - name: Changelog
+        url: "/older-users/changelog/"
+        hide: true
+    - name: Accessibility, Usability, Inclusion
+      url: "/fundamentals/accessibility-usability-inclusion/"
   - name:
       en: Components of Web Accessibility
       ko: "웹 접근성 요소"
@@ -84,66 +134,17 @@
           es: 'Registro de cambios'
         url: "/fundamentals/accessibility-principles/changelog/"
         hide: true
-  - name: Perspectives Videos
-    url: "/perspective-videos/"
+  - name: Digital Accessibility Courses
+    url: "/courses/"
     pages:
-    - name: Keyboard Compatibility
-      url: "/perspective-videos/keyboard/"
-    - name: Colors with Good Contrast
-      url: "/perspective-videos/contrast/"
-    - name: Clear Layout and Design
-      url: "/perspective-videos/layout/"
-    - name: Text to Speech
-      url: "/perspective-videos/speech/"
-    - name: Large Links, Buttons, and Controls
-      url: "/perspective-videos/controls/"
-    - name: Video Captions
-      url: "/perspective-videos/captions/"
-    - name: Customizable Text
-      url: "/perspective-videos/customizable/"
-    - name: Speech Recognition
-      url: "/perspective-videos/voice/"
-    - name: Understandable Content
-      url: "/perspective-videos/understandable/"
-    - name: Notifications and Feedback
-      url: "/perspective-videos/notifications/"
-    - name: Acknowledgements
-      url: "/perspective-videos/acknowledgements/"
-      hide: true
-  - name: "Accessibility is About People"
-    url: "/people/"  
-    hide: true
-  - name:
-      en: "How People with Disabilities Use the Web"
-      fr: "Comment les personnes handicapées utilisent le web"
-      es: "Cómo usan la web las personas con discapacidad"
-    url: "/people-use-web/"
-    pages:
-    - name:
-        en: "Stories of Web Users"
-        fr: "Quelques utilisateurs du Web"
-        es: "Historias de usuarios de la web"
-      url: "/people-use-web/user-stories/"
-    - name:
-        en: "Diverse Abilities and Barriers"
-        fr: "Des capacités et des points bloquants variés"
-      url: "/people-use-web/abilities-barriers/"
-    - name:
-        en: "Tools and Techniques"
-        fr: "Outils et techniques"
-      url: "/people-use-web/tools-techniques/"
-  - name: Older Users and Accessibility
-    url: "/older-users/"
-    pages:
-    - name: How WCAG 2 Applies
-      url: "/older-users/developing/"
-    - name: Literature Review
-      url: "/older-users/literature/"
-    - name: Changelog
-      url: "/older-users/changelog/"
-      hide: true
-  - name: Accessibility, Usability, Inclusion
-    url: "/fundamentals/accessibility-usability-inclusion/"
+    - name: W3C Foundations Online Course
+      url: "/courses/foundations-course/"
+    - name: Course List
+      url: "/courses/list/"
+      pages:
+      - name: Submit a course
+        url: "/courses/submission/"
+        hide: true	
 - name:
     en: 'Planning & Policies'
     es: 'Planificación y Políticas'
@@ -696,6 +697,36 @@
         url: "/about/projects/wai-coop/symposium2/"
     - name: WAI-Guide
       url: "/about/projects/wai-guide/"
+    - name: WAI-Tools
+      url: "/about/projects/wai-tools/"
+      pages:
+      - name: Final Open Meeting
+        url: "/about/projects/wai-tools/final-open-meeting/"
+      - name: Video Recording 1
+        url: "/about/projects/wai-tools/session1/"
+      - name: Video Recording 2
+        url: "/about/projects/wai-tools/session2/"
+      - name: Video Recording 3
+        url: "/about/projects/wai-tools/session3/"
+      - name: Video Recording 4
+        url: "/about/projects/wai-tools/session4/"
+      - name: Video Recording 5
+        url: "/about/projects/wai-tools/session5/"
+      - name: Third Open Meeting
+        url: "/about/projects/wai-tools/third-open-meeting/"
+      - name: Second Open Meeting
+        url: "/about/projects/wai-tools/second-open-meeting/"
+      - name: Online Symposium
+        url: "/about/projects/wai-tools/symposium/"
+        pages:
+        - name: Record
+          url: "/about/projects/wai-tools/symposium/record/"
+      - name: First Open Meeting
+        url: "/about/projects/wai-tools/first-open-meeting/"
+    - name: WAI Expanding Access
+      url: "/expand-access/"
+    - name: Easy Reading
+      url: "/about/projects/easy-reading/"
     - name: WAI-Core 2015, 2020
       url: "/about/projects/wai-core-2015/"
     - name: WAI-Core Ford
