@@ -94,8 +94,6 @@
           en: "Tools and Techniques"
           fr: "Outils et techniques"
         url: "/people-use-web/tools-techniques/"
-      - name: Videos of How People Use the Web
-        url: "/people-use-web/videos/"
     - name: Older Users and Accessibility
       url: "/older-users/"
       pages:
