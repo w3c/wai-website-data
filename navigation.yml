@@ -741,9 +741,11 @@
   mainnav: false
 
 # NOTE that this is a "magic" fix in combination with w3c/wai-website-theme/_includes/header.html#L169.
-# '...' should stay at the bottom. Jekyll seems to be defaulting the last item in this file when a page is no
-# longer included in the main navigation. https://www.w3.org/WAI/standards-guidelines/wcag-mobile-overlap/.
-# The url should never be shown but it has been set as a "just-in-case"
+# '...' should stay at the bottom. Jekyll seems to be defaulting the breadcrumbs nav to the last item in this file when
+# a page isn't included in the main navigation. Furthermore, it causes an unexpected navigation to an unexpected URL,
+# Which is what has prompted the need for also updating wai-website-theme. An example of the issue can be seen on
+# https://www.w3.org/WAI/standards-guidelines/wcag-mobile-overlap/.
+# Also note, the URL is never intended to be accessed, but it has been set as a "just-in-case"
 - name: ...
   url: "/"
   mainnav: false
