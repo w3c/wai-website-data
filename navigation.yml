@@ -45,7 +45,7 @@
           fr: 'Changements'
           es: 'Registro de cambios'
         url: /videos/standards-and-benefits/changelog/
-        hide: true        
+        hide: true
   - name: "Accessibility is About People"
     url: "/people/"
     pages:
@@ -142,7 +142,7 @@
       pages:
       - name: Submit a course
         url: "/courses/submission/"
-        hide: true	
+        hide: true
 - name:
     en: 'Planning & Policies'
     es: 'Planificación y Políticas'
@@ -738,4 +738,14 @@
   mainnav: false
 - name: Cognitive Accessibility Guidance - Here in March 2022
   url: "/WCAG2/supplemental/"
+  mainnav: false
+
+# NOTE that this is a "magic" fix in combination with w3c/wai-website-theme/_includes/header.html#L169.
+# '...' should stay at the bottom. Jekyll seems to be defaulting the breadcrumbs nav to the last item in this file when
+# a page isn't included in the main navigation. Furthermore, it causes an unexpected navigation to an unexpected URL,
+# Which is what has prompted the need for also updating wai-website-theme. An example of the issue can be seen on
+# https://www.w3.org/WAI/standards-guidelines/wcag-mobile-overlap/.
+# Also note, the URL is never intended to be accessed, but it has been set as a "just-in-case"
+- name: ...
+  url: "/"
   mainnav: false
