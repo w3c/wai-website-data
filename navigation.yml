@@ -45,7 +45,7 @@
           fr: 'Changements'
           es: 'Registro de cambios'
         url: /videos/standards-and-benefits/changelog/
-        hide: true        
+        hide: true
   - name: "Accessibility is About People"
     url: "/people/"
     pages:
@@ -142,7 +142,7 @@
       pages:
       - name: Submit a course
         url: "/courses/submission/"
-        hide: true	
+        hide: true
 - name:
     en: 'Planning & Policies'
     es: 'Planificación y Políticas'
@@ -738,4 +738,7 @@
   mainnav: false
 - name: Cognitive Accessibility Guidance - Here in March 2022
   url: "/WCAG2/supplemental/"
+  mainnav: false
+- name: ...
+  url: "/"
   mainnav: false
