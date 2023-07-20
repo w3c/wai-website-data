@@ -571,7 +571,7 @@
       url: "/standards-guidelines/wcag/conformance-logos/"
     - name: FAQ
       url: "/standards-guidelines/wcag/faq/"
-  - name: WCAG 3 Draft
+  - name: WCAG 3
     url: "/standards-guidelines/wcag/wcag3-intro/"
   - name: Authoring Tools – ATAG
     url: "/standards-guidelines/atag/"
