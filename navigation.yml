@@ -557,7 +557,7 @@
       url: "/standards-guidelines/wcag/docs/"
     - name: "Applying to Non-Web ICT"
       url: "/standards-guidelines/wcag/non-web-ict/"
-    - name: New in 2.2 Draft
+    - name: New in 2.2
       url: "/standards-guidelines/wcag/new-in-22/"
     - name:
         en: "New in 2.1"
@@ -571,7 +571,7 @@
       url: "/standards-guidelines/wcag/conformance-logos/"
     - name: FAQ
       url: "/standards-guidelines/wcag/faq/"
-  - name: WCAG 3
+  - name: WCAG 3 Draft
     url: "/standards-guidelines/wcag/wcag3-intro/"
   - name: Authoring Tools – ATAG
     url: "/standards-guidelines/atag/"
