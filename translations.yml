@@ -102,7 +102,7 @@
   fa: 'مشارکت کننده:'
   id: 'Kontributor:'
 
-- en: 'Contributors:'   #  for listing people who helped with a translation. gender-neutral, plural
+- en: 'Contributors:'   #  for listing people who helped with a resource or a translation. gender-neutral, plural
   uk: 'Співавтори'
   ar: 'المساهمات:'
   cs: 'Přispěvatelé'
@@ -1093,9 +1093,6 @@
 
 - en: 'Update Editor:'   # gender-neutral, singular. Precedes list of one person who updates the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Update Edition'.
   fr: 'Rédaction des mises à jour:'
-
-- en: 'Contributors:'   # gender-neutral, plural. For listing people who helped with a resource. If gender-neutral not in your language, use appropriate alternative, such as plural or "Contribution".
-  fr: 'Contribution :'
 
 - en: 'Status:' # followed by the last updated date or
   fr: 'Statut :'
