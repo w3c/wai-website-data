@@ -1083,3 +1083,25 @@
   ar: ':يتوفر هذا الفيديو بمزيد من ميزات إمكانية الوصول'
   ru: 'Данное видео доступно с расширенным функционалом специальных возможностей'
   zh-hans: '该视频具有更多的无障碍特性：'
+
+# Added 2023-10-03
+
+# The next phrases are combined with page metadata to generate footer (in Tutorials section for example)
+
+- en: 'Editors:'   # gender-neutral, plural. Precedes list of more than one person who edited the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Edition'.
+  fr: 'Rédaction :'
+
+- en: 'Update Editor:'   # gender-neutral, singular. Precedes list of one person who updates the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Update Edition'.
+  fr: 'Rédaction des mises à jour:'
+
+- en: 'Contributors:'   # gender-neutral, plural. For listing people who helped with a resource. If gender-neutral not in your language, use appropriate alternative, such as plural or "Contribution".
+  fr: 'Contribution :'
+
+- en: 'Status:' # followed by the last updated date or
+  fr: 'Statut :'
+
+- en: 'Updated' #  precedes a date
+  fr: 'Mise à jour le'
+
+- en: 'first published' #  precedes a date
+  fr: 'première publication'
