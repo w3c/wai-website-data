@@ -689,6 +689,19 @@
     pages:
       - name: Getting Started
         url: "/about/translating/getting-started/"
+      - name: Translations sitemaps
+        url: "/about/translating/sitemaps/"
+        pages:
+          - name: "Arabic"
+            url: "/about/translating/sitemaps/sitemap-ar/"
+          - name: "French"
+            url: "/about/translating/sitemaps/sitemap-fr/"
+          - name: "Spanish"
+            url: "/about/translating/sitemaps/sitemap-es/"
+          - name: "Russian"
+            url: "/about/translating/sitemaps/sitemap-ru/"
+          - name: "Simplified Chinese"
+            url: "/about/translating/sitemaps/sitemap-zh-hans/"
       - name: Guides
         url: "/about/translating/guides/"
         pages:
