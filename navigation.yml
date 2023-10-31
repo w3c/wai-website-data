@@ -700,6 +700,8 @@
         url: "/about/projects/wai-coop/symposium1/"
       - name: Research Symposium AI
         url: "/about/projects/wai-coop/symposium2/"
+      - name: Research Symposium Evaluating Accessibility
+        url: "/about/projects/wai-coop/symposium3/"
     - name: WAI-Guide
       url: "/about/projects/wai-guide/"
     - name: WAI-Tools
