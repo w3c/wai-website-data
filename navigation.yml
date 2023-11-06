@@ -715,19 +715,6 @@
             url: "/about/translating/guides/translation-guidance/"
           - name: Using GitHub
             url: "/about/translating/guides/using-github/"
-      - name: Glossaries
-        url: "/about/translating/glossaries/"
-        pages:
-          - name: General
-            url: "/about/translating/glossaries/general/"
-          - name: Bahasa Indonesia Glossary
-            url: "/about/translating/glossaries/bahasa-indonesia/"
-          - name: French Glossary
-            url: "/about/translating/glossaries/french/"
-          - name: German Glossary
-            url: "/about/translating/glossaries/german/"
-          - name: Spanish Glossary
-            url: "/about/translating/glossaries/spanish/"
   - name: Sponsoring
     url: "/about/sponsoring/"
   - name: Contacting
