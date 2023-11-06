@@ -1102,3 +1102,8 @@
 
 - en: 'first published' #  precedes a date
   fr: 'première publication'
+
+# Added 2023-10-18
+
+- en: 'Acknowledgements'
+  fr: 'Remerciements'
