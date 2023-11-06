@@ -212,14 +212,22 @@
   - name: Changelog
     url: "/design-develop/changelog/"
     hide: true
-  - name: Tips for Getting Started
+  - name:
+      en: "Tips for Getting Started"
+      fr: "Conseils pour démarrer"
     url: "/tips/"
     hide: true
-  - name: Tips for Writing
+  - name:
+      en: "Tips for Writing"
+      fr: "Conseils pour l'écriture"
     url: "/tips/writing/"
-  - name: Tips for Designing
+  - name:
+      en: "Tips for Designing"
+      fr: "Conseils pour le design"
     url: "/tips/designing/"
-  - name: Tips for Developing
+  - name:
+      en: "Tips for Developing"
+      fr: "Conseils pour le développement"
     url: "/tips/developing/"
   - name: Audio & Video Media
     url: "/media/av/"
