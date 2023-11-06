@@ -686,6 +686,48 @@
       url: "/about/groups/taskforces/"
   - name: Translating
     url: "/about/translating/"
+    pages:
+      - name: Getting Started
+        url: "/about/translating/getting-started/"
+      - name: Translations sitemaps
+        url: "/about/translating/sitemaps/"
+        pages:
+          - name: "Arabic"
+            url: "/about/translating/sitemaps/sitemap-ar/"
+          - name: "French"
+            url: "/about/translating/sitemaps/sitemap-fr/"
+          - name: "Spanish"
+            url: "/about/translating/sitemaps/sitemap-es/"
+          - name: "Russian"
+            url: "/about/translating/sitemaps/sitemap-ru/"
+          - name: "Simplified Chinese"
+            url: "/about/translating/sitemaps/sitemap-zh-hans/"
+      - name: Guides
+        url: "/about/translating/guides/"
+        pages:
+          - name: Creating a Translation
+            url: "/about/translating/guides/new-translation/"
+          - name: Subtitles/Descriptions
+            url: "/about/translating/guides/video-subtitles/"
+          - name: Reviewing a Translation
+            url: "/about/translating/guides/review-translation/"
+          - name: Translation Guidance
+            url: "/about/translating/guides/translation-guidance/"
+          - name: Using GitHub
+            url: "/about/translating/guides/using-github/"
+      - name: Glossaries
+        url: "/about/translating/glossaries/"
+        pages:
+          - name: General
+            url: "/about/translating/glossaries/general/"
+          - name: Bahasa Indonesia Glossary
+            url: "/about/translating/glossaries/bahasa-indonesia/"
+          - name: French Glossary
+            url: "/about/translating/glossaries/french/"
+          - name: German Glossary
+            url: "/about/translating/glossaries/german/"
+          - name: Spanish Glossary
+            url: "/about/translating/glossaries/spanish/"
   - name: Sponsoring
     url: "/about/sponsoring/"
   - name: Contacting
