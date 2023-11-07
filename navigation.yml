@@ -634,7 +634,9 @@
   - name: Authoring Tools – ATAG
     url: "/standards-guidelines/atag/"
     pages:
-    - name: "At a Glance"
+    - name:
+        en: "At a Glance"
+        fr: "En bref"
       url: "/standards-guidelines/atag/glance/"
     - name: "For LMS"
       url: "/standards-guidelines/atag/education/"
