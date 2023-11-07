@@ -186,7 +186,9 @@
   - name: Changelog
     url: "/planning/changelog/"
     hide: true
-  - name: Approaches for Interim Repairs
+  - name:
+      en: 'Approaches for Interim Repairs'
+      fr: 'Stratégies de réparations provisoires'
     url: "/planning/interim-repairs/"
   - name: Planning and Managing Accessibility
     url: "/planning-and-managing/"
