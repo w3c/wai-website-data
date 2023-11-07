@@ -49,30 +49,53 @@
   - name: "Accessibility is About People"
     url: "/people/"
     pages:
-    - name: Perspectives Videos
+    - name:
+        en: "Perspectives Videos"
+        fr: "Vidéos d'illustration"
       url: "/perspective-videos/"
       pages:
-      - name: Keyboard Compatibility
+      - name:
+          en: "Keyboard Compatibility"
+          fr: "Compatibilité avec le clavier"
         url: "/perspective-videos/keyboard/"
-      - name: Colors with Good Contrast
+      - name:
+          en: "Colors with Good Contrast"
+          fr: "Couleurs bien constratées"
         url: "/perspective-videos/contrast/"
-      - name: Clear Layout and Design
+      - name:
+          en: "Clear Layout and Design"
+          fr: "Mise en page et design clairs"
         url: "/perspective-videos/layout/"
-      - name: Text to Speech
+      - name:
+          en: "Text to Speech"
+          fr: "Synthèse vocale"
         url: "/perspective-videos/speech/"
-      - name: Large Links, Buttons, and Controls
+      - name:
+          en: "Large Links, Buttons, and Controls"
+          fr: "Liens, boutons et composants assez grands"
         url: "/perspective-videos/controls/"
-      - name: Video Captions
+      - name:
+          en: "Video Captions"
+          fr: "Sous-titres de vidéo"
         url: "/perspective-videos/captions/"
-      - name: Customizable Text
+      - name:
+          en: "Customizable Text"
+          fr: "Texte personnalisable"
         url: "/perspective-videos/customizable/"
-      - name: Speech Recognition
+      - name:
+          en: "Speech Recognition"
+          fr: "Reconnaissance vocale"
         url: "/perspective-videos/voice/"
-      - name: Understandable Content
+      - name:
+          en: "Understandable Content"
+          fr: "Contenu compréhensible"
         url: "/perspective-videos/understandable/"
-      - name: Notifications and Feedback
+      - name:
+          en: "Notifications and Feedback"
+          fr: "Notifications et retours"
         url: "/perspective-videos/notifications/"
-      - name: Acknowledgements
+      - name:
+          en: "Acknowledgements"
         url: "/perspective-videos/acknowledgements/"
         hide: true
     - name:
