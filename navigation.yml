@@ -742,8 +742,8 @@
   - name: Translating
     url: "/about/translating/"
     pages:
-      - name: Getting Started
-        url: "/about/translating/getting-started/"
+      - name: Step-by-Step
+        url: "/about/translating/step-by-step/"
       - name: Translations sitemaps
         url: "/about/translating/sitemaps/"
         pages:
