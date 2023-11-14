@@ -1,0 +1,219 @@
+- name: conformance-evaluation
+  path: conformance-evaluation
+  captions:
+    - en
+  subtitles:
+    - fr
+- name: evaluating-resources-overview
+  path: evaluating
+  captions:
+    - en
+  subtitles:
+    - fr
+- name: tools-for-evaluating
+  path: evaluating
+  captions:
+    - en
+  subtitles:
+    - fr
+- name: foundations-course-teaser
+  path: foundations-course
+  captions:
+    - en
+- name: captions
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- name: contrast
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- name: controls
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- name: customizable
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- name: keyboard
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- name: layout
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- name: notifications
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- name: speech
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- name: understandable
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- name: voice
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- name: video-introduction
+  path: video-introduction
+  captions:
+    - en
+  subtitles:
+    - ar
+    - cs
+    - de
+    - el
+    - es
+    - fa
+    - fr
+    - gu
+    - hi
+    - hu
+    - id
+    - it
+    - ja
+    - ko
+    - kok
+    - ml
+    - mr
+    - nl
+    - pt-BR
+    - ru
+    - te
+    - zh-hans
