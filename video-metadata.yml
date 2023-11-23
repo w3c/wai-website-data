@@ -3,7 +3,7 @@
     en: "Conformance Evaluation Overview"
     fr: "Vue d’ensemble de l’évaluation de la conformité"
   main-page: /test-evaluate/conformance/
-  path: conformance-evaluation
+  path: evaluating
   captions:
     - en
   subtitles:
@@ -13,6 +13,16 @@
     en: "Evaluating Web Accessibility - Resources Overview"
     fr: "Évaluer l’accessibilité Web – Vue d’ensemble des ressources"
   main-page: /test-evaluate/
+  path: evaluating
+  captions:
+    - en
+  subtitles:
+    - fr
+- id: involving-users
+  name:
+    en: "Involving Users in Web Accessibility Overview"
+    fr: "Impliquer les utilisateurs dans l’accessibilité Web – Vue d’ensemble"
+  main-page: /planning/involving-users/
   path: evaluating
   captions:
     - en
