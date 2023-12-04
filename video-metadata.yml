@@ -58,14 +58,18 @@
     - en
   subtitles:
     - fr
+    - id
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - id: contrast
   name:
     en: "Web Accessibility Perspectives: Colors with Good Contrast"
@@ -81,12 +85,15 @@
     - fr
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - id: controls
   name:
     en: "Web Accessibility Perspectives: Large Links, Buttons, and Controls"
@@ -100,14 +107,18 @@
     - en
   subtitles:
     - fr
+    - id
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - id: customizable
   name:
     en: "Web Accessibility Perspectives: Customizable Text"
@@ -121,14 +132,18 @@
     - en
   subtitles:
     - fr
+    - id
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - id: keyboard
   name:
     en: "Web Accessibility Perspectives: Keyboard Compatibility"
@@ -142,14 +157,18 @@
     - en
   subtitles:
     - fr
+    - id
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - id: layout
   name:
     en: "Web Accessibility Perspectives: Clear Layout and Design"
@@ -163,14 +182,18 @@
     - en
   subtitles:
     - fr
+    - id
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - id: notifications
   name:
     en: "Web Accessibility Perspectives: Notifications and Feedback"
@@ -184,14 +207,18 @@
     - en
   subtitles:
     - fr
+    - id
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - id: speech
   name:
     en: "Web Accessibility Perspectives: Text to Speech"
@@ -205,14 +232,18 @@
     - en
   subtitles:
     - fr
+    - id
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - id: understandable
   name:
     en: "Web Accessibility Perspectives: Understandable Content"
@@ -226,14 +257,18 @@
     - en
   subtitles:
     - fr
+    - id
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - id: voice
   name:
     en: "Web Accessibility Perspectives: Speech Recognition"
@@ -247,14 +282,18 @@
     - en
   subtitles:
     - fr
+    - id
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - id: video-introduction
   name:
     en: "Introduction to Web Accessibility and W3C Standards"
