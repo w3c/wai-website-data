@@ -1,0 +1,288 @@
+- id: conformance-evaluation
+  name:
+    en: "Conformance Evaluation Overview"
+    fr: "Vue d’ensemble de l’évaluation de la conformité"
+  main-page: /test-evaluate/conformance/
+  path: evaluating
+  captions:
+    - en
+  subtitles:
+    - fr
+- id: evaluating-resources-overview
+  name:
+    en: "Evaluating Web Accessibility - Resources Overview"
+    fr: "Évaluer l’accessibilité Web – Vue d’ensemble des ressources"
+  main-page: /test-evaluate/
+  path: evaluating
+  captions:
+    - en
+  subtitles:
+    - fr
+- id: involving-users
+  name:
+    en: "Involving Users in Web Accessibility Overview"
+    fr: "Impliquer les utilisateurs dans l’accessibilité Web – Vue d’ensemble"
+  main-page: /planning/involving-users/
+  path: evaluating
+  captions:
+    - en
+  subtitles:
+    - fr
+- id: tools-for-evaluating
+  name:
+    en: "Evaluation Tools Overview"
+    fr: "Vue d’ensemble des outils d’évaluation"
+  main-page: /test-evaluate/tools/
+  path: evaluating
+  captions:
+    - en
+  subtitles:
+    - fr
+- id: foundations-course-teaser
+  name:
+    en: "Introduction to Web Accessibility (W3C WAI Digital Accessibility Foundations - Free Online Course)"
+  main-page: /courses/foundations-course/
+  path: foundations-course
+  captions:
+    - en
+- id: captions
+  name:
+    en: "Web Accessibility Perspectives: Video Captions"
+    fr: "L'accessibilité Web illustrée : Les sous-titres de vidéo"
+  main-page: /perspective-videos/captions/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- id: contrast
+  name:
+    en: "Web Accessibility Perspectives: Colors with Good Contrast"
+    fr: "L'accessibilité Web illustrée : des couleurs bien contrastées"
+  main-page: /perspective-videos/contrast/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- id: controls
+  name:
+    en: "Web Accessibility Perspectives: Large Links, Buttons, and Controls"
+    fr: "L'accessibilité Web illustrée : des liens, boutons, et composants d'interface assez grands"
+  main-page: /perspective-videos/controls/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- id: customizable
+  name:
+    en: "Web Accessibility Perspectives: Customizable Text"
+    fr: "L'accessibilité Web illustrée : un texte personnalisable"
+  main-page: /perspective-videos/customizable/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- id: keyboard
+  name:
+    en: "Web Accessibility Perspectives: Keyboard Compatibility"
+    fr: "L'accessibilité Web illustrée : compatibilité avec le clavier"
+  main-page: /perspective-videos/keyboard/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- id: layout
+  name:
+    en: "Web Accessibility Perspectives: Clear Layout and Design"
+    fr: "L'accessibilité Web illustrée : une mise en page et une conception claires"
+  main-page: /perspective-videos/layout/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- id: notifications
+  name:
+    en: "Web Accessibility Perspectives: Notifications and Feedback"
+    fr: "L'accessibilité Web illustrée : notifications et retours d'information"
+  main-page: /perspective-videos/notifications/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- id: speech
+  name:
+    en: "Web Accessibility Perspectives: Text to Speech"
+    fr: "L'accessibilité Web illustrée : la synthèse vocale"
+  main-page: /perspective-videos/speech/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- id: understandable
+  name:
+    en: "Web Accessibility Perspectives: Understandable Content"
+    fr: "L'accessibilité Web illustrée : un contenu compréhensible"
+  main-page: /perspective-videos/understandable/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- id: voice
+  name:
+    en: "Web Accessibility Perspectives: Speech Recognition"
+    fr: "L'accessibilité Web illustrée : la reconnaissance vocale"
+  main-page: /perspective-videos/voice/
+  path: perspective-videos
+  lang-folder: true
+  captions:
+    - en
+  captions-ad:
+    - en
+  subtitles:
+    - fr
+  subtitles-ad:
+    - fr
+  descriptions:
+    - en
+    - fr
+  descriptions-ad:
+    - en
+    - fr
+- id: video-introduction
+  name:
+    en: "Introduction to Web Accessibility and W3C Standards"
+    fr: "Introduction à l’accessibilité Web et aux standards du W3C"
+  main-page: /videos/standards-and-benefits/
+  path: video-introduction
+  captions:
+    - en
+  subtitles:
+    - ar
+    - cs
+    - de
+    - el
+    - es
+    - fa
+    - fr
+    - gu
+    - hi
+    - hu
+    - id
+    - it
+    - ja
+    - ko
+    - kok
+    - ml
+    - mr
+    - nl
+    - pt-BR
+    - ru
+    - te
+    - zh-hans
