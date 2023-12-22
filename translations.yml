@@ -1090,18 +1090,23 @@
 
 - en: 'Editors:'   # gender-neutral, plural. Precedes list of more than one person who edited the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Edition'.
   fr: 'Rédaction :'
+  de: 'Redaktion:'
 
 - en: 'Update Editor:'   # gender-neutral, singular. Precedes list of one person who updates the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Update Edition'.
   fr: 'Rédaction des mises à jour:'
+  de: 'Redaktion für Aktualisierungen'
 
 - en: 'Status:' # followed by the last updated date or
   fr: 'Statut :'
+  de: 'Status'
 
 - en: 'Updated' #  precedes a date
   fr: 'Mise à jour le'
+  de: 'Aktualisiert'
 
 - en: 'first published' #  precedes a date
   fr: 'première publication'
+  de: 'erstmals veröffentlicht'
 
 # Added 2023-10-18
 
