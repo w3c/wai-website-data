@@ -1112,3 +1112,11 @@
 
 - en: 'Video Subtitles' # Precedes list of videos that include subtitles in this language: https://www.w3.org/WAI/translations/
   fr: 'Vidéos sous-titrées'
+
+- en: 'Standards/Guidelines' # Precedes list of translations of standards and guidelines in this language, in https://www.w3.org/WAI/translations/
+  fr: 'Standards/Règles'
+  cs: 'Standardy/Pokyny'
+  es: 'Estándares/Pautas'
+  ko: "표준/지침"
+  ru: "Стандарты/Рекомендации"
+  zh-hans: "标准/指南"
