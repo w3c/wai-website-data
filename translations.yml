@@ -1107,3 +1107,8 @@
 
 - en: 'Acknowledgements'
   fr: 'Remerciements'
+
+# Added 2024-01-02
+
+- en: 'Video Subtitles' # Precedes list of videos that include subtitles in this language: https://www.w3.org/WAI/translations/
+  fr: 'Vidéos sous-titrées'
