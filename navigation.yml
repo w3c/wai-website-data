@@ -778,6 +778,8 @@
             url: "/about/translating/guides/translation-guidance/"
           - name: Using GitHub
             url: "/about/translating/guides/using-github/"
+          - name: Translating WCAG
+            url: "/about/translating/guides/wcag/"
   - name: Sponsoring
     url: "/about/sponsoring/"
   - name: Contacting
