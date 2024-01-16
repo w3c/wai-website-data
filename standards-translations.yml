@@ -62,7 +62,7 @@
       url: https://waic.jp/docs/WCAG20/Overview.html
       type: external
       translator: "WAIC (Web Accessibility Infrastructure Committee)"
-    - lang: no
+    - lang: "no"
       title: "Retningslinjer for tilgjengelig webinnhold (WCAG) 2.0"
       url: https://www.w3.org/Translations/WCAG20-no/
       type: authorized
@@ -135,7 +135,7 @@
       url: http://www.kwacc.or.kr/WAI/wcag21/
       type: external
       translator: "한국웹접근성평가센터 , 성신여자대학교"
-    - lang: no
+    - lang: "no"
       title: "Retningslinjer for tilgjengelig webinnhold (WCAG) 2.1"
       url: https://www.w3.org/Translations/WCAG21-no/
       type: authorized
