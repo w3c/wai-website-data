@@ -437,7 +437,36 @@
     url: "/test-evaluate/changelog/"
     hide: true
   - name: Easy Checks – A First Review
-    url: "/test-evaluate/preliminary/"
+    url: "/test-evaluate/easy-checks/"
+    pages:
+      - name: Image Alternative Text
+        url: "/test-evaluate/easy-checks/image-alt/"
+      - name: Page Title
+        url: "/test-evaluate/easy-checks/title/"
+      - name: Heading Structure
+        url: "/test-evaluate/easy-checks/headings/"
+      - name: Color Contrast
+        url: "/test-evaluate/easy-checks/color-contrast/"
+      - name: Skip Link
+        url: "/test-evaluate/easy-checks/skip-link/"
+      - name: Keyboard Focus
+        url: "/test-evaluate/easy-checks/keyboard-focus/"
+      - name: Langage of Page
+        url: "/test-evaluate/easy-checks/language/"
+      - name: Zoom
+        url: "/test-evaluate/easy-checks/zoom-levels/"
+      - name: Captions
+        url: "/test-evaluate/easy-checks/captions/"
+      - name: Transcripts
+        url: "/test-evaluate/easy-checks/transcripts/"
+      - name: Audio Description
+        url: "/test-evaluate/easy-checks/description/"
+      - name: Form Field Labels
+        url: "/test-evaluate/easy-checks/form-field-labels/"
+      - name: Required Fields
+        url: "/test-evaluate/easy-checks/required-fields/"
+      - name: Archive version
+        url: "/test-evaluate/easy-checks/archive/"
   - name:
       en: 'Evaluation Tools'
       fr: "Outils d'évaluation"
