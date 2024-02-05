@@ -23,17 +23,17 @@
           translator: "Facultat de Biblioteconomia i Documentació   Universitat de Barcelona"
         - lang: zh-hans
           title: "Web内容无障碍指南 (WCAG) 2.0"
-          url: http://www.w3.org/translations/wcag20-zh/
+          url: https://www.w3.org/translations/wcag20-zh/
           date: 2014-10-09
           type: authorized
           translator: "W3C China Host, Beihang"
         - lang: hr
           type: intent-unofficial
-          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2009OctDec/0188.html
+          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2009OctDec/0188.html
           intent_date: 2009-11-20
         - lang: cs
           type: intent-authorized
-          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2010OctDec/0022.html
+          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2010OctDec/0022.html
           intent_date: 2010-10-15
         - lang: da
           title: "Retningslinjer for tilgængeligt webindhold (WCAG) 2.0"
@@ -78,7 +78,7 @@
           translator: "Eyal Sela"
         - lang: hi
           type: intent-authorized
-          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2009AprJun/0147.html
+          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2009AprJun/0147.html
           intent_date: 2009-05-21
         - lang: hu
           title: "Web Akadálymentesítési Útmutató 2.0"
@@ -92,12 +92,12 @@
           type: authorized
           translator: "International Webmasters Association / HTML Writers Guild"
         - lang: ja
-          url: https://waic.jp/docs/WCAG20/Overview.html
+          url: https://waic.jp/translations/WCAG20/Overview.html
           type: external
           translator: "WAIC (Web Accessibility Infrastructure Committee)"
         - lang: ja
           type: intent-authorized
-          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/0198.html
+          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/0198.html
           intent_date: 2009-03-22
         - lang: ko
           title: "웹 콘텐츠 접근성 지침 2.0"
@@ -106,11 +106,11 @@
           translator: "Youngsik Park"
         - lang: ko
           type: intent-authorized
-          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/0077.html
+          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/0077.html
           intent_date: 2009-01-30
         - lang: lt
           type: intent-unofficial
-          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2011JulSep/0063.html
+          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2011JulSep/0063.html
           intent_date: 2011-09-06
         - lang: mk
           type: intent-authorized
@@ -140,7 +140,7 @@
           translator: "DSI/Unidade ACESSO da FCT, IP"
         - lang: ro
           type: intent-unofficial
-          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0031.html
+          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0031.html
           intent_date: 2010-01-20
         - lang: ru
           title: "Руководство по обеспечению доступности Web-контента (WCAG) 2.0"
