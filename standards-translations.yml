@@ -3,44 +3,72 @@
     - version: 2.0
       en_title: "Web Content Accessibility Guidelines (WCAG) 2.0"
       translations:
+        - lang: ar
+          title: "المبادئ التوجيهية للنفاذ إلى محتوى الويب WCAG2.0"
+          url: http://www.alecso.org/wcag2.0/
+          date: 2014-02-14
+          type: cat
+          translator: "Arab League Educational, Cultural and Scientific Organisation"
+        - lang: be
+          title: "Кіраўніцтва па забеспячэнні даступнасці Web-кантэнту (WCAG) 2.0"
+          type: external
+          url: https://web.archive.org/web/20180919212803/http://www.fatcow.com/resources/wai-be.html
+          date: 2010-11-09
+          translator: "FatCow Web Hosting team"
         - lang: ca
           title: "Directrius per a l'accessibilitat del contingut web (WCAG), versió 2.0"
           url: https://www.w3.org/Translations/WCAG20-ca/
+          date: 2011-03-23
           type: authorized
           translator: "Facultat de Biblioteconomia i Documentació   Universitat de Barcelona"
+        - lang: zh-hans
+          title: "Web内容无障碍指南 (WCAG) 2.0"
+          url: http://www.w3.org/translations/wcag20-zh/
+          date: 2014-10-09
+          type: authorized
+          translator: "W3C China Host, Beihang"
+        - lang: hr
+          type: intent-unofficial
+          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2009OctDec/0188.html
+          intent_date: 2009-11-20
+        - lang: cs
+          type: intent-authorized
+          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2010OctDec/0022.html
+          intent_date: 2010-10-15
         - lang: da
           title: "Retningslinjer for tilgængeligt webindhold (WCAG) 2.0"
           url: https://www.w3.org/Translations/WCAG20-da/
+          date: 2011-02-16
           type: authorized
           translator: "Danske Handicaporganisationer"
         - lang: nl
           title: "Richtlijnen voor de Toegankelijkheid van Webcontent (WCAG) 2.0"
           url: https://www.w3.org/Translations/WCAG20-nl/
+          date: 2010-12-03
           type: authorized
           translator: "Accessibility Foundation"
-        - lang: es
-          title: "Pautas de Accesibilidad para el Contenido Web (WCAG) 2.0"
-          url: http://www.sidar.org/traducciones/wcag20/es/
-          type: external
-          translator: "Fundación Sidar   Acceso Universal"
         - lang: et
           title: "Veebi sisu juurdepääsetavussuunised (WCAG 2.0)"
           url: https://www.w3.org/Translations/WCAG20-et/
+          date: 2013-12-10
           type: authorized
           translator: "Ministry of Economic Affairs and Communications"
         - lang: fi
           title: "Verkkosisällön saavutettavuusohjeet (WCAG) 2.0"
           url: https://www.w3.org/Translations/WCAG20-fi/
+          date: 2011-02-16
           type: authorized
           translator: "Tampere University of Technology, Hypermedia Laboratory, W3C Finnish Office"
         - lang: fr
           title: "Règles pour l'accessibilité des contenus Web (WCAG) 2.0"
           url: https://www.w3.org/Translations/WCAG20-fr/
+          date: 2009-06-25
           type: authorized
           translator: "Association BrailleNet"
         - lang: de
           title: "Richtlinien für barrierefreie Webinhalte (WCAG) 2.0"
           url: https://www.w3.org/Translations/WCAG20-de/
+          date: 2009-10-29
           type: authorized
           translator: "Deutsche Behindertenhilfe Aktion Mensch e.V."
         - lang: he
@@ -48,6 +76,10 @@
           url: https://www.isoc.org.il/files/w3c-wai/guidelines.html
           type: external
           translator: "Eyal Sela"
+        - lang: hi
+          type: intent-authorized
+          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2009AprJun/0147.html
+          intent_date: 2009-05-21
         - lang: hu
           title: "Web Akadálymentesítési Útmutató 2.0"
           url: http://www.w3c.hu/forditasok/WCAG20/
@@ -56,72 +88,17 @@
         - lang: it
           title: "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.0"
           url: https://www.w3.org/Translations/WCAG20-it/
+          date: 2009-12-21
           type: authorized
           translator: "International Webmasters Association / HTML Writers Guild"
         - lang: ja
           url: https://waic.jp/docs/WCAG20/Overview.html
           type: external
           translator: "WAIC (Web Accessibility Infrastructure Committee)"
-        - lang: "no"
-          title: "Retningslinjer for tilgjengelig webinnhold (WCAG) 2.0"
-          url: https://www.w3.org/Translations/WCAG20-no/
-          type: authorized
-          translator: "The Delta Centre   The National Centre for Accessibility and Participation for Persons with Disabilities in Norway"
-        - lang: pt
-          title: "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.0"
-          url: https://www.w3.org/Translations/WCAG20-pt-PT/
-          type: authorized
-          translator: "DSI/Unidade ACESSO da FCT, IP"
-        - lang: pt-BR
-          title: "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.0"
-          url: https://www.w3.org/Translations/WCAG20-pt-br/
-          type: authorized
-          translator: "W3C Brazil Office"
-        - lang: ru
-          title: "Руководство по обеспечению доступности Web-контента (WCAG) 2.0"
-          url: https://www.w3.org/Translations/WCAG20-ru/
-          type: authorized
-          translator: "UN Information Center"
-        - lang: sv
-          title: "Riktlinjer för tillgängligt webbinnehåll (WCAG) 2.0"
-          url: https://www.w3.org/Translations/WCAG20-sv/
-          type: authorized
-          translator: "Funka Nu AB"
-        - lang: zh-hans
-          title: "Web内容无障碍指南 (WCAG) 2.0"
-          url: http://www.w3.org/translations/wcag20-zh/
-          type: authorized
-          translator: "W3C China Host, Beihang"
-        - lang: ar
-          title: "المبادئ التوجيهية للنفاذ إلى محتوى الويب WCAG2.0"
-          url: http://www.alecso.org/wcag2.0/
-          type: cat
-          translator: "Arab League Educational, Cultural and Scientific Organisation"
-        - lang: be
-          type: intent-unofficial
-          intent_email: http://www.fatcow.com/resources/wai-be.html
-        - lang: cs
+        - lang: ja
           type: intent-authorized
-          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2010OctDec/0022.html
-          intent_date: 2010-10-15
-        - lang: es
-          title: "Pautas de Accesibilidad para el Contenido Web (WCAG) 2.0"
-          url: http://www.sidar.org/traducciones/wcag20/es/
-          type: cat
-          translator: "Fundación Sidar - Acceso Universal"
-        - lang: es
-          title: "Pautas de Accesibilidad de Contenido Web 2.0"
-          url: http://www.sidar.org/traducciones/wcag20/es/
-          type: external
-          translator: "Saúl González Fernández"
-        - lang: hi
-          type: intent-authorized
-          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2009AprJun/0147.html
-          intent_date: 2009-05-21
-        - lang: hr
-          type: intent-unofficial
-          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2009OctDec/0188.html
-          intent_date: 2009-11-20
+          intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/0198.html
+          intent_date: 2009-03-22
         - lang: ko
           title: "웹 콘텐츠 접근성 지침 2.0"
           url: https://web.archive.org/web/20121107021930/http://archi.ssu.ac.kr/WCAG20/
@@ -137,38 +114,138 @@
           intent_date: 2011-09-06
         - lang: mk
           type: intent-authorized
-          intent_email:
-          intent_date: 202
+        - lang: "no"
+          title: "Retningslinjer for tilgjengelig webinnhold (WCAG) 2.0"
+          url: https://www.w3.org/Translations/WCAG20-no/
+          date: 2011-09-26
+          type: authorized
+          translator: "The Delta Centre   The National Centre for Accessibility and Participation for Persons with Disabilities in Norway"
         - lang: pl
           title: "Wytyczne dla dostępności treści internetowych 2.0 (WCAG 2.0)"
           url: https://web.archive.org/web/20190323003504/http://fdc.org.pl/wcag2/
+          date: 2013-07-09
           type: cat
           translator: "Fundacja Instytut Rozwoju Regionalnego"
+        - lang: pt-BR
+          title: "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.0"
+          url: https://www.w3.org/Translations/WCAG20-pt-br/
+          date: 2014-10-24
+          type: authorized
+          translator: "W3C Brazil Office"
+        - lang: pt
+          title: "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.0"
+          url: https://www.w3.org/Translations/WCAG20-pt-PT/
+          date: 2014-10-24
+          type: authorized
+          translator: "DSI/Unidade ACESSO da FCT, IP"
         - lang: ro
           type: intent-unofficial
           intent_email: http://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0031.html
           intent_date: 2010-01-20
-
+        - lang: ru
+          title: "Руководство по обеспечению доступности Web-контента (WCAG) 2.0"
+          url: https://www.w3.org/Translations/WCAG20-ru/
+          date: 2013-02-28
+          type: authorized
+          translator: "UN Information Center"
+        - lang: es
+          title: "Pautas de Accesibilidad para el Contenido Web (WCAG) 2.0"
+          url: http://www.sidar.org/traducciones/wcag20/es/
+          date: 2009-12-15
+          type: cat
+          translator: "Fundación Sidar - Acceso Universal"
+        - lang: es
+          title: "Pautas de Accesibilidad de Contenido Web 2.0"
+          url: http://www.codexexempla.org/traducciones/pautas-accesibilidad-contenido-web-2.0.htm
+          type: external
+          translator: "Saúl González Fernández"
+        - lang: sv
+          title: "Riktlinjer för tillgängligt webbinnehåll (WCAG) 2.0"
+          url: https://www.w3.org/Translations/WCAG20-sv/
+          date: 2012-10-23
+          type: authorized
+          translator: "Funka Nu AB"
     - version: 2.1
       en_title: "Web Content Accessibility Guidelines (WCAG) 2.1"
       translations:
         - lang: ar
           title: "مبادئ النفاذ إلى محتوى الويب (WCAG2.1)"
           url: https://www.w3.org/Translations/WCAG21-ar/
+          date: 2021-11-11
           type: authorized
           translator: "Mada Center, Qatar"
         - lang: bg
           type: intent-unofficial
           intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2021OctDec/0000.html
           intent_date: 2021-10-01
-        - lang: es
-          type: intent-unofficial
-          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html
-          intent_date: 2019-04-12
+        - lang: ca
+          title: "Directrius per a l'accessibilitat del contingut web (WCAG) 2.1"
+          url: https://www.w3.org/Translations/WCAG21-ca/
+          type: authorized
+          date: 2023-02-13
+          translator: "Facultat de Matemàtiques i Informàtica   Universitat de Barcelona"
+        - lang: zh-hans
+          title: "Web内容无障碍指南 (WCAG) 2.1"
+          url: https://www.w3.org/Translations/WCAG21-zh/
+          date: 2019-03-11
+          type: authorized
+          translator: "Zhejiang University"
+        - lang: zh-hant
+          type: intent-authorized
+          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0010.html
+          intent_date: 2023-09-05
+        - lang: da
+          title: "Retningslinjer for Tilgængeligt Webindhold (WCAG) 2.1"
+          url: https://www.w3.org/Translations/WCAG21-da/
+          date: 2019-12-11
+          type: authorized
+          translator: "Digitaliseringsstyrelsen"
+        - lang: nl
+          title: "Richtlijnen voor de Toegankelijkheid van Webcontent (WCAG) 2.1"
+          url: https://www.w3.org/Translations/WCAG21-nl/
+          date: 2020-05-26
+          type: authorized
+          translator: "Accessibility Foundation"
+        - lang: fi
+          title: "Verkkosisällön saavutettavuusohjeet (WCAG) 2.1"
+          url: https://www.w3.org/Translations/WCAG21-fi/
+          date: 2019-11-22
+          type: authorized
+          translator: "Kehitysvammaliitto ry"
+        - lang: fr
+          title: "Règles pour l'accessibilité des contenus Web (WCAG) 2.1"
+          url: https://www.w3.org/Translations/WCAG21-fr/
+          date: 2022-07-11
+          type: authorized
+          translator: "Access42"
         - lang: he
           type: intent-unofficial
           intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2020JanMar/0025.html
           intent_date: 2020-03-21
+        - lang: it
+          title: "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1"
+          url: https://www.w3.org/Translations/WCAG21-it/
+          date: 2018-09-13
+          type: authorized
+          translator: "International Web Association"
+        - lang: ko
+          title: "웹 콘텐츠 접근성 지침 (WCAG) 2.1"
+          url: http://www.kwacc.or.kr/WAI/wcag21/
+          date: 2020-05-02
+          type: external
+          translator: "한국웹접근성평가센터 , 성신여자대학교"
+        - lang: "no"
+          title: "Retningslinjer for tilgjengelig webinnhold (WCAG) 2.1"
+          url: https://www.w3.org/Translations/WCAG21-no/
+          date: 2021-06-18
+          type: authorized
+          translator: "Digitaliseringsdirektoratet (Norwegian Digitalisation Agency)"
+        - lang: pl
+          title: "Wytyczne dla dostępności treści internetowych (WCAG) 2.1"
+          url: https://www.w3.org/Translations/WCAG21-pl/
+          date: 2021-04-13
+          type: authorized
+          translator: "Fundacja Instytut Rozwoju Regionalnego"
         - lang: pt-BR
           type: intent-authorized
           intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html
@@ -177,70 +254,22 @@
           type: intent-authorized
           intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2018OctDec/0023.html
           intent_date: 2018-11-92
-        - lang: zh-hant
-          type: intent-authorized
-          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0010.html
-          intent_date: 2023-09-05
-        - lang: ca
-          title: "Directrius per a l'accessibilitat del contingut web (WCAG) 2.1"
-          url: https://www.w3.org/Translations/WCAG21-ca/
-          type: authorized
-          translator: "Facultat de Matemàtiques i Informàtica   Universitat de Barcelona"
-        - lang: da
-          title: "Retningslinjer for Tilgængeligt Webindhold (WCAG) 2.1"
-          url: https://www.w3.org/Translations/WCAG21-da/
-          type: authorized
-          translator: "Digitaliseringsstyrelsen"
-        - lang: nl
-          title: "Richtlijnen voor de Toegankelijkheid van Webcontent (WCAG) 2.1"
-          url: https://www.w3.org/Translations/WCAG21-nl/
-          type: authorized
-          translator: "Accessibility Foundation"
-        - lang: fi
-          title: "Verkkosisällön saavutettavuusohjeet (WCAG) 2.1"
-          url: https://www.w3.org/Translations/WCAG21-fi/
-          type: authorized
-          translator: "Kehitysvammaliitto ry"
-        - lang: fr
-          title: "Règles pour l'accessibilité des contenus Web (WCAG) 2.1"
-          url: https://www.w3.org/Translations/WCAG21-fr/
-          type: authorized
-          translator: "Access42"
-        - lang: it
-          title: "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1"
-          url: https://www.w3.org/Translations/WCAG21-it/
-          type: authorized
-          translator: "International Web Association"
-        - lang: ko
-          title: "웹 콘텐츠 접근성 지침 (WCAG) 2.1"
-          url: http://www.kwacc.or.kr/WAI/wcag21/
-          type: external
-          translator: "한국웹접근성평가센터 , 성신여자대학교"
-        - lang: "no"
-          title: "Retningslinjer for tilgjengelig webinnhold (WCAG) 2.1"
-          url: https://www.w3.org/Translations/WCAG21-no/
-          type: authorized
-          translator: "Digitaliseringsdirektoratet (Norwegian Digitalisation Agency)"
-        - lang: pl
-          title: "Wytyczne dla dostępności treści internetowych (WCAG) 2.1"
-          url: https://www.w3.org/Translations/WCAG21-pl/
-          type: authorized
-          translator: "Fundacja Instytut Rozwoju Regionalnego"
-        - lang: uk
-          title: "Настанови з доступності вебвмісту (WCAG) 2.1"
-          url: https://www.w3.org/Translations/WCAG21-ua/
-          type: authorized
-          translator: "United Nations Development Program (UNDP) in Ukraine"
         - lang: sk
           title: "Pravidlá pre prístupnosť webového obsahu (WCAG) 2.1"
           url: https://s3.eu-central-1.amazonaws.com/w3c-wcag-2.1-sk/index.html
+          date: 2021-04-09
           type: cat
           translator: "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky (MIRRI)"
-        - lang: zh-hans
-          title: "Web内容无障碍指南 (WCAG) 2.1"
-          url: https://www.w3.org/Translations/WCAG21-zh/
+        - lang: es
+          type: intent-unofficial
+          intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html
+          intent_date: 2019-04-12
+        - lang: uk
+          title: "Настанови з доступності вебвмісту (WCAG) 2.1"
+          url: https://www.w3.org/Translations/WCAG21-ua/
+          date: 2023-02-20
           type: authorized
-          translator: "Zhejiang University"
+          translator: "United Nations Development Program (UNDP) in Ukraine"
     - version: 2.2
       en_title: "Web Content Accessibility Guidelines (WCAG) 2.2"
       translations:
@@ -267,6 +296,7 @@
         - lang: it
           title: "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2"
           url: https://www.w3.org/Translations/WCAG22-it/
+          date: 2023-12-05
           type: authorized
           translator: "International Web Association"
         - lang: pt
