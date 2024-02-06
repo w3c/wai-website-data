@@ -112,8 +112,6 @@
           type: intent-unofficial
           intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2011JulSep/0063.html
           intent_date: 2011-09-06
-        - lang: mk
-          type: intent-authorized
         - lang: "no"
           title: "Retningslinjer for tilgjengelig webinnhold (WCAG) 2.0"
           url: https://www.w3.org/Translations/WCAG20-no/
