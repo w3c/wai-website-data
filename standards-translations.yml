@@ -251,7 +251,7 @@
         - lang: pt
           type: intent-authorized
           intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2018OctDec/0023.html
-          intent_date: 2018-11-92
+          intent_date: 2018-11-02
         - lang: sk
           title: "Pravidlá pre prístupnosť webového obsahu (WCAG) 2.1"
           url: https://s3.eu-central-1.amazonaws.com/w3c-wcag-2.1-sk/index.html
