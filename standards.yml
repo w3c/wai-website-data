@@ -1,3 +1,11 @@
+#
+# - standard: <standard_shortname>
+#  standard_version: <standard_version> (if outdated, append with year)
+#  title: <standard_title_in_english>
+#  status: outdated (optional: add this line for outdated versions only)
+#  url: <standard_url>
+#  date: <date_of_this_version>
+#
 - standard: wcag
   standard_version: 2.0
   title: "Web Content Accessibility Guidelines (WCAG) 2.0"
