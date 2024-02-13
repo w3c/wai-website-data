@@ -380,7 +380,10 @@
 - lang: ca
   standard: wcag
   standard_version: "2.2"
-  type: intent-authorized
+  title: "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2"
+  url: https://www.ub.edu/adaptabit/wcag22/
+  date: 2024-01-30
+  type: cat
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0026.html
   intent_date: 2023-11-17
 - lang: zh-hans
