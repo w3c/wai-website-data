@@ -1094,11 +1094,11 @@
 
 - en: 'Update Editor:'   # gender-neutral, singular. Precedes list of one person who updates the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Update Edition'.
   fr: 'Rédaction des mises à jour:'
-  de: 'Redaktion für Aktualisierungen'
+  de: 'Aktualisierungen:'
 
 - en: 'Status:' # followed by the last updated date or
   fr: 'Statut :'
-  de: 'Status'
+  de: 'Status:'
 
 - en: 'Updated' #  precedes a date
   fr: 'Mise à jour le'
