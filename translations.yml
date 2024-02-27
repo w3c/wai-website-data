@@ -736,7 +736,7 @@
   uk: 'Ця&nbsp;сторінка&nbsp;такою&nbsp;мовою:'
   ar: 'هذه&nbsp;الصفحة&nbsp;بـ:'
   cs: 'Tato&nbsp;stránka&nbsp;v:'
-  ja: '本ページは日本語表記です'
+  ja: '翻訳：'
   ru: 'Эта&nbsp;страница&nbsp;на:'
   de: 'Diese&nbsp;Seite&nbsp;auf:'
   nl: 'Deze&nbsp;pagina&nbsp;in:'
@@ -753,7 +753,7 @@
   uk: 'Це волонтерський переклад може бути неточним та відрізнятись від <a href="$1">оригіналу англійською</a>'
   ar: 'قد لا تعكس هذه الترجمة التطوعية بدقة قصد <a href="$1">الإنجليزية الأصلية</a>.'
   cs: 'Tento dobrovolnický překlad nemusí přesně vystihovat záměry <a href="$1">anglického originálu</a>.'
-  ja: 'ボランタリーの本翻訳は、英語原文 <a href="$1">を正確に反映していない場合があります</a>'
+  ja: 'ボランティアによる本翻訳は<a href="$1">原文（英語）</a>の内容を正確に反映できていない可能性があります。'
   ru: 'Этот волонтерский перевод может быть неточным и отличаться от<a href="$1"> английского оригинала</a>.'
   de: 'Diese ehrenamtliche Übersetzung spiegelt möglicherweise nicht genau die Absichten des <a href="$1">englischen Originals</a> wider.'
   nl: 'Het is mogelijk dat deze vrijwilligers-vertaling de bedoelingen van <a href="$1">het Engelse origineel</a> niet accuraat weergeeft.'
@@ -982,11 +982,12 @@
   nl: 'in'
   fa: 'در'
   id: 'dalam'
+  ja: '親ページ：' # In Japanese, the usage of "in" is different from English, we usually use a phrase combination to express it. Such as "[parent resource title]の中の[resource sub-page title]". And it is rare to express a lead-in to a parent page as "in" such the example. It would be easier to write it as the "parent page:" in a straightforward manner.
   ko: 'in'
   ar: 'في'
   ru: 'в'
   zh-hans: '在' # In Chinese, the usage of "in" is different from English, and we usually use a phrase combination to express it. Such as [Stories of Web Users] 在 [How People with Disabilities Use the Web] 之中。Of course, it is understandable to just translate as "在", but it is not accurate.
-  
+
 # ADDED 2019-08-19
 
 - en: 'Expand All Sections'  # for expand-collapse toggle buttons such as under the Page Contents at w3.org/WAI/people-use-web/user-stories/
@@ -999,6 +1000,7 @@
 
   fa: 'همه بخش‌ها باز شود'
   id: 'Lihat Semua Bagian'
+  ja: 'すべてのセクションを展開する'
   ko: '모든 섹션 펼치기'
   ar: 'توسيع كل الأقسام'
   ru: 'Развернуть Все Разделы'
@@ -1015,6 +1017,7 @@
 
   fa: 'همه بخش‌ها بسته شود'
   id: 'Sembunyikan Semua Bagian'
+  ja: 'すべてのセクションを折りたたむ'
   ko: '모든 섹션 닫기'
   ar: 'تصغير كل الأقسام'
   ru: 'Свернуть Все Разделы'
@@ -1034,6 +1037,7 @@
 
   fa: 'به پاورقی'
   id: 'ke catatan kaki'
+  ja: '注釈'
   ko: '각주로 이동'
   ar: 'الي الهامش'
   ru: 'к примечанию'
@@ -1049,6 +1053,7 @@
 
   fa: 'بازگشت به پاورقی'
   id: 'kembali ke catatan kaki'
+  ja: 'に戻る' # In Japanese, "in text"(本文中の) should be said first. [back to footnote] 1 [in text] -> [本文中の注釈] 1 [に戻る]
   ko: '각주에서 나오기'
   ar: 'العودة الي الهامش'
   ru: 'вернуться к примечанию'
@@ -1064,6 +1069,7 @@
 
   fa: 'در متن'
   id: 'dalam teks'
+  ja: '本文中の注釈' # In Japanese, "in text"(本文中の) should be said first. [back to footnote] 1 [in text] -> [本文中の注釈] 1 [に戻る]
   ko: '텍스트에서'
   ar: 'في النص'
   ru: 'в тексте'
@@ -1074,11 +1080,12 @@
 
 - en: 'This video is available with more accessibility features:'   # Text under videos such as at w3.org/WAI/test-evaluate/#initial -- with the title of the video after this phrase
   es: 'Este vídeo está disponible con más características de accesibilidad'
-  fr: 'Cette vidéo est disponible avec plus de fonctionnalités d’accessibilité :' 
+  fr: 'Cette vidéo est disponible avec plus de fonctionnalités d’accessibilité :'
   cs: 'Toto video je k dispozici s více funkcemi přístupnosti:'
   uk: 'Більше функцій доступності для цього відео:'
   nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties:'
   ko: '접근성 기능이 지원된 비디오로도 이용 가능합니다.'
+  ja: 'こちらの動画はより多くのアクセシビリティ機能が利用できます：'
   id: 'Video ini tersedia dengan lebih banyak fitur aksesibilitas:'
   ar: ':يتوفر هذا الفيديو بمزيد من ميزات إمكانية الوصول'
   ru: 'Данное видео доступно с расширенным функционалом специальных возможностей'
@@ -1090,33 +1097,41 @@
 
 - en: 'Editors:'   # gender-neutral, plural. Precedes list of more than one person who edited the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Edition'.
   fr: 'Rédaction :'
+  ja: '編集者：'
 
 - en: 'Update Editor:'   # gender-neutral, singular. Precedes list of one person who updates the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Update Edition'.
   fr: 'Rédaction des mises à jour:'
+  ja: '更新作業者：'
 
 - en: 'Status:' # followed by the last updated date or
   fr: 'Statut :'
+  ja: 'ステータス：'
 
 - en: 'Updated' #  precedes a date
   fr: 'Mise à jour le'
+  ja: '最終更新日'
 
 - en: 'first published' #  precedes a date
   fr: 'première publication'
+  ja: '初版'
 
 # Added 2023-10-18
 
 - en: 'Acknowledgements'
   fr: 'Remerciements'
+  ja: '謝辞'
 
 # Added 2024-01-02
 
 - en: 'Video Subtitles' # Precedes list of videos that include subtitles in this language: https://www.w3.org/WAI/translations/
   fr: 'Vidéos sous-titrées'
+  ja: '字幕'
 
 - en: 'Standards/Guidelines' # Precedes list of translations of standards and guidelines in this language, in https://www.w3.org/WAI/translations/
   fr: 'Standards/Règles'
   cs: 'Standardy/Pokyny'
   es: 'Estándares/Pautas'
+  ja: '標準仕様/ガイドライン'
   ko: "표준/지침"
   ru: "Стандарты/Рекомендации"
   zh-hans: "标准/指南"
