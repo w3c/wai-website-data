@@ -395,7 +395,10 @@
 - lang: nl
   standard: wcag
   standard_version: "2.2"
-  type: intent-authorized
+  title: "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2"
+  url: https://ericvelleman.github.io/WCAG22_CAT/
+  date: 2024-02-02
+  type: cat
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023AprJun/0016.html
   intent_date: 2023-06-05
 - lang: fr
