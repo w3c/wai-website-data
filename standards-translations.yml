@@ -8,6 +8,204 @@
 #  type: <translation_status> (authorized, unofficial, cat, intent-authorized, intent-unofficial)
 #  translator: <lto_name_or_volunteer_name>
 #
+# WCAG 2.2
+- lang: ar
+  standard: wcag
+  standard_version: "2.2"
+  type: intent-authorized
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0036.html
+  intent_date: 2023-12-13
+- lang: ca
+  standard: wcag
+  standard_version: "2.2"
+  title: "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2"
+  url: https://www.ub.edu/adaptabit/wcag22/
+  date: 2024-01-30
+  type: cat
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0026.html
+  intent_date: 2023-11-17
+- lang: zh-hans
+  standard: wcag
+  standard_version: "2.2"
+  type: intent-authorized
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0006.html
+  intent_date: 2023-10-08
+- lang: nl
+  standard: wcag
+  standard_version: "2.2"
+  title: "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2"
+  url: https://ericvelleman.github.io/WCAG22_CAT/
+  date: 2024-02-02
+  type: cat
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023AprJun/0016.html
+  intent_date: 2023-06-05
+- lang: fr
+  standard: wcag
+  standard_version: "2.2"
+  type: intent-authorized
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0001.html
+  intent_date: 2022-07-25
+- lang: it
+  standard: wcag
+  standard_version: "2.2"
+  title: "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2"
+  url: https://www.w3.org/Translations/WCAG22-it/
+  date: 2023-12-05
+  type: authorized
+  translator: "International Web Association"
+- lang: pt
+  standard: wcag
+  standard_version: "2.2"
+  type: intent-authorized
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0011.html
+  intent_date: 2023-10-17
+- lang: ru
+  standard: wcag
+  standard_version: "2.2"
+  type: intent-unofficial
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0006.html
+  intent_date: 2024-01-18
+# WCAG 2.1
+- lang: ar
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "مبادئ النفاذ إلى محتوى الويب (WCAG2.1)"
+  url: https://www.w3.org/Translations/WCAG21-ar/
+  date: 2021-11-11
+  type: authorized
+  translator: "Mada Center, Qatar"
+- lang: bg
+  standard: wcag
+  standard_version: "2.1"
+  type: intent-unofficial
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2021OctDec/0000.html
+  intent_date: 2021-10-01
+- lang: ca
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Directrius per a l'accessibilitat del contingut web (WCAG) 2.1"
+  url: https://www.w3.org/Translations/WCAG21-ca/
+  type: authorized
+  date: 2023-02-13
+  translator: "Facultat de Matemàtiques i Informàtica   Universitat de Barcelona"
+- lang: zh-hans
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Web内容无障碍指南 (WCAG) 2.1"
+  url: https://www.w3.org/Translations/WCAG21-zh/
+  date: 2019-03-11
+  type: authorized
+  translator: "Zhejiang University"
+- lang: zh-hant
+  standard: wcag
+  standard_version: "2.1"
+  type: intent-authorized
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0010.html
+  intent_date: 2023-09-05
+- lang: da
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Retningslinjer for Tilgængeligt Webindhold (WCAG) 2.1"
+  url: https://www.w3.org/Translations/WCAG21-da/
+  date: 2019-12-11
+  type: authorized
+  translator: "Digitaliseringsstyrelsen"
+- lang: nl
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Richtlijnen voor de Toegankelijkheid van Webcontent (WCAG) 2.1"
+  url: https://www.w3.org/Translations/WCAG21-nl/
+  date: 2020-05-26
+  type: authorized
+  translator: "Accessibility Foundation"
+- lang: fi
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Verkkosisällön saavutettavuusohjeet (WCAG) 2.1"
+  url: https://www.w3.org/Translations/WCAG21-fi/
+  date: 2019-11-22
+  type: authorized
+  translator: "Kehitysvammaliitto ry"
+- lang: fr
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Règles pour l'accessibilité des contenus Web (WCAG) 2.1"
+  url: https://www.w3.org/Translations/WCAG21-fr/
+  date: 2022-07-11
+  type: authorized
+  translator: "Access42"
+- lang: he
+  standard: wcag
+  standard_version: "2.1"
+  type: intent-unofficial
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2020JanMar/0025.html
+  intent_date: 2020-03-21
+- lang: it
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1"
+  url: https://www.w3.org/Translations/WCAG21-it/
+  date: 2018-09-13
+  type: authorized
+  translator: "International Web Association"
+- lang: ko
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "웹 콘텐츠 접근성 지침 (WCAG) 2.1"
+  url: http://www.kwacc.or.kr/WAI/wcag21/
+  date: 2020-05-02
+  type: unofficial
+  translator: "한국웹접근성평가센터 , 성신여자대학교"
+- lang: "no"
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Retningslinjer for tilgjengelig webinnhold (WCAG) 2.1"
+  url: https://www.w3.org/Translations/WCAG21-no/
+  date: 2021-06-18
+  type: authorized
+  translator: "Digitaliseringsdirektoratet (Norwegian Digitalisation Agency)"
+- lang: pl
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Wytyczne dla dostępności treści internetowych (WCAG) 2.1"
+  url: https://www.w3.org/Translations/WCAG21-pl/
+  date: 2021-04-13
+  type: authorized
+  translator: "Fundacja Instytut Rozwoju Regionalnego"
+- lang: pt-BR
+  standard: wcag
+  standard_version: "2.1"
+  type: intent-authorized
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html
+  intent_date: 2018-06-25
+- lang: pt
+  standard: wcag
+  standard_version: "2.1"
+  type: intent-authorized
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2018OctDec/0023.html
+  intent_date: 2018-11-02
+- lang: sk
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Pravidlá pre prístupnosť webového obsahu (WCAG) 2.1"
+  url: https://s3.eu-central-1.amazonaws.com/w3c-wcag-2.1-sk/index.html
+  date: 2021-04-09
+  type: cat
+  translator: "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky (MIRRI)"
+- lang: es
+  standard: wcag
+  standard_version: "2.1"
+  type: intent-unofficial
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html
+  intent_date: 2019-04-12
+- lang: uk
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Настанови з доступності вебвмісту (WCAG) 2.1"
+  url: https://www.w3.org/Translations/WCAG21-ua/
+  date: 2023-02-20
+  type: authorized
+  translator: "United Nations Development Program (UNDP) in Ukraine"
 # WCAG 2.0
 - lang: ar
   standard: wcag
@@ -229,204 +427,6 @@
   date: 2012-10-23
   type: authorized
   translator: "Funka Nu AB"
-# WCAG 2.1
-- lang: ar
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "مبادئ النفاذ إلى محتوى الويب (WCAG2.1)"
-  url: https://www.w3.org/Translations/WCAG21-ar/
-  date: 2021-11-11
-  type: authorized
-  translator: "Mada Center, Qatar"
-- lang: bg
-  standard: wcag
-  standard_version: "2.1"
-  type: intent-unofficial
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2021OctDec/0000.html
-  intent_date: 2021-10-01
-- lang: ca
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Directrius per a l'accessibilitat del contingut web (WCAG) 2.1"
-  url: https://www.w3.org/Translations/WCAG21-ca/
-  type: authorized
-  date: 2023-02-13
-  translator: "Facultat de Matemàtiques i Informàtica   Universitat de Barcelona"
-- lang: zh-hans
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Web内容无障碍指南 (WCAG) 2.1"
-  url: https://www.w3.org/Translations/WCAG21-zh/
-  date: 2019-03-11
-  type: authorized
-  translator: "Zhejiang University"
-- lang: zh-hant
-  standard: wcag
-  standard_version: "2.1"
-  type: intent-authorized
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0010.html
-  intent_date: 2023-09-05
-- lang: da
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Retningslinjer for Tilgængeligt Webindhold (WCAG) 2.1"
-  url: https://www.w3.org/Translations/WCAG21-da/
-  date: 2019-12-11
-  type: authorized
-  translator: "Digitaliseringsstyrelsen"
-- lang: nl
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Richtlijnen voor de Toegankelijkheid van Webcontent (WCAG) 2.1"
-  url: https://www.w3.org/Translations/WCAG21-nl/
-  date: 2020-05-26
-  type: authorized
-  translator: "Accessibility Foundation"
-- lang: fi
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Verkkosisällön saavutettavuusohjeet (WCAG) 2.1"
-  url: https://www.w3.org/Translations/WCAG21-fi/
-  date: 2019-11-22
-  type: authorized
-  translator: "Kehitysvammaliitto ry"
-- lang: fr
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Règles pour l'accessibilité des contenus Web (WCAG) 2.1"
-  url: https://www.w3.org/Translations/WCAG21-fr/
-  date: 2022-07-11
-  type: authorized
-  translator: "Access42"
-- lang: he
-  standard: wcag
-  standard_version: "2.1"
-  type: intent-unofficial
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2020JanMar/0025.html
-  intent_date: 2020-03-21
-- lang: it
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1"
-  url: https://www.w3.org/Translations/WCAG21-it/
-  date: 2018-09-13
-  type: authorized
-  translator: "International Web Association"
-- lang: ko
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "웹 콘텐츠 접근성 지침 (WCAG) 2.1"
-  url: http://www.kwacc.or.kr/WAI/wcag21/
-  date: 2020-05-02
-  type: unofficial
-  translator: "한국웹접근성평가센터 , 성신여자대학교"
-- lang: "no"
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Retningslinjer for tilgjengelig webinnhold (WCAG) 2.1"
-  url: https://www.w3.org/Translations/WCAG21-no/
-  date: 2021-06-18
-  type: authorized
-  translator: "Digitaliseringsdirektoratet (Norwegian Digitalisation Agency)"
-- lang: pl
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Wytyczne dla dostępności treści internetowych (WCAG) 2.1"
-  url: https://www.w3.org/Translations/WCAG21-pl/
-  date: 2021-04-13
-  type: authorized
-  translator: "Fundacja Instytut Rozwoju Regionalnego"
-- lang: pt-BR
-  standard: wcag
-  standard_version: "2.1"
-  type: intent-authorized
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html
-  intent_date: 2018-06-25
-- lang: pt
-  standard: wcag
-  standard_version: "2.1"
-  type: intent-authorized
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2018OctDec/0023.html
-  intent_date: 2018-11-02
-- lang: sk
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Pravidlá pre prístupnosť webového obsahu (WCAG) 2.1"
-  url: https://s3.eu-central-1.amazonaws.com/w3c-wcag-2.1-sk/index.html
-  date: 2021-04-09
-  type: cat
-  translator: "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky (MIRRI)"
-- lang: es
-  standard: wcag
-  standard_version: "2.1"
-  type: intent-unofficial
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html
-  intent_date: 2019-04-12
-- lang: uk
-  standard: wcag
-  standard_version: "2.1_2018"
-  title: "Настанови з доступності вебвмісту (WCAG) 2.1"
-  url: https://www.w3.org/Translations/WCAG21-ua/
-  date: 2023-02-20
-  type: authorized
-  translator: "United Nations Development Program (UNDP) in Ukraine"
-# WCAG 2.2
-- lang: ar
-  standard: wcag
-  standard_version: "2.2"
-  type: intent-authorized
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0036.html
-  intent_date: 2023-12-13
-- lang: ca
-  standard: wcag
-  standard_version: "2.2"
-  title: "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2"
-  url: https://www.ub.edu/adaptabit/wcag22/
-  date: 2024-01-30
-  type: cat
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0026.html
-  intent_date: 2023-11-17
-- lang: zh-hans
-  standard: wcag
-  standard_version: "2.2"
-  type: intent-authorized
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0006.html
-  intent_date: 2023-10-08
-- lang: nl
-  standard: wcag
-  standard_version: "2.2"
-  title: "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2"
-  url: https://ericvelleman.github.io/WCAG22_CAT/
-  date: 2024-02-02
-  type: cat
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023AprJun/0016.html
-  intent_date: 2023-06-05
-- lang: fr
-  standard: wcag
-  standard_version: "2.2"
-  type: intent-authorized
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0001.html
-  intent_date: 2022-07-25
-- lang: it
-  standard: wcag
-  standard_version: "2.2"
-  title: "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2"
-  url: https://www.w3.org/Translations/WCAG22-it/
-  date: 2023-12-05
-  type: authorized
-  translator: "International Web Association"
-- lang: pt
-  standard: wcag
-  standard_version: "2.2"
-  type: intent-authorized
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0011.html
-  intent_date: 2023-10-17
-- lang: ru
-  standard: wcag
-  standard_version: "2.2"
-  type: intent-unofficial
-  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0006.html
-  intent_date: 2024-01-18
 # ATAG 2.0
 - lang: zh-hans
   standard: atag
