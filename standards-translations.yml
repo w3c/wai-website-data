@@ -53,10 +53,13 @@
   date: 2023-12-05
   type: authorized
   translator: "International Web Association"
-- lang: pt
+- lang: pt-BR
   standard: wcag
   standard_version: "2.2"
-  type: intent-authorized
+  title: "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2"
+  url: https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/
+  date: 2024-03-01
+  type: cat
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0011.html
   intent_date: 2023-10-17
 - lang: ru
