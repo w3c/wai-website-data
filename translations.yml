@@ -284,10 +284,10 @@
   fr: 'Cloner et modifier sur GitHub'
   es: 'Fork y Editar en GitHub'
   ko: 'GitHub에서 Fork 및 수정하기'
-  pt-BR: 'Fork e Editar no Github'
+  pt-BR: 'Fork e Editar no GitHub'
   fa: 'انشعاب گرفتن و ویرایش در گیت‌هاب'
-  id: 'Fork &amp; Edit di Github'
-  pl: 'Rozwidl i Edytuj na Github'
+  id: 'Fork &amp; Edit di GitHub'
+  pl: 'Rozwidl i Edytuj na GitHub'
 
 - en: 'Help improve this page'   # heading for box with links to e-mail and GitHub
   uk: 'Допоможіть покращити цю сторінку'
@@ -466,7 +466,7 @@
   ko: '새로운 GitHub 이슈'
   pt-BR: 'Novo incidente no GitHub'
   fa: 'موضوع جدید در گیت‌هاب'
-  id: 'Buat Isu Github'
+  id: 'Buat Isu GitHub'
   pl: 'Nowe zgłoszenie na GitHub'
 
 - en: 'Other Pages in this Resource'   # aria-label for certain secondary navigations (“resource” means a document, for example, w3.org/WAI/people-use-web/#this-resource-includes-the-following-pages
