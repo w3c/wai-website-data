@@ -106,7 +106,7 @@
   pt-BR: 'Colaborador/a:'
   fa: 'مشارکت کننده:'
   id: 'Kontributor:'
-  pl: 'Współtwórca'
+  pl: 'Współtworząca osoba'
 
 - en: 'Contributors:'   #  for listing people who helped with a resource or a translation. gender-neutral, plural
   uk: 'Співавтори'
@@ -124,7 +124,7 @@
   pt-BR: 'Colaboradores/as:'
   fa: 'مشارکت کنندگان:'
   id: 'Kontributor:'
-  pl: 'Współtwórcy'
+  pl: 'Współtworzące osoby'
 
 - en: 'Copyright'
   uk: 'Авторське право'
@@ -142,7 +142,7 @@
   pt-BR: 'Direitos do Autor'
   fa: 'حق نشر'
   id: 'Hak Cipta'
-  pl: 'Copyright'
+  pl: 'Prawa autorskie'
 
 - en: 'Different View'   # alt text for icon that indicates link goes to page without WAI site navigation
   uk: 'Інший вигляд'
@@ -557,7 +557,7 @@
   pt-BR: 'Revisor/a'
   fa: 'بازبین'
   id: 'Peninjau'
-  pl: 'Recenzent'
+  pl: 'Osoba recenzująca'
 
 - en: 'Reviewers'  # gender-neutral, plural ; introduces the names people who reviewed a translation
   uk: 'Рецензенти'
@@ -575,7 +575,7 @@
   pt-BR: 'Revisores/as'
   fa: 'بازبین‌ها'
   id: 'Peninjau'
-  pl: 'Recenzenci'
+  pl: 'Osoby recenzujące'
 
 - en: 'Search'   # Search box field label
   uk: 'Пошук'
@@ -899,7 +899,7 @@
   pt-BR: 'Tradutor:'
   fa: 'مترجم:'
   id: 'Penerjemah:'
-  pl: 'Tłumacz'
+  pl: 'Osoba tłumacząca'
 
 - en: 'Translators:'   # gender-neutral, plural. precedes list of more than one person who did a translation
   uk: 'Перекладачі'
@@ -917,7 +917,7 @@
   pt-BR: 'Tradutores:'
   fa: 'مترجمان:'
   id: 'Penerjemah:'
-  pl: 'Tłumacze'
+  pl: 'Osoby tłumaczące'
 
 - en: 'WAI thanks translators, and welcomes other <a href="$1">translations</a>.'   # UPDATED 18-Mar-2019 "WAI thanks these translators" -> "WAI thanks translators"
   uk: 'WAI дякує перекладачам та запрошує долучитись охочих <a href="$1">переклади</a>.'
@@ -935,7 +935,7 @@
   pt-BR: 'WAI agradeçe os/as tradutores/as, e dá as boas-vindas a outras <a href="$1">traduções.</a>'
   fa: 'WAI از مترجمان تشکر می‌کند، و از <a href="$1">ترجمه‌های</a> دیگر استقبال می‌کند.'
   id: 'WAI berterimakasih kepada para penerjemah, dan menyambut <a href="$1">terjemahan</a> lainnya.'
-  pl: 'WAI dziękuje tłumaczom i zaprasza innych <a href="$1">tłumaczy</a>.'
+  pl: 'WAI dziękuje osobom tłumaczącym i <a href="$1">zaprasza je do współpracy</a>.'
 
 - en: '[put comment here...]'   # placeholder text in e-mail template
   uk: '[залиште коментар тут...]'
