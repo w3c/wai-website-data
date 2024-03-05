@@ -733,11 +733,11 @@
   zh-hans: '使残疾人能够访问Web的策略、标准和资源。'
   fr: 'Stratégies, standards, ressources pour un Web accessible aux personnes en situation de handicap.'
   es: 'Estrategias, estándares y materiales para hacer la Web accesible para gente con discapacidades.'
-  ko: 장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원'
+  ko: '장애가 있는 사용자가 접근 가능한 웹을 만들기 위한 전략, 기준, 자원'
   pt-BR: 'Estratégias, padrões, e materiais para fazer a Web accessivel para pessoas com deficiência.'
   fa: 'استراتژی‌ها، استانداردها و منابع برای دسترسی‌پذیری وب به افراد کم‌توان.'
   id: 'Strategi, standar, informasi untuk membuat Web aksesibel bagi penyandang disabilitas'
-  'Strategie, standardy i zasoby umożliwiające zapewnienie dostępności Internetu dla osób z niepełnosprawnościami.'
+  pl: 'Strategie, standardy i zasoby umożliwiające zapewnienie dostępności Internetu dla osób z niepełnosprawnościami.'
 
 - en: 'Submit Search'   # aria-label for button
   uk: 'Шукати'
