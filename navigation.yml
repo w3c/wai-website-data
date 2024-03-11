@@ -446,7 +446,7 @@
       - name: Selecting Evaluation Tools
         url: "/test-evaluate/tools/selecting/"
       - name: List of Evaluation Tools
-        url: "https://www.w3.org/WAI/ER/tools/"
+        url: "/test-evaluate/tools/list/"
   - name:
       en: 'Conformance Evaluation, Reports'
       fr: 'Évaluation de la conformité, rapports'
@@ -749,14 +749,28 @@
         pages:
           - name: "Arabic"
             url: "/about/translating/sitemaps/sitemap-ar/"
+          - name: "Chinese (Simplified)"
+            url: "/about/translating/sitemaps/sitemap-zh-hans/"
+          - name: "Czech"
+            url: "/about/translating/sitemaps/sitemap-cs/"
           - name: "French"
             url: "/about/translating/sitemaps/sitemap-fr/"
-          - name: "Spanish"
-            url: "/about/translating/sitemaps/sitemap-es/"
+          - name: "German"
+            url: "/about/translating/sitemaps/sitemap-de/"
+          - name: "Greek"
+            url: "/about/translating/sitemaps/sitemap-el/"
+          - name: "Indonesian"
+            url: "/about/translating/sitemaps/sitemap-id/"
+          - name: "Japanese"
+            url: "/about/translating/sitemaps/sitemap-ja/"
+          - name: "Korean"
+            url: "/about/translating/sitemaps/sitemap-ko/"
+          - name: "Polish"
+            url: "/about/translating/sitemaps/sitemap-pl/"
           - name: "Russian"
             url: "/about/translating/sitemaps/sitemap-ru/"
-          - name: "Simplified Chinese"
-            url: "/about/translating/sitemaps/sitemap-zh-hans/"
+          - name: "Spanish"
+            url: "/about/translating/sitemaps/sitemap-es/"
       - name: Guides
         url: "/about/translating/guides/"
         pages:
@@ -770,6 +784,8 @@
             url: "/about/translating/guides/translation-guidance/"
           - name: Using GitHub
             url: "/about/translating/guides/using-github/"
+          - name: Translating WCAG
+            url: "/about/translating/guides/wcag/"
   - name: Sponsoring
     url: "/about/sponsoring/"
   - name: Contacting
