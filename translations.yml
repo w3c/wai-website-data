@@ -232,7 +232,7 @@
   ko: '영문 업데이트:'
   pt-BR: 'Versão em inglês atualizada:'
   fa: 'انگلیسی به روز شد:'
-  id: 'Bahasa Inggris Diperbarui:'
+  id: 'Bahasa Inggris diperbarui:'
   pl: 'Aktualizacja wersji angielskiej'
 
 - en: 'English version updated since this translation: <a href="$1">Change log</a>.'   # used in “About this Translation”
@@ -250,7 +250,7 @@
   ko: '영문 버전이 다음 번역 이후로 업데이트되었습니다.: <a href="$1">변경 기록</a>'
   pt-BR: 'Versão em inglês atualizada posteriormente a esta tradução: <a href="$1">registro de mudanças</a>.'
   fa: 'نسخه انگلیسی از زمان این ترجمه به روز شده است: <a href="$1">تغییرات </a>.'
-  id: 'Versi Bahasa Inggris diperbarui sejak terjemahan dibuat: <a href="$1">Catatan perubahan</a>.'
+  id: 'Versi Bahasa Inggris diperbarui setelah terjemahan dibuat: <a href="$1">Catatan perubahan</a>.'
   pl: 'Wersja angielska zaktualizowana od czasu tego tłumaczenia: <a href="$1">Dziennik zmian</a>'
 
 - en: 'External Site'   # alt text for icon that indicates link goes off WAI site
@@ -502,7 +502,7 @@
   ko: '다음 언어로 번역된 다른 자료 :'
   pt-BR: 'Outros Recursos em'
   fa: 'منابع دیگر در'
-  id: 'Sumber informasi lainnya dalam'
+  id: 'Sumber Informasi Lainnya dalam'
   pl: 'Pozostałe zasoby w'
 
 - en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
@@ -520,7 +520,7 @@
   ko: '당신의 아이디어와 제안, 의견 등을 공개적으로 보관되는 [$1](mailto:$1?subject=%s)나 GitHub을 통해 공유해주세요.'
   pt-BR: 'Compartilhe suas ideias, sugestões ou comentários por e-mail para a lista pública [$1](mailto:$1?subject=%s) ou via GitHub.'
   fa: 'لطفا ایده‌ها، پیشنهادات یا نظرات خود را از طریق ایمیل به فهرست بایگانی شده عمومی [$1](mailto:$1?subject=%s)  یا از طریق گیت‌هاب به اشتراک بگذارید.'
-  id: 'Mohon berikan gagasan, saran, atau komentar melalui email ke arsip-publik [$1](mailto:$1?subject=%s) atau melalui GitHub.'
+  id: 'Mohon berikan gagasan, saran, atau komentar melalui email ke daftar yang diarsipkan secara terbuka [$1](mailto:$1?subject=%s) atau melalui GitHub.'
   pl: 'Prosimy o dzielenie się pomysłami, sugestiami lub komentarzami za pośrednictwem poczty elektronicznej na publicznie zarchiwizowanej liście [$1](mailto:$1?subject=%s) lub za pośrednictwem GitHub'
 
 - en: 'Previous/Next Page'   # aria-label for prev/next page naviation
@@ -646,7 +646,7 @@
   ko: '사용자정의, 언어, 번역 보기'
   pt-BR: 'Mostrar Customizações, Idiomas, Traduções'
   fa: 'نمایش سفارشی‌سازی، زبان‌ها، ترجمه‌ها'
-  id: 'Tampilkan Kustomisasi, Bahasa, Terjemahan'
+  id: 'Tampilkan Penyesuaian, Bahasa, Terjemahan'
   pl: 'Pokaż dostosowania, języki, tłumaczenia'
 
 - en: 'Show Languages'   # for show/hide toggle
@@ -682,7 +682,7 @@
   ko: '링크 건너뛰기와 언어 선택'
   pt-BR: 'Pular Link e Seletor de Idioma'
   fa: 'رد کردن پیوند و انتخاب زبان'
-  id: 'Lewati Link dan Pilihan Bahasa'
+  id: 'Lewati Tautan dan Pilihan Bahasa'
   pl: 'Łącza pomijania i selektor języka'
 
 - en: 'Skip to Content'   # moves focus within a page
@@ -790,7 +790,7 @@
   ko: '현재&nbsp;번역&nbsp;언어:'
   pt-BR: 'Essa&nbsp;pagina&nbsp;em:'
   fa: 'این&nbsp;صفحه&nbsp;در:'
-  id: 'Halamn&nbsp;ini&nbsp;dalam:'
+  id: 'Halaman&nbsp;ini&nbsp;dalam:'
   pl: 'Ta&nbsp;strona&nbsp;w:'
 
 - en: 'This volunteer translation might not accurately reflect the intentions of the <a href="$1">English original</a>.'
@@ -970,7 +970,7 @@
   ko: '[여기에 코멘트를 남기세요...]\n\n이 메일이 공개적으로 보관되는 이메일 목록에 공유되는 것을 동의합니다.'
   pt-BR: '[seu comentário aqui...]\n\nConcedo permissão de compartilhar isto para uma lista de email pública com arquivo.'
   fa: '[نظر خود را اینجا بنویسید...]\n\nمن اجازه می‌دهد این پیام به فهرست بایگانی ایمیل عمومی به اشتراک گذاشته شود.'
-  id: '[masukkan komentar disini...]\n\nSaya memberikan izin untuk membagikan ini di daftar email arsip-publik.' # for e-mail template
+  id: '[masukkan komentar disini...]\n\nSaya memberikan izin untuk membagikan ini di daftar email yang diarsipkan secara terbuka.' # for e-mail template
   pl: '[umieść komentarz tutaj...]\n\nWyrażam zgodę na udostępnienie tego na publicznie zarchiwizowanej liście e-mail.'
 
 # ADDED 2019-02-20
@@ -1161,26 +1161,31 @@
 
 - en: 'Editors:'   # gender-neutral, plural. Precedes list of more than one person who edited the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Edition'.
   fr: 'Rédaction :'
+  id: 'Editor :'
   ja: '編集者：'
   pl: 'Redakcja'
 
 - en: 'Update Editor:'   # gender-neutral, singular. Precedes list of one person who updates the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Update Edition'.
   fr: 'Rédaction des mises à jour:'
+  id: 'Editor Pembaruan:'
   ja: '更新作業者：'
   pl: 'Aktualizacje projektu:'
 
 - en: 'Status:' # followed by the last updated date or
   fr: 'Statut :'
+  id: 'Status:'
   ja: 'ステータス：'
   pl: 'Status'
 
 - en: 'Updated' #  precedes a date
   fr: 'Mise à jour le'
+  id: 'Diperbarui'
   ja: '最終更新日'
   pl: 'Uaktualniono'
 
 - en: 'first published' #  precedes a date
   fr: 'première publication'
+  id: 'pertama kali dipublikasikan'
   ja: '初版'
   pl: 'pierwsza publikacja'
 
@@ -1188,6 +1193,7 @@
 
 - en: 'Acknowledgements'
   fr: 'Remerciements'
+  id: 'Pengakuan kontribusi'
   ja: '謝辞'
   pl: 'Podziękowania'
 
@@ -1197,6 +1203,7 @@
   fr: 'Vidéos sous-titrées'
   ja: '字幕'
   pl: 'Napisy rozszerzone'
+  id: 'Subtitel video'
 
 - en: 'Standards/Guidelines' # Precedes list of translations of standards and guidelines in this language, in https://www.w3.org/WAI/translations/
   fr: 'Standards/Règles'
@@ -1207,3 +1214,4 @@
   ru: "Стандарты/Рекомендации"
   zh-hans: "标准/指南"
   pl: 'Standardy/Wytyczne'
+  id: 'Standar/Pedoman'
