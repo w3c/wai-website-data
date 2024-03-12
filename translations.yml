@@ -1203,6 +1203,7 @@
   fr: 'Vidéos sous-titrées'
   ja: '字幕'
   pl: 'Napisy rozszerzone'
+  id: 'Subtitel video'
 
 - en: 'Standards/Guidelines' # Precedes list of translations of standards and guidelines in this language, in https://www.w3.org/WAI/translations/
   fr: 'Standards/Règles'
@@ -1213,3 +1214,4 @@
   ru: "Стандарты/Рекомендации"
   zh-hans: "标准/指南"
   pl: 'Standardy/Wytyczne'
+  id: 'Standar/Pedoman'
