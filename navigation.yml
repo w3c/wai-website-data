@@ -43,6 +43,7 @@
           el: 'Change log'
           zh-hans: '修改日志'
           fr: 'Changements'
+          ja: '変更履歴'
           es: 'Registro de cambios'
         url: "/videos/standards-and-benefits/changelog/"
         hide: true
@@ -152,6 +153,7 @@
           el: 'Change log'
           zh-hans: '修改日志'
           fr: 'Changements'
+          ja: '変更履歴'
           es: 'Registro de cambios'
         url: "/fundamentals/accessibility-principles/changelog/"
         hide: true
@@ -301,6 +303,7 @@
         hide: true
       - name:
           en: Changelog
+          ja: '変更履歴'
         url: "/media/av/changelog/"
         hide: true
   - name: Tutorials
