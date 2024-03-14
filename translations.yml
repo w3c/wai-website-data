@@ -1161,30 +1161,35 @@
 
 - en: 'Editors:'   # gender-neutral, plural. Precedes list of more than one person who edited the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Edition'.
   fr: 'Rédaction :'
+  de: 'Redaktion:'
   id: 'Editor :'
   ja: '編集者：'
   pl: 'Redakcja'
 
 - en: 'Update Editor:'   # gender-neutral, singular. Precedes list of one person who updates the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Update Edition'.
   fr: 'Rédaction des mises à jour:'
+  de: 'Aktualisierungen:'
   id: 'Editor Pembaruan:'
   ja: '更新作業者：'
   pl: 'Aktualizacje projektu:'
 
 - en: 'Status:' # followed by the last updated date or
   fr: 'Statut :'
+  de: 'Status:'
   id: 'Status:'
   ja: 'ステータス：'
   pl: 'Status'
 
 - en: 'Updated' #  precedes a date
   fr: 'Mise à jour le'
+  de: 'Aktualisiert'
   id: 'Diperbarui'
   ja: '最終更新日'
   pl: 'Uaktualniono'
 
 - en: 'first published' #  precedes a date
   fr: 'première publication'
+  de: 'erstmals veröffentlicht'
   id: 'pertama kali dipublikasikan'
   ja: '初版'
   pl: 'pierwsza publikacja'
