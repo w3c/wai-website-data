@@ -43,6 +43,7 @@
           el: 'Change log'
           zh-hans: '修改日志'
           fr: 'Changements'
+          ja: '変更履歴'
           es: 'Registro de cambios'
         url: "/videos/standards-and-benefits/changelog/"
         hide: true
@@ -152,6 +153,7 @@
           el: 'Change log'
           zh-hans: '修改日志'
           fr: 'Changements'
+          ja: '変更履歴'
           es: 'Registro de cambios'
         url: "/fundamentals/accessibility-principles/changelog/"
         hide: true
@@ -301,6 +303,7 @@
         hide: true
       - name:
           en: Changelog
+          ja: '変更履歴'
         url: "/media/av/changelog/"
         hide: true
   - name: Tutorials
@@ -446,7 +449,7 @@
       - name: Selecting Evaluation Tools
         url: "/test-evaluate/tools/selecting/"
       - name: List of Evaluation Tools
-        url: "https://www.w3.org/WAI/ER/tools/"
+        url: "/test-evaluate/tools/list/"
   - name:
       en: 'Conformance Evaluation, Reports'
       fr: 'Évaluation de la conformité, rapports'
@@ -760,7 +763,13 @@
           - name: "Greek"
             url: "/about/translating/sitemaps/sitemap-el/"
           - name: "Indonesian"
-            url: "/about/translating/sitemaps/sitemap-el/"
+            url: "/about/translating/sitemaps/sitemap-id/"
+          - name: "Japanese"
+            url: "/about/translating/sitemaps/sitemap-ja/"
+          - name: "Korean"
+            url: "/about/translating/sitemaps/sitemap-ko/"
+          - name: "Polish"
+            url: "/about/translating/sitemaps/sitemap-pl/"
           - name: "Russian"
             url: "/about/translating/sitemaps/sitemap-ru/"
           - name: "Spanish"
@@ -778,6 +787,8 @@
             url: "/about/translating/guides/translation-guidance/"
           - name: Using GitHub
             url: "/about/translating/guides/using-github/"
+          - name: Translating WCAG
+            url: "/about/translating/guides/wcag/"
   - name: Sponsoring
     url: "/about/sponsoring/"
   - name: Contacting
