@@ -437,8 +437,10 @@
     url: "/test-evaluate/changelog/"
     hide: true
   - name: Easy Checks – A First Review
-    url: "/test-evaluate/easy-checks/"
+    url: "/test-evaluate/preliminary/"
     pages:
+      - name: Easy Checks - Draft Update
+        url: "/test-evaluate/easy-checks/"
       - name: Image Alternative Text
         url: "/test-evaluate/easy-checks/image-alt/"
       - name: Page Title
@@ -454,7 +456,7 @@
       - name: Langage of Page
         url: "/test-evaluate/easy-checks/language/"
       - name: Zoom
-        url: "/test-evaluate/easy-checks/zoom-levels/"
+        url: "/test-evaluate/easy-checks/zoom/"
       - name: Captions
         url: "/test-evaluate/easy-checks/captions/"
       - name: Transcripts
@@ -465,8 +467,6 @@
         url: "/test-evaluate/easy-checks/form-field-labels/"
       - name: Required Fields
         url: "/test-evaluate/easy-checks/required-fields/"
-      - name: Archive version
-        url: "/test-evaluate/easy-checks/archive/"
   - name:
       en: 'Evaluation Tools'
       fr: "Outils d'évaluation"
