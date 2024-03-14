@@ -438,9 +438,9 @@
     hide: true
   - name: Easy Checks – A First Review
     url: "/test-evaluate/preliminary/"
+  - name: Easy Checks - Draft Update
+    url: "/test-evaluate/easy-checks/"
     pages:
-      - name: Easy Checks - Draft Update
-        url: "/test-evaluate/easy-checks/"
       - name: Image Alternative Text
         url: "/test-evaluate/easy-checks/image-alt/"
       - name: Page Title
