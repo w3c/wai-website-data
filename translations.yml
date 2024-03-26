@@ -314,7 +314,7 @@
   ja: '隠す'
   ru: 'Скрыть'
   nl: 'Verbergen'
-  nl: 'Verbergen'
+  de: 'Verbergen'
   el: 'Απόκρυψη'
   zh-hans: '隐藏'
   fr: 'Cacher'
@@ -1094,7 +1094,7 @@
   fr: 'vers la note de bas de page'
   cs: 'k poznámce pod čarou'
   nl: 'naar voetnoot'
-
+  de: 'zu Fußnote'
   fa: 'به پاورقی'
   id: 'ke catatan kaki'
   ja: '注釈'
@@ -1111,7 +1111,7 @@
   fr: 'retour à la note de bas de page'
   cs: 'zpět k poznámce pod čarou'
   nl: 'terug naar voetnoot'
-
+  de: 'zurück zu Fußnote'
   fa: 'بازگشت به پاورقی'
   id: 'kembali ke catatan kaki'
   ja: 'に戻る' # In Japanese, "in text"(本文中の) should be said first. [back to footnote] 1 [in text] -> [本文中の注釈] 1 [に戻る]
@@ -1128,7 +1128,7 @@
   fr: 'dans le texte'
   cs: 'v textu'
   nl: 'in tekst'
-
+  de: 'im Text'
   fa: 'در متن'
   id: 'dalam teks'
   ja: '本文中の注釈' # In Japanese, "in text"(本文中の) should be said first. [back to footnote] 1 [in text] -> [本文中の注釈] 1 [に戻る]
@@ -1147,6 +1147,7 @@
   cs: 'Toto video je k dispozici s více funkcemi přístupnosti:'
   uk: 'Більше функцій доступності для цього відео:'
   nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties:'
+  de: 'Dieses Video ist mit weiteren Barrierefreiheitsfunktionen verfügbar:'
   ko: '접근성 기능이 지원된 비디오로도 이용 가능합니다.'
   ja: 'こちらの動画はより多くのアクセシビリティ機能が利用できます：'
   id: 'Video ini tersedia dengan lebih banyak fitur aksesibilitas:'
@@ -1201,6 +1202,7 @@
   id: 'Pengakuan kontribusi'
   ja: '謝辞'
   pl: 'Podziękowania'
+  de: 'Danksagungen'
 
 # Added 2024-01-02
 
@@ -1220,6 +1222,7 @@
   zh-hans: "标准/指南"
   pl: 'Standardy/Wytyczne'
   id: 'Standar/Pedoman'
+  de: 'Standards/Richtlinien'
 
 # Added 2024-03-14
 
