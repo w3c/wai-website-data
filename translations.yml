@@ -1166,7 +1166,7 @@
   id: 'Editor :'
   ja: '編集者：'
   pl: 'Redakcja'
-  kr: '편집자:'
+  ko: '편집자:'
 
 - en: 'Update Editor:'   # gender-neutral, singular. Precedes list of one person who updates the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Update Edition'.
   fr: 'Rédaction des mises à jour:'
@@ -1174,7 +1174,7 @@
   id: 'Editor Pembaruan:'
   ja: '更新作業者：'
   pl: 'Aktualizacje projektu:'
-  kr: '업데이트 편집자'
+  ko: '업데이트 편집자'
 
 - en: 'Status:' # followed by the last updated date or
   fr: 'Statut :'
@@ -1182,7 +1182,7 @@
   id: 'Status:'
   ja: 'ステータス：'
   pl: 'Status'
-  kr: '상태:'
+  ko: '상태:'
 
 - en: 'Updated' #  precedes a date
   fr: 'Mise à jour le'
@@ -1190,7 +1190,7 @@
   id: 'Diperbarui'
   ja: '最終更新日'
   pl: 'Uaktualniono'
-  kr: '업데이트됨'
+  ko: '업데이트됨'
 
 - en: 'first published' #  precedes a date
   fr: 'première publication'
@@ -1198,7 +1198,7 @@
   id: 'pertama kali dipublikasikan'
   ja: '初版'
   pl: 'pierwsza publikacja'
-  kr: '처음 발행됨'
+  ko: '처음 발행됨'
 
 # Added 2023-10-18
 
@@ -1234,3 +1234,4 @@
 - en: "Long description of image" # Link text underneath an image with long description in another page. Example: https://www.w3.org/WAI/fundamentals/components/
   fr: "Description longue de l'image"
   ko: "이미지에 대한 긴 설명"
+  pl: "Długi opis obrazu"
