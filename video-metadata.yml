@@ -259,6 +259,7 @@
   name:
     en: "Introduction to Web Accessibility and W3C Standards"
     fr: "Introduction à l’accessibilité Web et aux standards du W3C"
+    pl: "Wprowadzenie do dostępności internetowej i standardów W3C"
   main-page: /videos/standards-and-benefits/
   path: video-introduction
   captions:
@@ -282,6 +283,7 @@
     - ml
     - mr
     - nl
+    - pl
     - pt-BR
     - ru
     - te
