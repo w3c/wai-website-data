@@ -774,9 +774,23 @@
   - name: Translating
     url: "/about/translating/"
     pages:
-      - name: Step-by-Step
+      - name: Translating a WAI Resource
         url: "/about/translating/step-by-step/"
-      - name: Translations sitemaps
+        pages:
+        - name: Technical Steps
+          url: "/about/translating/guides/new-translation/"
+          pages:
+        - name: Using GitHub
+          url: "/about/translating/guides/using-github/"
+        - name: Subtitles/Descriptions
+          url: "/about/translating/guides/video-subtitles/"
+        - name: Images
+          url: "/about/translating/guides/images/"
+      - name: Reviewing a Translation
+        url: "/about/translating/guides/review-translation/"
+      - name: Translating WCAG
+        url: "/about/translating/guides/wcag/"
+      - name: Translations Sitemaps
         url: "/about/translating/sitemaps/"
         pages:
           - name: "Arabic"
@@ -803,21 +817,6 @@
             url: "/about/translating/sitemaps/sitemap-ru/"
           - name: "Spanish"
             url: "/about/translating/sitemaps/sitemap-es/"
-      - name: Guides
-        url: "/about/translating/guides/"
-        pages:
-          - name: Creating a Translation
-            url: "/about/translating/guides/new-translation/"
-          - name: Subtitles/Descriptions
-            url: "/about/translating/guides/video-subtitles/"
-          - name: Reviewing a Translation
-            url: "/about/translating/guides/review-translation/"
-          - name: Translation Guidance
-            url: "/about/translating/guides/translation-guidance/"
-          - name: Using GitHub
-            url: "/about/translating/guides/using-github/"
-          - name: Translating WCAG
-            url: "/about/translating/guides/wcag/"
   - name: Sponsoring
     url: "/about/sponsoring/"
   - name: Contacting
