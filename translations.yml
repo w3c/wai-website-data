@@ -505,23 +505,23 @@
   id: 'Sumber Informasi Lainnya dalam'
   pl: 'Pozostałe zasoby w'
 
-- en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1?subject=%s) or via GitHub.'   # do not change "[$1](mailto:$1?subject=%s)". $1 is replaced by the feedback email address. %s by the email subject.
-  uk: 'Будь ласка, поділіться своїми ідеями, пропозиціями або коментарями в публічній електронній розсилці [$1](mailto:$1?subject=%s) або на GitHub.'
-  ar: ' المرجو المشاركة بأفكار أو اقتراحات أو تعليقات عبر البريد الإلكتروني إلى القائمة بالأرشيف العام [$1](mailto:{$1?subject=%s) أو عبر GitHub'
-  cs: 'Prosíme, sdílejte své nápady, připomínky nebo komentáře e-mailem do veřejně archivovaného seznamu [$1](mailto:$1?subject=%s) nebo na GitHubu.'
-  ja: 'ご意見、ご提案、コメントをemail [$1](mailto:$1?subject=%s) かGitHubまでお寄せください。'
-  ru: 'Пожалуйста, поделитесь своими идеями, предложениями или комментариями в публичной электронной рассылке [$1](mailto:$1?subject=%s) или через GitHub. '
-  de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste [$1](mailto:$1?subject=%s) oder via GitHub mit.'
-  nl: 'Deel alstublieft uw ideeën, suggesties of commentaar per e-mail aan de openbare, gearchiveerde mailinglijst [$1](mailto:$1?subject=%s) of via GitHub.'
-  el: 'Παρακαλούμε, μοιραστείτε τις ιδέες, προτάσεις ή τα σχόλιά σας μέσω ηλεκτρονικού ταχυδρομείου στη δημόσια λίστα [$1](mailto:$1?subject=%s) ή μέσω του Github.'
-  zh-hans: '请通过电子邮件将您的想法、建议或意见分享到公共存档列表[$1](mailto:$1?subject=%s)或通过GitHub提交意见'
-  fr: 'Merci de partager vos idées, vos suggestions ou vos commentaires par courriel à la liste archivée publiquement [$1](mailto:$1?subject=%s) ou via GitHub.'
-  es: 'Comparte tus ideas, sugerencias o comentarios por correo electrónico a la lista pública [$1](mailto:$1?subject=%s) o vía GitHub.'
-  ko: '당신의 아이디어와 제안, 의견 등을 공개적으로 보관되는 [$1](mailto:$1?subject=%s)나 GitHub을 통해 공유해주세요.'
-  pt-BR: 'Compartilhe suas ideias, sugestões ou comentários por e-mail para a lista pública [$1](mailto:$1?subject=%s) ou via GitHub.'
-  fa: 'لطفا ایده‌ها، پیشنهادات یا نظرات خود را از طریق ایمیل به فهرست بایگانی شده عمومی [$1](mailto:$1?subject=%s)  یا از طریق گیت‌هاب به اشتراک بگذارید.'
-  id: 'Mohon berikan gagasan, saran, atau komentar melalui email ke daftar yang diarsipkan secara terbuka [$1](mailto:$1?subject=%s) atau melalui GitHub.'
-  pl: 'Prosimy o dzielenie się pomysłami, sugestiami lub komentarzami za pośrednictwem poczty elektronicznej na publicznie zarchiwizowanej liście [$1](mailto:$1?subject=%s) lub za pośrednictwem GitHub'
+- en: 'Please share your ideas, suggestions, or comments via e-mail to the publicly-archived list [$1](mailto:$1$2) or via GitHub.'   # do not change "[$1](mailto:$1$2)". $1 is replaced by the feedback email address. $2 by email subject & body.
+  uk: 'Будь ласка, поділіться своїми ідеями, пропозиціями або коментарями в публічній електронній розсилці [$1](mailto:$1$2) або на GitHub.'
+  ar: ' المرجو المشاركة بأفكار أو اقتراحات أو تعليقات عبر البريد الإلكتروني إلى القائمة بالأرشيف العام [$1](mailto:$1$2) أو عبر GitHub'
+  cs: 'Prosíme, sdílejte své nápady, připomínky nebo komentáře e-mailem do veřejně archivovaného seznamu [$1](mailto:$1$2) nebo na GitHubu.'
+  ja: 'ご意見、ご提案、コメントをemail [$1](mailto:$1$2) かGitHubまでお寄せください。'
+  ru: 'Пожалуйста, поделитесь своими идеями, предложениями или комментариями в публичной электронной рассылке [$1](mailto:$1$2) или через GitHub. '
+  de: 'Bitte teilen Sie Ihre Ideen, Vorschläge oder Kommentare per E-Mail an die öffentlich archivierte Liste [$1](mailto:$1$2) oder via GitHub mit.'
+  nl: 'Deel alstublieft uw ideeën, suggesties of commentaar per e-mail aan de openbare, gearchiveerde mailinglijst [$1](mailto:$1$2) of via GitHub.'
+  el: 'Παρακαλούμε, μοιραστείτε τις ιδέες, προτάσεις ή τα σχόλιά σας μέσω ηλεκτρονικού ταχυδρομείου στη δημόσια λίστα [$1](mailto:$1$2) ή μέσω του Github.'
+  zh-hans: '请通过电子邮件将您的想法、建议或意见分享到公共存档列表[$1](mailto:$1$2)或通过GitHub提交意见'
+  fr: 'Merci de partager vos idées, vos suggestions ou vos commentaires par courriel à la liste archivée publiquement [$1](mailto:$1$2) ou via GitHub.'
+  es: 'Comparte tus ideas, sugerencias o comentarios por correo electrónico a la lista pública [$1](mailto:$1$2) o vía GitHub.'
+  ko: '당신의 아이디어와 제안, 의견 등을 공개적으로 보관되는 [$1](mailto:$1$2)나 GitHub을 통해 공유해주세요.'
+  pt-BR: 'Compartilhe suas ideias, sugestões ou comentários por e-mail para a lista pública [$1](mailto:$1$2) ou via GitHub.'
+  fa: 'لطفا ایده‌ها، پیشنهادات یا نظرات خود را از طریق ایمیل به فهرست بایگانی شده عمومی [$1](mailto:$1$2)  یا از طریق گیت‌هاب به اشتراک بگذارید.'
+  id: 'Mohon berikan gagasan, saran, atau komentar melalui email ke daftar yang diarsipkan secara terbuka [$1](mailto:$1$2) atau melalui GitHub.'
+  pl: 'Prosimy o dzielenie się pomysłami, sugestiami lub komentarzami za pośrednictwem poczty elektronicznej na publicznie zarchiwizowanej liście [$1](mailto:$1$2) lub za pośrednictwem GitHub'
 
 - en: 'Previous/Next Page'   # aria-label for prev/next page naviation
   uk: 'Попередня/Наступна сторінка'
@@ -955,23 +955,23 @@
   id: '[masukkan komentar disini...]'
   pl: '[umieść komentarz tutaj...]'
 
-- en: '[put comment here...]\n\nI give permission to share this to a publicly-archived e-mail list.' # for e-mail template
-  uk: '[залиште коментар тут...]\n\nЯ надаю дозвіл на поширення цього тексту в публічній розсилці.'
-  ar: '[ضع تعليق هنا ...] \n \n أوافق على مشاركة هذا في قائمة البريد إلكتروني بالأرشيف العام.'
-  cs: '[vložit komentář zde...]\n\nDávám souhlas se sdílením do veřejně archivovaného e-mailového seznamu'
-  ja: '[コメント欄]\n\nI 一般に公開されているemailリストへの共有'
-  ru: '[оставьте комментарий здесь ...]\n\nЯ даю разрешение на публикацию этого текста в публичной рассылке.'
-  de: '[Ihr Kommentar …]\n\nIch erteile die Erlaubnis, dies in einer öffentlich archivierten E-Mail-Liste zu übermitteln.'
-  nl: '[opmerking hier invullen...]\n\nIk geef toestemming dit te delen op de publieke, gearchiveerde mailinglijst.'
-  el: '[σχολιάστε εδώ...]\n\nI δώστε άδεια, για να μοιραστεί αυτό σε μια δημόσια λίστα ηλεκτρονικού ταχυδρομείου.'
-  zh-hans: '[把注释写在这里......]\n\nI 允许将其共享到公开存档的电子邮件列表。'
-  fr: '[votre commentaire ici...]\n\nJ’accepte que ceci soit partagé sur une liste de courriels archivée publiquement.'
-  es: '[tu comentario aquí...]\n\nConsiento el compartirlo en una lista de correo pública con archivo.'   # for e-mail template
-  ko: '[여기에 코멘트를 남기세요...]\n\n이 메일이 공개적으로 보관되는 이메일 목록에 공유되는 것을 동의합니다.'
-  pt-BR: '[seu comentário aqui...]\n\nConcedo permissão de compartilhar isto para uma lista de email pública com arquivo.'
-  fa: '[نظر خود را اینجا بنویسید...]\n\nمن اجازه می‌دهد این پیام به فهرست بایگانی ایمیل عمومی به اشتراک گذاشته شود.'
-  id: '[masukkan komentar disini...]\n\nSaya memberikan izin untuk membagikan ini di daftar email yang diarsipkan secara terbuka.' # for e-mail template
-  pl: '[umieść komentarz tutaj...]\n\nWyrażam zgodę na udostępnienie tego na publicznie zarchiwizowanej liście e-mail.'
+- en: "I give permission to share this to a publicly-archived e-mail list." # for e-mail template
+  uk: "Я надаю дозвіл на поширення цього тексту в публічній розсилці."
+  ar: "أوافق على مشاركة هذا في قائمة البريد إلكتروني بالأرشيف العام."
+  cs: "Dávám souhlas se sdílením do veřejně archivovaného e-mailového seznamu"
+  ja: "I 一般に公開されているemailリストへの共有"
+  ru: "Я даю разрешение на публикацию этого текста в публичной рассылке."
+  de: "Ich erteile die Erlaubnis, dies in einer öffentlich archivierten E-Mail-Liste zu übermitteln."
+  nl: "Ik geef toestemming dit te delen op de publieke, gearchiveerde mailinglijst."
+  el: "I δώστε άδεια, για να μοιραστεί αυτό σε μια δημόσια λίστα ηλεκτρονικού ταχυδρομείου."
+  zh-hans: "I 允许将其共享到公开存档的电子邮件列表。"
+  fr: "J’accepte que ceci soit partagé sur une liste de diffusion archivée publiquement."
+  es: "Consiento el compartirlo en una lista de correo pública con archivo."
+  ko: "이 메일이 공개적으로 보관되는 이메일 목록에 공유되는 것을 동의합니다."
+  pt-BR: "Concedo permissão de compartilhar isto para uma lista de email pública com arquivo."
+  fa: "من اجازه می‌دهد این پیام به فهرست بایگانی ایمیل عمومی به اشتراک گذاشته شود."
+  id: "Saya memberikan izin untuk membagikan ini di daftar email yang diarsipkan secara terbuka."
+  pl: "Wyrażam zgodę na udostępnienie tego na publicznie zarchiwizowanej liście e-mail."
 
 # ADDED 2019-02-20
 
