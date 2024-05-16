@@ -799,6 +799,10 @@
       zh-hans: "W3C 移动端无障碍"
     url: "/standards-guidelines/mobile/"
     translate: true
+    pages:
+      - name: "Changelog"
+        url: "/standards-guidelines/mobile/changelog/"
+        hide: true
 
 - name:
     en: News
