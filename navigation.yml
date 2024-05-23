@@ -2,12 +2,14 @@
     en: "Accessibility Fundamentals"
     es: "Fundamentos de accesibilidad"
     fr: "Fondamentaux de l'accessibilité"
+    pl: "Podstaw dostępności"
   translate: true
   pages:
   - name:
       en: 'Accessibility Fundamentals'
       es: 'Fundamentos de accesibilidad'
       fr: "Fondamentaux de l'accessibilité"
+      pl: "Podstaw dostępności"
     url: "/fundamentals/"
     translate: true
   - name: Changelog
@@ -17,9 +19,10 @@
       en: "Introduction to Accessibility"
       ar: "مقدمة لولوجية الويب"
       cs: "Úvod do webové přístupnosti"
+      de: "Einführung in das barrierefreie Web"
       es: "Introducción a la Accesibilidad Web"
       fr: "Introduction à l'accessibilité du web"
-      id: "Pengenalan pada Aksesibilitas Web"
+      id: "Pengenalan ke Aksesibilitas Web"
       ru: "ВВЕДЕНИЕ В ВЕБ-ДОСТУПНОСТЬ"
       zh-hans: "Web无障碍简介"
     url: "/fundamentals/accessibility-intro/"
@@ -33,8 +36,12 @@
         el: 'Εισαγωγή Βίντεο'
         es: 'Vídeo de Introducción'
         fr: 'Vidéo : introduction'
+        id: 'Video Pengantar'
         ja: '紹介'
+        ko: '소개 영상'
         nl: 'Video-introductie'
+        pl: 'Film Wprowadzenie'
+        pt-BR: 'Vídeo de Introdução'
         ru: 'Введение'
         zh-hans: '视频介绍'
       url: "/videos/standards-and-benefits/"
@@ -208,19 +215,27 @@
       url: "/fundamentals/accessibility-usability-inclusion/"
   - name:
       en: Components of Web Accessibility
+      fr: "Composantes de l'accessibilité du Web"
       ko: "웹 접근성 요소"
+      pl: "Komponenty dostępności Internetu"
     url: "/fundamentals/components/"
     translate: true
     pages:
     - name:
         en: Illustration Descriptions
+        fr: "Descriptions des illustrations"
+        pl: "Opisy ilustracji"
       url: "/fundamentals/components/examples/"
       translate: true
       hide: true
   - name:
       en: "Accessibility Principles"
+      ar: "مبادئ الوصول"
+      cs: "Zásady přístupnosti"
       fr: "Principes d’accessibilité"
       es: "Principios de accesibilidad"
+      ko: "접근성 원칙"
+      ru: "Принципы доступности"
       zh-hans: "无障碍原则"
     url: "/fundamentals/accessibility-principles/"
     translate: true
@@ -332,22 +347,27 @@
   - name:
       en: "Tips for Getting Started"
       fr: "Conseils pour démarrer"
+      id: "Kiat Memulai"
     url: "/tips/"
     translate: true
     hide: true
   - name:
       en: "Tips for Writing"
       fr: "Conseils pour l'écriture"
+      id: "Kiat Menulis"
     url: "/tips/writing/"
     translate: true
   - name:
       en: "Tips for Designing"
       fr: "Conseils pour le design"
+      id: "Kiat Mendesain"
+      ja: "デザインのためのヒント"
     url: "/tips/designing/"
     translate: true
   - name:
       en: "Tips for Developing"
       fr: "Conseils pour le développement"
+      id: "Kiat Pengembangan"
     url: "/tips/developing/"
     translate: true
   - name:
@@ -464,7 +484,13 @@
         - name: Example
           url: "/tutorials/images/examples/imagemap/"
           hide: true
-      - name: 'An <code style="color: inherit;">alt</code> Decision Tree'
+      - name:
+          en: 'An <code style="color: inherit;">alt</code> Decision Tree'
+          de: 'Ein <code style="color: inherit;">alt</code> -Entscheidungsbaum'
+          fr: 'Arbre décisionnel pour l’attribut <code style="color: inherit;">alt</code>'
+          id: 'Pohon Keputusan Penggunaan <code style="color: inherit;">alt</code>'
+          ja: '<code style="color: inherit;">alt</code> 의사결정나무'
+          ko: 'Ein <code style="color: inherit;">alt</code> -Entscheidungsbaum'
         url: "/tutorials/images/decision-tree/"
         translate: true
       - name: Tips and Tricks
@@ -715,7 +741,9 @@
     url: "/business-case/"
     translate: true
     pages:
-    - name: Bibliography
+    - name:
+        en: "Bibliography"
+        fr: "Bibliographie"
       url: "/business-case/bibliography/"
     - name: Acknowledgements
       url: "/business-case/acknowledgements/"
@@ -739,10 +767,12 @@
   translate: true
   pages:
   - name:
+      ar: 'معايير/إرشادات'
       en: 'Standards/<wbr>Guidelines'
       cs: 'Standardy/Pokyny'
       es: 'Estándares/<wbr>Pautas'
       fr: "Standards/<wbr>Règles"
+      id: "Standar/Pedoman"
       ko: "표준/지침"
       ru: "Стандарты/<wbr>Рекомендации"
       zh-hans: "标准/指南"
@@ -752,9 +782,9 @@
     url: "/standards-guidelines/changelog/"
     hide: true
   - name:
-      en: "Web Content – WCAG 2"
-      fr: "Contenus web – WCAG 2"
-      es: "Contenido Web – WCAG 2"
+      en: "Web Content – WCAG 2"
+      fr: "Contenus web – WCAG 2"
+      es: "Contenido Web – WCAG 2"
     url: "/standards-guidelines/wcag/"
     translate: true
     pages:
@@ -789,13 +819,17 @@
   - name: WCAG 3 Draft
     url: "/standards-guidelines/wcag/wcag3-intro/"
     translate: true
-  - name: Authoring Tools – ATAG
+  - name:
+    en: "Authoring Tools – ATAG"
+    fr: "Outils d'édition – ATAG"
+    pl: "Narzędzia autorskie – ATAG"
     url: "/standards-guidelines/atag/"
     translate: true
     pages:
     - name:
         en: "At a Glance"
         fr: "En bref"
+        pl: "W skrócie"
       url: "/standards-guidelines/atag/glance/"
       translate: true
     - name: "For LMS"
@@ -804,7 +838,9 @@
       url: "/standards-guidelines/atag/no-code/"
     - name: "For Social Media Platforms"
       url: "/standards-guidelines/atag/social-media/"
-  - name: User Agents – UAAG
+  - name:
+      en: "User Agents – UAAG"
+      pl: "Programów użytkownika – UAAG"
     url: "/standards-guidelines/uaag/"
     translate: true
   - name: WAI-ARIA
@@ -846,7 +882,9 @@
     url: "/pronunciation/"
   - name: Standards Harmonization is Essential
     url: "/standards-guidelines/harmonization/"
-  - name: W3C Process for Developing Standards
+  - name:
+      en: "W3C Process for Developing Standards"
+      fr: "Processus du W3C pour élaborer les standards"
     url: "/standards-guidelines/w3c-process/"
   - name: Referencing and Linking to Standards
     url: "/standards-guidelines/linking/"
@@ -854,10 +892,14 @@
     url: "/cognitive/"
     translate: true
   - name:
+      ar: "إمكانية الوصول للأجهزة المحمولة في W3C"
+
       en: "Mobile Accessibility at W3C"
       cs: "Mobilní přístupnost ve W3C"
       es: "Accesibilidad Móvil en el W3C"
       fr: "Accessibilité mobile chez W3C"
+      id: "Aksesibilitas Perangkat Seluler W3C"
+      ko: "W3C의 모바일 접근성"
       ru: "Решения консорциума W3C по обеспечению доступности на мобильных устройствах"
       zh-hans: "W3C 移动端无障碍"
     url: "/standards-guidelines/mobile/"
