@@ -503,7 +503,7 @@
         url: "/test-evaluate/easy-checks/skip-link/"
       - name: Keyboard Focus
         url: "/test-evaluate/easy-checks/keyboard-focus/"
-      - name: Langage of Page
+      - name: Language of Page
         url: "/test-evaluate/easy-checks/language/"
       - name: Zoom
         url: "/test-evaluate/easy-checks/zoom/"
