@@ -828,16 +828,65 @@
     url: "/about/groups/"
     pages:
     - name: 'AGWG: Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
-      url: "https://www.w3.org/WAI/GL/"
+      url: "/about/groups/agwg/"
+      pages:
+      - name: Charter
+        url: "https://www.w3.org/WAI/GL/charter"
+      - name: Task Forces
+        url: "/about/groups/agwg/task-forces/"
+      - name: Decision Policy
+        url: "/about/groups/agwg/decision-policy/"
+      - name: Communication
+        url: "/about/groups/agwg/communication/"
+      - name: How to Participate (Join)
+        url: "/about/groups/agwg/participate/"
     - name: 'APA: Accessible Platform <abbr title="Working Group">WG</abbr>'
-      url: "https://www.w3.org/WAI/APA/"
+      url: "/about/groups/apawg/"
+      pages:
+      - name: Charter
+        url: "https://www.w3.org/2023/07/apa-wg-charter"
+      - name: Task Forces
+        url: "/about/groups/apawg/task-forces/"
+      - name: Decision Policy
+        url: "/about/groups/apawg/decision-policy/"
+      - name: Deliverables and Status
+        url: "/about/groups/apawg/deliverables/"
+      - name: APA Video Examples
+        url: "/about/groups/apawg/video-examples/"
+      - name: Communication
+        url: "/about/groups/apawg/communication/"
+      - name: How to Contribute
+        url: "/about/groups/apawg/contribute/"
+      - name: How to Participate (Join)
+        url: "/about/groups/apawg/participate/"
     - name: 'ARIA: Accessible Rich Internet Applications <abbr title="Working Group">WG</abbr>'
-      url: "https://www.w3.org/WAI/ARIA/"
+      url: "/about/groups/ariawg/"
+      pages:
+      - name: Charter
+        url: "https://www.w3.org/WAI/ARIA/charter"
+      - name: Task Forces
+        url: "/about/groups/ariawg/task-forces/"
+      - name: Decision Policy
+        url: "/about/groups/ariawg/decision-policy/"
+      - name: Workflow
+        url: "/about/groups/ariawg/workflow/"
+      - name: Roadmap
+        url: "/about/groups/ariawg/roadmap/"
+      - name: Deliverables and Status
+        url: "/about/groups/ariawg/planning/"
+      - name: Communication
+        url: "/about/groups/ariawg/communication/"
+      - name: Editors
+        url: "/about/groups/ariawg/editors/"
+      - name: How to Contribute
+        url: "/about/groups/ariawg/contribute/"
+      - name: How to Participate (Join)
+        url: "/about/groups/ariawg/participate/"
     - name: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
       url: "/about/groups/eowg/"
       pages:
       - name: Charter
-        url: "/EO/charter-current"
+        url: "https://www.w3.org/WAI/EO/charter-current"
       - name: Participate (Join)
         url: "/about/groups/eowg/participate/"
       - name: Current Participants
@@ -845,7 +894,28 @@
     - name: 'WAI IG: WAI Interest Group'
       url: "/about/groups/waiig/"
     - name: 'Group Task Forces'
-      url: "/about/groups/taskforces/"
+      url: "/about/groups/task-forces/"
+      pages:
+      - name: 'ACT: Accessibility Conformance Testing <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/conformance-testing/"
+      - name: 'APG: ARIA Authoring Practices <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/practices/"
+      - name: 'COGA: Cognitive and Learning Disabilities <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/coga/"
+      - name: 'LVTF: Low Vision Accessibility <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/low-vision-a11y-tf/"
+      - name: 'MATF: Mobile Accessibility <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/matf/"
+      - name: 'RQTF: Research Question <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/research-questions/"
+      - name: 'Silver Task Force'
+        url: "/about/groups/task-forces/silver/"
+      - name: 'Spoken Pronunciation <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/pronunciation/"
+      - name: 'WAI-Adapt Task Force'
+        url: "/about/groups/task-forces/personalization/"
+      - name: 'WCAG2ICT Task Force'
+        url: "/about/groups/task-forces/wcag2ict/"
   - name: Translating
     url: "/about/translating/"
     pages:
