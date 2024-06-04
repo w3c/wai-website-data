@@ -657,6 +657,9 @@
     pages:
     - name: Bibliography
       url: "/business-case/bibliography/"
+    - name: Acknowledgements
+      url: "/business-case/acknowledgements/"
+      hide: true
   # pages:
   #   - name: Social Factors
   #     url: "/business-case/social-factors/"
