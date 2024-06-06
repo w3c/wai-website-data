@@ -9,7 +9,7 @@
       en: 'Accessibility Fundamentals'
       es: 'Fundamentos de accesibilidad'
       fr: "Fondamentaux de l'accessibilité"
-      pl: "Podstaw dostępności"
+      pl: "Podstawy dostępności"
     url: "/fundamentals/"
     translate: true
   - name: Changelog
@@ -841,7 +841,7 @@
       url: "/standards-guidelines/atag/social-media/"
   - name:
       en: "User Agents – UAAG"
-      pl: "Programów użytkownika – UAAG"
+      pl: "Programy użytkownika – UAAG"
     url: "/standards-guidelines/uaag/"
     translate: true
   - name: WAI-ARIA
