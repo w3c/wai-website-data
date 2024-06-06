@@ -902,10 +902,14 @@
         url: "/about/groups/task-forces/practices/"
       - name: 'COGA: Cognitive and Learning Disabilities <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/coga/"
+      - name: 'CSS A11Y: CSS Accessibility <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/css-a11y/"
       - name: 'LVTF: Low Vision Accessibility <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/low-vision-a11y-tf/"
       - name: 'MATF: Mobile Accessibility <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/matf/"
+      - name: 'MMTF: Maturity Model <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/maturity-model/"
       - name: 'RQTF: Research Question <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/research-questions/"
       - name: 'Silver Task Force'
@@ -914,6 +918,8 @@
         url: "/about/groups/task-forces/pronunciation/"
       - name: 'WAI-Adapt Task Force'
         url: "/about/groups/task-forces/personalization/"
+      - name: 'WCAG 2 <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/wcag2x-backlog/"
       - name: 'WCAG2ICT Task Force'
         url: "/about/groups/task-forces/wcag2ict/"
   - name: Translating
