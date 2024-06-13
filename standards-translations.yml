@@ -33,9 +33,9 @@
   standard: wcag
   standard_version: "2.2"
   title: "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2"
-  url: https://ericvelleman.github.io/WCAG22_CAT/
-  date: 2024-02-02
-  type: cat
+  url: https://www.w3.org/Translations/WCAG22-nl/
+  date: 2024-06-12
+  type: authorized
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023AprJun/0016.html
   intent_date: 2023-06-05
 - lang: fr
