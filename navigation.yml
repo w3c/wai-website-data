@@ -181,7 +181,7 @@
     pages:
     - name: User Requirements
       url: "/research/user-requirements/"
-    - name: AI and Acessibility
+    - name: AI and Accessibility
       url: "/research/ai2023/"
   - name: Digital Accessibility Courses
     url: "/courses/"
