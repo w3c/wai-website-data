@@ -120,6 +120,10 @@
         fr: "Comment les personnes handicapées utilisent le web"
         es: "Cómo usan la web las personas con discapacidad"
       url: "/people-use-web/"
+      pages:
+        - name: "Acknowledgements"
+          url: "/people-use-web/acknowledgements/"
+          hide: true
     - name:
         en: "Stories of Web Users"
         fr: "Quelques utilisateurs du Web"
