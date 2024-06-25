@@ -121,19 +121,79 @@
         es: "Cómo usan la web las personas con discapacidad"
       url: "/people-use-web/"
       pages:
+        - name: "Acknowledgements"
+          url: "/people-use-web/acknowledgements/"
+          hide: true
+    - name:
+        en: "Stories of Web Users"
+        fr: "Quelques utilisateurs du Web"
+        es: "Historias de usuarios de la web"
+      url: "/people-use-web/user-stories/"
+      pages:
       - name:
-          en: "Stories of Web Users"
-          fr: "Quelques utilisateurs du Web"
-          es: "Historias de usuarios de la web"
-        url: "/people-use-web/user-stories/"
+          en: "Ade's Story"
+        url: "/people-use-web/user-stories/story-one/"
       - name:
-          en: "Diverse Abilities and Barriers"
-          fr: "Des capacités et des points bloquants variés"
-        url: "/people-use-web/abilities-barriers/"
+          en: "Ian's Story"
+        url: "/people-use-web/user-stories/story-two/"
       - name:
-          en: "Tools and Techniques"
-          fr: "Outils et techniques"
-        url: "/people-use-web/tools-techniques/"
+          en: "Lakshmi's Story"
+        url: "/people-use-web/user-stories/story-three/"
+      - name:
+          en: "Lexie's Story"
+        url: "/people-use-web/user-stories/story-four/"
+      - name:
+          en: "Sophie's Story"
+        url: "/people-use-web/user-stories/story-five/"
+      - name:
+          en: "Dhruv's Story"
+        url: "/people-use-web/user-stories/story-six/"
+      - name:
+          en: "Marta's Story"
+        url: "/people-use-web/user-stories/story-seven/"
+      - name:
+          en: "Stefan's Story"
+        url: "/people-use-web/user-stories/story-eight/"
+      - name:
+          en: "Elias' Story"
+        url: "/people-use-web/user-stories/story-nine/"
+    - name:
+        en: "Diverse Abilities and Barriers"
+        fr: "Des capacités et des points bloquants variés"
+      url: "/people-use-web/abilities-barriers/"
+      pages:
+      - name:
+          en: "Auditory"
+        url: "/people-use-web/abilities-barriers/auditory/"
+      - name:
+          en: "Cognitive and Learning"
+        url: "/people-use-web/abilities-barriers/cognitive/"
+      - name:
+          en: "Physical"
+        url: "/people-use-web/abilities-barriers/physical/"
+      - name:
+          en: "Speech"
+        url: "/people-use-web/abilities-barriers/speech/"
+      - name:
+          en: "Visual"
+        url: "/people-use-web/abilities-barriers/visual/"
+    - name:
+        en: "Tools and Techniques"
+        fr: "Outils et techniques"
+      url: "/people-use-web/tools-techniques/"
+      pages:
+      - name:
+          en: "Perception"
+        url: "/people-use-web/tools-techniques/perception/"
+      - name:
+          en: "Presentation"
+        url: "/people-use-web/tools-techniques/presentation/"
+      - name:
+          en: "Input"
+        url: "/people-use-web/tools-techniques/input/"
+      - name:
+          en: "Interaction"
+        url: "/people-use-web/tools-techniques/navigation/"
     - name: Older Users and Accessibility
       url: "/older-users/"
       pages:
