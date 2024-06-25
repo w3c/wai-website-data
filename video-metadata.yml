@@ -302,30 +302,16 @@
   path: people-use-web
   captions:
     - en
-- id: user-stories_3
-  name:
-    en: "Lexie, online shopper who cannot distinguish between certain colors"
-  main-page: /people-use-web/user-stories-three/
-  path: people-use-web
-  captions:
-    - en
-- id: user-stories_3
-  name:
-    en: "Ilya, senior accountant who is blind"
-  main-page: /people-use-web/user-stories-three/
-  path: people-use-web
-  captions:
-    - en
 - id: user-stories_4
   name:
-    en: "Lexie, online shopper who cannot distinguish between certain colors"
+    en: "Lexie, online shopper who cannot distinguish between certain colors (color blindness)"
   main-page: /people-use-web/user-stories-four/
   path: people-use-web
   captions:
     - en
 - id: user-stories_5
   name:
-    en: "Ilya, senior accountant who is blind"
+    en: "Sophie, basketball fan with Down syndrome"
   main-page: /people-use-web/user-stories-five/
   path: people-use-web
   captions:
@@ -346,15 +332,8 @@
     - en
 - id: user-stories_8
   name:
-    en: "Stefan, young student with attention deficit hyperactivity disorder and dyslexia"
+    en: "Stefan, student with attention deficit hyperactivity disorder and dyslexia"
   main-page: /people-use-web/user-stories-eight/
-  path: people-use-web
-  captions:
-    - en
-- id: user-stories_9
-  name:
-    en: "Elias, retiree with low vision, hand tremor, and mild short-term memory loss"
-  main-page: /people-use-web/user-stories-nine/
   path: people-use-web
   captions:
     - en
