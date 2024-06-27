@@ -7,8 +7,6 @@ Gem::Specification.new do |spec|
   spec.email         = ["steve@opendirective.com"]
 
   spec.summary       = "Gem for dependencies of WAI theme gems."
-  # Use old version of rouge as latest jekyl defaults to 4.0.0 that requires ruby 2.7.0 and we use 2.6.2
-  spec.add_dependency "rouge", '3.30.0'
   spec.add_dependency "jekyll-github-metadata"
   spec.add_dependency "jekyll-relative-links"
   spec.add_dependency "jekyll-seo-tag"
