@@ -32,12 +32,14 @@
   name:
     en: "Evaluation Tools Overview"
     fr: "Vue d’ensemble des outils d’évaluation"
+    pl: "Omówienie narzędzi oceny"    
   main-page: /test-evaluate/tools/
   path: evaluating
   captions:
     - en
   subtitles:
     - fr
+    - pl    
 - id: foundations-course-teaser
   name:
     en: "Introduction to Web Accessibility (W3C WAI Digital Accessibility Foundations - Free Online Course)"
