@@ -221,10 +221,8 @@
       pages:
       - name: How WCAG 2 Applies
         url: "/older-users/developing/"
-        translate: true
       - name: Literature Review
         url: "/older-users/literature/"
-        translate: true
       - name: Changelog
         url: "/older-users/changelog/"
         hide: true
