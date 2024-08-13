@@ -120,6 +120,7 @@
         fr: "Comment les personnes handicapées utilisent le web"
         es: "Cómo usan la web las personas con discapacidad"
       url: "/people-use-web/"
+      translate: true
       pages:
         - name: "Acknowledgements"
           url: "/people-use-web/acknowledgements/"
@@ -129,78 +130,101 @@
         fr: "Quelques utilisateurs du Web"
         es: "Historias de usuarios de la web"
       url: "/people-use-web/user-stories/"
+      translate: true
       pages:
       - name:
           en: "Ade's Story"
         url: "/people-use-web/user-stories/story-one/"
+        translate: true
       - name:
           en: "Ian's Story"
         url: "/people-use-web/user-stories/story-two/"
+        translate: true
       - name:
           en: "Lakshmi's Story"
         url: "/people-use-web/user-stories/story-three/"
+        translate: true
       - name:
           en: "Lexie's Story"
         url: "/people-use-web/user-stories/story-four/"
+        translate: true
       - name:
           en: "Sophie's Story"
         url: "/people-use-web/user-stories/story-five/"
+        translate: true
       - name:
           en: "Dhruv's Story"
         url: "/people-use-web/user-stories/story-six/"
+        translate: true
       - name:
           en: "Marta's Story"
         url: "/people-use-web/user-stories/story-seven/"
+        translate: true
       - name:
           en: "Stefan's Story"
         url: "/people-use-web/user-stories/story-eight/"
+        translate: true
       - name:
           en: "Elias' Story"
         url: "/people-use-web/user-stories/story-nine/"
+        translate: true
     - name:
         en: "Diverse Abilities and Barriers"
         fr: "Des capacités et des points bloquants variés"
       url: "/people-use-web/abilities-barriers/"
+      translate: true
       pages:
       - name:
           en: "Auditory"
         url: "/people-use-web/abilities-barriers/auditory/"
+        translate: true
       - name:
           en: "Cognitive and Learning"
         url: "/people-use-web/abilities-barriers/cognitive/"
+        translate: true
       - name:
           en: "Physical"
         url: "/people-use-web/abilities-barriers/physical/"
+        translate: true
       - name:
           en: "Speech"
         url: "/people-use-web/abilities-barriers/speech/"
+        translate: true
       - name:
           en: "Visual"
         url: "/people-use-web/abilities-barriers/visual/"
+        translate: true
     - name:
         en: "Tools and Techniques"
         fr: "Outils et techniques"
       url: "/people-use-web/tools-techniques/"
+      translate: true
       pages:
       - name:
           en: "Perception"
         url: "/people-use-web/tools-techniques/perception/"
+        translate: true
       - name:
           en: "Presentation"
         url: "/people-use-web/tools-techniques/presentation/"
+        translate: true
       - name:
           en: "Input"
         url: "/people-use-web/tools-techniques/input/"
+        translate: true
       - name:
           en: "Interaction"
         url: "/people-use-web/tools-techniques/navigation/"
+        translate: true
     - name: Older Users and Accessibility
       url: "/older-users/"
       pages:
       - name: How WCAG 2 Applies
         url: "/older-users/developing/"
+        translate: true
       - name: Literature Review
         url: "/older-users/literature/"
+        translate: true
       - name: Changelog
         url: "/older-users/changelog/"
         hide: true
