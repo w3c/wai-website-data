@@ -325,7 +325,9 @@
       url: "/planning/statements/minimal-example/"
     - name: Complete Example
       url: "/planning/statements/complete-example/"
-  - name: Involving Users for Better Accessibility
+  - name:
+      en: "Involving Users for Better Accessibility"
+      fr: "Impliquer les utilisateurs pour améliorer l'accessibilité"
     url: "/planning/involving-users/"
     translate: true
   - name: International Laws & Policies
@@ -607,10 +609,12 @@
   - name:
       en: "Evaluation Tools"
       fr: "Outils d'évaluation"
+      pl: "Narzędzi oceny"
     url: "/test-evaluate/tools/"
     translate: true
     pages:
-      - name: Selecting Evaluation Tools
+      - name:
+          en: "Selecting Evaluation Tools"
         url: "/test-evaluate/tools/selecting/"
       - name: List of Evaluation Tools
         url: "/test-evaluate/tools/list/"
@@ -786,6 +790,7 @@
       en: "Web Content – WCAG 2"
       fr: "Contenus web – WCAG 2"
       es: "Contenido Web – WCAG 2"
+      pl: "Treść Web – WCAG 2"
     url: "/standards-guidelines/wcag/"
     translate: true
     pages:
@@ -795,8 +800,11 @@
         en: "At a Glance"
         es: "De un vistazo"
         fr: "En bref"
+        pl: "W skrócie"
       url: "/standards-guidelines/wcag/glance/"
-    - name: The Documents
+    - name:
+        en: "The Documents"
+        pl: "Dokumenty"
       url: "/standards-guidelines/wcag/docs/"
     - name: "Applying to Non-Web ICT"
       url: "/standards-guidelines/wcag/non-web-ict/"
