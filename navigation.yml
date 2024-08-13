@@ -6,8 +6,8 @@
   translate: true
   pages:
   - name:
-      en: 'Accessibility Fundamentals'
-      es: 'Fundamentos de accesibilidad'
+      en: "Accessibility Fundamentals"
+      es: "Fundamentos de accesibilidad"
       fr: "Fondamentaux de l'accessibilité"
       pl: "Podstawy dostępności"
     url: "/fundamentals/"
@@ -30,33 +30,33 @@
     translate: true
     pages:
     - name:
-        en: 'Video Introduction'
-        ar: 'مقدمة فيديو'
-        cs: 'Video úvod'
-        de: 'Video-Einführung'
-        el: 'Εισαγωγή Βίντεο'
-        es: 'Vídeo de Introducción'
-        fr: 'Vidéo : introduction'
-        id: 'Video Pengantar'
-        ja: '紹介'
-        ko: '소개 영상'
-        nl: 'Video-introductie'
-        pl: 'Film Wprowadzenie'
+        en: "Video Introduction"
+        ar: "مقدمة فيديو"
+        cs: "Video úvod"
+        de: "Video-Einführung"
+        el: "Εισαγωγή Βίντεο"
+        es: "Vídeo de Introducción"
+        fr: "Vidéo : introduction"
+        id: "Video Pengantar"
+        ja: "紹介"
+        ko: "소개 영상"
+        nl: "Video-introductie"
+        pl: "Film Wprowadzenie"
         pt-BR: 'Vídeo de Introdução'
-        ru: 'Введение'
+        ru: "Введение"
         zh-hans: '视频介绍'
       url: "/videos/standards-and-benefits/"
       translate: true
       pages:
       - name:
           en: Changelog
-          de: 'Änderungsprotokoll'
-          nl: 'Changelog.'
-          el: 'Change log'
+          de: "Änderungsprotokoll"
+          nl: "Changelog."
+          el: "Change log"
           zh-hans: '修改日志'
-          fr: 'Changements'
-          ja: '変更履歴'
-          es: 'Registro de cambios'
+          fr: "Changements"
+          ja: "変更履歴"
+          es: "Registro de cambios"
         url: "/videos/standards-and-benefits/changelog/"
         hide: true
   - name: "Accessibility is About People"
@@ -243,13 +243,13 @@
     pages:
       - name:
           en: Changelog
-          de: 'Änderungsprotokoll'
-          nl: 'Changelog.'
-          el: 'Change log'
+          de: "Änderungsprotokoll"
+          nl: "Changelog."
+          el: "Change log"
           zh-hans: '修改日志'
-          fr: 'Changements'
-          ja: '変更履歴'
-          es: 'Registro de cambios'
+          fr: "Changements"
+          ja: "変更履歴"
+          es: "Registro de cambios"
         url: "/fundamentals/accessibility-principles/changelog/"
         hide: true
   - name: Research
@@ -271,23 +271,23 @@
         url: "/courses/submission/"
         hide: true
 - name:
-    en: 'Planning & Policies'
-    es: 'Planificación y Políticas'
-    fr: 'Organisation & politiques'
+    en: "Planning & Policies"
+    es: "Planificación y Políticas"
+    fr: "Organisation & politiques"
   translate: true
   pages:
   - name:
-      en: 'Planning & Policies'
-      es: 'Planificación y Políticas'
-      fr: 'Organisation & politiques'
+      en: "Planning & Policies"
+      es: "Planificación y Políticas"
+      fr: "Organisation & politiques"
     url: "/planning/"
     translate: true
   - name: Changelog
     url: "/planning/changelog/"
     hide: true
   - name:
-      en: 'Approaches for Interim Repairs'
-      fr: 'Stratégies de réparations provisoires'
+      en: "Approaches for Interim Repairs"
+      fr: "Stratégies de réparations provisoires"
     url: "/planning/interim-repairs/"
     translate: true
   - name: Planning and Managing Accessibility
@@ -331,15 +331,15 @@
   - name: International Laws & Policies
     url: "/policies/"
 - name:
-    en: 'Design & Develop'
-    es: 'Diseñar y Desarrollar'
-    fr: 'Concevoir & développer'
+    en: "Design & Develop"
+    es: "Diseñar y Desarrollar"
+    fr: "Concevoir & développer"
   translate: true
   pages:
   - name:
-      en: 'Design & Develop'
-      es: 'Diseñar y Desarrollar'
-      fr: 'Concevoir & développer'
+      en: "Design & Develop"
+      es: "Diseñar y Desarrollar"
+      fr: "Concevoir & développer"
     url: "/design-develop/"
     translate: true
   - name: Changelog
@@ -372,54 +372,54 @@
     url: "/tips/developing/"
     translate: true
   - name:
-      en: 'Audio & Video Media'
-      fr: 'Médias audio et vidéo'
+      en: "Audio & Video Media"
+      fr: "Médias audio et vidéo"
     url: "/media/av/"
     translate: true
     pages:
       - name:
-          en: 'User Needs'
-          fr: 'Besoins utilisateurs'
+          en: "User Needs"
+          fr: "Besoins utilisateurs"
         url: "/media/av/users-orgs/"
         translate: true
       - name:
-          en: 'Planning'
-          fr: 'Planification'
+          en: "Planning"
+          fr: "Planification"
         url: "/media/av/planning/"
         translate: true
       - name:
-          en: 'Audio Content & Video Content'
-          fr: 'Contenu audio & contenu vidéo'
+          en: "Audio Content & Video Content"
+          fr: "Contenu audio & contenu vidéo"
         url: "/media/av/av-content/"
         translate: true
       - name:
-          en: 'Description'
-          fr: 'Description'
+          en: "Description"
+          fr: "Description"
         url: "/media/av/description/"
         translate: true
       - name:
-          en: 'Captions/Subtitles'
-          fr: 'Sous-titres'
+          en: "Captions/Subtitles"
+          fr: "Sous-titres"
         url: "/media/av/captions/"
         translate: true
       - name:
-          en: 'Transcripts'
-          fr: 'Transcriptions'
+          en: "Transcripts"
+          fr: "Transcriptions"
         url: "/media/av/transcripts/"
         translate: true
       - name:
-          en: 'Transcribing Audio to Text'
-          fr: 'Transcrire un contenu audio en texte'
+          en: "Transcribing Audio to Text"
+          fr: "Transcrire un contenu audio en texte"
         url: "/media/av/transcribing/"
         translate: true
       - name:
-          en: 'Sign Languages'
-          fr: 'Langues des signes'
+          en: "Sign Languages"
+          fr: "Langues des signes"
         url: "/media/av/sign-languages/"
         translate: true
       - name:
-          en: 'Media Player'
-          fr: 'Lecteur multimédia'
+          en: "Media Player"
+          fr: "Lecteur multimédia"
         url: "/media/av/player/"
         translate: true
       - name:
@@ -428,7 +428,7 @@
         hide: true
       - name:
           en: Changelog
-          ja: '変更履歴'
+          ja: "変更履歴"
         url: "/media/av/changelog/"
         hide: true
   - name: Tutorials
@@ -559,15 +559,15 @@
       hide: true
 
 - name:
-    en: 'Test & Evaluate'
-    es: 'Probar y Evaluar'
-    fr: 'Tester et évaluer'
+    en: "Test & Evaluate"
+    es: "Probar y Evaluar"
+    fr: "Tester et évaluer"
   translate: true
   pages:
   - name:
-      en: 'Test & Evaluate'
-      es: 'Probar y Evaluar'
-      fr: 'Tester et évaluer'
+      en: "Test & Evaluate"
+      es: "Probar y Evaluar"
+      fr: "Tester et évaluer"
     url: "/test-evaluate/"
     translate: true
   - name: Changelog
@@ -605,7 +605,7 @@
       - name: Required Fields
         url: "/test-evaluate/easy-checks/required-fields/"
   - name:
-      en: 'Evaluation Tools'
+      en: "Evaluation Tools"
       fr: "Outils d'évaluation"
     url: "/test-evaluate/tools/"
     translate: true
@@ -615,8 +615,8 @@
       - name: List of Evaluation Tools
         url: "/test-evaluate/tools/list/"
   - name:
-      en: 'Conformance Evaluation, Reports'
-      fr: 'Évaluation de la conformité, rapports'
+      en: "Conformance Evaluation, Reports"
+      fr: "Évaluation de la conformité, rapports"
     url: "/test-evaluate/conformance/"
     translate: true
     pages:
@@ -629,8 +629,8 @@
   - name: Using Combined Expertise
     url: "/test-evaluate/combined-expertise/"
   - name:
-      en: 'Involving Users'
-      fr: 'Impliquer les utilisateurs'
+      en: "Involving Users"
+      fr: "Impliquer les utilisateurs"
     url: "/test-evaluate/involving-users/"
     translate: true
   - name: Acknowledgements
@@ -638,15 +638,15 @@
     hide: true
 
 - name:
-    en: 'Teach & Advocate'
-    es: 'Enseñar y Promover'
-    fr: 'Former et promouvoir'
+    en: "Teach & Advocate"
+    es: "Enseñar y Promover"
+    fr: "Former et promouvoir"
   translate: true
   pages:
   - name:
-      en: 'Teach & Advocate'
-      es: 'Enseñar y Promover'
-      fr: 'Former et promouvoir'
+      en: "Teach & Advocate"
+      es: "Enseñar y Promover"
+      fr: "Former et promouvoir"
     url: "/teach-advocate/"
     translate: true
   - name: Changelog
@@ -736,9 +736,9 @@
   - name: Contacting Inaccessible Websites
     url: "/teach-advocate/contact-inaccessible-websites/"
   - name:
-      en: 'Business Case'
-      es: 'Caso de negocios'
-      fr: 'Bénéfices business'
+      en: "Business Case"
+      es: "Caso de negocios"
+      fr: "Bénéfices business"
     url: "/business-case/"
     translate: true
     pages:
@@ -762,16 +762,16 @@
   #     url: "/business-case/resources/"
 
 - name:
-    en: 'Standards/<wbr>Guidelines'
-    es: 'Estándares/<wbr>Pautas'
-    fr: 'Standards/<wbr>Règles'
+    en: "Standards/<wbr>Guidelines"
+    es: "Estándares/<wbr>Pautas"
+    fr: "Standards/<wbr>Règles"
   translate: true
   pages:
   - name:
-      ar: 'معايير/إرشادات'
-      en: 'Standards/<wbr>Guidelines'
-      cs: 'Standardy/Pokyny'
-      es: 'Estándares/<wbr>Pautas'
+      ar: "معايير/إرشادات"
+      en: "Standards/<wbr>Guidelines"
+      cs: "Standardy/Pokyny"
+      es: "Estándares/<wbr>Pautas"
       fr: "Standards/<wbr>Règles"
       id: "Standar/Pedoman"
       ko: "표준/지침"
