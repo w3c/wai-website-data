@@ -809,7 +809,7 @@
   pt-BR: 'Esta tradução voluntária pode não refletir de forma adequada as intenções da <a href="$1">versão original em ingles.</a>'
   fa: 'این ترجمه داوطلبانه ممکن است به دقت اهداف اصلی <a href="$1">متن انگلیسی</a> را منعکس نکند.'
   id: 'Terjemahan sukarela ini mungkin tidak menggambarkan secara akurat intensi dari <a href="$1">dokumen Bahasa Inggris aslinya</a>.'
-  pl: 'To dobrowolne tłumaczenie może nie odzwierciedlać dokładnie intencji twórców. <a href="$1"> oryginału w języku angielskim</a>.'
+  pl: 'To dobrowolne tłumaczenie może nie odzwierciedlać dokładnie intencji twórców <a href="$1"> oryginału w języku angielskim</a>.'
 
 - en: 'Translating WAI Resources'   # links to w3.org/WAI/about/translating/
   uk: 'Переклад ресурсів WAI'
