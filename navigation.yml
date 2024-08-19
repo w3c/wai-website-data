@@ -2,12 +2,14 @@
     en: "Accessibility Fundamentals"
     es: "Fundamentos de accesibilidad"
     fr: "Fondamentaux de l'accessibilité"
+    pl: "Podstawy dostępności"
   translate: true
   pages:
   - name:
-      en: 'Accessibility Fundamentals'
-      es: 'Fundamentos de accesibilidad'
+      en: "Accessibility Fundamentals"
+      es: "Fundamentos de accesibilidad"
       fr: "Fondamentaux de l'accessibilité"
+      pl: "Podstawy dostępności"
     url: "/fundamentals/"
     translate: true
   - name: Changelog
@@ -17,38 +19,44 @@
       en: "Introduction to Accessibility"
       ar: "مقدمة لولوجية الويب"
       cs: "Úvod do webové přístupnosti"
+      de: "Einführung in das barrierefreie Web"
       es: "Introducción a la Accesibilidad Web"
       fr: "Introduction à l'accessibilité du web"
-      id: "Pengenalan pada Aksesibilitas Web"
+      id: "Pengenalan ke Aksesibilitas Web"
+      pl: "Wprowadzenie do dostępności internetowej"
       ru: "ВВЕДЕНИЕ В ВЕБ-ДОСТУПНОСТЬ"
       zh-hans: "Web无障碍简介"
     url: "/fundamentals/accessibility-intro/"
     translate: true
     pages:
     - name:
-        en: 'Video Introduction'
-        ar: 'مقدمة فيديو'
-        cs: 'Video úvod'
-        de: 'Video-Einführung'
-        el: 'Εισαγωγή Βίντεο'
-        es: 'Vídeo de Introducción'
-        fr: 'Vidéo : introduction'
-        ja: '紹介'
-        nl: 'Video-introductie'
-        ru: 'Введение'
+        en: "Video Introduction"
+        ar: "مقدمة فيديو"
+        cs: "Video úvod"
+        de: "Video-Einführung"
+        el: "Εισαγωγή Βίντεο"
+        es: "Vídeo de Introducción"
+        fr: "Vidéo : introduction"
+        id: "Video Pengantar"
+        ja: "紹介"
+        ko: "소개 영상"
+        nl: "Video-introductie"
+        pl: "Film Wprowadzenie"
+        pt-BR: 'Vídeo de Introdução'
+        ru: "Введение"
         zh-hans: '视频介绍'
       url: "/videos/standards-and-benefits/"
       translate: true
       pages:
       - name:
           en: Changelog
-          de: 'Änderungsprotokoll'
-          nl: 'Changelog.'
-          el: 'Change log'
+          de: "Änderungsprotokoll"
+          nl: "Changelog."
+          el: "Change log"
           zh-hans: '修改日志'
-          fr: 'Changements'
-          ja: '変更履歴'
-          es: 'Registro de cambios'
+          fr: "Changements"
+          ja: "変更履歴"
+          es: "Registro de cambios"
         url: "/videos/standards-and-benefits/changelog/"
         hide: true
   - name: "Accessibility is About People"
@@ -230,32 +238,40 @@
       url: "/fundamentals/accessibility-usability-inclusion/"
   - name:
       en: Components of Web Accessibility
+      fr: "Composantes de l'accessibilité du Web"
       ko: "웹 접근성 요소"
+      pl: "Komponenty dostępności Internetu"
     url: "/fundamentals/components/"
     translate: true
     pages:
     - name:
         en: Illustration Descriptions
+        fr: "Descriptions des illustrations"
+        pl: "Opisy ilustracji"
       url: "/fundamentals/components/examples/"
       translate: true
       hide: true
   - name:
       en: "Accessibility Principles"
+      ar: "مبادئ الوصول"
+      cs: "Zásady přístupnosti"
       fr: "Principes d’accessibilité"
       es: "Principios de accesibilidad"
+      ko: "접근성 원칙"
+      ru: "Принципы доступности"
       zh-hans: "无障碍原则"
     url: "/fundamentals/accessibility-principles/"
     translate: true
     pages:
       - name:
           en: Changelog
-          de: 'Änderungsprotokoll'
-          nl: 'Changelog.'
-          el: 'Change log'
+          de: "Änderungsprotokoll"
+          nl: "Changelog."
+          el: "Change log"
           zh-hans: '修改日志'
-          fr: 'Changements'
-          ja: '変更履歴'
-          es: 'Registro de cambios'
+          fr: "Changements"
+          ja: "変更履歴"
+          es: "Registro de cambios"
         url: "/fundamentals/accessibility-principles/changelog/"
         hide: true
   - name: Research
@@ -277,23 +293,23 @@
         url: "/courses/submission/"
         hide: true
 - name:
-    en: 'Planning & Policies'
-    es: 'Planificación y Políticas'
-    fr: 'Organisation & politiques'
+    en: "Planning & Policies"
+    es: "Planificación y Políticas"
+    fr: "Organisation & politiques"
   translate: true
   pages:
   - name:
-      en: 'Planning & Policies'
-      es: 'Planificación y Políticas'
-      fr: 'Organisation & politiques'
+      en: "Planning & Policies"
+      es: "Planificación y Políticas"
+      fr: "Organisation & politiques"
     url: "/planning/"
     translate: true
   - name: Changelog
     url: "/planning/changelog/"
     hide: true
   - name:
-      en: 'Approaches for Interim Repairs'
-      fr: 'Stratégies de réparations provisoires'
+      en: "Approaches for Interim Repairs"
+      fr: "Stratégies de réparations provisoires"
     url: "/planning/interim-repairs/"
     translate: true
   - name: Planning and Managing Accessibility
@@ -331,21 +347,23 @@
       url: "/planning/statements/minimal-example/"
     - name: Complete Example
       url: "/planning/statements/complete-example/"
-  - name: Involving Users for Better Accessibility
+  - name:
+      en: "Involving Users for Better Accessibility"
+      fr: "Impliquer les utilisateurs pour améliorer l'accessibilité"
     url: "/planning/involving-users/"
     translate: true
   - name: International Laws & Policies
     url: "/policies/"
 - name:
-    en: 'Design & Develop'
-    es: 'Diseñar y Desarrollar'
-    fr: 'Concevoir & développer'
+    en: "Design & Develop"
+    es: "Diseñar y Desarrollar"
+    fr: "Concevoir & développer"
   translate: true
   pages:
   - name:
-      en: 'Design & Develop'
-      es: 'Diseñar y Desarrollar'
-      fr: 'Concevoir & développer'
+      en: "Design & Develop"
+      es: "Diseñar y Desarrollar"
+      fr: "Concevoir & développer"
     url: "/design-develop/"
     translate: true
   - name: Changelog
@@ -354,73 +372,78 @@
   - name:
       en: "Tips for Getting Started"
       fr: "Conseils pour démarrer"
+      id: "Kiat Memulai"
     url: "/tips/"
     translate: true
     hide: true
   - name:
       en: "Tips for Writing"
       fr: "Conseils pour l'écriture"
+      id: "Kiat Menulis"
     url: "/tips/writing/"
     translate: true
   - name:
       en: "Tips for Designing"
       fr: "Conseils pour le design"
+      id: "Kiat Mendesain"
+      ja: "デザインのためのヒント"
     url: "/tips/designing/"
     translate: true
   - name:
       en: "Tips for Developing"
       fr: "Conseils pour le développement"
+      id: "Kiat Pengembangan"
     url: "/tips/developing/"
     translate: true
   - name:
-      en: 'Audio & Video Media'
-      fr: 'Médias audio et vidéo'
+      en: "Audio & Video Media"
+      fr: "Médias audio et vidéo"
     url: "/media/av/"
     translate: true
     pages:
       - name:
-          en: 'User Needs'
-          fr: 'Besoins utilisateurs'
+          en: "User Needs"
+          fr: "Besoins utilisateurs"
         url: "/media/av/users-orgs/"
         translate: true
       - name:
-          en: 'Planning'
-          fr: 'Planification'
+          en: "Planning"
+          fr: "Planification"
         url: "/media/av/planning/"
         translate: true
       - name:
-          en: 'Audio Content & Video Content'
-          fr: 'Contenu audio & contenu vidéo'
+          en: "Audio Content & Video Content"
+          fr: "Contenu audio & contenu vidéo"
         url: "/media/av/av-content/"
         translate: true
       - name:
-          en: 'Description'
-          fr: 'Description'
+          en: "Description"
+          fr: "Description"
         url: "/media/av/description/"
         translate: true
       - name:
-          en: 'Captions/Subtitles'
-          fr: 'Sous-titres'
+          en: "Captions/Subtitles"
+          fr: "Sous-titres"
         url: "/media/av/captions/"
         translate: true
       - name:
-          en: 'Transcripts'
-          fr: 'Transcriptions'
+          en: "Transcripts"
+          fr: "Transcriptions"
         url: "/media/av/transcripts/"
         translate: true
       - name:
-          en: 'Transcribing Audio to Text'
-          fr: 'Transcrire un contenu audio en texte'
+          en: "Transcribing Audio to Text"
+          fr: "Transcrire un contenu audio en texte"
         url: "/media/av/transcribing/"
         translate: true
       - name:
-          en: 'Sign Languages'
-          fr: 'Langues des signes'
+          en: "Sign Languages"
+          fr: "Langues des signes"
         url: "/media/av/sign-languages/"
         translate: true
       - name:
-          en: 'Media Player'
-          fr: 'Lecteur multimédia'
+          en: "Media Player"
+          fr: "Lecteur multimédia"
         url: "/media/av/player/"
         translate: true
       - name:
@@ -429,7 +452,7 @@
         hide: true
       - name:
           en: Changelog
-          ja: '変更履歴'
+          ja: "変更履歴"
         url: "/media/av/changelog/"
         hide: true
   - name: Tutorials
@@ -486,7 +509,13 @@
         - name: Example
           url: "/tutorials/images/examples/imagemap/"
           hide: true
-      - name: 'An <code style="color: inherit;">alt</code> Decision Tree'
+      - name:
+          en: 'An <code style="color: inherit;">alt</code> Decision Tree'
+          de: 'Ein <code style="color: inherit;">alt</code> -Entscheidungsbaum'
+          fr: 'Arbre décisionnel pour l’attribut <code style="color: inherit;">alt</code>'
+          id: 'Pohon Keputusan Penggunaan <code style="color: inherit;">alt</code>'
+          ja: '<code style="color: inherit;">alt</code> 의사결정나무'
+          ko: 'Ein <code style="color: inherit;">alt</code> -Entscheidungsbaum'
         url: "/tutorials/images/decision-tree/"
         translate: true
       - name: Tips and Tricks
@@ -554,15 +583,15 @@
       hide: true
 
 - name:
-    en: 'Test & Evaluate'
-    es: 'Probar y Evaluar'
-    fr: 'Tester et évaluer'
+    en: "Test & Evaluate"
+    es: "Probar y Evaluar"
+    fr: "Tester et évaluer"
   translate: true
   pages:
   - name:
-      en: 'Test & Evaluate'
-      es: 'Probar y Evaluar'
-      fr: 'Tester et évaluer'
+      en: "Test & Evaluate"
+      es: "Probar y Evaluar"
+      fr: "Tester et évaluer"
     url: "/test-evaluate/"
     translate: true
   - name: Changelog
@@ -600,18 +629,21 @@
       - name: Required Fields
         url: "/test-evaluate/easy-checks/required-fields/"
   - name:
-      en: 'Evaluation Tools'
+      en: "Evaluation Tools"
       fr: "Outils d'évaluation"
+      pl: "Narzędzia oceny"
     url: "/test-evaluate/tools/"
     translate: true
     pages:
-      - name: Selecting Evaluation Tools
+      - name:
+          en: "Selecting Evaluation Tools"
+          pl: "Wybór narzędzi oceny dostępności cyfrowej"
         url: "/test-evaluate/tools/selecting/"
       - name: List of Evaluation Tools
         url: "/test-evaluate/tools/list/"
   - name:
-      en: 'Conformance Evaluation, Reports'
-      fr: 'Évaluation de la conformité, rapports'
+      en: "Conformance Evaluation, Reports"
+      fr: "Évaluation de la conformité, rapports"
     url: "/test-evaluate/conformance/"
     translate: true
     pages:
@@ -624,8 +656,8 @@
   - name: Using Combined Expertise
     url: "/test-evaluate/combined-expertise/"
   - name:
-      en: 'Involving Users'
-      fr: 'Impliquer les utilisateurs'
+      en: "Involving Users"
+      fr: "Impliquer les utilisateurs"
     url: "/test-evaluate/involving-users/"
     translate: true
   - name: Acknowledgements
@@ -633,15 +665,15 @@
     hide: true
 
 - name:
-    en: 'Teach & Advocate'
-    es: 'Enseñar y Promover'
-    fr: 'Former et promouvoir'
+    en: "Teach & Advocate"
+    es: "Enseñar y Promover"
+    fr: "Former et promouvoir"
   translate: true
   pages:
   - name:
-      en: 'Teach & Advocate'
-      es: 'Enseñar y Promover'
-      fr: 'Former et promouvoir'
+      en: "Teach & Advocate"
+      es: "Enseñar y Promover"
+      fr: "Former et promouvoir"
     url: "/teach-advocate/"
     translate: true
   - name: Changelog
@@ -731,13 +763,15 @@
   - name: Contacting Inaccessible Websites
     url: "/teach-advocate/contact-inaccessible-websites/"
   - name:
-      en: 'Business Case'
-      es: 'Caso de negocios'
-      fr: 'Bénéfices business'
+      en: "Business Case"
+      es: "Caso de negocios"
+      fr: "Bénéfices business"
     url: "/business-case/"
     translate: true
     pages:
-    - name: Bibliography
+    - name:
+        en: "Bibliography"
+        fr: "Bibliographie"
       url: "/business-case/bibliography/"
     - name: Acknowledgements
       url: "/business-case/acknowledgements/"
@@ -755,16 +789,18 @@
   #     url: "/business-case/resources/"
 
 - name:
-    en: 'Standards/<wbr>Guidelines'
-    es: 'Estándares/<wbr>Pautas'
-    fr: 'Standards/<wbr>Règles'
+    en: "Standards/<wbr>Guidelines"
+    es: "Estándares/<wbr>Pautas"
+    fr: "Standards/<wbr>Règles"
   translate: true
   pages:
   - name:
-      en: 'Standards/<wbr>Guidelines'
-      cs: 'Standardy/Pokyny'
-      es: 'Estándares/<wbr>Pautas'
+      ar: "معايير/إرشادات"
+      en: "Standards/<wbr>Guidelines"
+      cs: "Standardy/Pokyny"
+      es: "Estándares/<wbr>Pautas"
       fr: "Standards/<wbr>Règles"
+      id: "Standar/Pedoman"
       ko: "표준/지침"
       ru: "Стандарты/<wbr>Рекомендации"
       zh-hans: "标准/指南"
@@ -774,9 +810,10 @@
     url: "/standards-guidelines/changelog/"
     hide: true
   - name:
-      en: "Web Content – WCAG 2"
-      fr: "Contenus web – WCAG 2"
-      es: "Contenido Web – WCAG 2"
+      en: "Web Content – WCAG 2"
+      fr: "Contenus web – WCAG 2"
+      es: "Contenido Web – WCAG 2"
+      pl: "Treść Web – WCAG 2"
     url: "/standards-guidelines/wcag/"
     translate: true
     pages:
@@ -786,8 +823,11 @@
         en: "At a Glance"
         es: "De un vistazo"
         fr: "En bref"
+        pl: "W skrócie"
       url: "/standards-guidelines/wcag/glance/"
-    - name: The Documents
+    - name:
+        en: "The Documents"
+        pl: "Dokumenty"
       url: "/standards-guidelines/wcag/docs/"
     - name: "Applying to Non-Web ICT"
       url: "/standards-guidelines/wcag/non-web-ict/"
@@ -811,13 +851,17 @@
   - name: WCAG 3 Draft
     url: "/standards-guidelines/wcag/wcag3-intro/"
     translate: true
-  - name: Authoring Tools – ATAG
+  - name:
+    en: "Authoring Tools – ATAG"
+    fr: "Outils d'édition – ATAG"
+    pl: "Narzędzia autorskie – ATAG"
     url: "/standards-guidelines/atag/"
     translate: true
     pages:
     - name:
         en: "At a Glance"
         fr: "En bref"
+        pl: "W skrócie"
       url: "/standards-guidelines/atag/glance/"
       translate: true
     - name: "For LMS"
@@ -826,7 +870,9 @@
       url: "/standards-guidelines/atag/no-code/"
     - name: "For Social Media Platforms"
       url: "/standards-guidelines/atag/social-media/"
-  - name: User Agents – UAAG
+  - name:
+      en: "User Agents – UAAG"
+      pl: "Programy użytkownika – UAAG"
     url: "/standards-guidelines/uaag/"
     translate: true
   - name: WAI-ARIA
@@ -868,7 +914,9 @@
     url: "/pronunciation/"
   - name: Standards Harmonization is Essential
     url: "/standards-guidelines/harmonization/"
-  - name: W3C Process for Developing Standards
+  - name:
+      en: "W3C Process for Developing Standards"
+      fr: "Processus du W3C pour élaborer les standards"
     url: "/standards-guidelines/w3c-process/"
   - name: Referencing and Linking to Standards
     url: "/standards-guidelines/linking/"
@@ -876,10 +924,14 @@
     url: "/cognitive/"
     translate: true
   - name:
+      ar: "إمكانية الوصول للأجهزة المحمولة في W3C"
+
       en: "Mobile Accessibility at W3C"
       cs: "Mobilní přístupnost ve W3C"
       es: "Accesibilidad Móvil en el W3C"
       fr: "Accessibilité mobile chez W3C"
+      id: "Aksesibilitas Perangkat Seluler W3C"
+      ko: "W3C의 모바일 접근성"
       ru: "Решения консорциума W3C по обеспечению доступности на мобильных устройствах"
       zh-hans: "W3C 移动端无障碍"
     url: "/standards-guidelines/mobile/"
