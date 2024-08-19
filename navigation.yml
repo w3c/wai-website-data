@@ -2,7 +2,7 @@
     en: "Accessibility Fundamentals"
     es: "Fundamentos de accesibilidad"
     fr: "Fondamentaux de l'accessibilité"
-    pl: "Podstaw dostępności"
+    pl: "Podstawy dostępności"
   translate: true
   pages:
   - name:
@@ -609,12 +609,13 @@
   - name:
       en: "Evaluation Tools"
       fr: "Outils d'évaluation"
-      pl: "Narzędzi oceny"
+      pl: "Narzędzia oceny"
     url: "/test-evaluate/tools/"
     translate: true
     pages:
       - name:
           en: "Selecting Evaluation Tools"
+          pl: "Wybór narzędzi oceny dostępności cyfrowej"
         url: "/test-evaluate/tools/selecting/"
       - name: List of Evaluation Tools
         url: "/test-evaluate/tools/list/"
