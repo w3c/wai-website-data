@@ -1,5 +1,7 @@
 - url: "/videos/standards-and-benefits/"
 - url: "/fundamentals/accessibility-intro/"
+- url: "/fundamentals/accessibility-principles/"
+- url: "/standards-guidelines/wcag/"
 - url: "/people-use-web/"
 - url: "/people-use-web/user-stories/"
   pages:
@@ -43,5 +45,3 @@
     - url: "/tips/designing/"
     - url: "/tips/developing/"
 - url: "/tutorials/images/decision-tree/"
-- url: "/fundamentals/accessibility-principles/"
-- url: "/standards-guidelines/wcag/"
