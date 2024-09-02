@@ -1051,7 +1051,7 @@
         url: "/about/groups/task-forces/research-questions/"
       - name: 'Silver Task Force'
         url: "/about/groups/task-forces/silver/"
-      - name: 'Spoken Pronunciation <abbr title="Task Force">TF</abbr>'
+      - name: 'Spoken Presentation <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/pronunciation/"
       - name: 'WAI-Adapt Task Force'
         url: "/about/groups/task-forces/adapt/"
