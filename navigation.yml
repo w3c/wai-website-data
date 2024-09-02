@@ -1054,7 +1054,7 @@
       - name: 'Spoken Pronunciation <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/pronunciation/"
       - name: 'WAI-Adapt Task Force'
-        url: "/about/groups/task-forces/personalization/"
+        url: "/about/groups/task-forces/adapt/"
       - name: 'WCAG 2 <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/wcag2x-backlog/"
       - name: 'WCAG2ICT Task Force'
