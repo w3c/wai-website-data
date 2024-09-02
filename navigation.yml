@@ -1049,15 +1049,15 @@
         url: "/about/groups/task-forces/maturity-model/"
       - name: 'RQTF: Research Question <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/research-questions/"
-      - name: 'Silver Task Force'
+      - name: 'Silver <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/silver/"
       - name: 'Spoken Presentation <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/pronunciation/"
-      - name: 'WAI-Adapt Task Force'
+      - name: 'WAI-Adapt <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/adapt/"
       - name: 'WCAG 2.x Backlog <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/wcag2x-backlog/"
-      - name: 'WCAG2ICT Task Force'
+      - name: 'WCAG2ICT <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/wcag2ict/"
   - name: Translating
     url: "/about/translating/"
