@@ -59,6 +59,9 @@
           es: "Registro de cambios"
         url: "/videos/standards-and-benefits/changelog/"
         hide: true
+    - name: "Changelog"
+      url: "/fundamentals/accessibility-intro/changelog/"
+      hide: true
   - name: "Accessibility is About People"
     url: "/people/"
     translate: true
@@ -132,6 +135,9 @@
       pages:
         - name: "Acknowledgements"
           url: "/people-use-web/acknowledgements/"
+          hide: true
+        - name: "Changelog"
+          url: "/people-use-web/changelog/"
           hide: true
     - name:
         en: "Stories of Web Users"
@@ -347,6 +353,9 @@
       url: "/planning/statements/minimal-example/"
     - name: Complete Example
       url: "/planning/statements/complete-example/"
+    - name: Changelog
+      url: "/planning/statements/changelog/"
+      hide: true
   - name:
       en: "Involving Users for Better Accessibility"
       fr: "Impliquer les utilisateurs pour améliorer l'accessibilité"
