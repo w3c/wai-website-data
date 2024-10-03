@@ -1021,13 +1021,14 @@
         url: "/about/groups/ariawg/participate/"
     - name: 'EOWG: Education and Outreach <abbr title="Working Group">WG</abbr>'
       url: "/about/groups/eowg/"
+      hide: true
       pages:
-      - name: Charter
-        url: "https://www.w3.org/WAI/EO/charter-current"
       - name: Participate (Join)
         url: "/about/groups/eowg/participate/"
-      - name: Current Participants
-        url: "https://www.w3.org/groups/wg/eowg/participants"
+        hide: true
+      - name: Participants
+        url: "/about/groups/eowg/participants/"
+        hide: true
     - name: 'WAI IG: WAI Interest Group'
       url: "/about/groups/waiig/"
     - name: 'Group Task Forces'
