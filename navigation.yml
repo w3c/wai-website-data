@@ -1026,6 +1026,9 @@
       - name: Participate (Join)
         url: "/about/groups/eowg/participate/"
         hide: true
+      - name: Participants
+        url: "/about/groups/eowg/participants/"
+        hide: true
     - name: 'WAI IG: WAI Interest Group'
       url: "/about/groups/waiig/"
     - name: 'Group Task Forces'
