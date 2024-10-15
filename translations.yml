@@ -1147,6 +1147,7 @@
 
 - en: 'The Web Accessibility Initiative (WAI) thanks translators, and welcomes other <a href="$1">translations</a>.'   # Updated 15-Oct-2024 "WAI thanks translators" -> "The Web Accessibility Inititiative (WAI) thanks translators"
   fr: 'L’Initiative pour l’Accessibilité du Web (WAI) remercie les traducteurs, et accueille volontiers d’autres <a href="$1">traductions</a>.'
+  # To update
   uk: 'WAI дякує перекладачам та запрошує долучитись охочих <a href="$1">переклади</a>.'
   ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
   cs: 'WAI děkuje překladatelům a vítá další <a href="$1">překlady</a>.'
@@ -1165,6 +1166,7 @@
 
 - en: 'The English original has been substantively updated since this translation.'   # Used in “About this Translation” section, when a translation needs update. # Updated 15-Oct-2024 "English version updated since this translation" -> "The English original has been substantively updated since this translation"
   fr: 'La version originale en anglais a été substantiellement mise à jour depuis cette traduction.'
+  # To update
   uk: 'Англійська версія оновлена з моменту перекладу.'
   ar: 'تم تحديث النسخة الإنجليزية منذ هذه الترجمة.'
   cs: 'Anglická verze aktualizována od tohoto překladu.'
@@ -1183,6 +1185,7 @@
 
 - en: 'English version updated:'   # Used in “About this Translation” section, when a translation needs update. Precedes the last updated date of the English original. # Updated 15-Oct-2024 "English updated:" -> "English original updated:"
   fr: 'Dernière mise à jour de la version en anglais :'
+  # To update
   uk: 'Англійська версія оновлена:'
   ar: 'إنجليزية المحدثة:'
   cs: 'Angličtina aktualizována:'
@@ -1201,6 +1204,7 @@
 
 - en: 'Translation date:'   # Used in page footer and “About this translation" section. Precedes the date of the translation. # Updated 15-Oct-2024 "Translation updated:" -> "Translation date:"
   fr: 'Date de la traduction :'
+  # To update
   uk: 'Переклад оновлено:'
   ar: 'ترجمة محدثة:'
   cs: 'Překlad aktualizován:'
@@ -1219,6 +1223,7 @@
 
 - en: 'Latest changes'  # Used in page footer and “About this translation" section (when a translation needs update). Links goes to a page listing the changes made to the English original. # Updated 15-Oct-2024 "Changelog" -> "Latest changes"
   fr: 'Derniers changements'
+  # To update
   uk: 'Перелік змін'
   ar: 'سجل التغيير'
   cs: 'Seznam změn'
