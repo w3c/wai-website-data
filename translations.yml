@@ -1041,6 +1041,7 @@
   id: 'dalam'
   ja: '親ページ：' # In Japanese, the usage of "in" is different from English, we usually use a phrase combination to express it. Such as "[parent resource title]の中の[resource sub-page title]". And it is rare to express a lead-in to a parent page as "in" such the example. It would be easier to write it as the "parent page:" in a straightforward manner.
   ko: 'in'
+  pt-BR: 'em'
   ar: 'في'
   ru: 'в'
   zh-hans: '在' # In Chinese, the usage of "in" is different from English, and we usually use a phrase combination to express it. Such as [Stories of Web Users] 在 [How People with Disabilities Use the Web] 之中。Of course, it is understandable to just translate as "在", but it is not accurate.
@@ -1060,6 +1061,7 @@
   id: 'Lihat Semua Bagian'
   ja: 'すべてのセクションを展開する'
   ko: '모든 섹션 펼치기'
+  pt-BR: 'Expandir todas as seções'
   ar: 'توسيع كل الأقسام'
   ru: 'Развернуть Все Разделы'
   zh-hans: '展开所有章节'
@@ -1078,6 +1080,7 @@
   id: 'Sembunyikan Semua Bagian'
   ja: 'すべてのセクションを折りたたむ'
   ko: '모든 섹션 닫기'
+  pt-BR: 'Recolher todas as seções'
   ar: 'تصغير كل الأقسام'
   ru: 'Свернуть Все Разделы'
   zh-hans: '收起所有章节'
@@ -1099,6 +1102,7 @@
   id: 'ke catatan kaki'
   ja: '注釈'
   ko: '각주로 이동'
+  pt-BR: 'ir para nota de rodapé'
   ar: 'الي الهامش'
   ru: 'к примечанию'
   zh-hans: '访问脚注'
@@ -1116,6 +1120,7 @@
   id: 'kembali ke catatan kaki'
   ja: 'に戻る' # In Japanese, "in text"(本文中の) should be said first. [back to footnote] 1 [in text] -> [本文中の注釈] 1 [に戻る]
   ko: '각주에서 나오기'
+  pt-BR: 'voltar para nota de rodapé'
   ar: 'العودة الي الهامش'
   ru: 'вернуться к примечанию'
   zh-hans: '返回脚注'
@@ -1133,6 +1138,7 @@
   id: 'dalam teks'
   ja: '本文中の注釈' # In Japanese, "in text"(本文中の) should be said first. [back to footnote] 1 [in text] -> [本文中の注釈] 1 [に戻る]
   ko: '텍스트에서'
+  pt-BR: 'no texto'
   ar: 'في النص'
   ru: 'в тексте'
   zh-hans: '在文中'
@@ -1149,6 +1155,7 @@
   nl: 'Deze video is beschikbaar met meer toegankelijkheidsopties:'
   de: 'Dieses Video ist mit weiteren Barrierefreiheitsfunktionen verfügbar:'
   ko: '접근성 기능이 지원된 비디오로도 이용 가능합니다.'
+  pt-BR: 'Este vídeo está disponível com mais recursos de acessibilidade:'
   ja: 'こちらの動画はより多くのアクセシビリティ機能が利用できます：'
   id: 'Video ini tersedia dengan lebih banyak fitur aksesibilitas:'
   ar: ':يتوفر هذا الفيديو بمزيد من ميزات إمكانية الوصول'
