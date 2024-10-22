@@ -1068,7 +1068,6 @@
         pages:
         - name: Technical Steps
           url: "/about/translating/resources/technical-steps/"
-          pages:
         - name: Using GitHub
           url: "/about/translating/resources/using-github/"
         - name: Subtitles/Descriptions
@@ -1081,6 +1080,9 @@
         url: "/about/translating/reviewing/"
       - name: Translating WCAG
         url: "/about/translating/wcag/"
+        pages:
+          - name: Updating WCAG 2.1 Translations
+            url: "/about/translating/wcag/wcag21-update/"
       - name: Translations Sitemaps
         url: "/about/translating/sitemaps/"
         pages:
