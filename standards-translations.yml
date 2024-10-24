@@ -60,7 +60,7 @@
 - lang: ko
   standard: wcag
   standard_version: "2.2"
-  type: unofficial
+  type: intent-unofficial
   translator: "Seak-Zoon Roh"
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0002.html
   intent_date: 2024-10-17
