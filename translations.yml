@@ -1132,18 +1132,24 @@
   ko: "이미지에 대한 긴 설명"
   pl: "Długi opis obrazu"
 
-# Added 2024-10-15
+# Added 2024-10-31
+
+- en: 'This page has been reviewed and is current as of' # Used in the page footer
+  fr: 'Cette page a été vérifiée et est à jour en date du.'
 
 - en: 'Notice:' # Used in “About this translation” section, to notify that the translation needs update.
   fr: 'Avertissement :'
 
-- en: 'English version date:' # Used in page footer of translations. Precedes the date of the English version used for translation.
-  fr: 'Date de la version anglaise :'
-
 - en: 'We welcome a <a href="$1">translation update</a>.' # Used in “About this translation” section, when a translation needs update.
   fr: 'Nous accueillons volontiers une <a href="$1">mise à jour de la traduction</a>.'
 
-# Updated 2024-10-15
+- en: 'Translated:'   # Used in the page footer. Precedes the date of the translation.
+  fr: 'Date de la traduction :'
+
+- en: 'First published'   # Used in the page footer. Precedes the date of the translation.
+  fr: 'Première publication :'
+
+# Updated 2024-10-31
 
 - en: 'The Web Accessibility Initiative (WAI) thanks translators, and welcomes other <a href="$1">translations</a>.'   # Updated 15-Oct-2024 "WAI thanks translators" -> "The Web Accessibility Inititiative (WAI) thanks translators"
   fr: 'L’Initiative pour l’Accessibilité du Web (WAI) remercie les traducteurs, et accueille volontiers d’autres <a href="$1">traductions</a>.'
@@ -1183,8 +1189,8 @@
   id: 'Versi Bahasa Inggris diperbarui setelah terjemahan dibuat.'
   pl: 'Wersja angielska zaktualizowana od czasu tego tłumaczenia.'
 
-- en: 'English version updated:'   # Used in “About this Translation” section, when a translation needs update. Precedes the last updated date of the English original. # Updated 15-Oct-2024 "English updated:" -> "English original updated:"
-  fr: 'Dernière mise à jour de la version en anglais :'
+- en: 'English version updated:'   # Used in page footer and “About this translation" section. Precedes the update date of the English original. # Updated 15-Oct-2024 "English updated:" -> "English version updated:"
+  fr: 'Version en anglais actualisée le :'
   # To update
   uk: 'Англійська версія оновлена:'
   ar: 'إنجليزية المحدثة:'
@@ -1202,7 +1208,7 @@
   id: 'Bahasa Inggris diperbarui:'
   pl: 'Aktualizacja wersji angielskiej'
 
-- en: 'Translation date:'   # Used in page footer and “About this translation" section. Precedes the date of the translation. # Updated 15-Oct-2024 "Translation updated:" -> "Translation date:"
+- en: 'Translation date:'   # Used in the “About this translation" section. Precedes the date of the translation. # Updated 15-Oct-2024 "Translation updated:" -> "Translation date:"
   fr: 'Date de la traduction :'
   # To update
   uk: 'Переклад оновлено:'
