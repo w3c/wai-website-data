@@ -149,6 +149,14 @@
   date: 2022-07-11
   type: authorized
   translator: "Access42"
+- lang: de
+  standard: wcag
+  standard_version: "2.1_2018"
+  title: "Richtlinien für barrierefreie Webinhalte (WCAG) 2.1"
+  url: https://outline-rocks.github.io/wcag/translations/WCAG21-de/
+  date: 2022-06-15
+  type: unofficial
+  translator: "Aktion Mensch e.V."
 - lang: he
   standard: wcag
   standard_version: "2.1"
@@ -199,6 +207,12 @@
   type: intent-authorized
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2018OctDec/0023.html
   intent_date: 2018-11-02
+- lang: ru
+  standard: wcag
+  standard_version: "2.1"
+  type: intent-unofficial
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2020OctDec/0007.html
+  intent_date: 2020-10-21
 - lang: sk
   standard: wcag
   standard_version: "2.1_2018"
@@ -207,12 +221,25 @@
   date: 2021-04-09
   type: cat
   translator: "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky (MIRRI)"
+- lang: sv
+  standard: wcag
+  standard_version: "2.1"
+  type: intent-authorized
+  translator: "Funka Nu AB"
+  intent_date: 2018-10-01
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2018OctDec/0000.html
 - lang: es
   standard: wcag
   standard_version: "2.1"
   type: intent-unofficial
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html
   intent_date: 2019-04-12
+- lang: tr
+  standard: wcag
+  standard_version: "2.1"
+  type: intent-authorized
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2019JulSep/0011.html
+  intent_date: 2019-07-11
 - lang: uk
   standard: wcag
   standard_version: "2.1_2018"
@@ -277,7 +304,7 @@
 - lang: nl
   standard: wcag
   standard_version: "2.0"
-  title: "Richtlijnen voor de Toegankelijkheid van Webcontent (WCAG) 2.0"
+  title: "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.0"
   url: https://www.w3.org/Translations/WCAG20-nl/
   date: 2010-12-03
   type: authorized
@@ -285,7 +312,7 @@
 - lang: et
   standard: wcag
   standard_version: "2.0"
-  title: "Veebi sisu juurdepääsetavussuunised (WCAG 2.0)"
+  title: "Veebi sisu juurdepääsetavussuunised (WCAG) 2.0"
   url: https://www.w3.org/Translations/WCAG20-et/
   date: 2013-12-10
   type: authorized
@@ -414,7 +441,7 @@
 - lang: ru
   standard: wcag
   standard_version: "2.0"
-  title: "Руководство по обеспечению доступности Web-контента (WCAG) 2.0"
+  title: "Руководство по обеспечению доступности веб-контента (WCAG) 2.0"
   url: https://www.w3.org/Translations/WCAG20-ru/
   date: 2013-02-28
   type: authorized
