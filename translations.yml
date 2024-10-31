@@ -212,46 +212,9 @@
   es: 'Correo Electrónico'
   ko: 'E-mail'
   pt-BR: 'E-mail'
-
   fa: 'ایمیل'
   id: 'Email'
   pl: 'E-mail'
-
-- en: 'English updated:'   # introduces a date. used in “About this Translation”
-  uk: 'Англійська версія оновлена:'
-  ar: 'إنجليزية المحدثة:'
-  cs: 'Angličtina aktualizována:'
-  ja: '英語版更新'
-  ru: 'Английская версия обновлена:'
-  de: 'Englisch aktualisiert:'
-  nl: 'Engels bijgewerkt:'
-  el: 'Η αγγλική έκδοση ενημερώθηκε'
-  zh-hans: '英文版本更新：'
-  fr: 'Version anglaise mise à jour le&#8239;:'
-  es: 'Versión en inglés actualizada:'
-  ko: '영문 업데이트:'
-  pt-BR: 'Versão em inglês atualizada:'
-  fa: 'انگلیسی به روز شد:'
-  id: 'Bahasa Inggris diperbarui:'
-  pl: 'Aktualizacja wersji angielskiej'
-
-- en: 'English version updated since this translation: <a href="$1">Change log</a>.'   # used in “About this Translation”
-  uk: 'Англійська версія оновлена з моменту перекладу: <a href="$1">Журнал змін</a>.'
-  ar: 'تم تحديث النسخة الإنجليزية منذ هذه الترجمة:<a href="$1">سجل التغيير</a>'
-  cs: 'Anglická verze aktualizována od tohoto překladu: <a href="$1">Záznam změn</a>.'
-  ja: '本翻訳後に英語版が更新されています：<a href="$1">変更履歴</a>'
-  ru: 'Английская версия обновлена с момента перевода: <a href="$1">Журнал изменений</a>.'
-  de: 'Englische Version aktualisiert seit dieser Übersetzung: <a href="$1">Änderungsprotokoll</a>.'
-  nl: 'Engelse versie bijgewerkt sinds deze vertaling: <a href="$1">changelog</a>.'
-  el: 'Η αγγλική έκδοση ενημερώθηκε από τη μετάφραση: <a href="$1">Change log</a>.'
-  zh-hans: '自该翻译版之后的英文版本更新：<a href="$1">修改日志</a>.'
-  fr: 'Version anglaise mise à jour depuis cette traduction&#8239;: <a href="$1">changements</a>.'
-  es: 'Versión en inglés actualizada posteriormente a esta traducción: <a href="$1">registro de cambios</a>.'
-  ko: '영문 버전이 다음 번역 이후로 업데이트되었습니다.: <a href="$1">변경 기록</a>'
-  pt-BR: 'Versão em inglês atualizada posteriormente a esta tradução: <a href="$1">registro de mudanças</a>.'
-  fa: 'نسخه انگلیسی از زمان این ترجمه به روز شده است: <a href="$1">تغییرات </a>.'
-  id: 'Versi Bahasa Inggris diperbarui setelah terjemahan dibuat: <a href="$1">Catatan perubahan</a>.'
-  pl: 'Wersja angielska zaktualizowana od czasu tego tłumaczenia: <a href="$1">Dziennik zmian</a>'
 
 - en: 'External Site'   # alt text for icon that indicates link goes off WAI site
   uk: 'Зовнішній сайт'
@@ -829,42 +792,6 @@
   id: 'Menerjemahkan Sumber Informasi WAI'
   pl: 'Tłumaczenie materiałów WAI'
 
-- en: 'Translation updated:'   # precedes a date
-  uk: 'Переклад оновлено:'
-  ar: 'ترجمة محدثة:'
-  cs: 'Překlad aktualizován:'
-  ja: '翻訳更新済'
-  ru: 'Перевод обновлен:'
-  de: 'Übersetzung aktualisiert:'
-  nl: 'Vertaling bijgewerkt:'
-  el: 'Η μετάφραση ενημερώθηκε:'
-  zh-hans: '翻译更新'
-  fr: 'Traduction mise à jour&#8239;:'
-  es: 'Traducción actualizada:'
-  ko: '번역 업데이트:'
-  pt-BR: 'Tradução atualizada:'
-  fa: 'ترجمه به روز شده:'
-  id: 'Terjemahan diperbarui:'
-  pl: 'Aktualizacja tłumaczenia:'
-
-- en: 'Translation up-to-date with the English version.'
-  uk: 'Цей переклад відповідає версії англійською'
-  ar: 'ترجمة محدثة مع النسخة الإنجليزية.'
-  cs: 'Překlad v souladu s anglickou verzí.'
-  ja: '最新英語文書の翻訳'
-  ru: 'Перевод соответствует английской версиии.'
-  de: 'Übersetzung auf dem Stand der englischen Version.'
-  nl: 'Vertaling bijgewerkt naar de Engelse versie.'
-  el: 'Η μετάφραση είναι ενημερωμένη σύμφωνα με την αγγλική έκδοση.'
-  zh-hans: '该翻译已与英文版本同步。'
-  fr: 'Traduction à jour par rapport à la version anglaise.'
-  es: 'Traducción actualizada a la última versión de la original en inglés.'
-  ko: '최근 영어 버전과 함께 업데이트되었습니다.'
-  pt-BR: 'Tradução atualizada com a última versão em inglês.'
-  fa: 'ترجمه به روز در نسخه انگلیسی.'
-  id: 'Versi terjemahan ini sama dengan versi Bahasa Inggris-nya.'
-  pl: 'Tłumaczenie zgodne z wersją angielską.'
-
 - en: 'Translations'
   uk: 'Переклади'
   ar: 'ترجمات'
@@ -893,7 +820,7 @@
   nl: 'Vertaler/vertaalster:'
   el: 'Μεταφραστής:'
   zh-hans: '翻译者：'
-  fr: 'Traduction&#8239;:'
+  fr: 'Traduction :'
   es: 'Traductor/a:'
   ko: '번역한 사람'
   pt-BR: 'Tradutor:'
@@ -918,24 +845,6 @@
   fa: 'مترجمان:'
   id: 'Penerjemah:'
   pl: 'Osoby tłumaczące'
-
-- en: 'WAI thanks translators, and welcomes other <a href="$1">translations</a>.'   # UPDATED 18-Mar-2019 "WAI thanks these translators" -> "WAI thanks translators"
-  uk: 'WAI дякує перекладачам та запрошує долучитись охочих <a href="$1">переклади</a>.'
-  ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
-  cs: 'WAI děkuje překladatelům a vítá další <a href="$1">překlady</a>.'
-  ja: 'WAIは全ての翻訳者に感謝し、また他の<a href="$1">translations</a>も歓迎します'
-  ru: 'WAI благодарит переводчиков и приглашает к участию волонтеров<a href="$1"> переводы </a>.'
-  de: 'WAI dankt Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.' # UPDATED 2019-04-04
-  nl: 'WAI bedankt deze vertalers en moedigt andere <a href="$1">vertalingen</a> aan.'
-  el: 'Το WAI ευχαριστεί αυτούς τους μεταφραστές και χαιρετίζει κι άλλες <a href="$1">μεταφράσεις</a>.'
-  zh-hans: 'WAI感谢这些翻译者们，并欢迎其他的<a href="$1">翻译</a>。'
-  fr: 'WAI remercie ces traducteurs, et accueille volontiers d’autres <a href="$1">traductions</a>.'
-  es: 'WAI les da las gracias a estos/as traductores/as y da la bienvenida a otras <a href="$1">traducciones</a>.'
-  ko: 'WAI는 번역자에게 감사의 마음을 전하고, 다른 <a href="$1">번역</a>에도 참여하는 것을 환영합니다.'
-  pt-BR: 'WAI agradeçe os/as tradutores/as, e dá as boas-vindas a outras <a href="$1">traduções.</a>'
-  fa: 'WAI از مترجمان تشکر می‌کند، و از <a href="$1">ترجمه‌های</a> دیگر استقبال می‌کند.'
-  id: 'WAI berterimakasih kepada para penerjemah, dan menyambut <a href="$1">terjemahan</a> lainnya.'
-  pl: 'WAI dziękuje osobom tłumaczącym i <a href="$1">zaprasza je do współpracy</a>.'
 
 - en: '[put comment here...]'   # placeholder text in e-mail template
   uk: '[залиште коментар тут...]'
@@ -1008,26 +917,6 @@
   fa: 'قبلی'
   id: 'Sebelumnya'
   pl: 'Poprzednie'
-
-# ADDED 2019-02-21
-
-- en: Changelog   # links to page that lists changes to the resource
-  uk: 'Перелік змін'
-  ar: 'سجل التغيير'
-  cs: 'Seznam změn'
-  ru: Перечень изменений
-  de: 'Änderungsprotokoll'
-  nl: 'Changelog'
-  el: 'καταγραφή αλλαγών'
-  zh-hans: '修改日志'
-  fr: 'changements'
-  ja: '変更履歴'
-  es: 'Registro de cambios'
-  ko: '변경 기록'
-  pt-BR: 'Registro de Mudanças'
-  fa: 'تغییرات'
-  id: 'Catatan perubahan'
-  pl: 'Dziennik zmian'
 
 # ADDED 2019-07-09
 
@@ -1218,7 +1107,7 @@
 
 # Added 2024-01-02
 
-- en: 'Video Subtitles' # Precedes list of videos that include subtitles in this language: https://www.w3.org/WAI/translations/
+- en: 'Video Subtitles' # Precedes list of "subtitles only" translations: https://www.w3.org/WAI/translations/
   fr: 'Vidéos sous-titrées'
   ja: '字幕'
   pl: 'Napisy rozszerzone'
@@ -1229,9 +1118,9 @@
   cs: 'Standardy/Pokyny'
   es: 'Estándares/Pautas'
   ja: '標準仕様/ガイドライン'
-  ko: "표준/지침"
-  ru: "Стандарты/Рекомендации"
-  zh-hans: "标准/指南"
+  ko: '표준/지침'
+  ru: 'Стандарты/Рекомендации'
+  zh-hans: '标准/指南'
   pl: 'Standardy/Wytyczne'
   id: 'Standar/Pedoman'
   de: 'Standards/Richtlinien'
@@ -1242,3 +1131,117 @@
   fr: "Description longue de l'image"
   ko: "이미지에 대한 긴 설명"
   pl: "Długi opis obrazu"
+
+# Added 2024-10-31
+
+- en: 'This page has been reviewed and is current as of' # Used in the page footer
+  fr: 'Cette page a été vérifiée et est à jour en date du.'
+
+- en: 'Notice:' # Used in “About this translation” section, to notify that the translation needs update.
+  fr: 'Avertissement :'
+
+- en: 'We welcome a <a href="$1">translation update</a>.' # Used in “About this translation” section, when a translation needs update.
+  fr: 'Nous accueillons volontiers une <a href="$1">mise à jour de la traduction</a>.'
+
+- en: 'Translated:'   # Used in the page footer. Precedes the date of the translation.
+  fr: 'Date de la traduction :'
+
+- en: 'First published'   # Used in the page footer. Precedes the date of the translation.
+  fr: 'Première publication :'
+
+# Updated 2024-10-31
+
+- en: 'The Web Accessibility Initiative (WAI) thanks translators, and welcomes other <a href="$1">translations</a>.'   # Updated 31-Oct-2024 "WAI thanks translators" -> "The Web Accessibility Inititiative (WAI) thanks translators"
+  fr: 'L’Initiative pour l’Accessibilité du Web (WAI) remercie les traducteurs, et accueille volontiers d’autres <a href="$1">traductions</a>.'
+  # To update
+  uk: 'WAI дякує перекладачам та запрошує долучитись охочих <a href="$1">переклади</a>.'
+  ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
+  cs: 'WAI děkuje překladatelům a vítá další <a href="$1">překlady</a>.'
+  ja: 'WAIは全ての翻訳者に感謝し、また他の<a href="$1">translations</a>も歓迎します'
+  ru: 'WAI благодарит переводчиков и приглашает к участию волонтеров<a href="$1"> переводы </a>.'
+  de: 'WAI dankt Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.'
+  nl: 'WAI bedankt deze vertalers en moedigt andere <a href="$1">vertalingen</a> aan.'
+  el: 'Το WAI ευχαριστεί αυτούς τους μεταφραστές και χαιρετίζει κι άλλες <a href="$1">μεταφράσεις</a>.'
+  zh-hans: 'WAI感谢这些翻译者们，并欢迎其他的<a href="$1">翻译</a>。'
+  es: 'WAI les da las gracias a estos/as traductores/as y da la bienvenida a otras <a href="$1">traducciones</a>.'
+  ko: 'WAI는 번역자에게 감사의 마음을 전하고, 다른 <a href="$1">번역</a>에도 참여하는 것을 환영합니다.'
+  pt-BR: 'WAI agradeçe os/as tradutores/as, e dá as boas-vindas a outras <a href="$1">traduções.</a>'
+  fa: 'WAI از مترجمان تشکر می‌کند، و از <a href="$1">ترجمه‌های</a> دیگر استقبال می‌کند.'
+  id: 'WAI berterimakasih kepada para penerjemah, dan menyambut <a href="$1">terjemahan</a> lainnya.'
+  pl: 'WAI dziękuje osobom tłumaczącym i <a href="$1">zaprasza je do współpracy</a>.'
+
+- en: 'The English original has been substantively updated since this translation.'   # Used in “About this Translation” section, when a translation needs update. # Updated 31-Oct-2024 "English version updated since this translation" -> "The English original has been substantively updated since this translation"
+  fr: 'La version originale en anglais a été substantiellement mise à jour depuis cette traduction.'
+  # To update
+  uk: 'Англійська версія оновлена з моменту перекладу.'
+  ar: 'تم تحديث النسخة الإنجليزية منذ هذه الترجمة.'
+  cs: 'Anglická verze aktualizována od tohoto překladu.'
+  ja: '本翻訳後に英語版が更新されています.'
+  ru: 'Английская версия обновлена с момента перевода.'
+  de: 'Englische Version aktualisiert seit dieser Übersetzung.'
+  nl: 'Engelse versie bijgewerkt sinds deze vertaling.'
+  el: 'Η αγγλική έκδοση ενημερώθηκε από τη μετάφραση.'
+  zh-hans: '自该翻译版之后的英文版本更新.'
+  es: 'Versión en inglés actualizada posteriormente a esta traducción.'
+  ko: '영문 버전이 다음 번역 이후로 업데이트되었습니다.'
+  pt-BR: 'Versão em inglês atualizada posteriormente a esta tradução.'
+  fa: 'نسخه انگلیسی از زمان این ترجمه به روز شده است.'
+  id: 'Versi Bahasa Inggris diperbarui setelah terjemahan dibuat.'
+  pl: 'Wersja angielska zaktualizowana od czasu tego tłumaczenia.'
+
+- en: 'English version updated:'   # Used in page footer and “About this translation" section. Precedes the update date of the English original. # Updated 31-Oct-2024 "English updated:" -> "English version updated:"
+  fr: 'Version en anglais actualisée le :'
+  # To update
+  uk: 'Англійська версія оновлена:'
+  ar: 'إنجليزية المحدثة:'
+  cs: 'Angličtina aktualizována:'
+  ja: '英語版更新'
+  ru: 'Английская версия обновлена:'
+  de: 'Englisch aktualisiert:'
+  nl: 'Engels bijgewerkt:'
+  el: 'Η αγγλική έκδοση ενημερώθηκε'
+  zh-hans: '英文版本更新：'
+  es: 'Versión en inglés actualizada:'
+  ko: '영문 업데이트:'
+  pt-BR: 'Versão em inglês atualizada:'
+  fa: 'انگلیسی به روز شد:'
+  id: 'Bahasa Inggris diperbarui:'
+  pl: 'Aktualizacja wersji angielskiej'
+
+- en: 'Translation date:'   # Used in the “About this translation" section. Precedes the date of the translation. # Updated 31-Oct-2024 "Translation updated:" -> "Translation date:"
+  fr: 'Date de la traduction :'
+  # To update
+  uk: 'Переклад оновлено:'
+  ar: 'ترجمة محدثة:'
+  cs: 'Překlad aktualizován:'
+  ja: '翻訳更新済'
+  ru: 'Перевод обновлен:'
+  de: 'Übersetzung aktualisiert:'
+  nl: 'Vertaling bijgewerkt:'
+  el: 'Η μετάφραση ενημερώθηκε:'
+  zh-hans: '翻译更新'
+  es: 'Traducción actualizada:'
+  ko: '번역 업데이트:'
+  pt-BR: 'Tradução atualizada:'
+  fa: 'ترجمه به روز شده:'
+  id: 'Terjemahan diperbarui:'
+  pl: 'Aktualizacja tłumaczenia:'
+
+- en: 'Latest changes'  # Used in page footer and “About this translation" section (when a translation needs update). Links goes to a page listing the changes made to the English original. # Updated 31-Oct-2024 "Changelog" -> "Latest changes"
+  fr: 'Derniers changements'
+  # To update
+  uk: 'Перелік змін'
+  ar: 'سجل التغيير'
+  cs: 'Seznam změn'
+  ru: 'Перечень изменений'
+  de: 'Änderungsprotokoll'
+  nl: 'Changelog'
+  el: 'καταγραφή αλλαγών'
+  zh-hans: '修改日志'
+  ja: '変更履歴'
+  es: 'Registro de cambios'
+  ko: '변경 기록'
+  pt-BR: 'Registro de Mudanças'
+  fa: 'تغییرات'
+  id: 'Catatan perubahan'
+  pl: 'Dziennik zmian'
