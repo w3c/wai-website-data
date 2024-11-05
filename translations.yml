@@ -1245,3 +1245,8 @@
   fa: 'تغییرات'
   id: 'Catatan perubahan'
   pl: 'Dziennik zmian'
+
+# Added 2024-11-05
+
+- en: '[include a relevant email Subject]'   # placeholder text in e-mail template
+  fr: '[ajoutez un objet d’email approprié]'
