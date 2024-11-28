@@ -17,3 +17,15 @@ ln -s ../_external/data/techniques.yml
 ln -s ../_external/data/translations.yml
 ln -s ../_external/data/wcag.yml
 ```
+
+## FAQ
+
+### The default branch name has changed. How to update my fork?
+
+Since December 2024, the default branch is named `main`, for consistency with other W3C repositories and [GitHub default branch name](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches#about-the-default-branch).
+
+If you have an existing fork, you can [rename your fork's default branch](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/renaming-a-branch#renaming-a-branch).
+
+If you have a local clone, you can either delete and re-clone the repository, or update it by [running the commands from GitHub documentation](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/renaming-a-branch#updating-a-local-clone-after-a-branch-name-changes).
+
+You may encounter an error when trying to update the `_external/data` submodule in local clones of other repositories. Indeed, when the default branch is changed, [the submodule does not automatically switch to the new default branch](https://www.sjoerdlangkemper.nl/2021/10/15/git-submodule-update-remote-retrieves-default-branch-except-when-changed/). To retrieve and update the local remote HEAD, run `git submodule foreach git remote set-head origin -a` from the root folder.
