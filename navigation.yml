@@ -1101,6 +1101,8 @@
         pages:
           - name: "Arabic"
             url: "/about/translating/sitemaps/sitemap-ar/"
+          - name: "Brazilian Portuguese"
+            url: "/about/translating/sitemaps/sitemap-pt-br/"
           - name: "Chinese (Simplified)"
             url: "/about/translating/sitemaps/sitemap-zh-hans/"
           - name: "Czech"
@@ -1119,8 +1121,6 @@
             url: "/about/translating/sitemaps/sitemap-ko/"
           - name: "Polish"
             url: "/about/translating/sitemaps/sitemap-pl/"
-          - name: "Russian"
-            url: "/about/translating/sitemaps/sitemap-ru/"
           - name: "Spanish"
             url: "/about/translating/sitemaps/sitemap-es/"
   - name: Sponsoring
