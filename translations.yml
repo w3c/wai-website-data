@@ -1166,6 +1166,7 @@
 
 - en: 'The Web Accessibility Initiative (WAI) thanks translators, and welcomes other <a href="$1">translations</a>.'   # Updated 31-Oct-2024 "WAI thanks translators" -> "The Web Accessibility Inititiative (WAI) thanks translators"
   fr: 'L’Initiative pour l’Accessibilité du Web (WAI) remercie les traducteurs, et accueille volontiers d’autres <a href="$1">traductions</a>.'
+  zh-hans: 'Web 无障碍倡议（WAI）感谢这些翻译者们，并欢迎其他的<a href="$1">翻译</a>。'
   # To update
   uk: 'WAI дякує перекладачам та запрошує долучитись охочих <a href="$1">переклади</a>.'
   ar: 'WAI تشكر هؤلاء المترجمين وترحب <a href="$1">الترجمات</a> الأخرى.'
@@ -1175,7 +1176,6 @@
   de: 'WAI dankt Übersetzerinnen und Übersetzern und begrüßt weitere <a href="$1">Übersetzungen</a>.'
   nl: 'WAI bedankt deze vertalers en moedigt andere <a href="$1">vertalingen</a> aan.'
   el: 'Το WAI ευχαριστεί αυτούς τους μεταφραστές και χαιρετίζει κι άλλες <a href="$1">μεταφράσεις</a>.'
-  zh-hans: 'WAI感谢这些翻译者们，并欢迎其他的<a href="$1">翻译</a>。'
   es: 'WAI les da las gracias a estos/as traductores/as y da la bienvenida a otras <a href="$1">traducciones</a>.'
   ko: 'WAI는 번역자에게 감사의 마음을 전하고, 다른 <a href="$1">번역</a>에도 참여하는 것을 환영합니다.'
   pt-BR: 'WAI agradeçe os/as tradutores/as, e dá as boas-vindas a outras <a href="$1">traduções.</a>'
@@ -1185,6 +1185,7 @@
 
 - en: 'The English original has been substantively updated since this translation.'   # Used in “About this Translation” section, when a translation needs update. # Updated 31-Oct-2024 "English version updated since this translation" -> "The English original has been substantively updated since this translation"
   fr: 'La version originale en anglais a été substantiellement mise à jour depuis cette traduction.'
+  zh-hans: '自本翻译之后英文原文已进行了实质性更新。'
   # To update
   uk: 'Англійська версія оновлена з моменту перекладу.'
   ar: 'تم تحديث النسخة الإنجليزية منذ هذه الترجمة.'
@@ -1194,7 +1195,6 @@
   de: 'Englische Version aktualisiert seit dieser Übersetzung.'
   nl: 'Engelse versie bijgewerkt sinds deze vertaling.'
   el: 'Η αγγλική έκδοση ενημερώθηκε από τη μετάφραση.'
-  zh-hans: '自该翻译版之后的英文版本更新.'
   es: 'Versión en inglés actualizada posteriormente a esta traducción.'
   ko: '영문 버전이 다음 번역 이후로 업데이트되었습니다.'
   pt-BR: 'Versão em inglês atualizada posteriormente a esta tradução.'
@@ -1204,6 +1204,7 @@
 
 - en: 'English version updated:'   # Used in page footer and “About this translation" section. Precedes the update date of the English original. # Updated 31-Oct-2024 "English updated:" -> "English version updated:"
   fr: 'Version en anglais actualisée le :'
+  zh-hans: '英文版本更新：'
   # To update
   uk: 'Англійська версія оновлена:'
   ar: 'إنجليزية المحدثة:'
@@ -1213,7 +1214,6 @@
   de: 'Englisch aktualisiert:'
   nl: 'Engels bijgewerkt:'
   el: 'Η αγγλική έκδοση ενημερώθηκε'
-  zh-hans: '英文版本更新：'
   es: 'Versión en inglés actualizada:'
   ko: '영문 업데이트:'
   pt-BR: 'Versão em inglês atualizada:'
@@ -1223,6 +1223,7 @@
 
 - en: 'Translation date:'   # Used in the “About this translation" section. Precedes the date of the translation. # Updated 31-Oct-2024 "Translation updated:" -> "Translation date:"
   fr: 'Date de la traduction :'
+  zh-hans: '翻译日期：'
   # To update
   uk: 'Переклад оновлено:'
   ar: 'ترجمة محدثة:'
@@ -1232,7 +1233,6 @@
   de: 'Übersetzung aktualisiert:'
   nl: 'Vertaling bijgewerkt:'
   el: 'Η μετάφραση ενημερώθηκε:'
-  zh-hans: '翻译更新'
   es: 'Traducción actualizada:'
   ko: '번역 업데이트:'
   pt-BR: 'Tradução atualizada:'
@@ -1242,6 +1242,7 @@
 
 - en: 'Latest changes'  # Used in page footer and “About this translation" section (when a translation needs update). Links goes to a page listing the changes made to the English original. # Updated 31-Oct-2024 "Changelog" -> "Latest changes"
   fr: 'Derniers changements'
+  zh-hans: '最新变更'
   # To update
   uk: 'Перелік змін'
   ar: 'سجل التغيير'
@@ -1250,7 +1251,6 @@
   de: 'Änderungsprotokoll'
   nl: 'Changelog'
   el: 'καταγραφή αλλαγών'
-  zh-hans: '修改日志'
   ja: '変更履歴'
   es: 'Registro de cambios'
   ko: '변경 기록'
