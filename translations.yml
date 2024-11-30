@@ -1164,7 +1164,7 @@
 
 # Updated 2024-10-31
 
-- en: 'The Web Accessibility Initiative (WAI) thanks translators, and welcomes other <a href="$1">translations</a>.'   # Updated 31-Oct-2024 "WAI thanks translators" -> "The Web Accessibility Inititiative (WAI) thanks translators"
+- en: 'The Web Accessibility Initiative (WAI) thanks translators, and welcomes other <a href="$1">translations</a>.'   # Updated 31-Oct-2024 "WAI thanks translators" -> "The Web Accessibility Initiative (WAI) thanks translators"
   fr: 'L’Initiative pour l’Accessibilité du Web (WAI) remercie les traducteurs, et accueille volontiers d’autres <a href="$1">traductions</a>.'
   zh-hans: 'Web 无障碍倡议（WAI）感谢这些翻译者们，并欢迎其他的<a href="$1">翻译</a>。'
   # To update
