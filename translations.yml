@@ -1057,6 +1057,7 @@
 # The next phrases are combined with page metadata to generate footer (in Tutorials section for example)
 
 - en: 'Editors:'   # gender-neutral, plural. Precedes list of more than one person who edited the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Edition'.
+  zh-hans: '编者：'
   fr: 'Rédaction :'
   de: 'Redaktion:'
   id: 'Editor :'
@@ -1065,6 +1066,7 @@
   ko: '편집자:'
 
 - en: 'Update Editor:'   # gender-neutral, singular. Precedes list of one person who updates the resource. If gender-neutral not in your language, use appropriate alternative, such as plural or 'Update Edition'.
+  zh-hans: '更新资源的编辑者：'
   fr: 'Rédaction des mises à jour:'
   de: 'Aktualisierungen:'
   id: 'Editor Pembaruan:'
@@ -1073,6 +1075,7 @@
   ko: '업데이트 편집자'
 
 - en: 'Status:' # followed by the last updated date or
+  zh-hans: '状态：'
   fr: 'Statut :'
   de: 'Status:'
   id: 'Status:'
@@ -1081,6 +1084,7 @@
   ko: '상태:'
 
 - en: 'Updated' #  precedes a date
+  zh-hans: '更新日期'
   fr: 'Mise à jour le'
   de: 'Aktualisiert'
   id: 'Diperbarui'
@@ -1089,6 +1093,7 @@
   ko: '업데이트됨'
 
 - en: 'first published' #  precedes a date
+  zh-hans: '首次发布日期'
   fr: 'première publication'
   de: 'erstmals veröffentlicht'
   id: 'pertama kali dipublikasikan'
@@ -1099,6 +1104,7 @@
 # Added 2023-10-18
 
 - en: 'Acknowledgements'
+  zh-hans: '致谢'
   fr: 'Remerciements'
   id: 'Pengakuan kontribusi'
   ja: '謝辞'
@@ -1108,6 +1114,7 @@
 # Added 2024-01-02
 
 - en: 'Video Subtitles' # Precedes list of "subtitles only" translations: https://www.w3.org/WAI/translations/
+  zh-hans: '视频字幕'
   fr: 'Vidéos sous-titrées'
   ja: '字幕'
   pl: 'Napisy rozszerzone'
@@ -1128,6 +1135,7 @@
 # Added 2024-03-14
 
 - en: "Long description of image" # Link text underneath an image with long description in another page. Example: https://www.w3.org/WAI/fundamentals/components/
+  zh-hans: '图像的长描述'
   fr: "Description longue de l'image"
   ko: "이미지에 대한 긴 설명"
   pl: "Długi opis obrazu"
@@ -1135,18 +1143,23 @@
 # Added 2024-10-31
 
 - en: 'This page has been reviewed and is current as of' # Used in the page footer
+  zh-hans: '本页面已审核，内容截至'
   fr: 'Cette page a été vérifiée et est à jour en date du.'
 
 - en: 'Notice:' # Used in “About this translation” section, to notify that the translation needs update.
+  zh-hans: '通知：'
   fr: 'Avertissement :'
 
 - en: 'We welcome a <a href="$1">translation update</a>.' # Used in “About this translation” section, when a translation needs update.
+  zh-hans: '我们欢迎进行<a href="$1">翻译更新</a>。'
   fr: 'Nous accueillons volontiers une <a href="$1">mise à jour de la traduction</a>.'
 
 - en: 'Translated:'   # Used in the page footer. Precedes the date of the translation.
+  zh-hans: '翻译日期：'
   fr: 'Date de la traduction :'
 
 - en: 'First published'   # Used in the page footer. Precedes the date of the translation.
+  zh-hans: '首次发布日期'
   fr: 'Première publication :'
 
 # Updated 2024-10-31
@@ -1249,4 +1262,5 @@
 # Added 2024-11-05
 
 - en: '[include a relevant email Subject]'   # placeholder text in e-mail template
+  zh-hans: '【包含相关的电子邮件主题】'
   fr: '[ajoutez un objet d’email approprié]'
