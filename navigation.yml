@@ -3,6 +3,7 @@
     es: "Fundamentos de accesibilidad"
     fr: "Fondamentaux de l'accessibilité"
     pl: "Podstawy dostępności"
+    pt-BR: "Fundamentos de acessibilidade"
   translate: true
   pages:
   - name:
@@ -10,6 +11,7 @@
       es: "Fundamentos de accesibilidad"
       fr: "Fondamentaux de l'accessibilité"
       pl: "Podstawy dostępności"
+      pt-BR: "Fundamentos de acessibilidade"
     url: "/fundamentals/"
     translate: true
   - name: Changelog
