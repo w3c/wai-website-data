@@ -1183,7 +1183,7 @@
   id: 'WAI berterimakasih kepada para penerjemah, dan menyambut <a href="$1">terjemahan</a> lainnya.'
   pl: 'WAI dziękuje osobom tłumaczącym i <a href="$1">zaprasza je do współpracy</a>.'
 
-- en: 'The English original has been substantively updated since this translation.'   # Used in “About this Translation” section, when a translation needs update. # Updated 31-Oct-2024 "English version updated since this translation" -> "The English original has been substantively updated since this translation"
+- en: 'The English original has been substantially updated since this translation.'   # Used in “About this Translation” section, when a translation needs update. # Updated 31-Oct-2024 "English version updated since this translation" -> "The English original has been substantially updated since this translation"
   fr: 'La version originale en anglais a été substantiellement mise à jour depuis cette traduction.'
   zh-hans: '自本翻译之后英文原文已进行了实质性更新。'
   # To update
