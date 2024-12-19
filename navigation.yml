@@ -268,6 +268,7 @@
       cs: "Zásady přístupnosti"
       fr: "Principes d’accessibilité"
       es: "Principios de accesibilidad"
+      ja: "アクセシビリティの原則"
       ko: "접근성 원칙"
       ru: "Принципы доступности"
       zh-hans: "无障碍原则"
@@ -407,6 +408,7 @@
       en: "Tips for Developing"
       fr: "Conseils pour le développement"
       id: "Kiat Pengembangan"
+      zh-hans: "开发技巧"
     url: "/tips/developing/"
     translate: true
   - name:
@@ -530,6 +532,7 @@
           id: 'Pohon Keputusan Penggunaan <code style="color: inherit;">alt</code>'
           ja: '<code style="color: inherit;">alt</code> 의사결정나무'
           ko: 'Ein <code style="color: inherit;">alt</code> -Entscheidungsbaum'
+          pl: "Drzewo decyzyjne <code>alt</code>"
         url: "/tutorials/images/decision-tree/"
         translate: true
       - name: Tips and Tricks
