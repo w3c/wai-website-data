@@ -135,6 +135,7 @@
         en: "How People with Disabilities Use the Web"
         fr: "Comment les personnes handicapées utilisent le web"
         es: "Cómo usan la web las personas con discapacidad"
+        pt-BR: "Como as pessoas com deficiência usam a web"
       url: "/people-use-web/"
       translate: true
       pages:
@@ -148,91 +149,112 @@
         en: "Stories of Web Users"
         fr: "Quelques utilisateurs du Web"
         es: "Historias de usuarios de la web"
-      url: "/people-use-web/user-stories/"
+        pt-BR: "Histórias de usuários da web"
+      url: "/people-use-web/"
       translate: true
       pages:
       - name:
           en: "Ade's Story"
+          pt-BR: "História de Ade"
         url: "/people-use-web/user-stories/story-one/"
         translate: true
       - name:
           en: "Ian's Story"
+          pt-BR: "História de Ian"
         url: "/people-use-web/user-stories/story-two/"
         translate: true
       - name:
           en: "Lakshmi's Story"
+          pt-BR: "História de Lakshmi"
         url: "/people-use-web/user-stories/story-three/"
         translate: true
       - name:
           en: "Lexie's Story"
+          pt-BR: "História de Lexie"
         url: "/people-use-web/user-stories/story-four/"
         translate: true
       - name:
           en: "Sophie's Story"
+          pt-BR: "História de Sophie"
         url: "/people-use-web/user-stories/story-five/"
         translate: true
       - name:
           en: "Dhruv's Story"
+          pt-BR: "História de Dhruv"
         url: "/people-use-web/user-stories/story-six/"
         translate: true
       - name:
           en: "Marta's Story"
+          pt-BR: "História de Marta"
         url: "/people-use-web/user-stories/story-seven/"
         translate: true
       - name:
           en: "Stefan's Story"
+          pt-BR: "História de Stefan"
         url: "/people-use-web/user-stories/story-eight/"
         translate: true
       - name:
           en: "Elias' Story"
+          pt-BR: "História de Elias"
         url: "/people-use-web/user-stories/story-nine/"
         translate: true
     - name:
         en: "Diverse Abilities and Barriers"
         fr: "Des capacités et des points bloquants variés"
+        pt-BR: "Habilidades e barreiras diversas"
       url: "/people-use-web/abilities-barriers/"
       translate: true
       pages:
       - name:
           en: "Auditory"
+          pt-BR: "Auditivas"
         url: "/people-use-web/abilities-barriers/auditory/"
         translate: true
       - name:
           en: "Cognitive and Learning"
+          pt-BR: "Cognitivas e de aprendizado"
         url: "/people-use-web/abilities-barriers/cognitive/"
         translate: true
       - name:
           en: "Physical"
+          pt-BR: "Físicas"
         url: "/people-use-web/abilities-barriers/physical/"
         translate: true
       - name:
           en: "Speech"
+          pt-BR: "Fala"
         url: "/people-use-web/abilities-barriers/speech/"
         translate: true
       - name:
           en: "Visual"
+          pt-BR: "Visual"
         url: "/people-use-web/abilities-barriers/visual/"
         translate: true
     - name:
         en: "Tools and Techniques"
         fr: "Outils et techniques"
+        pt-BR: "Ferramentas e técnicas"
       url: "/people-use-web/tools-techniques/"
       translate: true
       pages:
       - name:
           en: "Perception"
+          pt-BR: "Percepção"
         url: "/people-use-web/tools-techniques/perception/"
         translate: true
       - name:
           en: "Presentation"
+          pt-BR: "Apresentação"
         url: "/people-use-web/tools-techniques/presentation/"
         translate: true
       - name:
-          en: "Input"
+          en: "Input" 
+          pt-BR: "Entrada"
         url: "/people-use-web/tools-techniques/input/"
         translate: true
       - name:
           en: "Interaction"
+          pt-BR: "Interação"
         url: "/people-use-web/tools-techniques/navigation/"
         translate: true
     - name: Older Users and Accessibility
