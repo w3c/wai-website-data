@@ -981,119 +981,134 @@
   - name: Groups
     url: "/about/groups/"
     pages:
-    - name: 'Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
-      url: "/about/groups/agwg/"
-      pages:
-      - name: Decision Policy
-        url: "/about/groups/agwg/decision-policy/"
-        hide: true
-    - name: 'Accessible Platform Architectures <abbr title="Working Group">WG</abbr>'
-      url: "/about/groups/apawg/"
-      pages:
-      - name: Decision Policy
-        url: "/about/groups/apawg/decision-policy/"
-        hide: true
-    - name: 'Accessible Rich Internet Applications <abbr title="Working Group">WG</abbr>'
-      url: "/about/groups/ariawg/"
-      pages:
-      - name: Decision Policy
-        url: "/about/groups/ariawg/decision-policy/"
-        hide: true
-    - name: 'Education and Outreach <abbr title="Working Group">WG</abbr>'
-      url: "/about/groups/eowg/"
-      hide: true
-      pages:
-      - name: Participate (Join)
-        url: "/about/groups/eowg/participate/"
-        hide: true
-      - name: Participants
-        url: "/about/groups/eowg/participants/"
-        hide: true
-    - name: 'Task Forces Supporting Accessibility Working Groups'
-      url: "/about/groups/task-forces/"
-      pages:
-      - name: 'Accessibility Conformance Testing <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/conformance-testing/"
+      - name: 'Accessibility Guidelines <abbr title="Working Group">WG</abbr>'
+        url: "/about/groups/agwg/"
         pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/conformance-testing/work-statement/"
-          hide: true
-      - name: 'ARIA Authoring Practices <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/practices/"
+          - name: Decision Policy
+            url: "/about/groups/agwg/decision-policy/"
+            hide: true
+      - name: 'Accessible Platform Architectures <abbr title="Working Group">WG</abbr>'
+        url: "/about/groups/apawg/"
         pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/practices/work-statement/"
-          hide: true
-      - name: 'Cognitive and Learning Disabilities <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/coga/"
+          - name: Decision Policy
+            url: "/about/groups/apawg/decision-policy/"
+            hide: true
+      - name: 'Accessible Rich Internet Applications <abbr title="Working Group">WG</abbr>'
+        url: "/about/groups/ariawg/"
         pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/coga/work-statement/"
-          hide: true
-      - name: 'Framework for Accessible Specification of Technologies <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/low-vision-a11y-tf/"
+          - name: Decision Policy
+            url: "/about/groups/ariawg/decision-policy/"
+            hide: true
+      - name: 'Task Forces Supporting Accessibility Working Groups'
+        url: "/about/groups/task-forces/"
         pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/fast/work-statement/"
-          hide: true
-      - name: 'Low Vision Accessibility <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/low-vision-a11y-tf/"
+          - name: 'Accessibility Conformance Testing <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/conformance-testing/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/conformance-testing/work-statement/"
+                hide: true
+          - name: 'ARIA Authoring Practices <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/practices/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/practices/work-statement/"
+                hide: true
+          - name: 'Cognitive and Learning Disabilities <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/coga/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/coga/work-statement/"
+                hide: true
+          - name: 'Framework for Accessible Specification of Technologies <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/low-vision-a11y-tf/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/fast/work-statement/"
+                hide: true
+          - name: 'Low Vision Accessibility <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/low-vision-a11y-tf/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/low-vision-a11y-tf/work-statement/"
+                hide: true
+          - name: 'Maturity Model <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/maturity-model/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/maturity-model/work-statement/"
+                hide: true
+          - name: 'Mobile Accessibility <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/matf/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/matf/work-statement/"
+                hide: true
+          - name: 'PDF Accessibility <abbr title="Application Programming Interfaces">APIs</abbr> Mapping <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/pdf-aam/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/pdf-aam/work-statement/"
+                hide: true
+          - name: 'Research Question <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/research-questions/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/research-questions/work-statement/"
+                hide: true
+          - name: 'Spoken Presentation <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/pronunciation/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/pronunciation/work-statement/"
+                hide: true
+          - name: 'WAI-Adapt <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/adapt/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/adapt/work-statement/"
+                hide: true
+          - name: 'WCAG 2.x Backlog <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/wcag2x-backlog/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/wcag2x-backlog/work-statement/"
+                hide: true
+          - name: 'WCAG2ICT <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/wcag2ict/"
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/wcag2ict/work-statement/"
+                hide: true
+      - name: 'WAI Interest Group'
+        url: "/about/groups/waiig/"
+      - name: 'Previous groups'
+        url: "/about/groups/previous-groups/"
         pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/low-vision-a11y-tf/work-statement/"
-          hide: true
-      - name: 'Maturity Model <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/maturity-model/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/maturity-model/work-statement/"
-          hide: true
-      - name: 'Mobile Accessibility <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/matf/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/matf/work-statement/"
-          hide: true
-      - name: 'PDF Accessibility <abbr title="Application Programming Interfaces">APIs</abbr> Mapping <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/pdf-aam/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/pdf-aam/work-statement/"
-          hide: true
-      - name: 'Research Question <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/research-questions/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/research-questions/work-statement/"
-          hide: true
-      - name: 'Spoken Presentation <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/pronunciation/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/pronunciation/work-statement/"
-          hide: true
-      - name: 'WAI-Adapt <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/adapt/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/adapt/work-statement/"
-          hide: true
-      - name: 'WCAG 2.x Backlog <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/wcag2x-backlog/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/wcag2x-backlog/work-statement/"
-          hide: true
-      - name: 'WCAG2ICT <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/wcag2ict/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/wcag2ict/work-statement/"
-          hide: true
-    - name: 'WAI Interest Group'
-      url: "/about/groups/waiig/"
-    - name: 'Previous groups'
-      url: "/about/groups/previous-groups/"
+          - name: 'Education and Outreach <abbr title="Working Group">WG</abbr>'
+            url: "/about/groups/eowg/"
+            hide: true
+            pages:
+              - name: Participate (Join)
+                url: "/about/groups/eowg/participate/"
+                hide: true
+              - name: Participants
+                url: "/about/groups/eowg/participants/"
+                hide: true
+          - name: 'CSS Accessibility <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/css-a11y/"
+            hide: true
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/css-a11y/work-statement/"
+                hide: true
+          - name: 'Silver <abbr title="Task Force">TF</abbr>'
+            url: "/about/groups/task-forces/silver/"
+            hide: true
+            pages:
+              - name: Work Statement
+                url: "/about/groups/task-forces/silver/work-statement/"
+                hide: true
   - name: Translating
     url: "/about/translating/"
     pages:
