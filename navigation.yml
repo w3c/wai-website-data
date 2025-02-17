@@ -24,6 +24,7 @@
       fr: "Introduction à l'accessibilité du web"
       id: "Pengenalan ke Aksesibilitas Web"
       pl: "Wprowadzenie do dostępności internetowej"
+      pt-BR: "Introdução à acessibilidade"
       ru: "ВВЕДЕНИЕ В ВЕБ-ДОСТУПНОСТЬ"
       zh-hans: "Web无障碍简介"
     url: "/fundamentals/accessibility-intro/"
@@ -267,6 +268,7 @@
       cs: "Zásady přístupnosti"
       fr: "Principes d’accessibilité"
       es: "Principios de accesibilidad"
+      ja: "アクセシビリティの原則"
       ko: "접근성 원칙"
       ru: "Принципы доступности"
       zh-hans: "无障碍原则"
@@ -406,6 +408,7 @@
       en: "Tips for Developing"
       fr: "Conseils pour le développement"
       id: "Kiat Pengembangan"
+      zh-hans: "开发技巧"
     url: "/tips/developing/"
     translate: true
   - name:
@@ -529,6 +532,7 @@
           id: 'Pohon Keputusan Penggunaan <code style="color: inherit;">alt</code>'
           ja: '<code style="color: inherit;">alt</code> 의사결정나무'
           ko: 'Ein <code style="color: inherit;">alt</code> -Entscheidungsbaum'
+          pl: "Drzewo decyzyjne <code>alt</code>"
           pt-BR: 'Uma árvore de decisão do atributo <code style="color: inherit;">alt</code>'
         url: "/tutorials/images/decision-tree/"
         translate: true
@@ -1102,6 +1106,8 @@
         pages:
           - name: "Arabic"
             url: "/about/translating/sitemaps/sitemap-ar/"
+          - name: "Brazilian Portuguese"
+            url: "/about/translating/sitemaps/sitemap-pt-br/"
           - name: "Chinese (Simplified)"
             url: "/about/translating/sitemaps/sitemap-zh-hans/"
           - name: "Czech"
@@ -1120,8 +1126,6 @@
             url: "/about/translating/sitemaps/sitemap-ko/"
           - name: "Polish"
             url: "/about/translating/sitemaps/sitemap-pl/"
-          - name: "Russian"
-            url: "/about/translating/sitemaps/sitemap-ru/"
           - name: "Spanish"
             url: "/about/translating/sitemaps/sitemap-es/"
   - name: Sponsoring
