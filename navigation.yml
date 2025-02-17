@@ -1021,7 +1021,7 @@
                 url: "/about/groups/task-forces/coga/work-statement/"
                 hide: true
           - name: 'Framework for Accessible Specification of Technologies <abbr title="Task Force">TF</abbr>'
-            url: "/about/groups/task-forces/low-vision-a11y-tf/"
+            url: "/about/groups/task-forces/fast/"
             pages:
               - name: Work Statement
                 url: "/about/groups/task-forces/fast/work-statement/"
