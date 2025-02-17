@@ -1008,6 +1008,9 @@
               - name: Work Statement
                 url: "/about/groups/task-forces/conformance-testing/work-statement/"
                 hide: true
+              - name: Work Statement 2020
+                url: "/about/groups/task-forces/conformance-testing/work-statement-2020/"
+                hide: true
           - name: 'ARIA Authoring Practices <abbr title="Task Force">TF</abbr>'
             url: "/about/groups/task-forces/practices/"
             pages:
