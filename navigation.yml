@@ -1041,7 +1041,7 @@
         - name: Work Statement
           url: "/about/groups/task-forces/maturity-model/work-statement/"
           hide: true
-      - name: 'Research Question <abbr title="Task Force">TF</abbr>'
+      - name: 'Research Questions <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/research-questions/"
         pages:
         - name: Work Statement
@@ -1062,7 +1062,7 @@
       - name: Decision Policy
         url: "/about/groups/apawg/decision-policy/"
         hide: true
-    - name: 'Accessible Rich Internet Applications <abbr title="Working Group">WG</abbr>'
+    - name: 'ARIA <abbr title="Working Group">WG</abbr>'
       url: "/about/groups/ariawg/"
       pages:
       - name: 'ARIA Authoring Practices <abbr title="Task Force">TF</abbr>'
