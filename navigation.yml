@@ -1048,10 +1048,10 @@
           url: "/about/groups/task-forces/research-questions/work-statement/"
           hide: true
       - name: 'Spoken Presentation <abbr title="Task Force">TF</abbr>'
-        url: "/about/groups/task-forces/pronunciation/"
+        url: "/about/groups/task-forces/spoken-presentation/"
         pages:
         - name: Work Statement
-          url: "/about/groups/task-forces/pronunciation/work-statement/"
+          url: "/about/groups/task-forces/spoken-presentation/work-statement/"
           hide: true
       - name: 'WAI-Adapt <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/adapt/"
