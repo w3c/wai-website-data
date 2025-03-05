@@ -349,6 +349,35 @@
         hide: true
   - name: Roles and Responsibilities (ARRM)
     url: "/planning/arrm/"
+    pages:
+      - name: Roles Involved in Accessibility
+        url: "/planning/arrm/roles/"
+        hide: true
+      - name: WCAG Success Criteria
+        url: "/planning/arrm/wcac-sc/"
+        hide: true
+      - name: Tasks Involved in Accessibility
+        url: "/planning/arrm/tasks/"
+        hide: true
+        pages:
+          - name: "User Experience (UX) Designer Responsibilities"
+            url: "/planning/arrm/user-experience/"
+            hide: true
+          - name: "Visual Designer Responsibilities"
+            url: "/planning/arrm/visual-designer/"
+            hide: true
+          - name: "Content Author Responsibilities"
+            url: "/planning/arrm/content-author/"
+            hide: true
+          - name: "Front-End Developer Responsibilities"
+            url: "/planning/arrm/front-end/"
+            hide: true
+      - name: Decision Tree
+        url: "planning/arrm/decision-tree/"
+        hide: true
+      - name: Acknowledgements
+        url: "/planning/arrm/acknowledgements/"
+        hide: true
   - name: Developing an Organizational Policy
     url: "/planning/org-policies/"
     pages:
