@@ -347,6 +347,8 @@
       - name: Authoring Tool Submission Form
         url: "/tools-list/authoring/submit-a-tool/"
         hide: true
+  - name: Roles and Responsibilities (ARRM)
+    url: "/planning/arrm/"
   - name: Developing an Organizational Policy
     url: "/planning/org-policies/"
     pages:
