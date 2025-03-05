@@ -354,7 +354,7 @@
         url: "/planning/arrm/roles/"
         hide: true
       - name: WCAG Success Criteria
-        url: "/planning/arrm/wcac-sc/"
+        url: "/planning/arrm/wcag-sc/"
         hide: true
       - name: Tasks Involved in Accessibility
         url: "/planning/arrm/tasks/"
@@ -373,7 +373,7 @@
             url: "/planning/arrm/front-end/"
             hide: true
       - name: Decision Tree
-        url: "planning/arrm/decision-tree/"
+        url: "/planning/arrm/decision-tree/"
         hide: true
       - name: Acknowledgements
         url: "/planning/arrm/acknowledgements/"
