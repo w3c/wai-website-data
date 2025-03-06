@@ -342,6 +342,9 @@
       - name: Sustain
         url: "/planning-and-managing/sustain/"
         translate: true
+      - name: Changelog
+        url: "/planning-and-managing/changelog/"
+        hide: true
       - name: Authoring Tools List
         url: "/tools-list/authoring/"
       - name: Authoring Tool Submission Form
