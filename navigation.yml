@@ -1022,11 +1022,29 @@
         - name: Work Statement 2020
           url: "/about/groups/task-forces/conformance-testing/work-statement-2020/"
           hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/conformance-testing/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/conformance-testing/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/conformance-testing/minutes/topics/"
+          hide: true
       - name: 'Cognitive and Learning Disabilities <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/coga/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/coga/work-statement/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/coga/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/coga/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/coga/minutes/topics/"
           hide: true
       - name: 'Low Vision Accessibility <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/low-vision-a11y-tf/"
@@ -1034,11 +1052,29 @@
         - name: Work Statement
           url: "/about/groups/task-forces/low-vision-a11y-tf/work-statement/"
           hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/low-vision-a11y-tf/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/low-vision-a11y-tf/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/low-vision-a11y-tf/minutes/topics/"
+          hide: true
       - name: 'Mobile Accessibility <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/matf/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/matf/work-statement/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/matf/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/matf/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/matf/minutes/topics/"
           hide: true
       - name: 'WCAG 2.x Backlog <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/wcag2x-backlog/"
@@ -1052,8 +1088,26 @@
         - name: Work Statement
           url: "/about/groups/task-forces/wcag2ict/work-statement/"
           hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/wcag2ict/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/wcag2ict/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/wcag2ict/minutes/topics/"
+          hide: true
       - name: Decision Policy
         url: "/about/groups/agwg/decision-policy/"
+        hide: true
+      - name: Minutes
+        url: "/about/groups/agwg/minutes/"
+        hide: true
+      - name: Minutes
+        url: "/about/groups/agwg/minutes/resolutions/"
+        hide: true
+      - name: Minutes
+        url: "/about/groups/agwg/minutes/topics/"
         hide: true
     - name: 'Accessible Platform Architectures <abbr title="Working Group">WG</abbr>'
       url: "/about/groups/apawg/"
@@ -1061,14 +1115,32 @@
       - name: 'Framework for Accessible Specification of Technologies <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/fast/"
         pages:
-          - name: Work Statement
-            url: "/about/groups/task-forces/fast/work-statement/"
-            hide: true
+        - name: Work Statement
+          url: "/about/groups/task-forces/fast/work-statement/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/fast/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/fast/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/fast/minutes/topics/"
+          hide: true
       - name: 'Maturity Model <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/maturity-model/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/maturity-model/work-statement/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/maturity-model/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/maturity-model/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/maturity-model/minutes/topics/"
           hide: true
       - name: 'Research Questions <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/research-questions/"
@@ -1076,11 +1148,29 @@
         - name: Work Statement
           url: "/about/groups/task-forces/research-questions/work-statement/"
           hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/research-questions/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/research-questions/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/research-questions/minutes/topics/"
+          hide: true
       - name: 'Spoken Presentation <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/spoken-presentation/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/spoken-presentation/work-statement/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/spoken-presentation/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/spoken-presentation/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/spoken-presentation/minutes/topics/"
           hide: true
       - name: 'WAI-Adapt <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/adapt/"
@@ -1088,8 +1178,26 @@
         - name: Work Statement
           url: "/about/groups/task-forces/adapt/work-statement/"
           hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/adapt/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/adapt/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/adapt/minutes/topics/"
+          hide: true
       - name: Decision Policy
         url: "/about/groups/apawg/decision-policy/"
+        hide: true
+      - name: Minutes
+        url: "/about/groups/apawg/minutes/"
+        hide: true
+      - name: Minutes
+        url: "/about/groups/apawg/minutes/resolutions/"
+        hide: true
+      - name: Minutes
+        url: "/about/groups/apawg/minutes/topics/"
         hide: true
     - name: 'ARIA <abbr title="Working Group">WG</abbr>'
       url: "/about/groups/ariawg/"
@@ -1100,14 +1208,41 @@
         - name: Work Statement
           url: "/about/groups/task-forces/practices/work-statement/"
           hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/practices/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/practices/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/practices/minutes/topics/"
+          hide: true
       - name: 'PDF Accessibility <abbr title="Application Programming Interfaces">APIs</abbr> Mapping <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/pdf-aam/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/pdf-aam/work-statement/"
           hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/pdf-aam/minutes/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/pdf-aam/minutes/resolutions/"
+          hide: true
+        - name: Minutes
+          url: "/about/groups/task-forces/pdf-aam/minutes/topics/"
+          hide: true
       - name: Decision Policy
         url: "/about/groups/ariawg/decision-policy/"
+        hide: true
+      - name: Minutes
+        url: "/about/groups/ariawg/minutes/"
+        hide: true
+      - name: Minutes
+        url: "/about/groups/ariawg/minutes/resolutions/"
+        hide: true
+      - name: Minutes
+        url: "/about/groups/ariawg/minutes/topics/"
         hide: true
     - name: 'WAI Interest Group'
       url: "/about/groups/waiig/"
