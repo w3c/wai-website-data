@@ -353,14 +353,14 @@
   - name: Roles and Responsibilities (ARRM)
     url: "/planning/arrm/"
     pages:
-      - name: Roles Involved in Accessibility
+      - name: Roles
         url: "/planning/arrm/roles/"
       - name: WCAG Success Criteria
         url: "/planning/arrm/wcag-sc/"
-      - name: Tasks Involved in Accessibility
+      - name: Tasks
         url: "/planning/arrm/tasks/"
         pages:
-        - name: "User Experience (UX) Designer"
+        - name: "UX Designer"
           url: "/planning/arrm/user-experience/"
         - name: "Visual Designer"
           url: "/planning/arrm/visual-designer/"
