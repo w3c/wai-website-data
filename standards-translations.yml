@@ -43,10 +43,10 @@
   standard: wcag
   standard_version: "2.2"
   title: "Règles pour l’accessibilité des contenus Web (WCAG) 2.2"
-  url: https://wcag.access42.net/22/
-  date: 2024-10-01
+  url: https://www.w3.org/Translations/WCAG22-fr/
+  date: @@
   translator: "Access42"
-  type: cat
+  type: authorized
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0001.html
   intent_date: 2022-07-25
 - lang: it
