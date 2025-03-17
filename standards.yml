@@ -15,6 +15,12 @@
   standard_version: "2.1"
   title: "Web Content Accessibility Guidelines (WCAG) 2.1"
   url: https://www.w3.org/TR/WCAG21/
+  date: 2024-12-12
+- standard: wcag
+  standard_version: "2.1_2023"
+  status: outdated
+  title: "Web Content Accessibility Guidelines (WCAG) 2.1"
+  url: https://www.w3.org/TR/2023/REC-WCAG21-20230921/
   date: 2023-09-21
 - standard: wcag
   standard_version: "2.1_2018"
@@ -24,6 +30,12 @@
   date: 2018-06-05
 - standard: wcag
   standard_version: "2.2"
+  title: "Web Content Accessibility Guidelines (WCAG) 2.2"
+  url: https://www.w3.org/TR/WCAG22/
+  date: 2024-12-12
+- standard: wcag
+  standard_version: "2.2_2023"
+  status: outdated
   title: "Web Content Accessibility Guidelines (WCAG) 2.2"
   url: https://www.w3.org/TR/WCAG22/
   date: 2023-09-21
