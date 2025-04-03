@@ -898,9 +898,9 @@
     url: "/standards-guidelines/wcag/wcag3-intro/"
     translate: true
   - name:
-    en: "Authoring Tools – ATAG"
-    fr: "Outils d'édition – ATAG"
-    pl: "Narzędzia autorskie – ATAG"
+      en: "Authoring Tools – ATAG"
+      fr: "Outils d'édition – ATAG"
+      pl: "Narzędzia autorskie – ATAG"
     url: "/standards-guidelines/atag/"
     translate: true
     pages:
