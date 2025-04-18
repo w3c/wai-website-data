@@ -1,3 +1,4 @@
+# This legacy file, used in WAI tutorials, is not actively maintained. Please do not use this file for any other purpose.
 - key: "1.1.1"
   title: Non-text Content
   desc: "All non-text content that is presented to the user has a text alternative that serves the equivalent purpose, except for the situations listed[…]."
