@@ -17,3 +17,13 @@ ln -s ../_external/data/techniques.yml
 ln -s ../_external/data/translations.yml
 ln -s ../_external/data/wcag.yml
 ```
+
+## How to update wcag22.json
+
+To update `wcag22.json`, run the following within the project directory:
+
+```
+node _update-wcag-json.mjs
+```
+
+This requires [Node.js](https://nodejs.org/) version 20 or later.
