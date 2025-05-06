@@ -8,17 +8,14 @@ const wcag22 = await fetch(wcagUrl).then((response) => {
   return response.json();
 });
 
-const data = [];
+const data = {
+  successcriteria: [],
+};
+
 for (const principle of wcag22.principles) {
   for (const guideline of principle.guidelines) {
     for (const criterion of guideline.successcriteria) {
-      data.push({
-        desc: criterion.content,
-        key: criterion.num,
-        level: criterion.level,
-        slug: criterion.id,
-        title: criterion.handle,
-      });
+      data.successcriteria.push(criterion);
     }
   }
 }
