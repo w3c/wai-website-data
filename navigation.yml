@@ -1299,7 +1299,9 @@
             pages:
               - name: "WCAG 2.2: 2023 to 2024"
                 url: "/about/translating/wcag/update/wcag22-20231005/"
-              - name: "WCAG 2.1: 2018 to 2023"
+              - name: "WCAG 2.1: 2023 to 2025"
+                url: "/about/translating/wcag/update/wcag21-20230921/"
+              - name: "WCAG 2.1: 2018 to 2025"
                 url: "/about/translating/wcag/update/wcag21-20180605/"
       - name: Translations Sitemaps
         url: "/about/translating/sitemaps/"
