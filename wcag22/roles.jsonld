@@ -1,0 +1,1901 @@
+{
+  "@context": {
+    "@vocab": "https://www.w3.org/WAI/roles#",
+    "id": "@id",
+    "type": "@type",
+    "name": "http://schema.org/name",
+    "description": "http://schema.org/description",
+    "responsibleRoles": {
+      "@id": "https://www.w3.org/WAI/roles#responsibleRoles",
+      "@type": "@json"
+    },
+    "primary": "https://www.w3.org/WAI/roles#primary",
+    "secondary": "https://www.w3.org/WAI/roles#secondary",
+    "contributor": "https://www.w3.org/WAI/roles#contributor"
+  },
+  "@graph": [
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.1.1",
+      "name": "1.1.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.1.1",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": [
+          "Business",
+          "Content Author",
+          "Visual Designer",
+          "UX Designer",
+          "Front-End Developer"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.2.1",
+      "name": "1.2.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.2.1",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "UX Designer"
+        ],
+        "secondary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.2.2",
+      "name": "1.2.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.2.2",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "UX Designer"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.2.3",
+      "name": "1.2.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.2.3",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.2.4",
+      "name": "1.2.4 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.2.4",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.2.5",
+      "name": "1.2.5 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.2.5",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "UX Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.2.6",
+      "name": "1.2.6 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.2.6",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.2.7",
+      "name": "1.2.7 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.2.7",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.2.8",
+      "name": "1.2.8 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.2.8",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "UX Designer"
+        ],
+        "secondary": [
+          "Content Author",
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.2.9",
+      "name": "1.2.9 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.2.9",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.3.1",
+      "name": "1.3.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.3.1",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "contributor": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.3.2",
+      "name": "1.3.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.3.2",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Visual Designer",
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.3.3",
+      "name": "1.3.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.3.3",
+      "responsibleRoles": {
+        "primary": [
+          "Business",
+          "Content Author",
+          "Visual Designer",
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": [
+          "Content Author"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.3.4",
+      "name": "1.3.4 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.3.4",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Visual Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.3.5",
+      "name": "1.3.5 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.3.5",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [],
+        "contributor": [
+          "UX Designer"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.3.6",
+      "name": "1.3.6 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.3.6",
+      "responsibleRoles": {
+        "primary": [
+          "Front-End Developer"
+        ],
+        "secondary": [],
+        "contributor": [
+          "UX Designer"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.1",
+      "name": "1.4.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.1",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "secondary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.2",
+      "name": "1.4.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.2",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.3",
+      "name": "1.4.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.3",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.4",
+      "name": "1.4.4 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.4",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": [
+          "Visual Designer"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.5",
+      "name": "1.4.5 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.5",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Content Author",
+          "Visual Designer"
+        ],
+        "contributor": [
+          "Content Author"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.6",
+      "name": "1.4.6 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.6",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.7",
+      "name": "1.4.7 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.7",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "Front-End Developer"
+        ],
+        "secondary": [],
+        "contributor": [
+          "UX Designer"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.8",
+      "name": "1.4.8 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.8",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "secondary": [
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.9",
+      "name": "1.4.9 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.9",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer"
+        ],
+        "secondary": [
+          "Content Author"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.10",
+      "name": "1.4.10 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.10",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "secondary": [
+          "Visual Designer",
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.11",
+      "name": "1.4.11 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.11",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.12",
+      "name": "1.4.12 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.12",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer"
+        ],
+        "secondary": [
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:1.4.13",
+      "name": "1.4.13 Success Criterion",
+      "description": "Roles responsible for WCAG SC 1.4.13",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.1.1",
+      "name": "2.1.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.1.1",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.1.2",
+      "name": "2.1.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.1.2",
+      "responsibleRoles": {
+        "primary": [
+          "Front-End Developer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.1.3",
+      "name": "2.1.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.1.3",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.1.4",
+      "name": "2.1.4 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.1.4",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.2.1",
+      "name": "2.2.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.2.1",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Business"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.2.2",
+      "name": "2.2.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.2.2",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Visual Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.2.3",
+      "name": "2.2.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.2.3",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.2.4",
+      "name": "2.2.4 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.2.4",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.2.5",
+      "name": "2.2.5 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.2.5",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.2.6",
+      "name": "2.2.6 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.2.6",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.3.1",
+      "name": "2.3.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.3.1",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Visual Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.3.2",
+      "name": "2.3.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.3.2",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Visual Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.3.3",
+      "name": "2.3.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.3.3",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.1",
+      "name": "2.4.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.4.1",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Content Author",
+          "UX Designer"
+        ],
+        "contributor": [
+          "Content Author"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.2",
+      "name": "2.4.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.4.2",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.3",
+      "name": "2.4.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.4.3",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": [
+          "Visual Designer",
+          "UX Designer"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.4",
+      "name": "2.4.4 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.4.4",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "Front-End Developer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.5",
+      "name": "2.4.5 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.4.5",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.6",
+      "name": "2.4.6 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.4.6",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "UX Designer"
+        ],
+        "secondary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.7",
+      "name": "2.4.7 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.4.7",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.8",
+      "name": "2.4.8 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.4.8",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.9",
+      "name": "2.4.9 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.4.9",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.10",
+      "name": "2.4.10 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.4.10",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": [
+          "Front-End Developer"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.11",
+      "name": "2.4.11 Focus Not Obscured (Minimum)",
+      "description": "Ensures that when a user interface component receives keyboard focus, it is not entirely hidden due to author-created content.",
+      "responsibleRoles": "Not Defined"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.12",
+      "name": "2.4.12 Focus Not Obscured (Enhanced)",
+      "description": "Ensures that when a user interface component receives keyboard focus, no part of it is hidden due to author-created content.",
+      "responsibleRoles": "Not Defined"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.4.13",
+      "name": "2.4.13 Focus Appearance",
+      "description": "Ensures that the focus indicator for a user interface component has sufficient contrast and area to be clearly visible.",
+      "responsibleRoles": "Not Defined"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.5.1",
+      "name": "2.5.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.5.1",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.5.2",
+      "name": "2.5.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.5.2",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.5.3",
+      "name": "2.5.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.5.3",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.5.4",
+      "name": "2.5.4 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.5.4",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.5.5",
+      "name": "2.5.5 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.5.5",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.5.6",
+      "name": "2.5.6 Success Criterion",
+      "description": "Roles responsible for WCAG SC 2.5.6",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.5.7",
+      "name": "2.5.7 Dragging Movements",
+      "description": "Ensures that functionality requiring dragging movements can be operated with a single pointer without dragging.",
+      "responsibleRoles": "Not Defined"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:2.5.8",
+      "name": "2.5.8 Target Size (Minimum)",
+      "description": "Ensures that the size of the target for pointer inputs is at least 24 by 24 CSS pixels, with exceptions.",
+      "responsibleRoles": "Not Defined"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.1.1",
+      "name": "3.1.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.1.1",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "Front-End Developer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.1.2",
+      "name": "3.1.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.1.2",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.1.3",
+      "name": "3.1.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.1.3",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Content Author"
+        ],
+        "contributor": [
+          "Content Author"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.1.4",
+      "name": "3.1.4 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.1.4",
+      "responsibleRoles": {
+        "primary": [
+          "Front-End Developer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.1.5",
+      "name": "3.1.5 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.1.5",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "secondary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.1.6",
+      "name": "3.1.6 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.1.6",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Front-End Developer"
+        ],
+        "contributor": [
+          "Content Author"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.2.1",
+      "name": "3.2.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.2.1",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.2.2",
+      "name": "3.2.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.2.2",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.2.3",
+      "name": "3.2.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.2.3",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Visual Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.2.4",
+      "name": "3.2.4 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.2.4",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "Visual Designer"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.2.5",
+      "name": "3.2.5 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.2.5",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Content Author",
+          "Visual Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.3.1",
+      "name": "3.3.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.3.1",
+      "responsibleRoles": {
+        "primary": [
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "secondary": [
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.3.2",
+      "name": "3.3.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.3.2",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": [
+          "Visual Designer"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.3.3",
+      "name": "3.3.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.3.3",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author",
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "Content Author",
+          "Visual Designer",
+          "UX Designer"
+        ],
+        "contributor": [
+          "Content Author"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.3.4",
+      "name": "3.3.4 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.3.4",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Business"
+        ],
+        "contributor": [
+          "Front-End Developer"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.3.5",
+      "name": "3.3.5 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.3.5",
+      "responsibleRoles": {
+        "primary": [
+          "Content Author"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.3.6",
+      "name": "3.3.6 Success Criterion",
+      "description": "Roles responsible for WCAG SC 3.3.6",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer"
+        ],
+        "secondary": [
+          "Business"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.3.7",
+      "name": "3.3.7 Redundant Entry",
+      "description": "Ensures that users are not required to re-enter information that they have previously provided.",
+      "responsibleRoles": "Not Defined"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.3.8",
+      "name": "3.3.8 Accessible Authentication (Minimum)",
+      "description": "Ensures that authentication processes do not rely solely on cognitive function tests.",
+      "responsibleRoles": "Not Defined"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:3.3.9",
+      "name": "3.3.9 Accessible Authentication (Enhanced)",
+      "description": "Ensures that authentication processes do not rely on cognitive function tests, with no exceptions.",
+      "responsibleRoles": "Not Defined"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:4.1.1",
+      "name": "4.1.1 Success Criterion",
+      "description": "Roles responsible for WCAG SC 4.1.1",
+      "responsibleRoles": {
+        "primary": [
+          "Front-End Developer"
+        ],
+        "secondary": [],
+        "contributor": []
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:4.1.2",
+      "name": "4.1.2 Success Criterion",
+      "description": "Roles responsible for WCAG SC 4.1.2",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": [
+          "Content Author"
+        ]
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "role:4.1.3",
+      "name": "4.1.3 Success Criterion",
+      "description": "Roles responsible for WCAG SC 4.1.3",
+      "responsibleRoles": {
+        "primary": [
+          "UX Designer",
+          "Front-End Developer"
+        ],
+        "secondary": [
+          "UX Designer"
+        ],
+        "contributor": []
+      }
+    },
+    {
+      "@id": "G198",
+      "@type": "Technique",
+      "name": "Providing a way for the user to turn the time limit off",
+      "description": "Gives users control over time limits set by the content.",
+      "applicableSuccessCriteria": [
+        "sc:2.2.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G198"
+    },
+    {
+      "@id": "G180",
+      "@type": "Technique",
+      "name": "Providing the user with a means to set the time limit to 10 times the default time limit",
+      "description": "Allows users to extend time limits by at least a factor of 10.",
+      "applicableSuccessCriteria": [
+        "sc:2.2.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G180"
+    },
+    {
+      "@id": "SCR33",
+      "@type": "Technique",
+      "name": "Using script to scroll content, and providing a mechanism to pause it",
+      "description": "Enables content scrolling via JavaScript with pause controls for accessibility.",
+      "applicableSuccessCriteria": [
+        "sc:2.2.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR33"
+    },
+    {
+      "@id": "G4",
+      "@type": "Technique",
+      "name": "Allowing the content to be paused and restarted from where it was paused",
+      "description": "Supports pausing and resuming dynamic content like audio/video.",
+      "applicableSuccessCriteria": [
+        "sc:2.2.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G4"
+    },
+    {
+      "@id": "G186",
+      "@type": "Technique",
+      "name": "Using a control in the Web page that stops moving, blinking, or auto-updating content",
+      "description": "Includes a user-activated control to stop animations or updates.",
+      "applicableSuccessCriteria": [
+        "sc:2.2.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G186"
+    },
+    {
+      "@id": "G5",
+      "@type": "Technique",
+      "name": "Allowing users to complete an activity without any time limit",
+      "description": "Avoids using time limits unless essential.",
+      "applicableSuccessCriteria": [
+        "sc:2.2.3"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G5"
+    },
+    {
+      "@id": "G194",
+      "@type": "Technique",
+      "name": "Providing the user with a means to postpone any updating of content",
+      "description": "Lets users delay interruptions from auto-updating information.",
+      "applicableSuccessCriteria": [
+        "sc:2.2.4"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G194"
+    },
+    {
+      "@id": "G198",
+      "@type": "Technique",
+      "name": "Providing a way for the user to turn the time limit off (Re-used)",
+      "description": "Also supports resuming sessions after timeout in secure apps.",
+      "applicableSuccessCriteria": [
+        "sc:2.2.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G198"
+    },
+    {
+      "@id": "G181",
+      "@type": "Technique",
+      "name": "Providing a mechanism to record user data so it can be restored after re-authentication",
+      "description": "Supports saving partial input and restoring it after login.",
+      "applicableSuccessCriteria": [
+        "sc:2.2.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G181"
+    },
+    {
+      "@id": "G198-timeout",
+      "@type": "Technique",
+      "name": "Warning users about timeout due to inactivity",
+      "description": "Notifies users if inactivity will result in loss of data or session expiration.",
+      "applicableSuccessCriteria": [
+        "sc:2.2.6"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G198"
+    },
+    {
+      "@id": "G19",
+      "@type": "Technique",
+      "name": "Ensuring that no component of the content flashes more than three times in any 1-second period",
+      "description": "Prevents seizures by limiting flashes to below the general and red flash threshold.",
+      "applicableSuccessCriteria": [
+        "sc:2.3.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G19"
+    },
+    {
+      "@id": "G176",
+      "@type": "Technique",
+      "name": "Keeping the flashing area small enough",
+      "description": "Ensures that any flashing content is small enough to avoid triggering seizures.",
+      "applicableSuccessCriteria": [
+        "sc:2.3.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G176"
+    },
+    {
+      "@id": "G15",
+      "@type": "Technique",
+      "name": "Using a tool to ensure that content does not violate the general flash threshold or red flash threshold",
+      "description": "Recommends testing animated content for flashing violations using accessibility tools.",
+      "applicableSuccessCriteria": [
+        "sc:2.3.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G15"
+    },
+    {
+      "@id": "FLASH19",
+      "@type": "Technique",
+      "name": "Ensuring that no component flashes more than three times per second (no exceptions)",
+      "description": "Extends 2.3.1 to prohibit *any* content flashing more than three times per second regardless of flash thresholds.",
+      "applicableSuccessCriteria": [
+        "sc:2.3.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G19"
+    },
+    {
+      "@id": "G217",
+      "@type": "Technique",
+      "name": "Providing a mechanism to suppress motion animation triggered by interaction",
+      "description": "Allows users to disable non-essential motion triggered by interactions.",
+      "applicableSuccessCriteria": [
+        "sc:2.3.3"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G217"
+    },
+    {
+      "@id": "G1",
+      "@type": "Technique",
+      "name": "Adding a skip navigation link",
+      "description": "Provides a mechanism to bypass blocks of repeated content.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G1"
+    },
+    {
+      "@id": "H25",
+      "@type": "Technique",
+      "name": "Providing a title using the title element",
+      "description": "Helps identify the topic or purpose of a web page.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H25"
+    },
+    {
+      "@id": "G59",
+      "@type": "Technique",
+      "name": "Placing the interactive elements in an order that follows sequences and relationships",
+      "description": "Ensures keyboard users receive focus in a meaningful and operable order.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.3"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G59"
+    },
+    {
+      "@id": "H77",
+      "@type": "Technique",
+      "name": "Identifying the purpose of a link using link text combined with its programmatically determined context",
+      "description": "Ensures link purpose is discernible from link and its surrounding context.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.4"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H77"
+    },
+    {
+      "@id": "G125",
+      "@type": "Technique",
+      "name": "Providing links to navigate to related Web pages",
+      "description": "Enables multiple paths to locate content.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G125"
+    },
+    {
+      "@id": "H65",
+      "@type": "Technique",
+      "name": "Using the title attribute to identify form controls when the label element cannot be used",
+      "description": "Ensures form controls are clearly labeled.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.6"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H65"
+    },
+    {
+      "@id": "G149",
+      "@type": "Technique",
+      "name": "Using user interface components that are highlighted by default when they receive focus",
+      "description": "Ensures focus indicator is visible for keyboard users.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.7"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G149"
+    },
+    {
+      "@id": "G127",
+      "@type": "Technique",
+      "name": "Identifying a Web page’s location within a set of Web pages",
+      "description": "Helps users understand their current location (e.g., breadcrumbs).",
+      "applicableSuccessCriteria": [
+        "sc:2.4.8"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G127"
+    },
+    {
+      "@id": "H78",
+      "@type": "Technique",
+      "name": "Identifying the purpose of a link using link text alone",
+      "description": "Ensures link purpose is clear without needing surrounding context.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.9"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H78"
+    },
+    {
+      "@id": "H69",
+      "@type": "Technique",
+      "name": "Providing heading elements at the beginning of each section of content",
+      "description": "Uses section headings to organize content effectively.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.10"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H69"
+    },
+    {
+      "@id": "G212",
+      "@type": "Technique",
+      "name": "Ensuring the keyboard focus is not fully hidden",
+      "description": "Ensures that focused elements are at least partially visible when they receive focus.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.11"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G212"
+    },
+    {
+      "@id": "G213",
+      "@type": "Technique",
+      "name": "Ensuring the keyboard focus is fully visible",
+      "description": "Guarantees no part of the element receiving focus is obscured.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.12"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G213"
+    },
+    {
+      "@id": "G214",
+      "@type": "Technique",
+      "name": "Ensuring a minimum area of the focus indicator is visible",
+      "description": "Ensures focus visibility meets minimum size, contrast, and visibility requirements.",
+      "applicableSuccessCriteria": [
+        "sc:2.4.13"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G214"
+    },
+    {
+      "@id": "G217",
+      "@type": "Technique",
+      "name": "Ensuring functionality is available using single-point activation",
+      "description": "Allows users to activate controls using a single pointer without path-based gestures.",
+      "applicableSuccessCriteria": [
+        "sc:2.5.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G217"
+    },
+    {
+      "@id": "G218",
+      "@type": "Technique",
+      "name": "Ensuring activation does not occur on the down-event",
+      "description": "Prevents accidental activation of controls from pointer down events.",
+      "applicableSuccessCriteria": [
+        "sc:2.5.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G218"
+    },
+    {
+      "@id": "G208",
+      "@type": "Technique",
+      "name": "Including the visible label text as part of the accessible name",
+      "description": "Ensures that voice users can activate components using visible labels.",
+      "applicableSuccessCriteria": [
+        "sc:2.5.3"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G208"
+    },
+    {
+      "@id": "G206",
+      "@type": "Technique",
+      "name": "Providing a mechanism to disable motion actuation",
+      "description": "Ensures device motion doesn’t trigger functionality unless essential.",
+      "applicableSuccessCriteria": [
+        "sc:2.5.4"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G206"
+    },
+    {
+      "@id": "G215",
+      "@type": "Technique",
+      "name": "Providing large touch targets for controls",
+      "description": "Ensures pointer targets are at least 44x44 CSS pixels in size.",
+      "applicableSuccessCriteria": [
+        "sc:2.5.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G215"
+    },
+    {
+      "@id": "G216",
+      "@type": "Technique",
+      "name": "Supporting multiple input modalities",
+      "description": "Ensures the site does not restrict available input methods.",
+      "applicableSuccessCriteria": [
+        "sc:2.5.6"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G216"
+    },
+    {
+      "@id": "G224",
+      "@type": "Technique",
+      "name": "Ensuring all functionality using dragging can be achieved without dragging",
+      "description": "Provides alternatives to dragging movements for users with motor limitations.",
+      "applicableSuccessCriteria": [
+        "sc:2.5.7"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G224"
+    },
+    {
+      "@id": "G225",
+      "@type": "Technique",
+      "name": "Ensuring a minimum target size for pointer inputs",
+      "description": "Ensures pointer targets are at least 24x24 CSS pixels, or spacing is used.",
+      "applicableSuccessCriteria": [
+        "sc:2.5.8"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G225"
+    },
+    {
+      "@id": "H57",
+      "@type": "Technique",
+      "name": "Using the language attribute on the html element",
+      "description": "Specifies the default language of the page for assistive technologies.",
+      "applicableSuccessCriteria": [
+        "sc:3.1.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H57"
+    },
+    {
+      "@id": "H58",
+      "@type": "Technique",
+      "name": "Using language attributes to identify changes in the human language",
+      "description": "Ensures proper pronunciation and interpretation of content in multiple languages.",
+      "applicableSuccessCriteria": [
+        "sc:3.1.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H58"
+    },
+    {
+      "@id": "G107",
+      "@type": "Technique",
+      "name": "Using 'onfocus' handlers without initiating context changes",
+      "description": "Prevents disruptive behavior when elements receive focus.",
+      "applicableSuccessCriteria": [
+        "sc:3.2.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G107"
+    },
+    {
+      "@id": "G201",
+      "@type": "Technique",
+      "name": "Giving users advance warning when settings cause context changes",
+      "description": "Informs users when UI input changes context automatically.",
+      "applicableSuccessCriteria": [
+        "sc:3.2.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G201"
+    },
+    {
+      "@id": "G61",
+      "@type": "Technique",
+      "name": "Presenting repeated components in the same relative order",
+      "description": "Improves predictability across pages with shared navigation or UI.",
+      "applicableSuccessCriteria": [
+        "sc:3.2.3"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G61"
+    },
+    {
+      "@id": "G197",
+      "@type": "Technique",
+      "name": "Using consistent identification for functional components",
+      "description": "Ensures repeated controls are labeled and styled consistently.",
+      "applicableSuccessCriteria": [
+        "sc:3.2.4"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G197"
+    },
+    {
+      "@id": "G83",
+      "@type": "Technique",
+      "name": "Providing confirmation before submitting sensitive data",
+      "description": "Avoids accidental data submission through confirmation dialogs.",
+      "applicableSuccessCriteria": [
+        "sc:3.2.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G83"
+    },
+    {
+      "@id": "G71",
+      "@type": "Technique",
+      "name": "Providing help links",
+      "description": "Includes links to context-sensitive help such as FAQs, contact support, or inline guidance.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G71"
+    },
+    {
+      "@id": "G85",
+      "@type": "Technique",
+      "name": "Providing a help mechanism for user input",
+      "description": "Supplies help text near form fields or in tooltips to support accurate data entry.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G85"
+    },
+    {
+      "@id": "G89",
+      "@type": "Technique",
+      "name": "Providing link to a contact form",
+      "description": "Ensures users can access support by including a link to a contact form or human assistance.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G89"
+    },
+    {
+      "@id": "G205",
+      "@type": "Technique",
+      "name": "Including help mechanisms in the same relative order",
+      "description": "Ensures that help options appear consistently across pages.",
+      "applicableSuccessCriteria": [
+        "sc:3.2.6"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G205"
+    },
+    {
+      "@id": "G83",
+      "@type": "Technique",
+      "name": "Validating form input and providing error messages",
+      "description": "Ensures users are notified about input errors and how to correct them.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G83"
+    },
+    {
+      "@id": "H90",
+      "@type": "Technique",
+      "name": "Using label elements to associate text labels with form controls",
+      "description": "Associates form inputs with visible text labels.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H90"
+    },
+    {
+      "@id": "G84",
+      "@type": "Technique",
+      "name": "Providing suggestions for correcting input errors",
+      "description": "Guides users on how to fix invalid inputs in forms.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.3"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G84"
+    },
+    {
+      "@id": "G98",
+      "@type": "Technique",
+      "name": "Validating user input and providing confirmation before finalizing",
+      "description": "Prevents user errors by offering verification or confirmation steps.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.4"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G98"
+    },
+    {
+      "@id": "G83b",
+      "@type": "Technique",
+      "name": "Reversing or confirming user actions before final submission",
+      "description": "Allows users to review or confirm critical actions, preventing data loss or errors.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.6"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G83"
+    },
+    {
+      "@id": "G211",
+      "@type": "Technique",
+      "name": "Avoiding repeated entry of user-provided information",
+      "description": "Auto-populates previously entered values or provides a way to reuse them.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.7"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G211"
+    },
+    {
+      "@id": "G218",
+      "@type": "Technique",
+      "name": "Providing alternatives to cognitive function tests for authentication",
+      "description": "Supports login via email link, copy-paste, password managers, or other methods.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.8"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G218"
+    },
+    {
+      "@id": "G219",
+      "@type": "Technique",
+      "name": "Providing a mechanism for accessible authentication without exceptions",
+      "description": "Ensures all users can authenticate without memory, puzzle-solving, or recognition tasks.",
+      "applicableSuccessCriteria": [
+        "sc:3.3.9"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G219"
+    },
+    {
+      "@id": "G134",
+      "@type": "Technique",
+      "name": "Validating Web pages",
+      "description": "Uses tools or methods to ensure pages are free of syntax errors that could affect accessibility.",
+      "applicableSuccessCriteria": [
+        "sc:4.1.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G134"
+    },
+    {
+      "@id": "ARIA4",
+      "@type": "Technique",
+      "name": "Using a WAI-ARIA role to expose the role of a user interface component",
+      "description": "Ensures assistive technologies can identify the role of components in dynamic content.",
+      "applicableSuccessCriteria": [
+        "sc:4.1.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA4"
+    },
+    {
+      "@id": "ARIA8",
+      "@type": "Technique",
+      "name": "Using aria-label to provide an invisible label where a visible label cannot be used",
+      "description": "Supports naming elements for screen reader users where visible labels are not possible.",
+      "applicableSuccessCriteria": [
+        "sc:4.1.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8"
+    },
+    {
+      "@id": "ARIA22",
+      "@type": "Technique",
+      "name": "Using role=status to present status messages",
+      "description": "Allows screen readers to announce changes in page status (e.g., confirmation messages) without disrupting focus.",
+      "applicableSuccessCriteria": [
+        "sc:4.1.3"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA22"
+    }
+  ]
+}
