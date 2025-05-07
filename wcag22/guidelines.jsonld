@@ -1,0 +1,2175 @@
+{
+  "@context": {
+    "@vocab": "https://www.w3.org/TR/WCAG22/#",
+    "id": "@id",
+    "type": "@type",
+    "name": "http://schema.org/name",
+    "description": "http://schema.org/description",
+    "level": "https://www.w3.org/WAI/WCAG22/level#",
+    "principle": "https://www.w3.org/WAI/WCAG22/principle#",
+    "url": {
+      "@id": "http://schema.org/url",
+      "@type": "@id"
+    }
+  },
+  "@graph": [
+    {
+      "@type": "TechArticle",
+      "identifier": "1.1.1",
+      "name": "1.1.1 Non-text Content",
+      "description": "All non-text content that is presented to the user has a text alternative that serves the equivalent purpose.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#non-text-content",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.1.1 Non-text Content",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.1.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.1.1"
+        },
+        {
+          "@id": "edu:1.1.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.2.1",
+      "name": "1.2.1 Audio-only and Video-only (Prerecorded)",
+      "description": "An alternative for time-based media is provided that presents equivalent information for prerecorded audio-only and video-only media.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#audio-only-and-video-only-prerecorded",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.2.1 Audio-only and Video-only (Prerecorded)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/audio-only-and-video-only-prerecorded.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.2.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.2.1"
+        },
+        {
+          "@id": "edu:1.2.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.2.2",
+      "name": "1.2.2 Captions (Prerecorded)",
+      "description": "Captions are provided for all prerecorded audio content in synchronized media.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#captions-prerecorded",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.2.2 Captions (Prerecorded)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.2.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.2.2"
+        },
+        {
+          "@id": "edu:1.2.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.2.3",
+      "name": "1.2.3 Audio Description or Media Alternative (Prerecorded)",
+      "description": "An alternative for time-based media or audio description of the prerecorded video content is provided.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#audio-description-or-media-alternative-prerecorded",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.2.3 Audio Description or Media Alternative (Prerecorded)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/audio-description-or-media-alternative-prerecorded.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.2.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.2.3"
+        },
+        {
+          "@id": "edu:1.2.3"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.2.4",
+      "name": "1.2.4 Captions (Live)",
+      "description": "Captions are provided for all live audio content in synchronized media.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#captions-live",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.2.4 Captions (Live)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/captions-live.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.2.4"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.2.4"
+        },
+        {
+          "@id": "edu:1.2.4"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.2.5",
+      "name": "1.2.5 Audio Description (Prerecorded)",
+      "description": "Audio description is provided for all prerecorded video content in synchronized media.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#audio-description-prerecorded",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.2.5 Audio Description (Prerecorded)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/audio-description-prerecorded.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.2.5"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.2.5"
+        },
+        {
+          "@id": "edu:1.2.5"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.2.6",
+      "name": "1.2.6 Sign Language (Prerecorded)",
+      "description": "Sign language interpretation is provided for all prerecorded audio content in synchronized media.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#sign-language-prerecorded",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.2.6 Sign Language (Prerecorded)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/sign-language-prerecorded.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.2.6"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.2.6"
+        },
+        {
+          "@id": "edu:1.2.6"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.2.7",
+      "name": "1.2.7 Extended Audio Description (Prerecorded)",
+      "description": "Where pauses in foreground audio are insufficient, extended audio description is provided for all prerecorded video content.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#extended-audio-description-prerecorded",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.2.7 Extended Audio Description (Prerecorded)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/extended-audio-description-prerecorded.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.2.7"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.2.7"
+        },
+        {
+          "@id": "edu:1.2.7"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.2.8",
+      "name": "1.2.8 Media Alternative (Prerecorded)",
+      "description": "A media alternative for time-based media is provided for all prerecorded synchronized media.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#media-alternative-prerecorded",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.2.8 Media Alternative (Prerecorded)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/media-alternative-prerecorded.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.2.8"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.2.8"
+        },
+        {
+          "@id": "edu:1.2.8"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.2.9",
+      "name": "1.2.9 Audio-only (Live)",
+      "description": "An alternative for time-based media is provided for all live audio-only content.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#audio-only-live",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.2.9 Audio-only (Live)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/audio-only-live.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.2.9"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.2.9"
+        },
+        {
+          "@id": "edu:1.2.9"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.3.1",
+      "name": "1.3.1 Info and Relationships",
+      "description": "Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#info-and-relationships",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.3.1 Info and Relationships",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.3.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.3.1"
+        },
+        {
+          "@id": "edu:1.3.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.3.2",
+      "name": "1.3.2 Meaningful Sequence",
+      "description": "When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#meaningful-sequence",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.3.2 Meaningful Sequence",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/meaningful-sequence.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.3.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.3.2"
+        },
+        {
+          "@id": "edu:1.3.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.3.3",
+      "name": "1.3.3 Sensory Characteristics",
+      "description": "Instructions provided for understanding and operating content do not rely solely on sensory characteristics of components such as shape, size, visual location, orientation, or sound.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#sensory-characteristics",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.3.3 Sensory Characteristics",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.3.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.3.3"
+        },
+        {
+          "@id": "edu:1.3.3"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.3.4",
+      "name": "1.3.4 Orientation",
+      "description": "Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#orientation",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.3.4 Orientation",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/orientation.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.3.4"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.3.4"
+        },
+        {
+          "@id": "edu:1.3.4"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.3.5",
+      "name": "1.3.5 Identify Input Purpose",
+      "description": "The purpose of each input field collecting information about the user can be programmatically determined when: The input field serves a purpose identified in the Input Purposes for User Interface Components section; and the content is implemented using technologies with support for identifying the expected meaning for form input data.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#identify-input-purpose",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.3.5 Identify Input Purpose",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/identify-input-purpose.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.3.5"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.3.5"
+        },
+        {
+          "@id": "edu:1.3.5"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.3.6",
+      "name": "1.3.6 Identify Purpose",
+      "description": "In content implemented using markup languages, the purpose of User Interface Components, icons, and regions can be programmatically determined.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#identify-purpose",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.3.6 Identify Purpose",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/identify-purpose.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.3.6"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.3.6"
+        },
+        {
+          "@id": "edu:1.3.6"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.1",
+      "name": "1.4.1 Use of Color",
+      "description": "Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#use-of-color",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.1 Use of Color",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.1"
+        },
+        {
+          "@id": "edu:1.4.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.2",
+      "name": "1.4.2 Audio Control",
+      "description": "If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume independently from the overall system volume level.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#audio-control",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.2 Audio Control",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/audio-control.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.2"
+        },
+        {
+          "@id": "edu:1.4.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.3",
+      "name": "1.4.3 Contrast (Minimum)",
+      "description": "The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except for large text, incidental text, or logotypes.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#contrast-minimum",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.3 Contrast (Minimum)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.3"
+        },
+        {
+          "@id": "edu:1.4.3"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.4",
+      "name": "1.4.4 Resize Text",
+      "description": "Except for captions and images of text, text can be resized without assistive technology up to 200 percent without loss of content or functionality.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#resize-text",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.4 Resize Text",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.4"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.4"
+        },
+        {
+          "@id": "edu:1.4.4"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.5",
+      "name": "1.4.5 Images of Text",
+      "description": "If the technologies being used can achieve the visual presentation, text is used to convey information rather than images of text, except for decorative purposes or where a particular presentation is essential.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#images-of-text",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.5 Images of Text",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.5"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.5"
+        },
+        {
+          "@id": "edu:1.4.5"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.6",
+      "name": "1.4.6 Contrast (Enhanced)",
+      "description": "The visual presentation of text and images of text has a contrast ratio of at least 7:1, except for large text, incidental text, or logotypes.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#contrast-enhanced",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.6 Contrast (Enhanced)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.6"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.6"
+        },
+        {
+          "@id": "edu:1.4.6"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.7",
+      "name": "1.4.7 Low or No Background Audio",
+      "description": "For prerecorded audio-only content that contains primarily speech, at least one of the following is true: No background sounds are present; Background sounds are at least 20 dB lower than the foreground speech content, with the exception of occasional sounds that last for only one or two seconds.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#low-or-no-background-audio",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.7 Low or No Background Audio",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/low-or-no-background-audio.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.7"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.7"
+        },
+        {
+          "@id": "edu:1.4.7"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.8",
+      "name": "1.4.8 Visual Presentation",
+      "description": "For the visual presentation of blocks of text, a mechanism is available to achieve the following: Foreground and background colors can be selected by the user; Width is no more than 80 characters; Text is not justified; Line spacing is at least 1.5 within paragraphs, and spacing between paragraphs is at least 1.5 times larger than the line spacing; Text can be resized without assistive technology up to 200 percent without loss of content or functionality.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#visual-presentation",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.8 Visual Presentation",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/visual-presentation.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.8"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.8"
+        },
+        {
+          "@id": "edu:1.4.8"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.9",
+      "name": "1.4.9 Images of Text (No Exception)",
+      "description": "Images of text are only used for pure decoration or where a particular presentation of text is essential to the information being conveyed.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#images-of-text-no-exception",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.9 Images of Text (No Exception)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/images-of-text-no-exception.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.9"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.9"
+        },
+        {
+          "@id": "edu:1.4.9"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.10",
+      "name": "1.4.10 Reflow",
+      "description": "Content can be presented without loss of information or functionality, and without requiring scrolling in two dimensions for: Vertical scrolling content at a width equivalent to 320 CSS pixels; Horizontal scrolling content at a height equivalent to 256 CSS pixels.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#reflow",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.10 Reflow",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/reflow.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.10"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.10"
+        },
+        {
+          "@id": "edu:1.4.10"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.11",
+      "name": "1.4.11 Non-text Contrast",
+      "description": "The visual presentation of user interface components and graphical objects has a contrast ratio of at least 3:1 against adjacent colors.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#non-text-contrast",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.11 Non-text Contrast",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.11"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.11"
+        },
+        {
+          "@id": "edu:1.4.11"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.12",
+      "name": "1.4.12 Text Spacing",
+      "description": "No loss of content or functionality occurs when users override author-specified text spacing to: Line height (1.5×), Spacing following paragraphs (2×), Letter spacing (0.12×), and Word spacing (0.16×).",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#text-spacing",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.12 Text Spacing",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.12"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.12"
+        },
+        {
+          "@id": "edu:1.4.12"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "1.4.13",
+      "name": "1.4.13 Content on Hover or Focus",
+      "description": "Where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden, the following are true: Dismissable, Hoverable, and Persistent.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#content-on-hover-or-focus",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 1.4.13 Content on Hover or Focus",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/content-on-hover-or-focus.html"
+      },
+      "about": [
+        {
+          "@id": "role:1.4.13"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:1.4.13"
+        },
+        {
+          "@id": "edu:1.4.13"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.1.1",
+      "name": "2.1.1 Keyboard",
+      "description": "All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#keyboard",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.1.1 Keyboard",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.1.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.1.1"
+        },
+        {
+          "@id": "edu:2.1.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.1.2",
+      "name": "2.1.2 No Keyboard Trap",
+      "description": "If keyboard focus can be moved to a component of the page using a keyboard interface, then focus can be moved away from that component using only a keyboard interface.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#no-keyboard-trap",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.1.2 No Keyboard Trap",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.1.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.1.2"
+        },
+        {
+          "@id": "edu:2.1.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.1.3",
+      "name": "2.1.3 Keyboard (No Exception)",
+      "description": "All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes. This criterion has no exceptions.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#keyboard-no-exception",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.1.3 Keyboard (No Exception)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/keyboard-no-exception.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.1.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.1.3"
+        },
+        {
+          "@id": "edu:2.1.3"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.1.4",
+      "name": "2.1.4 Character Key Shortcuts",
+      "description": "If a keyboard shortcut is implemented in content using only letter (including upper- and lower-case letters), punctuation, number, or symbol characters, then at least one of the following is true: Turn off, Remap, or Active only on focus.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#character-key-shortcuts",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.1.4 Character Key Shortcuts",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/character-key-shortcuts.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.1.4"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.1.4"
+        },
+        {
+          "@id": "edu:2.1.4"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.2.1",
+      "name": "2.2.1 Timing Adjustable",
+      "description": "For each time limit that is set by the content, at least one of the following is true: Turn off, Adjust, Extend, Real-time Exception, Essential Exception, or 20 Hour Exception.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#timing-adjustable",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.2.1 Timing Adjustable",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/timing-adjustable.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.2.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.2.1"
+        },
+        {
+          "@id": "edu:2.2.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.2.2",
+      "name": "2.2.2 Pause, Stop, Hide",
+      "description": "For moving, blinking, scrolling, or auto-updating information, all of the following are true: Moving, blinking, scrolling information that starts automatically, lasts more than five seconds, and is presented in parallel with other content can be paused, stopped, or hidden by the user; Auto-updating information that starts automatically and is presented in parallel with other content can be paused, stopped, or hidden by the user or the user is warned of the auto-updating.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#pause-stop-hide",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.2.2 Pause, Stop, Hide",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.2.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.2.2"
+        },
+        {
+          "@id": "edu:2.2.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.2.3",
+      "name": "2.2.3 No Timing",
+      "description": "Timing is not an essential part of the event or activity presented by the content, except for non-interactive synchronized media and real-time events.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#no-timing",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.2.3 No Timing",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/no-timing.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.2.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.2.3"
+        },
+        {
+          "@id": "edu:2.2.3"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.2.4",
+      "name": "2.2.4 Interruptions",
+      "description": "Interruptions can be postponed or suppressed by the user, except interruptions involving an emergency.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#interruptions",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.2.4 Interruptions",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/interruptions.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.2.4"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.2.4"
+        },
+        {
+          "@id": "edu:2.2.4"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.2.5",
+      "name": "2.2.5 Re-authenticating",
+      "description": "When an authenticated session expires, the user can continue the activity without loss of data after re-authenticating.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#re-authenticating",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.2.5 Re-authenticating",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/re-authenticating.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.2.5"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.2.5"
+        },
+        {
+          "@id": "edu:2.2.5"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.2.6",
+      "name": "2.2.6 Timeouts",
+      "description": "Users are warned of the duration of any user inactivity that could cause data loss, unless the data is preserved for more than 20 hours when the user does not take any actions.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#timeouts",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.2.6 Timeouts",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/timeouts.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.2.6"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.2.6"
+        },
+        {
+          "@id": "edu:2.2.6"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.3.1",
+      "name": "2.3.1 Three Flashes or Below Threshold",
+      "description": "Web pages do not contain anything that flashes more than three times in any one second period, or the flash is below the general flash and red flash thresholds.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#three-flashes-or-below-threshold",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.3.1 Three Flashes or Below Threshold",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/three-flashes-or-below-threshold.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.3.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.3.1"
+        },
+        {
+          "@id": "edu:2.3.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.3.2",
+      "name": "2.3.2 Three Flashes",
+      "description": "Web pages do not contain anything that flashes more than three times in any one second period.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#three-flashes",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.3.2 Three Flashes",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/three-flashes.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.3.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.3.2"
+        },
+        {
+          "@id": "edu:2.3.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.3.3",
+      "name": "2.3.3 Animation from Interactions",
+      "description": "Motion animation triggered by interaction can be disabled, unless the animation is essential to the functionality or the information being conveyed.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#animation-from-interactions",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.3.3 Animation from Interactions",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.3.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.3.3"
+        },
+        {
+          "@id": "edu:2.3.3"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.1",
+      "name": "2.4.1 Bypass Blocks",
+      "description": "A mechanism is available to bypass blocks of content that are repeated on multiple Web pages.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#bypass-blocks",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.1 Bypass Blocks",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.1"
+        },
+        {
+          "@id": "edu:2.4.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.2",
+      "name": "2.4.2 Page Titled",
+      "description": "Web pages have titles that describe topic or purpose.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#page-titled",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.2 Page Titled",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/page-titled.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.2"
+        },
+        {
+          "@id": "edu:2.4.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.3",
+      "name": "2.4.3 Focus Order",
+      "description": "If a Web page can be navigated sequentially and the navigation sequences affect meaning or operation, focusable components receive focus in an order that preserves meaning and operability.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#focus-order",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.3 Focus Order",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.3"
+        },
+        {
+          "@id": "edu:2.4.3"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.4",
+      "name": "2.4.4 Link Purpose (In Context)",
+      "description": "The purpose of each link can be determined from the link text alone or from the link text together with its programmatically determined link context.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#link-purpose-in-context",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.4 Link Purpose (In Context)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.4"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.4"
+        },
+        {
+          "@id": "edu:2.4.4"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.5",
+      "name": "2.4.5 Multiple Ways",
+      "description": "More than one way is available to locate a Web page within a set of Web pages except where the Web Page is the result of, or a step in, a process.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#multiple-ways",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.5 Multiple Ways",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/multiple-ways.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.5"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.5"
+        },
+        {
+          "@id": "edu:2.4.5"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.6",
+      "name": "2.4.6 Headings and Labels",
+      "description": "Headings and labels describe topic or purpose.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#headings-and-labels",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.6 Headings and Labels",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/headings-and-labels.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.6"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.6"
+        },
+        {
+          "@id": "edu:2.4.6"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.7",
+      "name": "2.4.7 Focus Visible",
+      "description": "Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#focus-visible",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.7 Focus Visible",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.7"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.7"
+        },
+        {
+          "@id": "edu:2.4.7"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.8",
+      "name": "2.4.8 Location",
+      "description": "Information about the user's location within a set of Web pages is available.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#location",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.8 Location",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/location.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.8"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.8"
+        },
+        {
+          "@id": "edu:2.4.8"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.9",
+      "name": "2.4.9 Link Purpose (Link Only)",
+      "description": "A mechanism is available to allow the purpose of each link to be identified from link text alone, except where the purpose of the link would be ambiguous to users in general.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#link-purpose-link-only",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.9 Link Purpose (Link Only)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-link-only.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.9"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.9"
+        },
+        {
+          "@id": "edu:2.4.9"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.10",
+      "name": "2.4.10 Section Headings",
+      "description": "Section headings are used to organize the content.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#section-headings",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.10 Section Headings",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/section-headings.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.10"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.10"
+        },
+        {
+          "@id": "edu:2.4.10"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.11",
+      "name": "2.4.11 Focus Not Obscured (Minimum)",
+      "description": "When a user interface component receives keyboard focus, the component is not entirely hidden due to author-created content.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#focus-not-obscured-minimum",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.11 Focus Not Obscured (Minimum)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.11"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.11"
+        },
+        {
+          "@id": "edu:2.4.11"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.12",
+      "name": "2.4.12 Focus Not Obscured (Enhanced)",
+      "description": "When a user interface component receives keyboard focus, no part of the component is hidden due to author-created content.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#focus-not-obscured-enhanced",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.12 Focus Not Obscured (Enhanced)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.12"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.12"
+        },
+        {
+          "@id": "edu:2.4.12"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.4.13",
+      "name": "2.4.13 Focus Appearance",
+      "description": "When the keyboard focus indicator is visible, an area of the focus indicator meets minimum requirements for visibility (minimum area, contrast, and border).",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#focus-appearance",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.4.13 Focus Appearance",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.4.13"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.4.13"
+        },
+        {
+          "@id": "edu:2.4.13"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.5.1",
+      "name": "2.5.1 Pointer Gestures",
+      "description": "All functionality that uses multipoint or path-based gestures for operation can be operated with a single pointer without a path-based gesture, unless a multipoint or path-based gesture is essential.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#pointer-gestures",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.5.1 Pointer Gestures",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/pointer-gestures.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.5.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.5.1"
+        },
+        {
+          "@id": "edu:2.5.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.5.2",
+      "name": "2.5.2 Pointer Cancellation",
+      "description": "For functionality that can be operated using a single pointer, at least one of the following is true: No Down-Event, Abort or Undo, Up Reversal, or Essential.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#pointer-cancellation",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.5.2 Pointer Cancellation",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/pointer-cancellation.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.5.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.5.2"
+        },
+        {
+          "@id": "edu:2.5.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.5.3",
+      "name": "2.5.3 Label in Name",
+      "description": "For user interface components with labels that include text or images of text, the name contains the text that is presented visually.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#label-in-name",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.5.3 Label in Name",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/label-in-name.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.5.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.5.3"
+        },
+        {
+          "@id": "edu:2.5.3"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.5.4",
+      "name": "2.5.4 Motion Actuation",
+      "description": "Functionality that can be operated by device motion or user motion can also be operated by user interface components, and responding to the motion can be disabled to prevent accidental actuation.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#motion-actuation",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.5.4 Motion Actuation",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/motion-actuation.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.5.4"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.5.4"
+        },
+        {
+          "@id": "edu:2.5.4"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.5.5",
+      "name": "2.5.5 Target Size (Enhanced)",
+      "description": "The size of the target for pointer inputs is at least 44 by 44 CSS pixels, except when: Equivalent, Inline, User Agent Control, or Essential.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#target-size",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.5.5 Target Size (Enhanced)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/target-size.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.5.5"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.5.5"
+        },
+        {
+          "@id": "edu:2.5.5"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.5.6",
+      "name": "2.5.6 Concurrent Input Mechanisms",
+      "description": "Web content does not restrict use of input modalities available on a platform, except where the restriction is essential, required to ensure the security of the content, or required to respect user settings.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#concurrent-input-mechanisms",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.5.6 Concurrent Input Mechanisms",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/concurrent-input-mechanisms.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.5.6"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.5.6"
+        },
+        {
+          "@id": "edu:2.5.6"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.5.7",
+      "name": "2.5.7 Dragging Movements",
+      "description": "All functionality that uses a dragging movement for operation can be achieved by a single pointer without dragging, unless dragging is essential.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#dragging-movements",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.5.7 Dragging Movements",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.5.7"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.5.7"
+        },
+        {
+          "@id": "edu:2.5.7"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "2.5.8",
+      "name": "2.5.8 Target Size (Minimum)",
+      "description": "The size of the target for pointer inputs is at least 24 by 24 CSS pixels, except when: Spacing, Equivalent, Inline, User Agent Control, or Essential.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#target-size-minimum",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 2.5.8 Target Size (Minimum)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html"
+      },
+      "about": [
+        {
+          "@id": "role:2.5.8"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:2.5.8"
+        },
+        {
+          "@id": "edu:2.5.8"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.1.1",
+      "name": "3.1.1 Language of Page",
+      "description": "The default human language of each Web page can be programmatically determined.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#language-of-page",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.1.1 Language of Page",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/language-of-page.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.1.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.1.1"
+        },
+        {
+          "@id": "edu:3.1.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.1.2",
+      "name": "3.1.2 Language of Parts",
+      "description": "The human language of each passage or phrase in the content can be programmatically determined, except for proper names, technical terms, words of indeterminate language, and words or phrases that have become part of the vernacular.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#language-of-parts",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.1.2 Language of Parts",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.1.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.1.2"
+        },
+        {
+          "@id": "edu:3.1.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.2.1",
+      "name": "3.2.1 On Focus",
+      "description": "When any component receives focus, it does not initiate a change of context.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#on-focus",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.2.1 On Focus",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/on-focus.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.2.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.2.1"
+        },
+        {
+          "@id": "edu:3.2.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.2.2",
+      "name": "3.2.2 On Input",
+      "description": "Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behavior before using the component.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#on-input",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.2.2 On Input",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/on-input.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.2.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.2.2"
+        },
+        {
+          "@id": "edu:3.2.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.2.3",
+      "name": "3.2.3 Consistent Navigation",
+      "description": "Navigational mechanisms that are repeated on multiple Web pages within a set of Web pages occur in the same relative order each time they are repeated, unless a change is initiated by the user.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#consistent-navigation",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.2.3 Consistent Navigation",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/consistent-navigation.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.2.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.2.3"
+        },
+        {
+          "@id": "edu:3.2.3"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.2.4",
+      "name": "3.2.4 Consistent Identification",
+      "description": "Components that have the same functionality within a set of Web pages are identified consistently.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#consistent-identification",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.2.4 Consistent Identification",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.2.4"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.2.4"
+        },
+        {
+          "@id": "edu:3.2.4"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.2.5",
+      "name": "3.2.5 Change on Request",
+      "description": "Changes of context are initiated only by user request or a mechanism is available to turn off such changes.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#change-on-request",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.2.5 Change on Request",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/change-on-request.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.2.5"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.2.5"
+        },
+        {
+          "@id": "edu:3.2.5"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.2.6",
+      "name": "3.2.6 Consistent Help",
+      "description": "If a Web page contains any of the following help mechanisms, and those mechanisms are repeated on multiple Web pages within a set of Web pages, they occur in the same relative order each time they are repeated: Human contact details; Human contact mechanism; Self-help option; A fully automated contact mechanism.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#consistent-help",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.2.6 Consistent Help",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.2.6"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.2.6"
+        },
+        {
+          "@id": "edu:3.2.6"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.3.1",
+      "name": "3.3.1 Error Identification",
+      "description": "If an input error is detected, it is identified and described to the user in text.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#error-identification",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.3.1 Error Identification",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.3.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.3.1"
+        },
+        {
+          "@id": "edu:3.3.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.3.2",
+      "name": "3.3.2 Labels or Instructions",
+      "description": "Labels or instructions are provided when content requires user input.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#labels-or-instructions",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.3.2 Labels or Instructions",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.3.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.3.2"
+        },
+        {
+          "@id": "edu:3.3.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.3.3",
+      "name": "3.3.3 Error Suggestion",
+      "description": "If an input error is detected and suggestions for correction are known, then the suggestions are provided to the user, unless it would jeopardize the security or purpose of the content.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#error-suggestion",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.3.3 Error Suggestion",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/error-suggestion.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.3.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.3.3"
+        },
+        {
+          "@id": "edu:3.3.3"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.3.4",
+      "name": "3.3.4 Error Prevention (Legal, Financial, Data)",
+      "description": "For Web pages that cause legal commitments or financial transactions, that modify or delete user-controllable data, or that submit user test responses, at least one of the following is true: Reversible, Checked, or Confirmed.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#error-prevention-legal-financial-data",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.3.4 Error Prevention (Legal, Financial, Data)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-legal-financial-data.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.3.4"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.3.4"
+        },
+        {
+          "@id": "edu:3.3.4"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.3.5",
+      "name": "3.3.5 Help",
+      "description": "Context-sensitive help is available.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#help",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.3.5 Help",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/help.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.3.5"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.3.5"
+        },
+        {
+          "@id": "edu:3.3.5"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.3.6",
+      "name": "3.3.6 Error Prevention (All)",
+      "description": "For all Web pages that require user input, at least one of the following is true: Reversible, Checked, or Confirmed.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#error-prevention-all",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.3.6 Error Prevention (All)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-all.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.3.6"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.3.6"
+        },
+        {
+          "@id": "edu:3.3.6"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.3.7",
+      "name": "3.3.7 Redundant Entry",
+      "description": "Information previously entered by or provided to the user that is required to be entered again in the same process is either auto-populated or available for selection, unless re-entry is essential or required for security.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#redundant-entry",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.3.7 Redundant Entry",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.3.7"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.3.7"
+        },
+        {
+          "@id": "edu:3.3.7"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.3.8",
+      "name": "3.3.8 Accessible Authentication (Minimum)",
+      "description": "A cognitive function test is not required to authenticate users unless a mechanism is provided that does not rely on cognitive function or one of several exceptions applies (e.g., object recognition, user-provided content).",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#accessible-authentication-minimum",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.3.8 Accessible Authentication (Minimum)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.3.8"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.3.8"
+        },
+        {
+          "@id": "edu:3.3.8"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "3.3.9",
+      "name": "3.3.9 Accessible Authentication (Enhanced)",
+      "description": "A cognitive function test is not required for authentication with no exceptions unless the test is essential or a mechanism is available that does not rely on a cognitive function test.",
+      "accessibilityLevel": "AAA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#accessible-authentication-enhanced",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 3.3.9 Accessible Authentication (Enhanced)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced.html"
+      },
+      "about": [
+        {
+          "@id": "role:3.3.9"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:3.3.9"
+        },
+        {
+          "@id": "edu:3.3.9"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "4.1.1",
+      "name": "4.1.1 Parsing (Obsolete and Removed)",
+      "description": "This success criterion has been removed from WCAG 2.2. It previously required that elements have complete start and end tags, are nested according to their specifications, do not contain duplicate attributes, and have unique IDs, except where the specifications allow these features.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#parsing",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 4.1.1 Parsing (Obsolete and Removed)",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/parsing.html"
+      },
+      "about": [
+        {
+          "@id": "role:4.1.1"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:4.1.1"
+        },
+        {
+          "@id": "edu:4.1.1"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "4.1.2",
+      "name": "4.1.2 Name, Role, Value",
+      "description": "For all user interface components (including but not limited to: form elements, links, and components generated by scripts), the name and role can be programmatically determined; states, properties, and values that can be set by the user can be programmatically set; and notification of changes to these items is available to user agents, including assistive technologies.",
+      "accessibilityLevel": "A",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#name-role-value",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 4.1.2 Name, Role, Value",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/name-role-value.html"
+      },
+      "about": [
+        {
+          "@id": "role:4.1.2"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:4.1.2"
+        },
+        {
+          "@id": "edu:4.1.2"
+        }
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "identifier": "4.1.3",
+      "name": "4.1.3 Status Messages",
+      "description": "In content implemented using markup languages, status messages can be programmatically determined through role or properties such that they can be presented to the user by assistive technologies without receiving focus.",
+      "accessibilityLevel": "AA",
+      "mainEntityOfPage": "https://www.w3.org/TR/WCAG22/#status-messages",
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "Understanding 4.1.3 Status Messages",
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/status-messages.html"
+      },
+      "about": [
+        {
+          "@id": "role:4.1.3"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "tech:4.1.3"
+        },
+        {
+          "@id": "edu:4.1.3"
+        }
+      ]
+    }
+  ]
+}
