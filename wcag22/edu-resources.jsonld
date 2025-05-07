@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://www.w3.org/WAI/education-resources#",
+    "id": "@id",
+    "type": "@type",
+    "name": "http://schema.org/name",
+    "description": "http://schema.org/description",
+    "relatedTo": {
+      "@id": "https://www.w3.org/TR/WCAG22/#",
+      "@type": "@id"
+    },
+    "url": {
+      "@id": "http://schema.org/url",
+      "@type": "@id"
+    },
+    "source": "http://schema.org/sourceOrganization"
+  },
+  "@graph": [
+    {
+      "@id": "edu:1.1.1",
+      "@type": "EducationalResource",
+      "name": "Educational resources for SC 1.1.1 Non-text Content",
+      "description": "This collection provides plain-language and expert explanations of how to meet WCAG 2.2 SC 1.1.1, including best practices for providing text alternatives for images and other non-text elements.",
+      "relatedTo": "sc:1.1.1",
+      "resources": [
+        {
+          "title": "Accessibility Guidance for Assessment (Pearson)",
+          "url": "https://accessibility.pearson.com/guidelines/accessibility-guidance-for-assessment/",
+          "rdfs:comment": "Provides assessment-focused best practices on non-text content, including image descriptions and alternative formats."
+        },
+        {
+          "title": "WCAG in Plain English – 1.1.1 Text Alternatives",
+          "url": "https://aaardvarkaccessibility.com/wcag-plain-english/#1-1-1-text-alternatives",
+          "rdfs:comment": "A straightforward, plain-English explanation of SC 1.1.1 with practical examples."
+        },
+        {
+          "title": "Guía WCAG – Text Alternatives",
+          "url": "https://guia-wcag.com/en/#text-alternatives",
+          "rdfs:comment": "Bilingual WCAG guide with simplified definitions and examples for 1.1.1."
+        },
+        {
+          "title": "Inclusive Web Accessibility – WCAG 1.1.1 Explained",
+          "url": "https://pressbooks.library.torontomu.ca/iwacc/part/about-wcag/",
+          "rdfs:comment": "Educational open textbook from Toronto Metropolitan University explaining the meaning and application of 1.1.1."
+        },
+        {
+          "title": "DigitalA11y – Understanding WCAG SC 1.1.1",
+          "url": "https://www.digitala11y.com/understanding-sc-1-1-1-non-text-content/",
+          "rdfs:comment": "Detailed blog post with examples and rationale for providing text alternatives to images."
+        },
+        {
+          "title": "NL Design System – Alt text guidance",
+          "url": "https://nldesignsystem.nl/wcag/#1.1.1",
+          "rdfs:comment": "Dutch government guidance on implementing alt text and accessible media practices."
+        },
+        {
+          "title": "GOV.UK Service Manual – Images and text alternatives",
+          "url": "https://www.gov.uk/service-manual/helping-people-to-use-your-service/images-and-animations",
+          "rdfs:comment": "UK government advice on using alt text and avoiding text in images."
+        },
+        {
+          "title": "GOV.UK WCAG Primer – SC 1.1.1",
+          "url": "https://github.com/alphagov/wcag-primer/wiki/1.1.1-Non-text-content",
+          "rdfs:comment": "In-progress primer explaining GOV.UK implementation expectations for this SC."
+        },
+        {
+          "title": "TetraLogical Blog – Alternative Text Practices",
+          "url": "https://tetralogical.com/blog/2022/alt-text/",
+          "rdfs:comment": "An in-depth breakdown of good and bad alt text practices from accessibility experts."
+        },
+        {
+          "title": "WCAG 2.2 in Language I Can Understand",
+          "url": "https://www.tempertemper.net/blog/wcag-2.2-in-language-i-can-understand",
+          "rdfs:comment": "Plain-language breakdown of key WCAG 2.2 SCs, including how to handle 1.1.1."
+        }
+      ]
+    },
+    {
+      "@id": "edu:1.2.1",
+      "@type": "EducationalResource",
+      "name": "Educational resources for SC 1.2.1 Audio-only and Video-only (Prerecorded)",
+      "description": "Learning resources for meeting WCAG 2.2 Success Criterion 1.2.1: Audio-only and Video-only (Prerecorded), which ensures alternatives are provided for prerecorded audio and video-only content.",
+      "relatedTo": "sc:1.2.1",
+      "resources": [
+        {
+          "title": "Pearson – Prerecorded Audio and Video-only",
+          "url": "https://accessibility.pearson.com/guidelines/accessibility-guidance-for-assessment/level-a/prerecorded-audio-only-and-video-only/",
+          "rdfs:comment": "Pearson's targeted guidance on providing alternatives for audio-only and video-only content, aligned with SC 1.2.1."
+        },
+        {
+          "title": "Aardvark Accessibility – SC 1.2.1: Audio-only and Video-only (Prerecorded)",
+          "url": "https://aaardvarkaccessibility.com/wcag-plain-english/#1-2-1-audio-only-and-video-only-prerecorded",
+          "rdfs:comment": "Plain language explanation and tips for fulfilling SC 1.2.1 requirements."
+        },
+        {
+          "title": "Guía WCAG – SC 1.2.1 Explained",
+          "url": "https://guia-wcag.com/en/#audio-only-and-video-only-prerecorded",
+          "rdfs:comment": "Multilingual resource with guidance on text alternatives for audio and video-only media."
+        },
+        {
+          "title": "Toronto Metropolitan University – WCAG 1.2.1",
+          "url": "https://pressbooks.library.torontomu.ca/iwacc/chapter/wcag-1-2-1/",
+          "rdfs:comment": "Accessible education materials covering SC 1.2.1 and strategies for inclusive media use."
+        },
+        {
+          "title": "DigitalA11y – Understanding SC 1.2.1",
+          "url": "https://www.digitala11y.com/understanding-sc-1-2-1-audio-only-and-video-only-prerecorded/",
+          "rdfs:comment": "Detailed review of SC 1.2.1 with examples of compliant implementations."
+        },
+        {
+          "title": "NL Design System – SC 1.2.1 Guidance",
+          "url": "https://nldesignsystem.nl/wcag/1.2.1",
+          "rdfs:comment": "Official Dutch government design guidance for SC 1.2.1 compliance."
+        },
+        {
+          "title": "GOV.UK WCAG Primer – 1.2.1 Audio-only and Video-only (Prerecorded)",
+          "url": "https://github.com/alphagov/wcag-primer/wiki/1.2.1-Audio-only-and-Video-only-(Prerecorded)",
+          "rdfs:comment": "UK Government Digital Service wiki on implementing SC 1.2.1 effectively."
+        }
+      ]
+    },
+    {
+      "@id": "edu:1.2.2",
+      "@type": "EducationalResource",
+      "name": "Educational resources for SC 1.2.2 Captions (Prerecorded)",
+      "description": "Learning resources for meeting WCAG 2.2 Success Criterion 1.2.2: Captions (Prerecorded), which ensures that captions are provided for prerecorded audio content in synchronized media.",
+      "relatedTo": "sc:1.2.2",
+      "resources": [
+        {
+          "title": "Pearson – Captions (Prerecorded)",
+          "url": "https://accessibility.pearson.com/guidelines/accessibility-guidance-for-assessment/level-a/captions-prerecorded/",
+          "rdfs:comment": "Pearson's implementation guidance and examples for ensuring prerecorded media includes captions."
+        },
+        {
+          "title": "Aardvark Accessibility – SC 1.2.2: Captions (Prerecorded)",
+          "url": "https://aaardvarkaccessibility.com/wcag-plain-english/#1-2-2-captions-prerecorded",
+          "rdfs:comment": "Plain English interpretation of SC 1.2.2, including captioning tools and requirements."
+        },
+        {
+          "title": "Guía WCAG – Captions (Prerecorded)",
+          "url": "https://guia-wcag.com/en/#captions-prerecorded",
+          "rdfs:comment": "Multilingual guidance on meeting the requirement for captions in synchronized media."
+        },
+        {
+          "title": "Toronto Metropolitan University – WCAG 1.2.2",
+          "url": "https://pressbooks.library.torontomu.ca/iwacc/chapter/wcag-1-2-2/",
+          "rdfs:comment": "Overview of captioning expectations in educational and multimedia content."
+        },
+        {
+          "title": "DigitalA11y – Understanding SC 1.2.2",
+          "url": "https://www.digitala11y.com/understanding-sc-1-2-2-captions-prerecorded/",
+          "rdfs:comment": "Best practices for captioning video content to comply with SC 1.2.2."
+        },
+        {
+          "title": "NL Design System – SC 1.2.2 Guidance",
+          "url": "https://nldesignsystem.nl/wcag/1.2.2",
+          "rdfs:comment": "The Dutch government's design recommendations for adding captions to media."
+        },
+        {
+          "title": "GOV.UK WCAG Primer – SC 1.2.2 Captions (Prerecorded)",
+          "url": "https://github.com/alphagov/wcag-primer/wiki/1.2.2-Captions-(Prerecorded)",
+          "rdfs:comment": "UK Government wiki guidance for implementing captions for videos."
+        }
+      ]
+    },
+    {
+      "@id": "edu:1.2.3",
+      "@type": "EducationalResource",
+      "name": "Educational resources for SC 1.2.3 Audio Description or Media Alternative (Prerecorded)",
+      "description": "Learning resources for meeting WCAG 2.2 Success Criterion 1.2.3: Audio Description or Media Alternative (Prerecorded), which ensures that audio descriptions are provided for video content.",
+      "relatedTo": "sc:1.2.3",
+      "resources": [
+        {
+          "title": "Pearson – Audio Description or Media Alternative (Prerecorded)",
+          "url": "https://accessibility.pearson.com/guidelines/accessibility-guidance-for-assessment/level-a/audio-description-or-media-alternative-prerecorded/",
+          "rdfs:comment": "Pearson's guidance on providing audio descriptions or media alternatives for prerecorded content."
+        },
+        {
+          "title": "Aardvark Accessibility – SC 1.2.3: Audio Description or Media Alternative (Prerecorded)",
+          "url": "https://aaardvarkaccessibility.com/wcag-plain-english/#1-2-3-audio-description-or-media-alternative-prerecorded",
+          "rdfs:comment": "Plain language explanation of SC 1.2.3 with examples of compliant implementations."
+        },
+        {
+          "title": "Guía WCAG – Audio Description or Media Alternative (Prerecorded)",
+          "url": "https://guia-wcag.com/en/#audio-description-or-media-alternative-prerecorded",
+          "rdfs:comment": "Bilingual resource with guidance on providing audio descriptions in media."
+        },
+        {
+          "title": "Toronto Metropolitan University – WCAG 1.2.3",
+          "url": "https://pressbooks.library.torontomu.ca/iwacc/chapter/wcag-1-2-3/",
+          "rdfs:comment": "Educational materials covering the requirements for audio descriptions in video content."
+        },
+        {
+          "title": "DigitalA11y – Understanding SC 1.2.3",
+          "url": "https://www.digitala11y.com/understanding-sc-1-2-3-audio-description-or-media-alternative-prerecorded/",
+          "rdfs:comment": "Detailed review of SC 1.2.3 with examples of compliant implementations."
+        },
+        {
+          "title": "NL Design System – SC 1.2.3 Guidance",
+          "url": "https://nldesignsystem.nl/wcag/1.2.3",
+          "rdfs:comment": "Outline for NL Design system."
+        }
+      ]
+    }
+  ]
+}
