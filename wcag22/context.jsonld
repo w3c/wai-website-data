@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "name": "http://schema.org/name",
+    "description": "http://schema.org/description",
+    "url": {
+      "@id": "http://schema.org/url",
+      "@type": "@id"
+    },
+    "principle": {
+      "@id": "https://www.w3.org/WAI/WCAG22/principle#",
+      "@type": "@id"
+    },
+    "level": {
+      "@id": "https://www.w3.org/WAI/WCAG22/level#",
+      "@type": "@id"
+    },
+    "applicableSuccessCriteria": {
+      "@id": "https://www.w3.org/TR/WCAG22/#",
+      "@type": "@id"
+    },
+    "relatedTo": {
+      "@id": "https://www.w3.org/TR/WCAG22/#",
+      "@type": "@id"
+    },
+    "responsibleRoles": {
+      "@id": "https://www.w3.org/WAI/roles#responsibleRoles",
+      "@type": "@json"
+    },
+    "primary": "https://www.w3.org/WAI/roles#primary",
+    "secondary": "https://www.w3.org/WAI/roles#secondary",
+    "contributor": "https://www.w3.org/WAI/roles#contributor",
+    "source": "http://schema.org/sourceOrganization",
+    "Technique": "https://www.w3.org/WAI/WCAG22/Techniques/Technique",
+    "DefinedTerm": "http://schema.org/DefinedTerm"
+  }
+}
