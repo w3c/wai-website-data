@@ -1,0 +1,289 @@
+{
+  "@context": {
+    "@vocab": "https://www.w3.org/WAI/WCAG22/Techniques/",
+    "id": "@id",
+    "type": "@type",
+    "name": "http://schema.org/name",
+    "description": "http://schema.org/description",
+    "applicableSuccessCriteria": {
+      "@id": "https://www.w3.org/TR/WCAG22/#",
+      "@type": "@id"
+    },
+    "url": {
+      "@id": "http://schema.org/url",
+      "@type": "@id"
+    }
+  },
+  "@graph": [
+    {
+      "@id": "G94",
+      "@type": "Technique",
+      "name": "Providing short text alternative for non-text content",
+      "description": "Provides descriptive text for images, icons, and controls.",
+      "applicableSuccessCriteria": [
+        "sc:1.1.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G94"
+    },
+    {
+      "@id": "H37",
+      "@type": "Technique",
+      "name": "Using alt attributes on img elements",
+      "description": "Ensures that images have alternate text using the 'alt' attribute.",
+      "applicableSuccessCriteria": [
+        "sc:1.1.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H37"
+    },
+    {
+      "@id": "G150",
+      "@type": "Technique",
+      "name": "Providing text alternatives for live audio-only content",
+      "description": "Provides real-time captioning or transcription services.",
+      "applicableSuccessCriteria": [
+        "sc:1.2.9"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G150"
+    },
+    {
+      "@id": "G93",
+      "@type": "Technique",
+      "name": "Providing open (always visible) captions",
+      "description": "Ensures that captions are always visible for prerecorded audio content.",
+      "applicableSuccessCriteria": [
+        "sc:1.2.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G93"
+    },
+    {
+      "@id": "G78",
+      "@type": "Technique",
+      "name": "Providing a second, user-selectable audio track that includes audio descriptions",
+      "description": "Offers an alternative audio track with audio descriptions for video content.",
+      "applicableSuccessCriteria": [
+        "sc:1.2.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G78"
+    },
+    {
+      "@id": "G54",
+      "@type": "Technique",
+      "name": "Including a sign language interpreter in the video stream",
+      "description": "Adds a sign language interpreter to the video content.",
+      "applicableSuccessCriteria": [
+        "sc:1.2.6"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G54"
+    },
+    {
+      "@id": "G8",
+      "@type": "Technique",
+      "name": "Providing a movie with extended audio descriptions",
+      "description": "Includes extended audio descriptions in the video content.",
+      "applicableSuccessCriteria": [
+        "sc:1.2.7"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G8"
+    },
+    {
+      "@id": "G158",
+      "@type": "Technique",
+      "name": "Providing an alternative for time-based media for video-only content",
+      "description": "Offers a text alternative for video-only content.",
+      "applicableSuccessCriteria": [
+        "sc:1.2.8"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G158"
+    },
+    {
+      "@id": "G141",
+      "@type": "Technique",
+      "name": "Organizing a page using headings",
+      "description": "Uses headings to organize content and convey structure.",
+      "applicableSuccessCriteria": [
+        "sc:1.3.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G141"
+    },
+    {
+      "@id": "H49",
+      "@type": "Technique",
+      "name": "Using semantic markup to mark emphasized or special text",
+      "description": "Applies semantic HTML elements to convey emphasis or special meaning.",
+      "applicableSuccessCriteria": [
+        "sc:1.3.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H49"
+    },
+    {
+      "@id": "G57",
+      "@type": "Technique",
+      "name": "Ordering the content in a meaningful sequence",
+      "description": "Ensures that the reading order of content is logical and meaningful.",
+      "applicableSuccessCriteria": [
+        "sc:1.3.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G57"
+    },
+    {
+      "@id": "G96",
+      "@type": "Technique",
+      "name": "Providing textual identification of items that otherwise rely only on sensory information to be understood",
+      "description": "Adds text descriptions to items identified by shape, size, or position.",
+      "applicableSuccessCriteria": [
+        "sc:1.3.3"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G96"
+    },
+    {
+      "@id": "G125",
+      "@type": "Technique",
+      "name": "Providing links to navigate to different orientations",
+      "description": "Offers links that allow users to change the orientation of the content.",
+      "applicableSuccessCriteria": [
+        "sc:1.3.4"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G125"
+    },
+    {
+      "@id": "H98",
+      "@type": "Technique",
+      "name": "Using HTML 5.2 autocomplete attributes",
+      "description": "Implements autocomplete attributes to identify input purposes.",
+      "applicableSuccessCriteria": [
+        "sc:1.3.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/html/H98"
+    },
+    {
+      "@id": "G138",
+      "@type": "Technique",
+      "name": "Using semantic markup whenever color alone is used to convey information",
+      "description": "Ensures that color is not the sole means of conveying information.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.1"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G138"
+    },
+    {
+      "@id": "G60",
+      "@type": "Technique",
+      "name": "Playing a sound that turns off automatically within three seconds",
+      "description": "Limits audio playback to three seconds to avoid interference.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.2"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G60"
+    },
+    {
+      "@id": "G18",
+      "@type": "Technique",
+      "name": "Ensuring that text and images of text have a contrast ratio of at least 4.5:1",
+      "description": "Maintains sufficient contrast between text and background.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.3"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G18"
+    },
+    {
+      "@id": "C14",
+      "@type": "Technique",
+      "name": "Using em units for font sizes",
+      "description": "Allows text to be resized by using relative units.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.4"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/css/C14"
+    },
+    {
+      "@id": "G140",
+      "@type": "Technique",
+      "name": "Separating information and structure from presentation to enable different presentations",
+      "description": "Ensures that content remains understandable when styles are removed.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.5"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G140"
+    },
+    {
+      "@id": "G17",
+      "@type": "Technique",
+      "name": "Ensuring that text and images of text have a contrast ratio of at least 7:1",
+      "description": "Provides enhanced contrast for better readability.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.6"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G17"
+    },
+    {
+      "@id": "G56",
+      "@type": "Technique",
+      "name": "Providing a mechanism to achieve a low or no background audio",
+      "description": "Allows users to reduce or eliminate background audio.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.7"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G56"
+    },
+    {
+      "@id": "G146",
+      "@type": "Technique",
+      "name": "Using a technology that has commonly available user agents that can change the foreground and background of blocks of text",
+      "description": "Supports user customization of text and background colors.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.8"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G146"
+    },
+    {
+      "@id": "G148",
+      "@type": "Technique",
+      "name": "Not using images of text",
+      "description": "Avoids using images to represent text content.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.9"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G148"
+    },
+    {
+      "@id": "C31",
+      "@type": "Technique",
+      "name": "Using CSS Flexbox to reflow content",
+      "description": "Employs Flexbox layout to allow content to adapt to different screen sizes.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.10"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/css/C31"
+    },
+    {
+      "@id": "G207",
+      "@type": "Technique",
+      "name": "Ensuring that color contrast of non-text elements meets minimum thresholds",
+      "description": "Makes sure that UI components and graphical objects have at least 3:1 contrast with adjacent colors.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.11"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G207"
+    },
+    {
+      "@id": "C36",
+      "@type": "Technique",
+      "name": "Allowing text spacing to be adjusted without loss of content or functionality",
+      "description": "Supports custom text spacing settings like line height, paragraph spacing, and word spacing.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.12"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/css/C36"
+    },
+    {
+      "@id": "G211",
+      "@type": "Technique",
+      "name": "Ensuring content shown on hover or focus can be dismissed, hovered, and remains visible",
+      "description": "Implements controls so that additional content triggered by hover/focus is accessible.",
+      "applicableSuccessCriteria": [
+        "sc:1.4.13"
+      ],
+      "url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G211"
+    }
+  ]
+}
