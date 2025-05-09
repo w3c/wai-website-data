@@ -8,6 +8,7 @@ Table of contents:
 - [Structure](#structure)
 - [Initial setup in a WAI website repository](#initial-setup-in-a-wai-website-repository)
 - [Updating the `wai-website-data` submodule](#updating-the-wai-website-data-submodule)
+- [Contributing and reporting issues](#contributing-and-reporting-issues)
 
 ## Structure
 
