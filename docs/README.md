@@ -65,4 +65,4 @@ git submodule update --init --remote _external/data
 
 ## Contributing and reporting issues
 
-Please refer to [CONTRIBUTING](CONTRIBUTING).
+Please refer to [Contributing](CONTRIBUTING.md).
