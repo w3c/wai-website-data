@@ -44,7 +44,7 @@ mkdir _data
 
 To access the files via Jekyll, the data files needs to be accessible from the `_data` directory.
 
-Symlinks are used to point to the relevant files or folders in the `_external/data` folder.
+Use symlinks to point to the relevant files or folders in the `_external/data` folder.
 
 For example, run the following command to use WAI website navigation, language list, UI translations, video metadata, and video captions and subtitles:
 
