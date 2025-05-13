@@ -18,9 +18,9 @@ ln -s ../_external/data/translations.yml
 ln -s ../_external/data/wcag.yml
 ```
 
-## How to update JSON files under the `wcag/` directory
+## How to update wcag22.json
 
-Run the following command in the top level of the project directory:
+To update `wcag22.json`, run the following within the project directory:
 
 ```
 node _update-wcag-json.mjs

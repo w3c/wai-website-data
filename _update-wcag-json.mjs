@@ -1,5 +1,4 @@
 import { writeFile } from "fs/promises";
-import { join } from "path";
 
 const wcagUrl = "https://www.w3.org/WAI/WCAG22/wcag.json";
 
@@ -22,11 +21,9 @@ for (const principle of wcag22.principles) {
 }
 
 try {
-  await writeFile(
-      join("wcag", "22.json"),
-      JSON.stringify(data, null, "    ") + "\n"
-  );
-  console.log("wcag/22.json generated successfully.")
+  const filename = "wcag22.json";
+  await writeFile(filename, JSON.stringify(data, null, "    ") + "\n");
+  console.log(`${filename} generated successfully.`);
 } catch (err) {
   console.error(err);
 }
