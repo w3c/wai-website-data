@@ -21,7 +21,12 @@ for (const principle of wcag22.principles) {
   }
 }
 
-await writeFile(
-  join("wcag", "22.json"),
-  JSON.stringify(data, null, "    ") + "\n"
-);
+try {
+  await writeFile(
+      join("wcag", "22.json"),
+      JSON.stringify(data, null, "    ") + "\n"
+  );
+  console.log("wcag/22.json generated successfully.")
+} catch (err) {
+  console.error(err);
+}
