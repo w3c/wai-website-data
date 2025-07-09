@@ -1330,8 +1330,8 @@
             url: "/about/translating/sitemaps/sitemap-pl/"
           - name: "Spanish"
             url: "/about/translating/sitemaps/sitemap-es/"
-  - name: Sponsoring
-    url: "/about/sponsoring/"
+  - name: Support
+    url: "/about/support/"
   - name: Contacting
     url: "/about/contacting/"
   - name: Projects
