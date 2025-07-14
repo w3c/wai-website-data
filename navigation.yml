@@ -340,11 +340,37 @@
       - name: Sustain
         url: "/planning-and-managing/sustain/"
         translate: true
+      - name: Changelog
+        url: "/planning-and-managing/changelog/"
+        hide: true
       - name: Authoring Tools List
         url: "/tools-list/authoring/"
       - name: Authoring Tool Submission Form
         url: "/tools-list/authoring/submit-a-tool/"
         hide: true
+  - name: Roles and Responsibilities (ARRM)
+    url: "/planning/arrm/"
+    pages:
+      - name: Roles
+        url: "/planning/arrm/roles/"
+      - name: WCAG Success Criteria
+        url: "/planning/arrm/wcag-sc/"
+      - name: Tasks
+        url: "/planning/arrm/tasks/"
+        pages:
+          - name: "UX Designer"
+            url: "/planning/arrm/user-experience/"
+          - name: "Visual Designer"
+            url: "/planning/arrm/visual-designer/"
+          - name: "Content Author"
+            url: "/planning/arrm/content-author/"
+          - name: "Front-End Developer"
+            url: "/planning/arrm/front-end/"
+          - name: Decision Tree
+            url: "/planning/arrm/decision-tree/"
+          - name: Acknowledgements
+            url: "/planning/arrm/acknowledgements/"
+            hide: true
   - name: Developing an Organizational Policy
     url: "/planning/org-policies/"
     pages:
@@ -869,9 +895,9 @@
     url: "/standards-guidelines/wcag/wcag3-intro/"
     translate: true
   - name:
-    en: "Authoring Tools – ATAG"
-    fr: "Outils d'édition – ATAG"
-    pl: "Narzędzia autorskie – ATAG"
+      en: "Authoring Tools – ATAG"
+      fr: "Outils d'édition – ATAG"
+      pl: "Narzędzia autorskie – ATAG"
     url: "/standards-guidelines/atag/"
     translate: true
     pages:
@@ -984,116 +1010,266 @@
     - name: 'Accessibility Guidelines'
       url: "/about/groups/agwg/"
       pages:
-      - name: Decision Policy
-        url: "/about/groups/agwg/decision-policy/"
-        hide: true
-    - name: 'Accessible Platform Architectures'
-      url: "/about/groups/apawg/"
-      pages:
-      - name: Decision Policy
-        url: "/about/groups/apawg/decision-policy/"
-        hide: true
-    - name: 'ARIA'
-      url: "/about/groups/ariawg/"
-      pages:
-      - name: Decision Policy
-        url: "/about/groups/ariawg/decision-policy/"
-        hide: true
-    - name: 'Education and Outreach'
-      url: "/about/groups/eowg/"
-      hide: true
-      pages:
-      - name: Participate (Join)
-        url: "/about/groups/eowg/participate/"
-        hide: true
-      - name: Participants
-        url: "/about/groups/eowg/participants/"
-        hide: true
-    - name: 'Task Forces Supporting Accessibility Working Groups'
-      url: "/about/groups/task-forces/"
-      pages:
-      - name: 'Accessibility Conformance Testing'
+      - name: 'Accessibility Conformance Testing <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/conformance-testing/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/conformance-testing/work-statement/"
           hide: true
-      - name: 'ARIA Authoring Practices'
-        url: "/about/groups/task-forces/practices/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/practices/work-statement/"
+        - name: Work Statement 2020
+          url: "/about/groups/task-forces/conformance-testing/work-statement-2020/"
           hide: true
-      - name: 'Cognitive and Learning Disabilities'
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/conformance-testing/minutes/"
+          hide: true
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/conformance-testing/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/conformance-testing/minutes/topics/"
+          hide: true
+      - name: 'Cognitive and Learning Disabilities <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/coga/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/coga/work-statement/"
           hide: true
-      - name: 'Framework for Accessible Specification of Technologies'
-        url: "/about/groups/task-forces/low-vision-a11y-tf/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/fast/work-statement/"
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/coga/minutes/"
           hide: true
-      - name: 'Low Vision Accessibility'
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/coga/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/coga/minutes/topics/"
+          hide: true
+      - name: 'Low Vision Accessibility <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/low-vision-a11y-tf/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/low-vision-a11y-tf/work-statement/"
           hide: true
-      - name: 'Maturity Model'
-        url: "/about/groups/task-forces/maturity-model/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/maturity-model/work-statement/"
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/low-vision-a11y-tf/minutes/"
           hide: true
-      - name: 'Mobile Accessibility'
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/low-vision-a11y-tf/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/low-vision-a11y-tf/minutes/topics/"
+          hide: true
+      - name: 'Mobile Accessibility <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/matf/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/matf/work-statement/"
           hide: true
-      - name: 'PDF Accessibility <abbr title="Application Programming Interfaces">APIs</abbr> Mapping'
-        url: "/about/groups/task-forces/pdf-aam/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/pdf-aam/work-statement/"
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/matf/minutes/"
           hide: true
-      - name: 'Research Question'
-        url: "/about/groups/task-forces/research-questions/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/research-questions/work-statement/"
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/matf/minutes/resolutions/"
           hide: true
-      - name: 'Spoken Presentation'
-        url: "/about/groups/task-forces/pronunciation/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/pronunciation/work-statement/"
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/matf/minutes/topics/"
           hide: true
-      - name: 'WAI-Adapt'
-        url: "/about/groups/task-forces/adapt/"
-        pages:
-        - name: Work Statement
-          url: "/about/groups/task-forces/adapt/work-statement/"
-          hide: true
-      - name: 'WCAG 2.x Backlog'
+      - name: 'WCAG 2.x Backlog <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/wcag2x-backlog/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/wcag2x-backlog/work-statement/"
           hide: true
-      - name: 'WCAG2ICT'
+      - name: 'WCAG2ICT <abbr title="Task Force">TF</abbr>'
         url: "/about/groups/task-forces/wcag2ict/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/wcag2ict/work-statement/"
           hide: true
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/wcag2ict/minutes/"
+          hide: true
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/wcag2ict/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/wcag2ict/minutes/topics/"
+          hide: true
+      - name: Decision Policy
+        url: "/about/groups/agwg/decision-policy/"
+        hide: true
+      - name: Meeting Minutes
+        url: "/about/groups/agwg/minutes/"
+        hide: true
+      - name: Meeting Resolutions
+        url: "/about/groups/agwg/minutes/resolutions/"
+        hide: true
+      - name: Meeting Topics
+        url: "/about/groups/agwg/minutes/topics/"
+        hide: true
+    - name: 'Accessible Platform Architectures'
+      url: "/about/groups/apawg/"
+      pages:
+      - name: 'Framework for Accessible Specification of Technologies <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/fast/"
+        pages:
+        - name: Work Statement
+          url: "/about/groups/task-forces/fast/work-statement/"
+          hide: true
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/fast/minutes/"
+          hide: true
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/fast/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/fast/minutes/topics/"
+          hide: true
+      - name: 'Maturity Model <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/maturity-model/"
+        pages:
+        - name: Work Statement
+          url: "/about/groups/task-forces/maturity-model/work-statement/"
+          hide: true
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/maturity-model/minutes/"
+          hide: true
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/maturity-model/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/maturity-model/minutes/topics/"
+          hide: true
+      - name: 'Research Questions <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/research-questions/"
+        pages:
+        - name: Work Statement
+          url: "/about/groups/task-forces/research-questions/work-statement/"
+          hide: true
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/research-questions/minutes/"
+          hide: true
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/research-questions/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/research-questions/minutes/topics/"
+          hide: true
+      - name: 'Spoken Presentation <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/spoken-presentation/"
+        pages:
+        - name: Work Statement
+          url: "/about/groups/task-forces/spoken-presentation/work-statement/"
+          hide: true
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/spoken-presentation/minutes/"
+          hide: true
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/spoken-presentation/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/spoken-presentation/minutes/topics/"
+          hide: true
+      - name: 'WAI-Adapt <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/adapt/"
+        pages:
+        - name: Work Statement
+          url: "/about/groups/task-forces/adapt/work-statement/"
+          hide: true
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/adapt/minutes/"
+          hide: true
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/adapt/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/adapt/minutes/topics/"
+          hide: true
+      - name: Decision Policy
+        url: "/about/groups/apawg/decision-policy/"
+        hide: true
+      - name: Meeting Minutes
+        url: "/about/groups/apawg/minutes/"
+        hide: true
+      - name: Meeting Resolutions
+        url: "/about/groups/apawg/minutes/resolutions/"
+        hide: true
+      - name: Meeting Topics
+        url: "/about/groups/apawg/minutes/topics/"
+        hide: true
+    - name: 'ARIA'
+      url: "/about/groups/ariawg/"
+      pages:
+      - name: 'ARIA Authoring Practices <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/practices/"
+        pages:
+        - name: Work Statement
+          url: "/about/groups/task-forces/practices/work-statement/"
+          hide: true
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/practices/minutes/"
+          hide: true
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/practices/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/practices/minutes/topics/"
+          hide: true
+      - name: 'PDF Accessibility <abbr title="Application Programming Interfaces">APIs</abbr> Mapping <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/pdf-aam/"
+        pages:
+        - name: Work Statement
+          url: "/about/groups/task-forces/pdf-aam/work-statement/"
+          hide: true
+        - name: Meeting Minutes
+          url: "/about/groups/task-forces/pdf-aam/minutes/"
+          hide: true
+        - name: Meeting Resolutions
+          url: "/about/groups/task-forces/pdf-aam/minutes/resolutions/"
+          hide: true
+        - name: Meeting Topics
+          url: "/about/groups/task-forces/pdf-aam/minutes/topics/"
+          hide: true
+      - name: Decision Policy
+        url: "/about/groups/ariawg/decision-policy/"
+        hide: true
+      - name: Meeting Minutes
+        url: "/about/groups/ariawg/minutes/"
+        hide: true
+      - name: Meeting Resolutions
+        url: "/about/groups/ariawg/minutes/resolutions/"
+        hide: true
+      - name: Meeting Topics
+        url: "/about/groups/ariawg/minutes/topics/"
+        hide: true
     - name: 'WAI Interest Group'
       url: "/about/groups/waiig/"
     - name: 'Previous groups'
       url: "/about/groups/previous-groups/"
+      pages:
+      - name: 'Education and Outreach <abbr title="Working Group">WG</abbr>'
+        url: "/about/groups/eowg/"
+        hide: true
+        pages:
+          - name: Participate (Join)
+            url: "/about/groups/eowg/participate/"
+            hide: true
+          - name: Participants
+            url: "/about/groups/eowg/participants/"
+            hide: true
+      - name: 'CSS Accessibility <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/css-a11y/"
+        hide: true
+        pages:
+          - name: Work Statement
+            url: "/about/groups/task-forces/css-a11y/work-statement/"
+            hide: true
+      - name: 'Silver <abbr title="Task Force">TF</abbr>'
+        url: "/about/groups/task-forces/silver/"
+        hide: true
+        pages:
+          - name: Work Statement
+            url: "/about/groups/task-forces/silver/work-statement/"
+            hide: true
   - name: Translate WAI
     url: "/about/translate-wai/"
     pages:
@@ -1115,8 +1291,15 @@
       - name: Translating WCAG
         url: "/about/translating/wcag/"
         pages:
-          - name: Updating WCAG 2.1 Translations
-            url: "/about/translating/wcag/wcag21-update/"
+          - name: Updating WCAG 2 Translations
+            url: "/about/translating/wcag/update/"
+            pages:
+              - name: "WCAG 2.2: 2023 to 2024"
+                url: "/about/translating/wcag/update/wcag22-20231005/"
+              - name: "WCAG 2.1: 2023 to 2025"
+                url: "/about/translating/wcag/update/wcag21-20230921/"
+              - name: "WCAG 2.1: 2018 to 2025"
+                url: "/about/translating/wcag/update/wcag21-20180605/"
       - name: Translations Sitemaps
         url: "/about/translating/sitemaps/"
         pages:
@@ -1144,8 +1327,8 @@
             url: "/about/translating/sitemaps/sitemap-pl/"
           - name: "Spanish"
             url: "/about/translating/sitemaps/sitemap-es/"
-  - name: Sponsoring
-    url: "/about/sponsoring/"
+  - name: Support
+    url: "/about/support/"
   - name: Contact WAI
     url: "/about/contact-wai/"
   - name: Projects
@@ -1193,8 +1376,8 @@
       url: "/expand-access/"
     - name: Easy Reading
       url: "/about/projects/easy-reading/"
-    - name: WAI-Core 2015, 2020
-      url: "/about/projects/wai-core-2015/"
+    - name: WAI-Core US
+      url: "/about/projects/wai-core-us/"
     - name: WAI-Core Ford
       url: "/about/projects/wai-core-ford/"
   - name: Accessibility Statement
