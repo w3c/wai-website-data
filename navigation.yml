@@ -976,8 +976,8 @@
     url: "/about/"
   - name: "What We're Working On"
     url: "/update/"
-  - name: Participating
-    url: "/about/participating/"
+  - name: Participate in WAI
+    url: "/about/participate-in-wai/"
   - name: Groups
     url: "/about/groups/"
     pages:
@@ -993,7 +993,7 @@
       - name: Decision Policy
         url: "/about/groups/apawg/decision-policy/"
         hide: true
-    - name: 'Accessible Rich Internet Applications'
+    - name: 'ARIA'
       url: "/about/groups/ariawg/"
       pages:
       - name: Decision Policy
@@ -1094,11 +1094,11 @@
       url: "/about/groups/waiig/"
     - name: 'Previous groups'
       url: "/about/groups/previous-groups/"
-  - name: Translating
-    url: "/about/translating/"
+  - name: Translate WAI
+    url: "/about/translate-wai/"
     pages:
-      - name: Translating a WAI Resource
-        url: "/about/translating/resources/"
+      - name: Translate a WAI resource
+        url: "/about/translate-wai/resources/"
         pages:
         - name: Technical Steps
           url: "/about/translating/resources/technical-steps/"
@@ -1146,10 +1146,11 @@
             url: "/about/translating/sitemaps/sitemap-es/"
   - name: Sponsoring
     url: "/about/sponsoring/"
-  - name: Contacting
-    url: "/about/contacting/"
+  - name: Contact WAI
+    url: "/about/contact-wai/"
   - name: Projects
     url: "/about/projects/"
+    hide: true
     pages:
     - name: WAI-CooP
       url: "/about/projects/wai-coop/"
@@ -1198,8 +1199,8 @@
       url: "/about/projects/wai-core-ford/"
   - name: Accessibility Statement
     url: "/about/accessibility-statement/"
-  - name: Using WAI Material
-    url: "/about/using-wai-material/"
+  - name: Use WAI material
+    url: "/about/use-wai-material/"
 - name: Resources
   url: "/resources/"
   mainnav: false
