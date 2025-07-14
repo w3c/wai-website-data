@@ -1010,7 +1010,7 @@
     - name: 'Accessibility Guidelines'
       url: "/about/groups/agwg/"
       pages:
-      - name: 'Accessibility Conformance Testing <abbr title="Task Force">TF</abbr>'
+      - name: 'Accessibility Conformance Testing'
         url: "/about/groups/task-forces/conformance-testing/"
         pages:
         - name: Work Statement
@@ -1028,7 +1028,7 @@
         - name: Meeting Topics
           url: "/about/groups/task-forces/conformance-testing/minutes/topics/"
           hide: true
-      - name: 'Cognitive and Learning Disabilities <abbr title="Task Force">TF</abbr>'
+      - name: 'Cognitive and Learning Disabilities'
         url: "/about/groups/task-forces/coga/"
         pages:
         - name: Work Statement
@@ -1043,7 +1043,7 @@
         - name: Meeting Topics
           url: "/about/groups/task-forces/coga/minutes/topics/"
           hide: true
-      - name: 'Low Vision Accessibility <abbr title="Task Force">TF</abbr>'
+      - name: 'Low Vision Accessibility'
         url: "/about/groups/task-forces/low-vision-a11y-tf/"
         pages:
         - name: Work Statement
@@ -1058,7 +1058,7 @@
         - name: Meeting Topics
           url: "/about/groups/task-forces/low-vision-a11y-tf/minutes/topics/"
           hide: true
-      - name: 'Mobile Accessibility <abbr title="Task Force">TF</abbr>'
+      - name: 'Mobile Accessibility'
         url: "/about/groups/task-forces/matf/"
         pages:
         - name: Work Statement
@@ -1073,13 +1073,13 @@
         - name: Meeting Topics
           url: "/about/groups/task-forces/matf/minutes/topics/"
           hide: true
-      - name: 'WCAG 2.x Backlog <abbr title="Task Force">TF</abbr>'
+      - name: 'WCAG 2.x Backlog'
         url: "/about/groups/task-forces/wcag2x-backlog/"
         pages:
         - name: Work Statement
           url: "/about/groups/task-forces/wcag2x-backlog/work-statement/"
           hide: true
-      - name: 'WCAG2ICT <abbr title="Task Force">TF</abbr>'
+      - name: 'WCAG2ICT'
         url: "/about/groups/task-forces/wcag2ict/"
         pages:
         - name: Work Statement
@@ -1109,7 +1109,7 @@
     - name: 'Accessible Platform Architectures'
       url: "/about/groups/apawg/"
       pages:
-      - name: 'Framework for Accessible Specification of Technologies <abbr title="Task Force">TF</abbr>'
+      - name: 'Framework for Accessible Specification of Technologies'
         url: "/about/groups/task-forces/fast/"
         pages:
         - name: Work Statement
@@ -1124,7 +1124,7 @@
         - name: Meeting Topics
           url: "/about/groups/task-forces/fast/minutes/topics/"
           hide: true
-      - name: 'Maturity Model <abbr title="Task Force">TF</abbr>'
+      - name: 'Maturity Model'
         url: "/about/groups/task-forces/maturity-model/"
         pages:
         - name: Work Statement
@@ -1139,7 +1139,7 @@
         - name: Meeting Topics
           url: "/about/groups/task-forces/maturity-model/minutes/topics/"
           hide: true
-      - name: 'Research Questions <abbr title="Task Force">TF</abbr>'
+      - name: 'Research Questions'
         url: "/about/groups/task-forces/research-questions/"
         pages:
         - name: Work Statement
@@ -1154,7 +1154,7 @@
         - name: Meeting Topics
           url: "/about/groups/task-forces/research-questions/minutes/topics/"
           hide: true
-      - name: 'Spoken Presentation <abbr title="Task Force">TF</abbr>'
+      - name: 'Spoken Presentation'
         url: "/about/groups/task-forces/spoken-presentation/"
         pages:
         - name: Work Statement
@@ -1169,7 +1169,7 @@
         - name: Meeting Topics
           url: "/about/groups/task-forces/spoken-presentation/minutes/topics/"
           hide: true
-      - name: 'WAI-Adapt <abbr title="Task Force">TF</abbr>'
+      - name: 'WAI-Adapt'
         url: "/about/groups/task-forces/adapt/"
         pages:
         - name: Work Statement
@@ -1199,7 +1199,7 @@
     - name: 'ARIA'
       url: "/about/groups/ariawg/"
       pages:
-      - name: 'ARIA Authoring Practices <abbr title="Task Force">TF</abbr>'
+      - name: 'ARIA Authoring Practices'
         url: "/about/groups/task-forces/practices/"
         pages:
         - name: Work Statement
@@ -1214,7 +1214,7 @@
         - name: Meeting Topics
           url: "/about/groups/task-forces/practices/minutes/topics/"
           hide: true
-      - name: 'PDF Accessibility <abbr title="Application Programming Interfaces">APIs</abbr> Mapping <abbr title="Task Force">TF</abbr>'
+      - name: 'PDF Accessibility <abbr title="Application Programming Interfaces">APIs</abbr> Mapping'
         url: "/about/groups/task-forces/pdf-aam/"
         pages:
         - name: Work Statement
@@ -1243,10 +1243,10 @@
         hide: true
     - name: 'WAI Interest Group'
       url: "/about/groups/waiig/"
-    - name: 'Previous groups'
-      url: "/about/groups/previous-groups/"
+    - name: 'Past groups'
+      url: "/about/groups/past-groups/"
       pages:
-      - name: 'Education and Outreach <abbr title="Working Group">WG</abbr>'
+      - name: 'Education and Outreach'
         url: "/about/groups/eowg/"
         hide: true
         pages:
@@ -1256,14 +1256,14 @@
           - name: Participants
             url: "/about/groups/eowg/participants/"
             hide: true
-      - name: 'CSS Accessibility <abbr title="Task Force">TF</abbr>'
+      - name: 'CSS Accessibility'
         url: "/about/groups/task-forces/css-a11y/"
         hide: true
         pages:
           - name: Work Statement
             url: "/about/groups/task-forces/css-a11y/work-statement/"
             hide: true
-      - name: 'Silver <abbr title="Task Force">TF</abbr>'
+      - name: 'Silver'
         url: "/about/groups/task-forces/silver/"
         hide: true
         pages:
@@ -1327,8 +1327,8 @@
             url: "/about/translating/sitemaps/sitemap-pl/"
           - name: "Spanish"
             url: "/about/translating/sitemaps/sitemap-es/"
-  - name: Support
-    url: "/about/support/"
+  - name: Support WAI
+    url: "/about/support-wai/"
   - name: Contact WAI
     url: "/about/contact-wai/"
   - name: Projects
