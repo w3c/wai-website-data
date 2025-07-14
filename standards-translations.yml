@@ -17,7 +17,7 @@
   intent_date: 2023-11-17
 - lang: ca
   standard: wcag
-  standard_version: "2.2"
+  standard_version: "2.2_2023"
   title: "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2"
   url: https://www.w3.org/Translations/WCAG22-ca/
   date: 2024-05-22
@@ -31,7 +31,7 @@
   intent_date: 2023-10-08
 - lang: nl
   standard: wcag
-  standard_version: "2.2"
+  standard_version: "2.2_2023"
   title: "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2"
   url: https://www.w3.org/Translations/WCAG22-nl/
   date: 2024-06-12
@@ -41,17 +41,17 @@
   intent_date: 2023-06-05
 - lang: fr
   standard: wcag
-  standard_version: "2.2"
+  standard_version: "2.2_2023"
   title: "Règles pour l’accessibilité des contenus Web (WCAG) 2.2"
-  url: https://wcag.access42.net/22/
-  date: 2024-10-01
+  url: https://www.w3.org/Translations/WCAG22-fr/
+  date: 2025-03-17
   translator: "Access42"
-  type: cat
+  type: authorized
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0001.html
   intent_date: 2022-07-25
 - lang: it
   standard: wcag
-  standard_version: "2.2"
+  standard_version: "2.2_2023"
   title: "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2"
   url: https://www.w3.org/Translations/WCAG22-it/
   date: 2023-12-05
@@ -68,10 +68,10 @@
   standard: wcag
   standard_version: "2.2"
   title: "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2"
-  url: https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/
+  url: https://www.w3.org/Translations/WCAG22-pt-BR/
   translator: "Ceweb.br"
-  date: 2024-03-01
-  type: cat
+  date: 2025-03-27
+  type: authorized
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0011.html
   intent_date: 2023-10-17
 - lang: ru
