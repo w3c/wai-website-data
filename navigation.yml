@@ -1109,7 +1109,7 @@
       - name: Meeting Topics
         url: "/about/groups/agwg/minutes/topics/"
         hide: true
-    - name: 'Accessible Platform Architectures>'
+    - name: 'Accessible Platform Architectures'
       url: "/about/groups/apawg/"
       pages:
       - name: 'Framework for Accessible Specification of Technologies'
@@ -1199,7 +1199,7 @@
       - name: Meeting Topics
         url: "/about/groups/apawg/minutes/topics/"
         hide: true
-    - name: 'ARIA>'
+    - name: 'ARIA'
       url: "/about/groups/ariawg/"
       pages:
       - name: 'ARIA Authoring Practices'
@@ -1249,7 +1249,7 @@
     - name: 'Past groups'
       url: "/about/groups/previous-groups/"
       pages:
-      - name: 'Education and Outreach>'
+      - name: 'Education and Outreach'
         url: "/about/groups/eowg/"
         hide: true
         pages:
