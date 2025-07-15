@@ -1005,8 +1005,8 @@
     url: "/about/"
   - name: "What We're Working On"
     url: "/update/"
-  - name: Participating
-    url: "/about/participating/"
+  - name: Participate in WAI
+    url: "/about/participate-in-wai/"
   - name: Groups
     url: "/about/groups/"
     pages:
@@ -1247,7 +1247,7 @@
     - name: 'WAI Interest Group'
       url: "/about/groups/waiig/"
     - name: 'Past groups'
-      url: "/about/groups/previous-groups/"
+      url: "/about/groups/past-groups/"
       pages:
       - name: 'Education and Outreach'
         url: "/about/groups/eowg/"
@@ -1273,11 +1273,11 @@
           - name: Work Statement
             url: "/about/groups/task-forces/silver/work-statement/"
             hide: true
-  - name: Translating
-    url: "/about/translating/"
+  - name: Translate WAI
+    url: "/about/translate-wai/"
     pages:
-      - name: Translating a WAI Resource
-        url: "/about/translating/resources/"
+      - name: Translate a WAI resource
+        url: "/about/translate-wai/resources/"
         pages:
         - name: Technical Steps
           url: "/about/translating/resources/technical-steps/"
@@ -1330,12 +1330,13 @@
             url: "/about/translating/sitemaps/sitemap-pl/"
           - name: "Spanish"
             url: "/about/translating/sitemaps/sitemap-es/"
-  - name: Support
-    url: "/about/support/"
-  - name: Contacting
-    url: "/about/contacting/"
+  - name: Support WAI
+    url: "/about/support-wai/"
+  - name: Contact WAI
+    url: "/about/contact-wai/"
   - name: Projects
     url: "/about/projects/"
+    hide: true
     pages:
     - name: WAI-CooP
       url: "/about/projects/wai-coop/"
@@ -1384,8 +1385,8 @@
       url: "/about/projects/wai-core-ford/"
   - name: Accessibility Statement
     url: "/about/accessibility-statement/"
-  - name: Using WAI Material
-    url: "/about/using-wai-material/"
+  - name: Use WAI material
+    url: "/about/use-wai-material/"
 - name: Resources
   url: "/resources/"
   mainnav: false
