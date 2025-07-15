@@ -561,6 +561,7 @@
           ja: '<code style="color: inherit;">alt</code> 의사결정나무'
           ko: 'Ein <code style="color: inherit;">alt</code> -Entscheidungsbaum'
           pl: "Drzewo decyzyjne <code>alt</code>"
+          pt-BR: 'Uma árvore de decisão do atributo <code style="color: inherit;">alt</code>'
         url: "/tutorials/images/decision-tree/"
         translate: true
       - name: Tips and Tricks
