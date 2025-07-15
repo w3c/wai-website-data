@@ -1010,7 +1010,7 @@
   - name: Groups
     url: "/about/groups/"
     pages:
-    - name: 'Accessibility Guidelines>'
+    - name: 'Accessibility Guidelines'
       url: "/about/groups/agwg/"
       pages:
       - name: 'Accessibility Conformance Testing'
