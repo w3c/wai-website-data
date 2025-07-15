@@ -3,6 +3,7 @@
     es: "Fundamentos de accesibilidad"
     fr: "Fondamentaux de l'accessibilité"
     pl: "Podstawy dostępności"
+    pt-BR: "Fundamentos de acessibilidade"
   translate: true
   pages:
   - name:
@@ -10,6 +11,7 @@
       es: "Fundamentos de accesibilidad"
       fr: "Fondamentaux de l'accessibilité"
       pl: "Podstawy dostępności"
+      pt-BR: "Fundamentos de acessibilidade"
     url: "/fundamentals/"
     translate: true
   - name: Changelog
@@ -358,19 +360,19 @@
       - name: Tasks
         url: "/planning/arrm/tasks/"
         pages:
-          - name: "UX Designer"
-            url: "/planning/arrm/user-experience/"
-          - name: "Visual Designer"
-            url: "/planning/arrm/visual-designer/"
-          - name: "Content Author"
-            url: "/planning/arrm/content-author/"
-          - name: "Front-End Developer"
-            url: "/planning/arrm/front-end/"
-          - name: Decision Tree
-            url: "/planning/arrm/decision-tree/"
-          - name: Acknowledgements
-            url: "/planning/arrm/acknowledgements/"
-            hide: true
+        - name: "UX Designer"
+          url: "/planning/arrm/user-experience/"
+        - name: "Visual Designer"
+          url: "/planning/arrm/visual-designer/"
+        - name: "Content Author"
+          url: "/planning/arrm/content-author/"
+        - name: "Front-End Developer"
+          url: "/planning/arrm/front-end/"
+      - name: Decision Tree
+        url: "/planning/arrm/decision-tree/"
+      - name: Acknowledgements
+        url: "/planning/arrm/acknowledgements/"
+        hide: true
   - name: Developing an Organizational Policy
     url: "/planning/org-policies/"
     pages:
