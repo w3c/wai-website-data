@@ -1273,7 +1273,7 @@
           - name: Work Statement
             url: "/about/groups/task-forces/silver/work-statement/"
             hide: true
-  - name: Translate WAI
+  - name: Translate
     url: "/about/translate-wai/"
     pages:
       - name: Translate a WAI resource
