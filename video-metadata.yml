@@ -326,6 +326,8 @@
   path: people-use-web
   captions:
     - en
+  subtitles:
+    - es
 - id: user-stories_7
   name:
     en: "Marta, marketing assistant who is deaf and blind"
