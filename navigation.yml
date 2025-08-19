@@ -1006,7 +1006,7 @@
   - name: "What We're Working On"
     url: "/update/"
   - name: Participate in WAI
-    url: "/about/participate-in-wai/"
+    url: "/about/participating/"
   - name: Groups
     url: "/about/groups/"
     pages:
@@ -1274,10 +1274,10 @@
             url: "/about/groups/task-forces/silver/work-statement/"
             hide: true
   - name: Translate
-    url: "/about/translate-wai/"
+    url: "/about/translating/"
     pages:
       - name: Translate a WAI resource
-        url: "/about/translate-wai/resources/"
+        url: "/about/translating/resources/"
         pages:
         - name: Technical Steps
           url: "/about/translating/resources/technical-steps/"
@@ -1331,9 +1331,9 @@
           - name: "Spanish"
             url: "/about/translating/sitemaps/sitemap-es/"
   - name: Support WAI
-    url: "/about/support-wai/"
+    url: "/about/support/"
   - name: Contact WAI
-    url: "/about/contact-wai/"
+    url: "/about/contacting/"
   - name: Projects
     url: "/about/projects/"
     hide: true
@@ -1386,7 +1386,7 @@
   - name: Accessibility Statement
     url: "/about/accessibility-statement/"
   - name: Use WAI material
-    url: "/about/use-wai-material/"
+    url: "/about/using-wai-material/"
 - name: Resources
   url: "/resources/"
   mainnav: false
