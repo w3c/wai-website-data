@@ -1276,7 +1276,7 @@
   - name: Translate
     url: "/about/translating/"
     pages:
-      - name: Translate a WAI resource
+      - name: Translate a WAI Resource
         url: "/about/translating/resources/"
         pages:
         - name: Technical Steps
