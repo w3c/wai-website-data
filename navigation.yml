@@ -1336,10 +1336,10 @@
     url: "/about/contacting/"
   - name: Projects
     url: "/about/projects/"
-    hide: true
     pages:
     - name: WAI-CooP
       url: "/about/projects/wai-coop/"
+      hide: true
       pages:
       - name: Research Symposium 2021
         url: "/about/projects/wai-coop/symposium1/"
@@ -1349,8 +1349,10 @@
         url: "/about/projects/wai-coop/symposium3/"
     - name: WAI-Guide
       url: "/about/projects/wai-guide/"
+      hide: true
     - name: WAI-Tools
       url: "/about/projects/wai-tools/"
+      hide: true
       pages:
       - name: Final Open Meeting
         url: "/about/projects/wai-tools/final-open-meeting/"
@@ -1377,12 +1379,16 @@
         url: "/about/projects/wai-tools/first-open-meeting/"
     - name: WAI Expanding Access
       url: "/expand-access/"
+      hide: true
     - name: Easy Reading
       url: "/about/projects/easy-reading/"
+      hide: true
     - name: WAI-Core US
       url: "/about/projects/wai-core-us/"
+      hide: true
     - name: WAI-Core Ford
       url: "/about/projects/wai-core-ford/"
+      hide: true
   - name: Accessibility Statement
     url: "/about/accessibility-statement/"
   - name: Use WAI Material
