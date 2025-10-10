@@ -687,6 +687,10 @@
         url: "/test-evaluate/tools/selecting/"
       - name: List of Evaluation Tools
         url: "/test-evaluate/tools/list/"
+        pages:
+          - name: Submit a tool
+            url: "/test-evaluate/tools/list/submit-a-tool"
+            hide: true
   - name:
       en: "Conformance Evaluation, Reports"
       fr: "Évaluation de la conformité, rapports"
