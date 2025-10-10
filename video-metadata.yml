@@ -40,6 +40,14 @@
   subtitles:
     - fr
     - pl    
+- id: easy-checks-accessibility
+  name:
+    en: "Easy Checks Overview"
+  path: evaluating
+  captions:
+    - en
+  subtitles:
+    - fr
 - id: foundations-course-teaser
   name:
     en: "Introduction to Web Accessibility (W3C WAI Digital Accessibility Foundations - Free Online Course)"
