@@ -898,6 +898,9 @@
     - name: FAQ
       url: "/standards-guidelines/wcag/faq/"
       translate: true
+    - name: Changelog
+      url: "/standards-guidelines/wcag/changelog/"
+      hide: true
   - name: WCAG 3 Draft
     url: "/standards-guidelines/wcag/wcag3-intro/"
     translate: true
