@@ -689,7 +689,7 @@
         url: "/test-evaluate/tools/list/"
         pages:
           - name: Submit a tool
-            url: "/test-evaluate/tools/list/submit-a-tool"
+            url: "/test-evaluate/tools/submit-a-tool/"
             hide: true
   - name:
       en: "Conformance Evaluation, Reports"
