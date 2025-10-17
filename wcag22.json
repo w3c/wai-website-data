@@ -1,4 +1,246 @@
 {
+    "principles": [
+        {
+            "id": "perceivable",
+            "num": "1",
+            "content": "<p>Information and user interface components must be presentable to users in ways they can perceive.</p>",
+            "handle": "Perceivable",
+            "title": "Information and user interface components must be presentable to users in ways they can perceive.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "operable",
+            "num": "2",
+            "content": "<p>User interface components and navigation must be operable.</p>",
+            "handle": "Operable",
+            "title": "User interface components and navigation must be operable.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "understandable",
+            "num": "3",
+            "content": "<p>Information and the operation of the user interface must be understandable.</p>",
+            "handle": "Understandable",
+            "title": "Information and the operation of the user interface must be understandable.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "robust",
+            "num": "4",
+            "content": "<p>Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies.</p>",
+            "handle": "Robust",
+            "title": "Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        }
+    ],
+    "guidelines": [
+        {
+            "id": "text-alternatives",
+            "num": "1.1",
+            "alt_id": [
+                "text-equiv"
+            ],
+            "content": "<p>Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.</p>",
+            "handle": "Text Alternatives",
+            "title": "Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "time-based-media",
+            "num": "1.2",
+            "alt_id": [
+                "media-equiv"
+            ],
+            "content": "<p>Provide alternatives for time-based media.</p>",
+            "handle": "Time-based Media",
+            "title": "Provide alternatives for time-based media.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "adaptable",
+            "num": "1.3",
+            "alt_id": [
+                "content-structure-separation"
+            ],
+            "content": "<p>Create content that can be presented in different ways (for example simpler layout) without losing information or structure.</p>",
+            "handle": "Adaptable",
+            "title": "Create content that can be presented in different ways (for example simpler layout) without losing information or structure.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "distinguishable",
+            "num": "1.4",
+            "alt_id": [
+                "visual-audio-contrast"
+            ],
+            "content": "<p>Make it easier for users to see and hear content including separating foreground from background.</p>",
+            "handle": "Distinguishable",
+            "title": "Make it easier for users to see and hear content including separating foreground from background.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "keyboard-accessible",
+            "num": "2.1",
+            "alt_id": [
+                "keyboard-operation"
+            ],
+            "content": "<p>Make all functionality available from a keyboard.</p>",
+            "handle": "Keyboard Accessible",
+            "title": "Make all functionality available from a keyboard.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "enough-time",
+            "num": "2.2",
+            "alt_id": [
+                "time-limits"
+            ],
+            "content": "<p>Provide users enough time to read and use content.</p>",
+            "handle": "Enough Time",
+            "title": "Provide users enough time to read and use content.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "seizures-and-physical-reactions",
+            "num": "2.3",
+            "alt_id": [],
+            "content": "<p>Do not design content in a way that is known to cause seizures or physical reactions.</p>",
+            "handle": "Seizures and Physical Reactions",
+            "title": "Do not design content in a way that is known to cause seizures or physical reactions.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "navigable",
+            "num": "2.4",
+            "alt_id": [
+                "navigation-mechanisms"
+            ],
+            "content": "<p>Provide ways to help users navigate, find content, and determine where they are.</p>",
+            "handle": "Navigable",
+            "title": "Provide ways to help users navigate, find content, and determine where they are.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "input-modalities",
+            "num": "2.5",
+            "alt_id": [],
+            "content": "<p>Make it easier for users to operate functionality through various inputs beyond keyboard.</p>",
+            "handle": "Input Modalities",
+            "title": "Make it easier for users to operate functionality through various inputs beyond keyboard.",
+            "versions": [
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "readable",
+            "num": "3.1",
+            "alt_id": [
+                "meaning"
+            ],
+            "content": "<p>Make text content readable and understandable.</p>",
+            "handle": "Readable",
+            "title": "Make text content readable and understandable.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "predictable",
+            "num": "3.2",
+            "alt_id": [
+                "consistent-behavior"
+            ],
+            "content": "<p>Make web pages appear and operate in predictable ways.</p>",
+            "handle": "Predictable",
+            "title": "Make web pages appear and operate in predictable ways.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "input-assistance",
+            "num": "3.3",
+            "alt_id": [
+                "minimize-error"
+            ],
+            "content": "<p>Help users avoid and correct mistakes.</p>",
+            "handle": "Input Assistance",
+            "title": "Help users avoid and correct mistakes.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        },
+        {
+            "id": "compatible",
+            "num": "4.1",
+            "alt_id": [
+                "ensure-compat"
+            ],
+            "content": "<p>Maximize compatibility with current and future user agents, including assistive technologies.</p>",
+            "handle": "Compatible",
+            "title": "Maximize compatibility with current and future user agents, including assistive technologies.",
+            "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+            ]
+        }
+    ],
     "successcriteria": [
         {
             "id": "non-text-content",
