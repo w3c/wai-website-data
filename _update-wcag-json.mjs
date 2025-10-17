@@ -9,6 +9,8 @@ const wcag22 = await fetch(wcagUrl).then((response) => {
 });
 
 const data = {
+  principles: [],
+  guidelines: [],
   successcriteria: [],
 };
 
@@ -17,7 +19,11 @@ for (const principle of wcag22.principles) {
     for (const criterion of guideline.successcriteria) {
       data.successcriteria.push(criterion);
     }
+    delete guideline.successcriteria;
+    data.guidelines.push(guideline);
   }
+  delete principle.guidelines;
+  data.principles.push(principle);
 }
 
 try {
