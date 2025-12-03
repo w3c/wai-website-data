@@ -7,6 +7,7 @@
 #  date: <translation_date>
 #  type: <translation_status> (authorized, unofficial, cat, intent-authorized, intent-unofficial)
 #  translator: <lto_name_or_volunteer_name>
+#  comment: <free_text>
 #
 # WCAG 2.2
 - lang: ar
@@ -49,6 +50,14 @@
   type: authorized
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0001.html
   intent_date: 2022-07-25
+- lang: fr
+  standard: wcag
+  standard_version: "2.2"
+  translator: "Access42"
+  type: intent-authorized
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2025AprJun/0020.html
+  intent_date: 2025-06-27
+  comment: "Intent to update the Authorized Translation of WCAG 2.2"
 - lang: it
   standard: wcag
   standard_version: "2.2_2023"
@@ -80,6 +89,12 @@
   type: intent-unofficial
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0006.html
   intent_date: 2024-01-18
+- lang: th
+  standard: wcag
+  standard_version: "2.2"
+  type: intent-authorized
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2025JulSep/0011.html
+  intent_date: 2025-07-18
 # WCAG 2.1
 - lang: ar
   standard: wcag
@@ -149,6 +164,14 @@
   date: 2022-07-11
   type: authorized
   translator: "Access42"
+- lang: fr
+  standard: wcag
+  standard_version: "2.1"
+  intent_url: https://lists.w3.org/Archives/Public/w3c-translators/2025OctDec/0001.html
+  intent_date: 2025-11-05
+  type: intent-authorized
+  translator: "Access42"
+  comment: "Intent to update the Authorized Translation of WCAG 2.1"
 - lang: de
   standard: wcag
   standard_version: "2.1_2018"
