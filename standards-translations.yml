@@ -167,7 +167,7 @@
 - lang: fr
   standard: wcag
   standard_version: "2.1"
-  intent_url: https://lists.w3.org/Archives/Public/w3c-translators/2025OctDec/0001.html
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2025OctDec/0001.html
   intent_date: 2025-11-05
   type: intent-authorized
   translator: "Access42"
