@@ -58,6 +58,13 @@
   intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2025AprJun/0020.html
   intent_date: 2025-06-27
   comment: "Intent to update the Authorized Translation of WCAG 2.2"
+- lang: hu
+  standard: wcag
+  standard_version: "2.2"
+  intent_email: https://lists.w3.org/Archives/Public/w3c-translators/2025OctDec/0005.html
+  intent_date: 2025-12-05
+  type: intent-unofficial
+  translator: "Pallinger Péter"
 - lang: it
   standard: wcag
   standard_version: "2.2_2023"
