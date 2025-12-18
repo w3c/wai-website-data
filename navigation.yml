@@ -1012,7 +1012,7 @@
     url: "/about/"
   - name: "What We're Working On"
     url: "/update/"
-  - name: Participating
+  - name: Participate in WAI
     url: "/about/participating/"
   - name: Groups
     url: "/about/groups/"
@@ -1254,7 +1254,7 @@
     - name: 'WAI Interest Group'
       url: "/about/groups/waiig/"
     - name: 'Past groups'
-      url: "/about/groups/previous-groups/"
+      url: "/about/groups/past-groups/"
       pages:
       - name: 'Education and Outreach'
         url: "/about/groups/eowg/"
@@ -1280,10 +1280,10 @@
           - name: Work Statement
             url: "/about/groups/task-forces/silver/work-statement/"
             hide: true
-  - name: Translating
+  - name: Translate
     url: "/about/translating/"
     pages:
-      - name: Translating a WAI Resource
+      - name: Translate a WAI Resource
         url: "/about/translating/resources/"
         pages:
         - name: Technical Steps
@@ -1337,15 +1337,16 @@
             url: "/about/translating/sitemaps/sitemap-pl/"
           - name: "Spanish"
             url: "/about/translating/sitemaps/sitemap-es/"
-  - name: Support
+  - name: Support WAI
     url: "/about/support/"
-  - name: Contacting
+  - name: Contact WAI
     url: "/about/contacting/"
   - name: Projects
     url: "/about/projects/"
     pages:
     - name: WAI-CooP
       url: "/about/projects/wai-coop/"
+      hide: true
       pages:
       - name: Research Symposium 2021
         url: "/about/projects/wai-coop/symposium1/"
@@ -1355,8 +1356,10 @@
         url: "/about/projects/wai-coop/symposium3/"
     - name: WAI-Guide
       url: "/about/projects/wai-guide/"
+      hide: true
     - name: WAI-Tools
       url: "/about/projects/wai-tools/"
+      hide: true
       pages:
       - name: Final Open Meeting
         url: "/about/projects/wai-tools/final-open-meeting/"
@@ -1383,15 +1386,19 @@
         url: "/about/projects/wai-tools/first-open-meeting/"
     - name: WAI Expanding Access
       url: "/expand-access/"
+      hide: true
     - name: Easy Reading
       url: "/about/projects/easy-reading/"
+      hide: true
     - name: WAI-Core US
       url: "/about/projects/wai-core-us/"
+      hide: true
     - name: WAI-Core Ford
       url: "/about/projects/wai-core-ford/"
+      hide: true
   - name: Accessibility Statement
     url: "/about/accessibility-statement/"
-  - name: Using WAI Material
+  - name: Use WAI Material
     url: "/about/using-wai-material/"
 - name: Resources
   url: "/resources/"
