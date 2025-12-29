@@ -1,22 +1,43 @@
-The files in this repository are companion files for the `wai-website-theme`. They are included in all repositories that use the theme by being included as the git submodule at `/_external/data` and linked to from the folder `/_data`. 
+# WAI website data
 
-The `wai-gems` gem is used to share the gem dependencies between all repos. See the [README](wai-gems/README.md)
+This repository contains data shared across multiple W3C WAI repositories. 
 
-## How to do it
+## How to use the files
 
-From the base directory of your repository, execute the following commands.
+### Incorporate `wai-website-data` to your repository
 
-If you already have a `_data` directory, Gemfile or Gemfile.lock, delete them. Then, in the project workspace root:
-```
+1. From the root directory of your git repository, run:
+
+```bash
 git submodule add https://github.com/w3c/wai-website-data.git _external/data
-mkdir _data
-cd _data
-ln -s ../_external/data/lang.json
-ln -s ../_external/data/navigation.yml
-ln -s ../_external/data/techniques.yml
-ln -s ../_external/data/translations.yml
-ln -s ../_external/data/wcag.yml
 ```
+
+When it finishes, the content of the `wai-website-data` repository will be in the `external/data` directory.
+
+A `.gitsubmodules` file will also be created with the following information.
+
+```
+[submodule "_external/data"]
+path = _external/data
+url = https://github.com/w3c/wai-website-data.git
+```
+
+If the file already exists, it will be updated accordingly.
+
+### Symlink the files you need
+
+To use the files, create symlinks where you need them:
+1. Navigate to the folder where you want the file to appear
+2. Create a symlink pointing to the corresponding file in the `external_data` folder, using the `ln -s` command.
+
+For example:
+
+```
+cd _data
+ln -s ../_external/data/navigation.yml
+```
+
+This makes the shared `navigation.yml` available in the `_data` folder.
 
 ## How to update wcag22.json
 
