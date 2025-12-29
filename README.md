@@ -6,7 +6,7 @@ This repository contains data shared across multiple W3C WAI repositories.
 
 ### Incorporate `wai-website-data` to your repository
 
-1. From the root directory of your git repository, run:
+From the root directory of your git repository, run:
 
 ```bash
 git submodule add https://github.com/w3c/wai-website-data.git _external/data
