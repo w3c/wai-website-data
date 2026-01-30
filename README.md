@@ -1,6 +1,13 @@
 # WAI website data
 
-This repository contains data shared across multiple W3C WAI repositories. 
+> [!IMPORTANT]
+> This repository has been archived 30 January 2026.
+>
+> The WAI website does not use this repository anymore.
+>
+> For more information, see https://github.com/w3c/wai-website/pull/1745, w3c/wai-website-theme#171, w3c/wai-website-theme#173 and w3c/wai-website-plugin#4
+
+This repository contained data shared across multiple W3C WAI repositories. 
 
 ## How to use the files
 
